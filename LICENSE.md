@@ -1,0 +1,1 @@
+This book is licensed under the Creative Commons Non-Commercial Share-alike.
