@@ -99,14 +99,14 @@
         <PAGE PAGEXPOS="712" PAGEYPOS="852" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="18" BORDERTOP="18" BORDERBOTTOM="18" NUM="2" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="100" PAGEYPOS="1684" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="18" BORDERTOP="18" BORDERBOTTOM="18" NUM="3" NAM="" MNAM="Latin left" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="712" PAGEYPOS="1684" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="18" BORDERTOP="18" BORDERBOTTOM="18" NUM="4" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
-        <MASTEROBJECT XPOS="118" YPOS="776" OwnPage="2" ItemID="559280609" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="118" gYpos="1675592" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="118" YPOS="776" OwnPage="2" ItemID="559280609" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="118" gYpos="3110792" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
                 <trail ALIGN="1"/>
             </StoryText>
         </MASTEROBJECT>
-        <MASTEROBJECT XPOS="154" YPOS="776" OwnPage="3" ItemID="513428561" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="1044226" gYpos="1675592" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="154" YPOS="776" OwnPage="3" ItemID="513428561" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="1748026" gYpos="3110792" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
@@ -415,6 +415,306 @@
                 <ITEXT FEATURES="inherit superscript" CH="7"/>
                 <ITEXT FONT="DejaVu Serif Italic" CH="If we didn't have other supplies, except this fountain, I believe it would suffice us for our food and drink."/>
                 <ITEXT CH=" The subjunctive is used because a conditional statement is being made in which the speaker doesn't believe that the condition will likely be met -- Brendan thinks they will have other supplies, but is speaking about what would happen if they didn't"/>
+                <trail PARENT="footnotes"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="766" YPOS="1702" OwnPage="4" ItemID="561835761" PTYPE="4" WIDTH="540" HEIGHT="738" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="2" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 738 L0 738 L0 0 Z" copath="M0 0 L540 0 L540 738 L0 738 L0 0 Z" gXpos="766" gYpos="1702" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="absconditōrum: of things hidden; plural masculine genitive perfect passive participle from abscondit.orum"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="altitūdinis: height, depth; singular feminine genitive from altitūdō, altitūdinis"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="angustiam: small space, narrow passage, being boxed in; singular feminine accusative from angustia, angustiae"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="arbor: tree; singular feminine nominative from arbor, arboris"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="atque: and"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="aut: or"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="autem: but, however, moreover"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="avibus: birds; plural feminine from avis, avis"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="avium: of birds; plural feminine genitive from avis, avis"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="candidissimīs: most bright/white, very bright/white; plural dative from candidus, candida -um, candidior -or -us, candidissimus -a -um"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="causa: cause, reason; singular feminine nominative from causa, causae"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="clēmentiae: mercies; singular feminine genitive from clēmentia, clēmentiae"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="coepit: he started; 3rd person singular present from coepio, coepere, coepi, coeptus"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="cōgitāre: to think;  person present from cōgitō, cōgitāre, cōgitāvī, cōgitātus"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="cōgnitor: advocate, attorney, witness; singular masculine nominative from cōgnitor, cōgnitōris"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="collēctiōne: collection; singular feminine from collēctiō, collēctiōnis"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="cooperta: covered; singular feminine nominative perfect passive participle from cooperiō, cooperīre, cooperuī, coopertus"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="cooperuērunt: they covered; 3rd person plural perfect from cooperiō, cooperīre, cooperuī, coopertus"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="cordis: heart; singular neuter genitive from cor, cordis"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="cum: with"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="deī: god, diety; singular masculine genitive from Deus, Dei"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="dēprecāsset: they (might) have had prayed; 3rd person singular pluperfect subjunctive from dēpreco, dēprecāre, dēprecāvī, dēprecātus"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="dēprecor: I prayed; 1st person singular present passive from dēpreco, dēprecāre, dēprecāvī, dēprecātus"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="deum: god; singular masculine accusative from Deus, Dei"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="deus: god; singular masculine nominative from Deus, Dei"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="dīcēns: saying; singular nominative present participle from dīcō, dīcere, dīxī, dictus"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="dīgnēris: you (might) be deemed worthy; 2nd person singular present passive subjunctive from dīgnō, dīgnāre, dīgnavī, dīgnatus"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="dignitātis: worth, honor, esteem, rank; singular feminine genitive from dignitās, dignitātis"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="effūdisset: he (might) have had poured out; 3rd person singular pluperfect subjunctive from effundō, effundere, effūdī, effūsus"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="eius: his/her/its"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="erat: he was; 3rd person singular imperfect from sum, esse, fuī, futūrus"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="esse: to be"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="esset: he (might) have been; 3rd person singular imperfect subjunctive from sum, esse, fuī, futūrus"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="et: and"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="folia: leaves; plural neuter nominative from folium, foli(i)"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="fontem: fountain; singular masculine accusative from fōns, fontis"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="fuisset: he (might) have had been; 3rd person singular pluperfect subjunctive from sum, esse, fuī, futūrus"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="genibus: knee; plural neuter dative from genu, genūs"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="gīrum: circle, ring, circuit, course; singular masculine accusative from gȳrus, gȳrī"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="haec: this, these; singular feminine nominative or plural neuter nom. or acc. of hic, haec, hoc"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="illam: that; singular feminine accusative from ille, illa, illud"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="illum: that; singular feminine accusative from ille, illa, illud"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="in: into (with accusative), in (with ablative)"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="incōgnitōrum: unknown, untested; plural masculine genitive from incōgnitus, incōgnita, incōgnitum"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="intrā: within, between, during"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="lacrimās: tears; plural feminine accusative from lacrima, lacrimae"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="lātitūdinis: breadth, width, latitude; singular feminine genitive from lātitūdō, lātitūdinis"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="māgnam: large; singular feminine accusative from māgnus, māgna -um, major -or -us, maximus -a -um"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="māiestātem: majesty; singular feminine accusative from majestas, majestatis"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="meī: my;(pronoun)"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="meīs: my; plural dative from meus, mea, meum"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="meritī: merited; singular masculine genitive perfect passive participle from mereō, merēre, meruī, meritus"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="mihī: to me;(pronoun)"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="minimē: barely, no, not"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="mīrae: wonderful, marvelous; singular feminine genitive from mīrus, mīra, mīrum"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="misericordiam: pity, compassion, mercy; singular feminine accusative from misericordia, misericordiae"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="modō: mode, manner, way, measure, size; singular masculine dative from modus, modī"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="multitūdō: multitude, great number; singular feminine nominative from multitūdō, multitūdinis"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="nimis: too much, extremely"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="nōn: not"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="oculīs: eyes; plural masculine from oculus, oculī"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="omnium: of all; plural genitive from omnis, omnis, omne"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="peccātōrī: sinner; singular masculine from peccātor, peccātōris"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="per: through"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="potuisset: he (might) have had been able; 3rd person singular pluperfect subjunctive from possum, posse, potuī, -"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="prae: before, in front, because of"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="praesūmō: to presume, to anticipate; 1st person singular present from praesūmō, praesūmere, praesūmpsī, praesūmptus"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="prōvolūtīs: fallen, rolled; plural dative perfect passive participle from prōvolvō, prōvolvere, prōvolvī, prōvolūtus"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="quae: who; plural female nom. or neuter nom. or acc. of quis"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="quid: who; singular neuter nom. or acc. of quis"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="quod: what; singular neuter nom. or acc. of qui"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="rāmī: branches; singular masculine genitive from rāmus, rāmī"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="revēlāre: to reveal;  person present from revēlō, revēlāre, revēlāvī, revēlātus"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="revēlātor: revealer; 2nd person singular future passive from revēlō, revēlāre, revēlāvī, revēlātus"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="scīs: you know; 2nd person singular present from sciō, scīre, scīvī, scītum"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="se: himself"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="sēcrētum: secret; singular neuter nominative or accusative from sēcrētum, sēcrētī"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="sed: but"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="sibi: to himself; singular dative of se"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="super: above, on top of"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="taedium: weariness, tedium; singular neuter nominative from taedium, taedi(i)"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="tanta: so much, so great, this many; singular feminine nominative from tantus, tanta, tantum"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="tantum: so much, so great, this many; singular neuter nominative from tantus, tanta, tantum"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="tractāre: to haul, to drag, to handle, to discuss;  person present from tracto, tractare, tractavi, tractatus"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="tu: you;(pronoun)"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="tuae: your; singular feminine genitive from tuus, tua, tuum"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="tuam: your; singular feminine accusative from tuus, tua, tuum"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="tuum: your; singular neuter nominative from tuus, tua, tuum"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="ūna: one; singular feminine nominative from ūnus -a -um, prīmus -a -um, singulī -ae -a, semel"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="ut: so that"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="videō: I see; 1st person singular present from videō, vidēre, vīdī, vīsus"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="vidērentur: he (may) have appeared; 3rd person plural imperfect passive subjunctive from videō, vidēre, vīdī, vīsus"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="vīdisset: he (might) have had seen; 3rd person singular pluperfect subjunctive from videō, vidēre, vīdī, vīsus"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="vir: man; singular masculine nominative from vir, virī"/>
+                <trail PARENT="Vocab"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="118" YPOS="1720.66242038217" OwnPage="3" ItemID="495333313" PTYPE="4" WIDTH="540" HEIGHT="352.203821656051" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 352.204 L0 352.204 L0 0 Z" copath="M0 0 L540 0 L540 352.204 L0 352.204 L0 0 Z" gXpos="118" gYpos="1720.66242038217" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <para PARENT="Latin"/>
+                <ITEXT CH="[8]     Erat autem super illum fontem arbor mīrae lātitūdinis"/>
+                <ITEXT FEATURES="inherit superscript" CH="1"/>
+                <ITEXT CH=" in gīrum, nōn nimis altitūdinis, cooperta"/>
+                <ITEXT FEATURES="inherit superscript" CH="2"/>
+                <ITEXT CH=" avibus candidissimīs. In tantum"/>
+                <ITEXT FEATURES="inherit superscript" CH="3"/>
+                <ITEXT CH=" cooperuērunt illam ut folia et rāmī eius minimē vidērentur"/>
+                <ITEXT FEATURES="inherit superscript" CH="4"/>
+                <ITEXT CH=". [9] Cum haec vīdisset"/>
+                <ITEXT FEATURES="inherit superscript" CH="5"/>
+                <ITEXT CH=" vir Deī, coepit intrā sē cōgitāre et tractāre quidnam esset"/>
+                <ITEXT FEATURES="inherit superscript" CH="6"/>
+                <ITEXT CH=", aut quae causa fuisset"/>
+                <ITEXT FEATURES="inherit superscript" CH="7"/>
+                <ITEXT CH=", ut tanta multitūdō avium potuisset"/>
+                <ITEXT FEATURES="inherit superscript" CH="8"/>
+                <ITEXT CH=" esse in ūnā collēctiōne."/>
+                <para PARENT="Latin"/>
+                <ITEXT CH="[10]    In tantum"/>
+                <ITEXT FEATURES="inherit superscript" CH="9"/>
+                <ITEXT CH=" sibi erat taedium ut effūdisset"/>
+                <ITEXT FEATURES="inherit superscript" CH="10"/>
+                <ITEXT CH=" lacrimās, prōvolūtīs genibus"/>
+                <ITEXT FEATURES="inherit superscript" CH="11"/>
+                <ITEXT CH=", atque dēprecāsset Deum"/>
+                <ITEXT FEATURES="inherit superscript" CH="12"/>
+                <ITEXT CH=", dīcēns: [11] “Deus, cognitor incognitōrum et revēlātor absconditōrum omnium, tū scīs angustiam cordis meī"/>
+                <ITEXT FEATURES="inherit superscript" CH="13"/>
+                <ITEXT CH=": [12] dēprecor"/>
+                <ITEXT FEATURES="inherit superscript" CH="14"/>
+                <ITEXT CH=" tuam maiestātem, ut mihi peccātōrī dignēris per tuam magnam misericordiam revēlāre tuum sēcrētum, quod modo videō prae oculīs meīs. Nōn dignitātis aut meritī praesūmō, sed clēmentiae tuae.”"/>
+                <trail PARENT="Latin"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="118" YPOS="870" OwnPage="1" ItemID="535954641" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" gXpos="118" gYpos="870" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="Caput XI Paradisus Avium (Orīginālis)"/>
+                <trail ALIGN="1"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="118" YPOS="1702" OwnPage="3" ItemID="553438337" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" gXpos="118" gYpos="870" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="Caput XI Paradisus Avium (Orīginālis)"/>
+                <trail ALIGN="1"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="154" YPOS="1327.1847133758" OwnPage="1" ItemID="549509153" PTYPE="5" WIDTH="450" HEIGHT="1" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR2="Black" PLINEART="1" path="" gXpos="154" gYpos="1327.1847133758" gWidth="0" gHeight="0" LAYER="0"/>
+        <PAGEOBJECT XPOS="155" YPOS="2080.1847133758" OwnPage="3" ItemID="515061921" PTYPE="5" WIDTH="450" HEIGHT="1" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR2="Black" PLINEART="1" path="" gXpos="155" gYpos="1248.1847133758" gWidth="0" gHeight="0" LAYER="0"/>
+        <PAGEOBJECT XPOS="118" YPOS="2089.36305732484" OwnPage="3" ItemID="549640929" PTYPE="4" WIDTH="540" HEIGHT="380.636942675159" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 380.637 L0 380.637 L0 0 Z" copath="M0 0 L540 0 L540 380.637 L0 380.637 L0 0 Z" gXpos="118" gYpos="2089.36305732484" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FEATURES="inherit superscript" CH="1"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="of marvelous width,"/>
+                <ITEXT CH=" a genitive of description."/>
+                <para PARENT="footnotes"/>
+                <ITEXT FEATURES="inherit superscript" CH="2"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="covered by (very) white birds"/>
+                <para PARENT="footnotes"/>
+                <ITEXT FEATURES="inherit superscript" CH="3"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="They so covered it."/>
+                <para PARENT="footnotes"/>
+                <ITEXT FEATURES="inherit superscript" CH="4"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="So that its leaves and branches could barely be seen"/>
+                <ITEXT CH=". The subjunctive is used because this is a result clause. The imperfect tense doesn't matter much for translation."/>
+                <para PARENT="footnotes"/>
+                <ITEXT FEATURES="inherit superscript" CH="5"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="The man of God having seen these things"/>
+                <ITEXT CH=". The subjunctive is used because this is a cum circumstantial clause. Haec is neuter accusative in this instance."/>
+                <para PARENT="footnotes"/>
+                <ITEXT FEATURES="inherit superscript" CH="6,7"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="He began to think to himself and determine what is was, or of what cause it was, that such a multitude of birds could be in one collection"/>
+                <ITEXT CH=". The subjunctive is used because Brendan is musing what it "/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="might be"/>
+                <ITEXT CH="."/>
+                <para PARENT="footnotes"/>
+                <ITEXT FEATURES="inherit superscript" CH="8"/>
+                <ITEXT CH="The subjunctive is used her because this is a result clause."/>
+                <para PARENT="footnotes"/>
+                <ITEXT FEATURES="inherit superscript" CH="9"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="It was so tedious to him that he had cried tears."/>
+                <para PARENT="footnotes"/>
+                <ITEXT FEATURES="inherit superscript" CH="10"/>
+                <ITEXT CH="The subjunctive is used her because this is a result clause."/>
+                <para PARENT="footnotes"/>
+                <ITEXT FEATURES="inherit superscript" CH="11"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="Falling on his knees"/>
+                <ITEXT CH=". This is an ablative absolute"/>
+                <para PARENT="footnotes"/>
+                <ITEXT FEATURES="inherit superscript" CH="12"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="And praying to God"/>
+                <ITEXT CH=". The subjunctive is used because this is a circumstantial clause (even though cum is omitted). When translating tthis, it's most idiomatic to translation the accusative (Deum) as dative (to God)."/>
+                <para PARENT="footnotes"/>
+                <ITEXT FEATURES="inherit superscript" CH="13"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="God, knower of the unknown and revealer of all things hidden, you know the burden/boxed-in-ness of my heart."/>
+                <para PARENT="footnotes"/>
+                <ITEXT FEATURES="inherit superscript" CH="14"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="I entreat your majesty"/>
+                <ITEXT CH=". Dēprecor has an active meaning because it is a deponent verb."/>
                 <trail PARENT="footnotes"/>
             </StoryText>
         </PAGEOBJECT>
