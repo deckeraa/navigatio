@@ -109,14 +109,14 @@
         <PAGE PAGEXPOS="712" PAGEYPOS="5012" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="18" BORDERTOP="18" BORDERBOTTOM="18" NUM="12" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="100" PAGEYPOS="5844" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="18" BORDERTOP="18" BORDERBOTTOM="18" NUM="13" NAM="" MNAM="Latin left" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="712" PAGEYPOS="5844" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="18" BORDERTOP="18" BORDERBOTTOM="18" NUM="14" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
-        <MASTEROBJECT XPOS="118" YPOS="776" OwnPage="2" ItemID="1213028123" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="118" gYpos="60368200" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="118" YPOS="776" OwnPage="2" ItemID="1213028123" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="118" gYpos="77583944" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
                 <trail ALIGN="1"/>
             </StoryText>
         </MASTEROBJECT>
-        <MASTEROBJECT XPOS="154" YPOS="776" OwnPage="3" ItemID="1242040603" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="15624514" gYpos="60368200" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="154" YPOS="776" OwnPage="3" ItemID="1242040603" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="18790390" gYpos="77583944" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
@@ -364,7 +364,7 @@
         <PAGEOBJECT XPOS="118" YPOS="888.764331210191" OwnPage="1" ItemID="1212303627" PTYPE="4" WIDTH="540" HEIGHT="441.171974522293" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 441.172 L0 441.172 L0 0 Z" copath="M0 0 L540 0 L540 441.172 L0 441.172 L0 0 Z" gXpos="118" gYpos="888.764331210191" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
-                <ITEXT CH="Paradisus āvium"/>
+                <ITEXT CH="Paradisus Avium"/>
                 <para PARENT="Chapter Heading"/>
                 <para/>
                 <ITEXT CH="[1]     Cum autem nāvigāssent"/>
@@ -1276,23 +1276,23 @@
                 <ITEXT FEATURES="inherit superscript" CH="1"/>
                 <ITEXT FONT="DejaVu Serif Italic" CH="We wander through diverse parts of the air and firmament and earth, like other spirits which are sent"/>
                 <ITEXT CH=". Vagāmur is deponent, so it has an active meaning even though it has passive endings. The firmament is the seperator between the heavenly waters (clouds) and earthly waters (sea) in ancient cosmology. The relative phrase quī mittuntur has a plural quī to match aliī spīritūs."/>
-                <para/>
+                <para PARENT="footnotes"/>
                 <ITEXT FEATURES="inherit superscript" CH="2"/>
                 <ITEXT FONT="DejaVu Serif Italic" CH="Having said these things"/>
                 <ITEXT CH=". Here haec is the plural neuter accusative. The subjunctive is used because its a cum circumstantial clause."/>
-                <para/>
+                <para PARENT="footnotes"/>
                 <ITEXT FEATURES="inherit superscript" CH="3"/>
                 <ITEXT FONT="DejaVu Serif Italic" CH="With the evening hour having approached"/>
                 <ITEXT CH=". The subjunctive is used because its a cum circumstantial clause."/>
-                <para/>
+                <para PARENT="footnotes"/>
                 <ITEXT FEATURES="inherit superscript" CH="4"/>
                 <ITEXT FONT="DejaVu Serif Italic" CH="You are deserving of hymns, God, in Zion, and a vow will be paid to you in Jerusalem."/>
                 <ITEXT CH=" This is Psalm 64:2 in the Vulgate."/>
-                <para/>
+                <para PARENT="footnotes"/>
                 <ITEXT FEATURES="inherit superscript" CH="5"/>
                 <ITEXT FONT="DejaVu Serif Italic" CH="The melody and the sound of the wings appeared to the man of God and to those who were with him like a song of lamentation, because of its sweetness"/>
                 <ITEXT CH=". The author may have included this detail to reinforce the point that birds have been exiled out of the fellowship of the spirits that stood in heaven; the verse they sing includes geographical references, but they are in exile. It's also interesting to note that the sound of the wings is mentioned. Recall that earlier the sound was described &quot;like a bell&quot; so it appears that their wings function musically."/>
-                <trail/>
+                <trail PARENT="footnotes"/>
             </StoryText>
         </PAGEOBJECT>
         <PAGEOBJECT XPOS="766" YPOS="4198" OwnPage="10" ItemID="1329357547" PTYPE="4" WIDTH="540" HEIGHT="735.605095541402" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="2" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 735.605 L0 735.605 L0 0 Z" copath="M0 0 L540 0 L540 735.605 L0 735.605 L0 0 Z" gXpos="766" gYpos="4198" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
@@ -1530,24 +1530,24 @@
                 <ITEXT FEATURES="inherit superscript" CH="1"/>
                 <ITEXT FONT="DejaVu Serif Italic" CH="Because today our souls have been satisfied by the divine refreshment"/>
                 <ITEXT CH=". satiātae sunt is a construction of a past passive participle + sunt, which means &quot;has been satisifed&quot;."/>
-                <para/>
+                <para PARENT="footnotes"/>
                 <ITEXT FEATURES="inherit superscript" CH="2"/>
                 <ITEXT FONT="DejaVu Serif Italic" CH="Now having finished dinner, they began to carry out the work of God"/>
                 <ITEXT CH=". Fīnītā iam cēnā is an ablative absolute."/>
-                <para/>
+                <para PARENT="footnotes"/>
                 <ITEXT FEATURES="inherit superscript" CH="3"/>
                 <ITEXT FONT="DejaVu Serif Italic" CH="Having finished everything, the man of God and those who were with him gave their bodies to rest until the third watch of the night"/>
                 <ITEXT CH=". Hīs omnibus fīnīttīs is an ablative absolute."/>
-                <para/>
+                <para PARENT="footnotes"/>
                 <ITEXT FEATURES="inherit superscript" CH="4"/>
                 <ITEXT CH="Psalm 50:17"/>
-                <para/>
+                <para PARENT="footnotes"/>
                 <ITEXT FEATURES="inherit superscript" CH="5"/>
                 <ITEXT CH="Psalm 148:10. In this context, virtūtēs appears to refer to a particular class of angelic beings."/>
-                <para/>
+                <para PARENT="footnotes"/>
                 <ITEXT FEATURES="inherit superscript" CH="6"/>
                 <ITEXT CH="Psalm 89:17"/>
-                <trail/>
+                <trail PARENT="footnotes"/>
             </StoryText>
         </PAGEOBJECT>
         <PAGEOBJECT XPOS="766" YPOS="5030" OwnPage="12" ItemID="1334685531" PTYPE="4" WIDTH="540" HEIGHT="736.420382165606" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="2" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 736.42 L0 736.42 L0 0 Z" copath="M0 0 L540 0 L540 736.42 L0 736.42 L0 0 Z" gXpos="766" gYpos="5030" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
@@ -1791,30 +1791,30 @@
                 <ITEXT FEATURES="inherit superscript" CH="1"/>
                 <ITEXT FONT="DejaVu Serif Italic" CH="Sing to our God, sing, sing to our king, sing wisely"/>
                 <ITEXT CH=".  Psalm 46:7 in the Vulgate."/>
-                <para/>
+                <para PARENT="footnotes"/>
                 <ITEXT FEATURES="inherit superscript" CH="2"/>
                 <ITEXT FONT="DejaVu Serif Italic" CH="Shine, Lord, your face upon us, and have mercy on us."/>
                 <ITEXT CH="  Psalm 66:2 in the Vulgate."/>
-                <para/>
+                <para PARENT="footnotes"/>
                 <ITEXT FEATURES="inherit superscript" CH="3"/>
                 <ITEXT FONT="DejaVu Serif Italic" CH="Behold how good and how pleasant it is for brothers to dwell in unity."/>
                 <ITEXT CH=" Psalm 133:1 in the Vulgate."/>
-                <para/>
+                <para PARENT="footnotes"/>
                 <ITEXT FEATURES="inherit superscript" CH="4"/>
                 <ITEXT FONT="DejaVu Serif Italic" CH="Therefore Saint Brendan was refreshing his brothers by means of the Paschal festivities until the eighth day."/>
-                <para/>
+                <para PARENT="footnotes"/>
                 <ITEXT FEATURES="inherit superscript" CH="5"/>
                 <ITEXT FONT="DejaVu Serif Italic" CH="Having spent therefore the festal days"/>
                 <ITEXT CH="."/>
-                <para/>
+                <para PARENT="footnotes"/>
                 <ITEXT FEATURES="inherit superscript" CH="6"/>
                 <ITEXT FONT="DejaVu Serif Italic" CH="Let us take a stipend from this fountain, because until now it has not been of use to us, except to wash hands and feet"/>
                 <ITEXT CH=". Accipiāmus is the hortatory subjunctive (&quot;let us take&quot;). We have to treat nōn fuit nōbīs opus as an idiom and pick something in English that makes sense."/>
-                <para/>
+                <para PARENT="footnotes"/>
                 <ITEXT FEATURES="inherit superscript" CH="7"/>
                 <ITEXT FONT="DejaVu Serif Italic" CH="And having loaded everything into the boat before the holy father, the same man spoke to them saying"/>
                 <ITEXT CH=". Note that we pick a meaning for dē that makes sense in the context: they are loading up the boat."/>
-                <trail/>
+                <trail PARENT="footnotes"/>
             </StoryText>
         </PAGEOBJECT>
         <PAGEOBJECT XPOS="766" YPOS="5862" OwnPage="14" ItemID="1238744443" PTYPE="4" WIDTH="540" HEIGHT="736.31847133758" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="2" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 736.318 L0 736.318 L0 0 Z" copath="M0 0 L540 0 L540 736.318 L0 736.318 L0 0 Z" gXpos="766" gYpos="5862" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
@@ -2061,17 +2061,47 @@
             <StoryText>
                 <DefaultStyle/>
                 <para/>
-                <ITEXT CH="[41]     “Virī frātrēs, hīc habētis sufficienter usque ad diem sānctum Pentēcostēn; et nōlīte bibere dē hōc fonte: fortis namque est ad bibendum. [42] Dīcam vōbīs nātūram illīus: quisquis bibet ex eō, statim irruet super eum sopor, et nōn ēvigilat usque dum complentur vīgintī quattuor hōrae. [43] Dum mānet forās dē fonte, habet sapōrem aquae et nātūram.” Acceptā benedictiōne sānctī patris, reversus est in locum suum. [44] Sānctus Brendānus mānsit in eōdem locō usque in octāvās Pentēcostēn. Illōrum erat refocilātiō avium cantus."/>
+                <ITEXT CH="[41]     “Virī frātrēs, hīc habētis sufficienter usque ad diem sānctum Pentēcostēn; et nōlīte bibere dē hōc fonte: fortis namque est ad bibendum1. [42] Dīcam vōbīs nātūram illīus: quisquis bibet ex eō, statim irruet super eum sopor, et nōn ēvigilat usque dum complentur vīgintī quattuor hōrae. [43] Dum mānet forās dē fonte, habet sapōrem aquae et nātūram.” Acceptā benedictiōne sānctī patris, reversus est in locum suum. [44] Sānctus Brendānus mānsit in eōdem locō usque in octāvās Pentēcostēn. Illōrum erat refocilātiō avium cantus"/>
+                <ITEXT FEATURES="inherit superscript" CH="2"/>
+                <ITEXT CH="."/>
                 <para PARENT="Latin"/>
-                <ITEXT CH="[45]     Dīē vērō sānctō Pentēcostēn, cum sānctus vir cum suīs famulīs missam cantāsset, venit illōrum prōcūrātor, portāns omnia quae ad opus diēī fēstī necessāria erant. [46] Cum autem simul discubuissent ad prandium, locūtus est illīs īdem vir, dīcēns: “Restat vōbīs magnum iter. [47] Accipite dē istō fonte vestra vāscula plēna et pānēs siccōs, quōs potestis observāre in alium annum. Ego vōbīs tribuam quantum vestra nāvis potest portāre.” [48] Cum autem haec perfīnīta essent, acceptā benedictiōne, reversus est in locum suum."/>
+                <ITEXT CH="[45]     Dīē vērō sānctō Pentēcostēn, cum sānctus vir cum suīs famulīs missam cantāsset"/>
+                <ITEXT FEATURES="inherit superscript" CH="3"/>
+                <ITEXT CH=", venit illōrum prōcūrātor, portāns omnia quae ad opus diēī fēstī necessāria erant. [46] Cum autem simul discubuissent ad prandium"/>
+                <ITEXT FEATURES="inherit superscript" CH="4"/>
+                <ITEXT CH=", locūtus est illīs īdem vir, dīcēns: “Restat vōbīs magnum iter. [47] Accipite dē istō fonte vestra vāscula plēna et pānēs siccōs, quōs potestis observāre in alium annum. Ego vōbīs tribuam quantum vestra nāvis potest portāre.” [48] Cum autem haec perfīnīta essent"/>
+                <ITEXT FEATURES="inherit superscript" CH="5"/>
+                <ITEXT CH=", acceptā benedictiōne, reversus est in locum suum."/>
                 <para PARENT="Latin"/>
             </StoryText>
         </PAGEOBJECT>
         <PAGEOBJECT XPOS="151" YPOS="6322.78471337576" OwnPage="13" ItemID="1240435979" PTYPE="5" WIDTH="450" HEIGHT="1" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR2="Black" PLINEART="1" path="" gXpos="151" gYpos="2994.78471337578" gWidth="0" gHeight="0" LAYER="0"/>
-        <PAGEOBJECT XPOS="118" YPOS="6339" OwnPage="13" ItemID="1377969323" PTYPE="4" WIDTH="540" HEIGHT="260.235668789809" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 260.236 L0 260.236 L0 0 Z" copath="M0 0 L540 0 L540 260.236 L0 260.236 L0 0 Z" gXpos="118" gYpos="6339" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="118" YPOS="6335" OwnPage="13" ItemID="1377969323" PTYPE="4" WIDTH="540" HEIGHT="260.235668789809" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 260.236 L0 260.236 L0 0 Z" copath="M0 0 L540 0 L540 260.236 L0 260.236 L0 0 Z" gXpos="118" gYpos="6335" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
-                <trail/>
+                <ITEXT FEATURES="inherit superscript" CH="1"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="Brother-men, you have here sufficient (supplies) until the day of Holy Pentecost. And do not wish to drink from this fountian, for the water is strong to drink."/>
+                <ITEXT CH=" bibendum is a gerund in the accusative."/>
+                <para PARENT="footnotes"/>
+                <ITEXT FEATURES="inherit superscript" CH="2"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="I will tell you of its nature: whoever will drink out of it, suddenly a deep sleep will rush upon him, and he will not wake until 24 hours is completed. While it remains outside of the fountain, it has the flavor and nature of water. Accepting a blessing from the holy father, he returned to his place. Saint Brendan remained in the same place until the Octave of Pentecost. The song of the birds was his refreshment."/>
+                <para PARENT="footnotes"/>
+                <ITEXT FEATURES="inherit superscript" CH="3"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="(Truly) on the day of Holy Pentecost, when the holy man had sung a mass with his associates"/>
+                <ITEXT CH=". cantāsset is in the subjunctive because this is a cum circumstantial clause. The first part of the sentence is an ablative absolute."/>
+                <para PARENT="footnotes"/>
+                <ITEXT FEATURES="inherit superscript" CH="4"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="Therefore when they had sat down for breakfast at the same time"/>
+                <ITEXT CH=". The subjunctive is used because of the cum circumstantial clause."/>
+                <para PARENT="footnotes"/>
+                <ITEXT FEATURES="inherit superscript" CH="5"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="These things having been finished."/>
+                <ITEXT CH=" Haec is pluarl neuter nominative. perfīnitā + essent is a past passive participle + conjugation of esse construction. The usage of the subjunctive here is stylistic."/>
+                <para PARENT="footnotes"/>
+                <ITEXT FEATURES="inherit superscript" CH="6"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="He returned ino his place"/>
+                <ITEXT CH=". revertor is deponent, so reversus + est is a past passive participle + conjugation of esse construction, yet it has an active meaning."/>
+                <trail PARENT="footnotes"/>
             </StoryText>
         </PAGEOBJECT>
     </DOCUMENT>
