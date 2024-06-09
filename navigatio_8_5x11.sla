@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SCRIBUSUTF8NEW Version="1.5.8">
-    <DOCUMENT ANZPAGES="23" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="18" BORDERTOP="18" BORDERBOTTOM="18" PRESET="0" BleedTop="0" BleedLeft="0" BleedRight="0" BleedBottom="0" ORIENTATION="0" PAGESIZE="Letter" FIRSTNUM="1" BOOK="1" AUTOSPALTEN="1" ABSTSPALTEN="11" UNITS="2" DFONT="DejaVu Sans Book" DSIZE="12" DCOL="1" DGAP="0" TabFill="" TabWidth="36" TextDistLeft="0" TextDistRight="0" TextDistBottom="0" TextDistTop="0" FirstLineOffset="1" AUTHOR="" COMMENTS="" KEYWORDS="" PUBLISHER="" DOCDATE="" DOCTYPE="" DOCFORMAT="" DOCIDENT="" DOCSOURCE="" DOCLANGINFO="" DOCRELATION="" DOCCOVER="" DOCRIGHTS="" DOCCONTRIB="" TITLE="" SUBJECT="" VHOCH="33" VHOCHSC="66" VTIEF="33" VTIEFSC="66" VKAPIT="75" BASEGRID="14.4" BASEO="0" AUTOL="100" UnderlinePos="-1" UnderlineWidth="-1" StrikeThruPos="-1" StrikeThruWidth="-1" GROUPC="1" HCMS="0" DPSo="0" DPSFo="0" DPuse="0" DPgam="0" DPbla="1" DPPr="ISO Coated v2 300% (basICColor)" DPIn="sRGB display profile (ICC v2.2)" DPInCMYK="ISO Coated v2 300% (basICColor)" DPIn2="sRGB display profile (ICC v2.2)" DPIn3="ISO Coated v2 300% (basICColor)" DISc="1" DIIm="0" ALAYER="0" LANGUAGE="en_US" AUTOMATIC="1" AUTOCHECK="0" GUIDELOCK="0" SnapToGuides="1" SnapToGrid="0" SnapToElement="0" MINGRID="20" MAJGRID="100" SHOWGRID="0" SHOWGUIDES="1" showcolborders="1" SHOWFRAME="1" SHOWControl="0" SHOWLAYERM="0" SHOWMARGIN="1" SHOWBASE="0" SHOWPICT="1" SHOWLINK="0" rulerMode="1" showrulers="1" showBleed="1" rulerXoffset="0" rulerYoffset="0" GuideRad="10" GRAB="4" POLYC="4" POLYF="0.5" POLYR="0" POLYIR="0" POLYCUR="0" POLYOCUR="0" POLYS="0" arcStartAngle="30" arcSweepAngle="300" spiralStartAngle="0" spiralEndAngle="1080" spiralFactor="1.2" AutoSave="1" AutoSaveTime="600000" AutoSaveCount="1" AutoSaveKeep="0" AUtoSaveInDocDir="1" AutoSaveDir="" ScratchBottom="20" ScratchLeft="100" ScratchRight="100" ScratchTop="20" GapHorizontal="0" GapVertical="40" StartArrow="0" EndArrow="0" PEN="Black" BRUSH="None" PENLINE="Black" PENTEXT="Black" StrokeText="Black" TextBackGround="None" TextLineColor="None" TextBackGroundShade="100" TextLineShade="100" TextPenShade="100" TextStrokeShade="100" STIL="1" STILLINE="1" WIDTH="1" WIDTHLINE="1" PENSHADE="100" LINESHADE="100" BRUSHSHADE="100" CPICT="None" PICTSHADE="100" CSPICT="None" PICTSSHADE="100" PICTSCX="1" PICTSCY="1" PSCALE="1" PASPECT="1" EmbeddedPath="0" HalfRes="1" dispX="10" dispY="10" constrain="15" MINORC="#00ff00" MAJORC="#00ff00" GuideC="#000080" BaseC="#c0c0c0" renderStack="2 0 4 1 3" GridType="0" PAGEC="#ffffff" MARGC="#0000ff" RANDF="0" currentProfile="PDF 1.4" calligraphicPenFillColor="Black" calligraphicPenLineColor="Black" calligraphicPenFillColorShade="100" calligraphicPenLineColorShade="100" calligraphicPenLineWidth="1" calligraphicPenAngle="0" calligraphicPenWidth="10" calligraphicPenStyle="1">
+    <DOCUMENT ANZPAGES="25" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="18" BORDERTOP="18" BORDERBOTTOM="18" PRESET="0" BleedTop="0" BleedLeft="0" BleedRight="0" BleedBottom="0" ORIENTATION="0" PAGESIZE="Letter" FIRSTNUM="1" BOOK="1" AUTOSPALTEN="1" ABSTSPALTEN="11" UNITS="2" DFONT="DejaVu Sans Book" DSIZE="12" DCOL="1" DGAP="0" TabFill="" TabWidth="36" TextDistLeft="0" TextDistRight="0" TextDistBottom="0" TextDistTop="0" FirstLineOffset="1" AUTHOR="" COMMENTS="" KEYWORDS="" PUBLISHER="" DOCDATE="" DOCTYPE="" DOCFORMAT="" DOCIDENT="" DOCSOURCE="" DOCLANGINFO="" DOCRELATION="" DOCCOVER="" DOCRIGHTS="" DOCCONTRIB="" TITLE="" SUBJECT="" VHOCH="33" VHOCHSC="66" VTIEF="33" VTIEFSC="66" VKAPIT="75" BASEGRID="14.4" BASEO="0" AUTOL="100" UnderlinePos="-1" UnderlineWidth="-1" StrikeThruPos="-1" StrikeThruWidth="-1" GROUPC="1" HCMS="0" DPSo="0" DPSFo="0" DPuse="0" DPgam="0" DPbla="1" DPPr="ISO Coated v2 300% (basICColor)" DPIn="sRGB display profile (ICC v2.2)" DPInCMYK="ISO Coated v2 300% (basICColor)" DPIn2="sRGB display profile (ICC v2.2)" DPIn3="ISO Coated v2 300% (basICColor)" DISc="1" DIIm="0" ALAYER="0" LANGUAGE="en_US" AUTOMATIC="1" AUTOCHECK="0" GUIDELOCK="0" SnapToGuides="1" SnapToGrid="0" SnapToElement="0" MINGRID="20" MAJGRID="100" SHOWGRID="0" SHOWGUIDES="1" showcolborders="1" SHOWFRAME="1" SHOWControl="0" SHOWLAYERM="0" SHOWMARGIN="1" SHOWBASE="0" SHOWPICT="1" SHOWLINK="0" rulerMode="1" showrulers="1" showBleed="1" rulerXoffset="0" rulerYoffset="0" GuideRad="10" GRAB="4" POLYC="4" POLYF="0.5" POLYR="0" POLYIR="0" POLYCUR="0" POLYOCUR="0" POLYS="0" arcStartAngle="30" arcSweepAngle="300" spiralStartAngle="0" spiralEndAngle="1080" spiralFactor="1.2" AutoSave="1" AutoSaveTime="600000" AutoSaveCount="1" AutoSaveKeep="0" AUtoSaveInDocDir="1" AutoSaveDir="" ScratchBottom="20" ScratchLeft="100" ScratchRight="100" ScratchTop="20" GapHorizontal="0" GapVertical="40" StartArrow="0" EndArrow="0" PEN="Black" BRUSH="None" PENLINE="Black" PENTEXT="Black" StrokeText="Black" TextBackGround="None" TextLineColor="None" TextBackGroundShade="100" TextLineShade="100" TextPenShade="100" TextStrokeShade="100" STIL="1" STILLINE="1" WIDTH="1" WIDTHLINE="1" PENSHADE="100" LINESHADE="100" BRUSHSHADE="100" CPICT="None" PICTSHADE="100" CSPICT="None" PICTSSHADE="100" PICTSCX="1" PICTSCY="1" PSCALE="1" PASPECT="1" EmbeddedPath="0" HalfRes="1" dispX="10" dispY="10" constrain="15" MINORC="#00ff00" MAJORC="#00ff00" GuideC="#000080" BaseC="#c0c0c0" renderStack="2 0 4 1 3" GridType="0" PAGEC="#ffffff" MARGC="#0000ff" RANDF="0" currentProfile="PDF 1.4" calligraphicPenFillColor="Black" calligraphicPenLineColor="Black" calligraphicPenFillColorShade="100" calligraphicPenLineColorShade="100" calligraphicPenLineWidth="1" calligraphicPenAngle="0" calligraphicPenWidth="10" calligraphicPenStyle="1">
         <CheckProfile Name="PDF 1.3" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="1" checkFontIsOpenType="1" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
         <CheckProfile Name="PDF 1.4" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="1" checkFontIsOpenType="1" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
         <CheckProfile Name="PDF 1.5" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="1" checkFontIsOpenType="1" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
@@ -88,7 +88,7 @@
             </Set>
         </PageSets>
         <Sections>
-            <Section Number="0" Name="0" From="0" To="22" Type="Type_1_2_3" Start="1" Reversed="0" Active="1" FillChar="0" FieldWidth="0"/>
+            <Section Number="0" Name="0" From="0" To="24" Type="Type_1_2_3" Start="1" Reversed="0" Active="1" FillChar="0" FieldWidth="0"/>
         </Sections>
         <MASTERPAGE PAGEXPOS="100" PAGEYPOS="20" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="18" BORDERTOP="18" BORDERBOTTOM="18" NUM="0" NAM="Normal Left" MNAM="" Size="Letter" Orientation="0" LEFT="1" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <MASTERPAGE PAGEXPOS="100" PAGEYPOS="20" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="18" BORDERTOP="18" BORDERBOTTOM="18" NUM="1" NAM="Normal Right" MNAM="" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
@@ -117,14 +117,16 @@
         <PAGE PAGEXPOS="712" PAGEYPOS="8340" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="18" BORDERTOP="18" BORDERBOTTOM="18" NUM="20" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="100" PAGEYPOS="9172" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="18" BORDERTOP="18" BORDERBOTTOM="18" NUM="21" NAM="" MNAM="Latin left" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="712" PAGEYPOS="9172" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="18" BORDERTOP="18" BORDERBOTTOM="18" NUM="22" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
-        <MASTEROBJECT XPOS="118" YPOS="776" OwnPage="2" ItemID="1213028123" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="118" gYpos="249703112" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGE PAGEXPOS="100" PAGEYPOS="10004" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="18" BORDERTOP="18" BORDERBOTTOM="18" NUM="23" NAM="" MNAM="Latin left" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="712" PAGEYPOS="10004" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="18" BORDERTOP="18" BORDERBOTTOM="18" NUM="24" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <MASTEROBJECT XPOS="118" YPOS="776" OwnPage="2" ItemID="1213028123" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="118" gYpos="267319880" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
                 <trail ALIGN="1"/>
             </StoryText>
         </MASTEROBJECT>
-        <MASTEROBJECT XPOS="154" YPOS="776" OwnPage="3" ItemID="1242040603" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="42652882" gYpos="249703112" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="154" YPOS="776" OwnPage="3" ItemID="1242040603" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="44651674" gYpos="267319880" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
@@ -3314,6 +3316,236 @@
                 <ITEXT FONT="DejaVu Serif Italic" CH="Having hit the bell, and washing the hands, he made everyone to sit down."/>
                 <ITEXT CH=" The signum that is hit is presumably a bell."/>
                 <trail PARENT="footnotes"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="766" YPOS="10022" OwnPage="24" ItemID="1394987435" PTYPE="4" WIDTH="540" HEIGHT="736.726114649682" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="2" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 736.726 L0 736.726 L0 0 Z" copath="M0 0 L540 0 L540 736.726 L0 736.726 L0 0 Z" gXpos="766" gYpos="10022" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="ā: from, out of, by, since"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="abbās: abbot; singular masculine nominative from abbās, abbātis"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="ad: to, towards, at, according to"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="addit: he adds; 3rd person singular present from addō, addere, addidī, additus"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="adventū: arrival, approach; singular neuter ablative from advenio, advenire, adveni, adventus"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="Ailbēī: The name of a group of monks living on an island."/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="aliō: other; singular masculine ablative from alius, alia, aliud"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="aliquam: anyone"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="annonam: yearly income; singular feminine accusative from annōna, annōnae"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="annōs: years; plural masculine accusative from annus, annī"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="aut: or"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="bibere: to drink;  person present from bibo, bibere, bibi, bibitus"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="calidus: hot, warm; singular masculine nominative from calidus, calida -um, calidior -or -us, calidissimus -a -um"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="cāritātem: charity; singular feminine accusative from cāritās, cāritātis"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="cellārium: cellar; singular masculine accusative from cellarius, cellarii"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="cēnam: dinner; singular feminine accusative from cēna, cēnae"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="chrīstus: annointed one, Christ; singular masculine nominative from Chrīstus, Chrīstī"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="creātūram: creature; singular feminine accusative future participle from creo, creare, creavi, creatus"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="cum: with"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="deī: god, diety; singular masculine genitive from Deus, Dei"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="deus: god; singular masculine nominative from Deus, Dei"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="dīcēns: saying; singular nominative present participle from dīcō, dīcere, dīxī, dictus"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="diē: day; singular common genitive from diēs, diēī"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="diēbus: days; plural common dative from diēs, diēī"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="dominī: of the lord; singular masculine genitive from dominus, dominī"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="dominicīs: Sundays; plural feminine from Dominica, Dominicae"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="duodecim: two"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="duōs: two"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="duplicem: double; singular common accusative from duplex, (gen.), duplicis"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="elemosina: alms; singular feminine nominative from elemosina, elemosinae"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="eō: I go; 1st person singular present from eo, ire, ivi(ii), itus"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="est: he is; 3rd person singular present from sum, esse, fuī, futūrus"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="et: and"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="ex: out of, from"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="facite: make! do!; 2nd person plural present from faciō, facere, fēcī, factus"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="fēstīvitātibus: festivity; plural feminine from fēstīvitās, fēstīvitātis"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="fonte: fountain; singular masculine from fōns, fontis"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="fragmentīs: fragments; plural neuter from fragmentum, fragmentī"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="frātrēs: brothers; plural masculine nominative from frāter, frātris"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="frātribus: brothers; plural masculine from frāter, frātris"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="frātrum: of brothers; plural masculine genitive from frāter, frātris"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="fūrtim: secret, stealthily"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="habeant: let them have; 3rd person plural present subjunctive from habeō, habēre, habuī, habitus"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="habēmus: we have; 1st person plural present from habeō, habēre, habuī, habitus"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="hic: this; singuglar masculine nominative of hic, haec, hoc"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="hilaritāte: good humor; singular feminine from hilaritās, hilaritātis"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="hōc: this; sing. masc. or neut. abl. of hic, haec, hoc"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="hodiē: today"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="hortābātur: he was exhorting;  imperfect from hortor, hortārī, hortātus sum"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="ignōtum: unknown"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="in: into (with accusative), in (with ablative)"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="integrōs: whole, intact, untouched; plural masculine accusative from integer, integra -um, integrior -or -us, integerrimus -a -um"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="inter: between, among, during"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="iōcunditāte: pleasant, jocund; singular feminine from jocunditas, jocunditatis"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="ita: yes"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="lavantur: are being washed; 3rd person plural present passive from lavō, lavāre, lāvī, lautus"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="māgna: large; singular feminine nominative from māgnus, māgna -um, major -or -us, maximus -a -um"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="ministrantur: being ministered to; 3rd person plural present passive from ministrō, ministrāre, ministrāvī, ministrātus"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="modō: mode, manner, way, measure, size; singular masculine dative from modus, modī"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="nōbīs: us; singular dative or ablative from ego"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="nōs: us; plural nominative or accusative of ego"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="nostram: our; plural genitive of ego"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="nostrī: our; sing. masc. gen. or pl. masc. nom. or sing. neut. gen. of noster"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="nostrum: our; plural genitive of ego"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="nōtum: known; singular neuter nom. or acc. perfect passive participle of gnōscō, gnōscere, nōvī, nōtus"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="nūtrit: it nourishes; 3rd person singular present from nūtriō, nūtrīre, nūtrīvī, nūtrītus"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="octōgintā: 80; from octōginta, octōgēsimus -a -um, octōgēnī -ae -a, octōgiē (n)s"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="omnī: all, every; singular dative from omnis, omnis, omne"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="pānēs: bread; plural masculine nominative from panis, panis"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="patricii: patrician; aristocrat; singular masculine genitive from patricius, patricii"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="patris: father; singular masculine genitive from pater, patris"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="pedēs: feet; plural masculine nominative from pēs, pedis"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="per: through"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="portat: he carries; 3rd person singular present from porto, portare, portavi, portatus"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="praeparantur: being prepared; 3rd person plural present passive from praeparō, praeparāre, praeparāvī, praeparātus"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="quattuor: 4"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="quem: what, singular masculine accusative of qui"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="quia: because"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="quis: who"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="quō: what; singular ablative of quis"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="quod: what; singular neuter nom. or acc. of qui"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="quōs: who; plural masculine accusative of quis"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="refectiōnem: refreshing, restoring, repairing; singular feminine accusative from refectiō, refectiōnis"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="sānctī: holy"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="sed: but"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="servīs: slaves, servants; plural masculine from servus, servī"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="singulīs: one each; plural dative from singulus, singula, singulum"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="singulōs: one each; plural masculine accusative from singulus, singula, singulum"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="subiectam: things subjected; singular feminine accusative perfect passive participle from subicio, subicere, subjeci, subjectus"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="suis: their; plural dative or ablative of suus"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="sumus: we are; 1st person plural present from sum, esse, fuī, futūrus"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="tamen: however"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="tempore: time, period; singular neuter from tempus, temporis"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="timōre: fear; singular masculine from timor, timōris"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="turbidō: turbid, troubled, muddy; singular masculine dative from turbidus, turbida, turbidum"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="ubī: where, when if"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="ūsque: until, all the way, up until"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="ut: so that"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="vērō: truly, even so, still"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="vestrō: your; singular masc. or neuter dative or ablative from vester"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="vidētis: you see; 2nd person plural present from videō, vidēre, vīdī, vīsus"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="vīdistis: you saw; 2nd person plural perfect from videō, vidēre, vīdī, vīsus"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="vīgintī: 20"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="voluistis: you wanted; 2nd person plural perfect from volō, velle, voluī, -"/>
+                <trail PARENT="Vocab"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="118" YPOS="10022" OwnPage="23" ItemID="1418337035" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" gXpos="118" gYpos="5029.99999999979" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="Caput XII Īnsula Familiae Ailbēī (Orīgnālis)"/>
+                <trail PARENT="Default Paragraph Style" ALIGN="1"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="118" YPOS="10040.3949044586" OwnPage="23" ItemID="1385082827" PTYPE="4" WIDTH="540" HEIGHT="362.458598726116" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 362.459 L0 362.459 L0 0 Z" copath="M0 0 L540 0 L540 362.459 L0 362.459 L0 0 Z" gXpos="118" gYpos="10040.3949044586" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <para/>
+                <ITEXT CH="[25]     Abbās quoque hortābātur cum magnā hilaritāte frātrēs, dīcēns: [26] “Ex hōc fonte quem hodiē fūrtim bibere voluistis, ex eō modo facite cāritātem, cum iocunditāte et timōre Dominī. [27] Ex aliō fonte turbidō quem vīdistis lavantur pedēs frātrum omnī diē, quia omnī tempore calidus est. [28] Pānēs vērō quōs vidētis, nōbīs ignōtum est ubi praeparantur aut quis portat ad nostrum cellārium. [29] Sed tamen nōtum nōbīs est quod ex Deī magnā elemosinā ministrantur servīs suīs per aliquam subiectam creātūram."/>
+                <para PARENT="Latin"/>
+                <ITEXT CH="[30]     Nōs sumus hīc vīgintī quattuor frātrēs; omnī diē habēmus duodecim pānēs ad nostram refectiōnem: inter duōs, singulōs pānēs. [31] In fēstīvitātibus et in Dominicīs diēbus integrōs pānēs singulīs frātribus addit Deus, ut cēnam habeant ex fragmentīs; modo in adventū vestrō duplicem annōnam habēmus. [32] Et ita nūtrit nōs Chrīstus ā tempore sānctī Patriciī et sānctī Ailbēī patris nostrī, usque modo per octōgintā annōs."/>
+                <trail PARENT="Latin"/>
             </StoryText>
         </PAGEOBJECT>
     </DOCUMENT>
