@@ -131,14 +131,14 @@
         <PAGE PAGEXPOS="712" PAGEYPOS="14164" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="18" BORDERTOP="18" BORDERBOTTOM="18" NUM="34" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="100" PAGEYPOS="14996" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="18" BORDERTOP="18" BORDERBOTTOM="18" NUM="35" NAM="" MNAM="Latin left" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="712" PAGEYPOS="14996" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="18" BORDERTOP="18" BORDERBOTTOM="18" NUM="36" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
-        <MASTEROBJECT XPOS="118" YPOS="776" OwnPage="2" ItemID="1213028123" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="118" gYpos="732288072" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="118" YPOS="776" OwnPage="2" ItemID="1213028123" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="118" gYpos="761738376" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
                 <trail ALIGN="1"/>
             </StoryText>
         </MASTEROBJECT>
-        <MASTEROBJECT XPOS="154" YPOS="776" OwnPage="3" ItemID="1242040603" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="85857634" gYpos="732288072" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="154" YPOS="776" OwnPage="3" ItemID="1242040603" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="88137946" gYpos="761738376" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
@@ -4669,7 +4669,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="sustinuit: he sustained; 3rd person singular perfect from sustineō, sustinēre, sustinuī, sustentus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="tantum: so much, so great, this many; singular neuter nominative from tantus, tanta, tantum"/>
+                <ITEXT CH="tantum: only, alone (adverb)"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="tē: to you, accusative from tu"/>
                 <para PARENT="Vocab"/>
@@ -4711,9 +4711,17 @@
             <StoryText>
                 <DefaultStyle/>
                 <para/>
-                <ITEXT CH="[56] Interrogāns beātus Brendānus sānctum patrem dē illōrum silentiō et conversātiōne, quōmodo potuit esse in hūmānā carne, [57] tunc praedictus pater cum immēnsā reverentiā et humilitāte respondit: “Abbā, cōram Chrīstō meō fateor: octōgintā annī sunt postquam venīmus in hanc īnsulam. [58] Nūllam vōcem hūmānam audīvimus, exceptō quandō cantāmus Deō laudēs. [59] Inter nōs vīgintī quattuor vōx nōn excitātur, nisi per signum digitī aut oculōrum, tantum ā maiōribus nātū. [60] Nūllus ex nōbīs sustinuit īnfirmitātem carnis aut spīrituum quae vagantur circā hūmānum genus postquam vēnimus in istum locum.”"/>
+                <ITEXT CH="[56] Interrogāns beātus Brendānus sānctum patrem dē illōrum silentiō et conversātiōne, quōmodo potuit esse in hūmānā carne"/>
+                <ITEXT FEATURES="inherit superscript" CH="1"/>
+                <ITEXT CH=", [57] tunc praedictus pater cum immēnsā reverentiā et humilitāte respondit: “Abbā, cōram Chrīstō meō fateor: octōgintā annī sunt postquam venīmus in hanc īnsulam. [58] Nūllam vōcem hūmānam audīvimus, exceptō quandō cantāmus Deō laudēs. [59] Inter nōs vīgintī quattuor vōx nōn excitātur, nisi per signum digitī aut oculōrum, tantum ā maiōribus nātū"/>
+                <ITEXT FEATURES="inherit superscript" CH="2"/>
+                <ITEXT CH=". [60] Nūllus ex nōbīs sustinuit īnfirmitātem carnis aut spīrituum quae vagantur circā hūmānum genus postquam vēnimus in istum locum.”"/>
                 <para PARENT="Latin"/>
-                <ITEXT CH="[61]     Sānctus Brendānus ait: “Licet nōbīs nunc hīc esse, an nōn?” Quī ait: “Nōn licet, quia nōn est Deī voluntās. [62] Cūr mē interrogās, pater? Nōnne revēlāvit tibi Deus quae tē oportet facere antequam hūc vēnissēs ad nōs? [63] Tē enim oportet revertī ad locum tuum cum quattuordecim frātribus tēcum, ubi praeparāvit Deus locum sepultūrae vestrae. [64] Duo vērō, quī supersunt: ūnus peregrīnābitur in Īnsulā quae vocātur Anachorītārum, porrō alter morte turpissimā condemnābitur apud īnferōs.”"/>
+                <ITEXT CH="[61]     Sānctus Brendānus ait: “Licet nōbīs nunc hīc esse, an nōn?” Quī ait: “Nōn licet, quia nōn est Deī voluntās. [62] Cūr mē interrogās, pater? Nōnne revēlāvit tibi Deus quae tē oportet"/>
+                <ITEXT FEATURES="inherit superscript" CH="3"/>
+                <ITEXT CH=" facere antequam hūc vēnissēs"/>
+                <ITEXT FEATURES="inherit superscript" CH="4"/>
+                <ITEXT CH=" ad nōs? [63] Tē enim oportet revertī ad locum tuum cum quattuordecim frātribus tēcum, ubi praeparāvit Deus locum sepultūrae vestrae. [64] Duo vērō, quī supersunt: ūnus peregrīnābitur in Īnsulā quae vocātur Anachorītārum, porrō alter morte turpissimā condemnābitur apud īnferōs.”"/>
                 <para PARENT="Latin"/>
             </StoryText>
         </PAGEOBJECT>
@@ -5012,5 +5020,31 @@
             </StoryText>
         </PAGEOBJECT>
         <PAGEOBJECT XPOS="151" YPOS="12949.9847133762" OwnPage="29" ItemID="1431289467" PTYPE="5" WIDTH="450" HEIGHT="1" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR2="Black" PLINEART="1" path="" gXpos="151" gYpos="8789.98471337572" gWidth="0" gHeight="0" LAYER="0"/>
+        <PAGEOBJECT XPOS="118" YPOS="13819.4140127389" OwnPage="31" ItemID="1407460219" PTYPE="4" WIDTH="540" HEIGHT="268.585987261145" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 268.586 L0 268.586 L0 0 Z" copath="M0 0 L540 0 L540 268.586 L0 268.586 L0 0 Z" gXpos="118" gYpos="13819.4140127389" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FEATURES="inherit superscript" CH="1"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="Blessed Brendan, (was) interrogating the holy father abouth their silence and way of life, how it could be (done) in human flesh."/>
+                <ITEXT CH=" "/>
+                <para PARENT="footnotes"/>
+                <ITEXT FEATURES="inherit superscript" CH="2"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="Only by the elder bor"/>
+                <ITEXT CH="n. Only the older monks were allowed to make hand and eye signals."/>
+                <para PARENT="footnotes"/>
+                <ITEXT FEATURES="inherit superscript" CH="3"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="Has not Good revealed to you the things that you must do before you came here to us?"/>
+                <ITEXT CH=" "/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="te oportet"/>
+                <ITEXT CH=" is a construction used to say "/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="you must"/>
+                <ITEXT CH=" or "/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="you need to"/>
+                <ITEXT CH="."/>
+                <para PARENT="footnotes"/>
+                <ITEXT FEATURES="inherit superscript" CH="4"/>
+                <ITEXT CH="The use of the subjunctive here appears to be a stylistic choice."/>
+                <trail PARENT="footnotes"/>
+            </StoryText>
+        </PAGEOBJECT>
     </DOCUMENT>
 </SCRIBUSUTF8NEW>
