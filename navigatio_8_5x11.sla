@@ -153,14 +153,14 @@
         <PAGE PAGEXPOS="712" PAGEYPOS="21652" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="18" BORDERTOP="18" BORDERBOTTOM="18" NUM="52" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="100" PAGEYPOS="22484" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="18" BORDERTOP="18" BORDERBOTTOM="18" NUM="53" NAM="" MNAM="Latin left" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="712" PAGEYPOS="22484" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="18" BORDERTOP="18" BORDERBOTTOM="18" NUM="54" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
-        <MASTEROBJECT XPOS="118" YPOS="776" OwnPage="2" ItemID="1213028123" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="118" gYpos="2091270216" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="118" YPOS="776" OwnPage="2" ItemID="1213028123" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="118" gYpos="2302611528" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
                 <trail ALIGN="1"/>
             </StoryText>
         </MASTEROBJECT>
-        <MASTEROBJECT XPOS="154" YPOS="776" OwnPage="3" ItemID="1242040603" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="173988082" gYpos="2089409864" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="154" YPOS="776" OwnPage="3" ItemID="1242040603" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="185092210" gYpos="2300751176" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
@@ -6416,9 +6416,17 @@
             <StoryText>
                 <DefaultStyle/>
                 <para/>
-                <ITEXT CH="[9] Fīnītō iam versiculō, et omnibus ablātīs dē nāvī, extendit tentōrium et praeparāvit balneum — erat enim Cēna Dominī—et induit omnēs frātrēs novīs vestīmentīs, et fēcit illōrum obsequium per trīduānum."/>
+                <ITEXT CH="[9] Fīnītō iam versiculō"/>
+                <ITEXT FEATURES="inherit superscript" CH="1"/>
+                <ITEXT CH=", et omnibus ablātīs dē nāvī, extendit tentōrium et praeparāvit balneum — erat enim Cēna Dominī—et induit omnēs frātrēs novīs vestīmentīs, et fēcit illōrum obsequium"/>
+                <ITEXT FEATURES="inherit superscript" CH="2"/>
+                <ITEXT CH=" per trīduānum."/>
                 <para PARENT="Latin"/>
-                <ITEXT CH="[10]     Frātrēs quoque Passiōnem Dominī celebrābant cum magnā dīligentiā usque in Sabbatum Sānctum. [11] Fīnītīs ōrdinibus diēī Sabbatī, immolātīsque victimīs spīritālibus Deō, atque cēnā cōnsummātā, dīxit idem prōcūrātor ad sānctum Brendānum et ad illōs quī cum eō erant: [12] “Proficīsciminī et ascendite nāvim, ut celebrētis sānctam Dominicam noctem resurrēctiōnis ubi celebrāstis alterō annō illam, et diem similiter usque in sextam hōram. [13] Posteā nāvigātē ad īnsulam quae vocātur Paradīsus Āvium, ubi fuistis in praeteritō annō ā Paschā usque in octāvās Pentēcostēn, [14] et asportāte vōbīscum omnia quae necessāria sunt dē cibō et pōtū. Ego vērō vīsitābō vōs diē Dominicā alterā.” [15] Et ita fēcērunt; onerāvitque ipse nāvim pānibus et pōtū ac carnibus cēterīsque dēliciīs, quantum poterant capere. [16] Sānctus Brendānus, datā benedictiōne, ascendit in nāvim, et coepērunt statim nāvigāre ad aliam īnsulam."/>
+                <ITEXT CH="[10]     Frātrēs quoque Passiōnem Dominī celebrābant cum magnā dīligentiā usque in Sabbatum Sānctum. [11] Fīnītīs ōrdinibus diēī Sabbatī, immolātīsque victimīs spīritālibus Deō, atque cēnā cōnsummātā"/>
+                <ITEXT FEATURES="inherit superscript" CH="3"/>
+                <ITEXT CH=", dīxit idem prōcūrātor ad sānctum Brendānum et ad illōs quī cum eō erant: [12] “Proficīsciminī et ascendite nāvim, ut celebrētis sānctam Dominicam noctem resurrēctiōnis ubi celebrāstis alterō annō illam, et diem similiter usque in sextam hōram. [13] Posteā nāvigātē ad īnsulam quae vocātur Paradīsus Āvium, ubi fuistis in praeteritō annō ā Paschā usque in octāvās Pentēcostēn, [14] et asportāte vōbīscum omnia quae necessāria sunt dē cibō et pōtū. Ego vērō vīsitābō vōs diē Dominicā alterā.” [15] Et ita fēcērunt; onerāvitque ipse nāvim pānibus et pōtū ac carnibus cēterīsque dēliciīs, quantum poterant capere. [16] Sānctus Brendānus, datā benedictiōne"/>
+                <ITEXT FEATURES="inherit superscript" CH="4"/>
+                <ITEXT CH=", ascendit in nāvim, et coepērunt statim nāvigāre ad aliam īnsulam."/>
                 <para PARENT="Latin"/>
             </StoryText>
         </PAGEOBJECT>
@@ -7255,5 +7263,28 @@
                 <para PARENT="Latin"/>
             </StoryText>
         </PAGEOBJECT>
+        <PAGEOBJECT XPOS="118" YPOS="19642" OwnPage="45" ItemID="1555628411" PTYPE="4" WIDTH="540" HEIGHT="255.681528662422" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 255.682 L0 255.682 L0 0 Z" copath="M0 0 L540 0 L540 255.682 L0 255.682 L0 0 Z" gXpos="118" gYpos="19642" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FEATURES="inherit superscript" CH="1"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="This verse now having been finished. "/>
+                <ITEXT CH="This is an ablative absolute."/>
+                <para PARENT="footnotes"/>
+                <ITEXT FEATURES="inherit superscript" CH="2"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="He did service to them for three days"/>
+                <ITEXT CH=". A literal translation of obsequium from the dictionary is difficult here, so I recommend translating more idiomatically given the context."/>
+                <para PARENT="footnotes"/>
+                <ITEXT FEATURES="inherit superscript" CH="3"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="The order of the Sabbath day being finishing, and the spiritual victims have been immolated to God, and the dinner being consumed, the same procurator said to Saint Brendan."/>
+                <ITEXT CH=" This is an ablative absolute."/>
+                <para PARENT="footnotes"/>
+                <ITEXT FEATURES="inherit superscript" CH="4"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="The benediction having been given"/>
+                <ITEXT CH=". This is an ablative absolute."/>
+                <trail PARENT="footnotes"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="151" YPOS="18784.9847133768" OwnPage="43" ItemID="1531746235" PTYPE="5" WIDTH="450" HEIGHT="1" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR2="Black" PLINEART="1" path="" gXpos="151" gYpos="14624.9847133764" gWidth="0" gHeight="0" LAYER="0"/>
+        <PAGEOBJECT XPOS="151" YPOS="19634.1847133769" OwnPage="45" ItemID="1534342939" PTYPE="5" WIDTH="450" HEIGHT="1" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR2="Black" PLINEART="1" path="" gXpos="151" gYpos="15474.1847133765" gWidth="0" gHeight="0" LAYER="0"/>
     </DOCUMENT>
 </SCRIBUSUTF8NEW>
