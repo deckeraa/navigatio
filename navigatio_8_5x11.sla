@@ -175,14 +175,14 @@
         <PAGE PAGEXPOS="712" PAGEYPOS="30804" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="18" BORDERTOP="18" BORDERBOTTOM="18" NUM="74" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="100" PAGEYPOS="31636" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="18" BORDERTOP="18" BORDERBOTTOM="18" NUM="75" NAM="" MNAM="Latin left" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="712" PAGEYPOS="31636" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="18" BORDERTOP="18" BORDERBOTTOM="18" NUM="76" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
-        <MASTEROBJECT XPOS="118" YPOS="776" OwnPage="2" ItemID="3720866" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="118" gYpos="6035226440" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="118" YPOS="776" OwnPage="2" ItemID="3720866" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="118" gYpos="6368759432" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
                 <trail ALIGN="1"/>
             </StoryText>
         </MASTEROBJECT>
-        <MASTEROBJECT XPOS="154" YPOS="776" OwnPage="3" ItemID="3774114" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="351270406" gYpos="6033366088" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="154" YPOS="776" OwnPage="3" ItemID="3774114" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="363851902" gYpos="6366899080" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
@@ -10311,10 +10311,55 @@
                 <ITEXT CH="Caput XIX Grifa"/>
                 <para PARENT="Chapter Heading"/>
                 <para/>
-                <ITEXT CH="[1]     Ascendentibus, porrō tendēbant vēlum in classe, quō ventus dirigisset. Et cum nāvigāssent, appāruit illīs avis quae vocātur grifa, ā longē volāns obviam illīs. [2] Cum hanc vīdissent frātrēs, dīcēbant ad sānctum patrem: “Ad dēvorandum nōs venit illa bēstia!” [3] Quibus ait vir Deī: “Nōlīte timēre: Deus adiūtor noster est, quī nōs dēfendet etiam hāc vice.”"/>
+                <ITEXT CH="[1]     Ascendentibus, porrō tendēbant vēlum in classe"/>
+                <ITEXT FEATURES="inherit superscript" CH="1"/>
+                <ITEXT CH=", quō ventus dirigisset"/>
+                <ITEXT FEATURES="inherit superscript" CH="2"/>
+                <ITEXT CH=". Et cum nāvigāssent, appāruit illīs avis quae vocātur grifa"/>
+                <ITEXT FEATURES="inherit superscript" CH="3"/>
+                <ITEXT CH=", ā longē volāns obviam illīs. [2] Cum hanc vīdissent frātrēs, dīcēbant ad sānctum patrem: “Ad dēvorandum"/>
+                <ITEXT FEATURES="inherit superscript" CH="4"/>
+                <ITEXT CH=" nōs venit illa bēstia!” [3] Quibus ait vir Deī: “Nōlīte timēre: Deus adiūtor noster est, quī nōs dēfendet etiam hāc vice"/>
+                <ITEXT FEATURES="inherit superscript" CH="5"/>
+                <ITEXT CH=".”"/>
                 <para PARENT="Latin"/>
-                <ITEXT CH="[4]     Illa extendēbat ungulās ad servōs Deī capiendōs. Et ecce subitō avis, quae illīs alterā vice portāvit rāmum cum frūctibus, vēnit obviam grifae, rapidissimō volātū. [5] Quae statim voluit dēvorāre illam; at vērō dēfendēbat sē, usque dum superāsset ac abstulisset oculōs grifae praedicta avis. [6] Porrō grifa volābat in altum, ut vix frātrēs potuissent vidēre; attamen interfectrīx nōn dimissit illam dōnec eam interēmit. [7] Nam cadāver eius cōram frātribus iuxtā nāvim cecidit in mare. Altera vērō avis reversa est in locum suum."/>
+                <ITEXT CH="[4]     Illa extendēbat ungulās ad servōs Deī capiendōs"/>
+                <ITEXT FEATURES="inherit superscript" CH="6"/>
+                <ITEXT CH=". Et ecce subitō avis, quae illīs alterā vice portāvit rāmum cum frūctibus, vēnit obviam grifae, rapidissimō volātū. [5] Quae statim voluit dēvorāre illam"/>
+                <ITEXT FEATURES="inherit superscript" CH="7"/>
+                <ITEXT CH="; at vērō dēfendēbat sē, usque dum superāsset ac abstulisset oculōs grifae praedicta avis. [6] Porrō grifa volābat in altum, ut vix frātrēs potuissent vidēre; attamen interfectrīx nōn dimissit illam dōnec eam interēmit. [7] Nam cadāver eius cōram frātribus iuxtā nāvim cecidit in mare. Altera vērō avis reversa est in locum suum."/>
                 <para PARENT="Latin"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="118" YPOS="32105.5796178344" OwnPage="75" ItemID="331616082" PTYPE="4" WIDTH="540" HEIGHT="238.471337579616" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 238.471 L0 238.471 L0 0 Z" copath="M0 0 L540 0 L540 238.471 L0 238.471 L0 0 Z" gXpos="118" gYpos="32105.5796178344" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FEATURES="inherit superscript" CH="1"/>
+                <ITEXT CH="Classis typically refers to a fleet or navy, but here clearly only one boat is intended."/>
+                <para PARENT="footnotes"/>
+                <ITEXT FEATURES="inherit superscript" CH="2"/>
+                <ITEXT FONT="DejaVu Serif Italic" FEATURES="inherit" CH="Ascending they also hoisted the sail in the boat, to where the wind might have directed them."/>
+                <ITEXT CH=" Dirigisset is not in any dictionary I consulted, but it's clear the author intended the pluperfect subjunctive of dīrigere. The dictionaries favor the spelling: dīrēxisset."/>
+                <para PARENT="footnotes"/>
+                <ITEXT FEATURES="inherit superscript" CH="3"/>
+                <ITEXT CH="Grifa is typically spelled grȳphus; I've chosen to go with the spelling that Selmer chose in his critical text."/>
+                <para PARENT="footnotes"/>
+                <ITEXT FEATURES="inherit superscript" CH="4"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="That beast comes to eat us"/>
+                <ITEXT CH=". ad + dēvorandum is gerund (or gerundive) construction used to express a purpose."/>
+                <para PARENT="footnotes"/>
+                <ITEXT FEATURES="inherit superscript" CH="5"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="Do not fear: God is our helper, who will defend us also this time. "/>
+                <ITEXT CH="Brendan is referencing the incident with the sea monster in chapter XVI."/>
+                <para PARENT="footnotes"/>
+                <ITEXT FEATURES="inherit superscript" CH="6"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="It was extending its claws to devour the servants of God"/>
+                <ITEXT CH=". Capiendōs is a gerundive that is used here to express a purpose."/>
+                <para PARENT="footnotes"/>
+                <ITEXT FEATURES="inherit superscript" CH="7"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="Who (i.e. the griffin) right away wanted to devour it (i.e. the bird)"/>
+                <ITEXT CH=". It's interesting to contrast the large beast in chapter XVI which seemed to be the aggressor against the monster seeking to harm the monks, whereas her the bird seems to be the one aggressed against."/>
+                <trail PARENT="footnotes"/>
             </StoryText>
         </PAGEOBJECT>
     </DOCUMENT>
