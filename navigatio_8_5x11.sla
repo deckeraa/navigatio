@@ -181,14 +181,14 @@
         <PAGE PAGEXPOS="712" PAGEYPOS="33300" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="18" BORDERTOP="18" BORDERBOTTOM="18" NUM="80" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="100" PAGEYPOS="34132" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="18" BORDERTOP="18" BORDERBOTTOM="18" NUM="81" NAM="" MNAM="Latin left" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="712" PAGEYPOS="34132" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="18" BORDERTOP="18" BORDERBOTTOM="18" NUM="82" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
-        <MASTEROBJECT XPOS="118" YPOS="776" OwnPage="2" ItemID="3720866" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="118" gYpos="7751822984" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="118" YPOS="776" OwnPage="2" ItemID="3720866" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="118" gYpos="8002546184" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
                 <trail ALIGN="1"/>
             </StoryText>
         </MASTEROBJECT>
-        <MASTEROBJECT XPOS="154" YPOS="776" OwnPage="3" ItemID="3774114" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="414057934" gYpos="7749962632" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="154" YPOS="776" OwnPage="3" ItemID="3774114" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="422840134" gYpos="8000685832" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
@@ -10548,8 +10548,6 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="cūr: why"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="dam: from qu PACK [XXXBX]{:word &quot;dam&quot;, :part-of-speech :tackon, :dictionary-entry &quot;qu PACK [XXXBX]&quot;, :definition &quot;(w/-dam) certain; as INDEF a certain thing; somebody, one, something;&quot;}"/>
-                <para PARENT="Vocab"/>
                 <ITEXT CH="dēvorātōrem: devourer, glutton; singular masculine accusative from dēvorātor, dēvorātōris"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="dicēbat: he was saying; 3rd person singular imperfect from dīcō, dīcere, dīxī, dictus"/>
@@ -10610,7 +10608,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="maris: sea; singular neuter genitive from mare, maris"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="miror, mirari, miratus sum: be amazed/surprised/bewildered (at); look in wonder/awe/admiration at; admire/revere; wonder; marvel at;  from miror, mirari, miratus sum"/>
+                <ITEXT CH="miror: I am amazed; from miror, mirari, miratus sum (deponent)"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="missam: Mass; singular feminine accusative perfect passive participle from mittō, mittere, mīsī, missus"/>
                 <para PARENT="Vocab"/>
@@ -10655,6 +10653,8 @@
                 <ITEXT CH="quō: what; singular ablative of quis"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="quod: what; singular neuter nom. or acc. of qui"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="quōdam: on a certain. Singular masculine or neuter ablative from quīdam."/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="rogābant: they were asking; 3rd person plural imperfect from rogō, rogāre, rogāvī, rogātus"/>
                 <para PARENT="Vocab"/>
@@ -10823,7 +10823,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="ita: yes"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="late: bring, bear; tell/speak of; consider; carry off, win, receive, produce; get; singular masculine vocative perfect passive participle from ferō, ferre, tulī, lātus"/>
+                <ITEXT CH="lāte: wide, large, widespread; singular masculine ablative from lātus -a -um"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="levāvērunt: they raised up; 3rd person plural perfect from levo, levare, levavi, levatus"/>
                 <para PARENT="Vocab"/>
