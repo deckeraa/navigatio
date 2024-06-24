@@ -209,14 +209,14 @@
         <PAGE PAGEXPOS="712" PAGEYPOS="44948" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="18" BORDERTOP="18" BORDERBOTTOM="18" NUM="108" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="100" PAGEYPOS="45780" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="18" BORDERTOP="18" BORDERBOTTOM="18" NUM="109" NAM="" MNAM="Latin left" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="712" PAGEYPOS="45780" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="18" BORDERTOP="18" BORDERBOTTOM="18" NUM="110" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
-        <MASTEROBJECT XPOS="118" YPOS="776" OwnPage="2" ItemID="921234654" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="118" gYpos="14943988744" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="118" YPOS="776" OwnPage="2" ItemID="921234654" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="118" gYpos="16054858504" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
                 <trail ALIGN="1"/>
             </StoryText>
         </MASTEROBJECT>
-        <MASTEROBJECT XPOS="154" YPOS="776" OwnPage="3" ItemID="921909470" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="628292818" gYpos="14942128392" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="154" YPOS="776" OwnPage="3" ItemID="921909470" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="657476038" gYpos="16052998152" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
@@ -12814,9 +12814,19 @@
                 <ITEXT CH="Caput XXIV Monachus Iit ad Īnfernum"/>
                 <para PARENT="Chapter Heading"/>
                 <para/>
-                <ITEXT CH="[1]     Alterā vērō diē appāruit illīs mōns altus in ōceanō contrā septentriōnem, nōn longē, sed quasi per tenuēs nūbilās; et valdē fūmōsus erat in summitāte. [2] Et statim rapidissimō cursū ventus trāxit illōs ad lītus eiusdem īnsulae usque dum nāvis resēdit nōn longē ā terrā. [3] Erat namque rīpa illīus magnae altitūdinis, ita ut summitātem illīus vix potuissent vidēre, et colōris carbōnis, et mīrae rēctitūdinis sīcut mūrus."/>
+                <ITEXT CH="[1]     Alterā"/>
+                <ITEXT FEATURES="inherit superscript" CH="1"/>
+                <ITEXT CH=" vērō diē appāruit illīs mōns altus in ōceanō contrā septentriōnem, nōn longē, sed quasi per tenuēs nūbilās; et valdē fūmōsus erat in summitāte. [2] Et statim rapidissimō cursū"/>
+                <ITEXT FEATURES="inherit superscript" CH="2"/>
+                <ITEXT CH=" ventus trāxit illōs ad lītus eiusdem īnsulae usque dum nāvis resēdit nōn longē ā terrā. [3] Erat namque rīpa illīus magnae altitūdinis, ita ut summitātem"/>
+                <ITEXT FEATURES="inherit superscript" CH="3"/>
+                <ITEXT CH=" illīus vix potuissent vidēre, et colōris carbōnis, et mīrae rēctitūdinis sīcut mūrus."/>
                 <para PARENT="Latin"/>
-                <ITEXT CH="[4]     Ūnus quīdam quī remānsit ex tribus frātribus quī subsecūtī sunt sānctum Brendānum dē suō monastēriō exilīvit forās dē nāvī et coepit ambulāre usque ad fundāmentum rīpae. [5] Quī coepit clāmāre, dīcēns: “Vae mihi, pater! Praedor ā vōbīs, et nōn habeō potestātem ut possim venīre ad vōs.” "/>
+                <ITEXT CH="[4]     Ūnus quīdam quī remānsit ex tribus frātribus quī subsecūtī sunt sānctum Brendānum dē suō monastēriō exilīvit"/>
+                <ITEXT FEATURES="inherit superscript" CH="4"/>
+                <ITEXT CH=" forās dē nāvī et coepit ambulāre usque ad fundāmentum rīpae. [5] Quī coepit clāmāre, dīcēns: “Vae mihi, pater! Praedor"/>
+                <ITEXT FEATURES="inherit superscript" CH="5"/>
+                <ITEXT CH=" ā vōbīs, et nōn habeō potestātem ut possim venīre ad vōs.” "/>
                 <para PARENT="Latin"/>
             </StoryText>
         </PAGEOBJECT>
@@ -12824,7 +12834,13 @@
             <StoryText>
                 <DefaultStyle/>
                 <para PARENT="Default Paragraph Style"/>
-                <ITEXT CH="[6] Frātrēs cōnfestim nāvim retrō ā terrā dūcēbant et clāmābant ad Dominum, dīcentēs: “Miserēre nōbīs, Domine, miserēre nōbīs.” [7] At vērō venerābilis pater, cum suīs sociīs, aspiciēbat quōmodo dūcēbātur īnfēlīx ā multitūdine daemonum ad tormenta et quōmodo incendēbātur inter illōs; [8] atque dīcēbat: “Vae tibi, fīlī, quia recēpistī, in vītā tuā, meritī tālem fīnem!”"/>
+                <ITEXT CH="[6] Frātrēs cōnfestim nāvim retrō ā terrā dūcēbant"/>
+                <ITEXT FEATURES="inherit superscript" CH="1"/>
+                <ITEXT CH=" et clāmābant ad Dominum, dīcentēs: “Miserēre nōbīs, Domine, miserēre nōbīs.” [7] At vērō venerābilis pater, cum suīs sociīs, aspiciēbat quōmodo dūcēbātur īnfēlīx ā multitūdine daemonum ad tormenta et quōmodo incendēbātur"/>
+                <ITEXT FEATURES="inherit superscript" CH="2"/>
+                <ITEXT CH=" inter illōs; [8] atque dīcēbat: “Vae tibi, fīlī, quia recēpistī, in vītā tuā, meritī"/>
+                <ITEXT FEATURES="inherit superscript" CH="3"/>
+                <ITEXT CH=" tālem fīnem!”"/>
                 <para PARENT="Latin"/>
                 <ITEXT CH="[9]     Iterum arripuit illōs prōsper ventus ad austrālem plāgam. Cum autem aspexissent—ā longē retrō—illam īnsulam, [10] vīdērunt montem discoopertum ā fūmō, et ā sē spūmantem flammās usque ad aethera, et iterum ad sē eāsdem flammās respīrantem, ita ut tōtus mōns usque in mare ūnus rogus appāruisset."/>
                 <para PARENT="Latin"/>
@@ -14173,6 +14189,48 @@
                 <para/>
                 <ITEXT CH="[32]      Cui daemonēs respondērunt: “Duplicēs poenās sustinēbit in istīs sex diēbus īnfēlīx Jūdās, propter quod illum dēfendistī in istā praeteritā nocte.” [33] Quibus venerābilis pater dīxit: “Nōn habēbitis potestātem inde, neque prīnceps vester, sed potestās Deī erit.” [34] Iterum subiūnxit: “Praecipiō vōbīs, in nōmine Dominī nostrī Iēsu Chrīstī, et prīncipī vestrō, nē istum extollātis amplius cruciātibus quam anteā.” [35] Cui respondērunt: “Numquid Dominus es omnium, ut tuīs sermōnibus obēdiāmus?” [36] Quibus vir Deī ait: “Servus suus sum, et quicquid in suō nōmine praecipiam, inde habeō ministerium dē quibus quōs ille mihi concēdit.” [37] Et ita secūtī sunt eum usque dum nōn poterant Iūdam vidēre. Reversī sunt quoque daemonēs et levāvērunt īnfēlīcissimam animam inter illōs cum magnō impetū et ululātū."/>
                 <para PARENT="Latin"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="151" YPOS="40328.1847133751" OwnPage="95" ItemID="1411870894" PTYPE="5" WIDTH="450" HEIGHT="1" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR2="Black" PLINEART="1" path="" gXpos="151" gYpos="36168.1847133772" gWidth="0" gHeight="0" LAYER="0"/>
+        <PAGEOBJECT XPOS="118" YPOS="40338.3439490446" OwnPage="95" ItemID="1375997806" PTYPE="4" WIDTH="540" HEIGHT="341.197452229302" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 341.197 L0 341.197 L0 0 Z" copath="M0 0 L540 0 L540 341.197 L0 341.197 L0 0 Z" gXpos="118" gYpos="40338.3439490446" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FEATURES="inherit superscript" CH="1"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="The next day a tall mountain appeared to them to the north."/>
+                <para PARENT="footnotes"/>
+                <ITEXT FEATURES="inherit superscript" CH="2"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="And suddenly the wind drew them in a rapid course to the same island until the ship stood not far from the land."/>
+                <para PARENT="footnotes"/>
+                <ITEXT FEATURES="inherit superscript" CH="3"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="For the cliff/bank was of great altitude, such that they could barely see the summit."/>
+                <ITEXT CH=" Note that, unlike the crystal column, this island is not described as reachinig to heaven. That which is given by God reaches to heaven, while the demonic, hellish, and counterfeit (e.g. this island or the Tower of Babel) is merely tall."/>
+                <para PARENT="footnotes"/>
+                <ITEXT FEATURES="inherit superscript" CH="4"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="A certain one who remained of the three monks who followed Saint Brendan out of their monastery went outside/leaped from the boat and began to walk up to the base of the cliff."/>
+                <ITEXT CH=" In the historical sense, it's unclear why the monk would do such a thing; but the spiritual sense is plain: the monk, being seized by sin, leapt outside the safety of the Church onto the banks of Hell, which then swallowed him up."/>
+                <para PARENT="footnotes"/>
+                <ITEXT FEATURES="inherit superscript" CH="5"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="Then he began to wail, sayinig: &quot;Woe to me, father! I am snatached from you, and I do not have power to come to you.&quot;"/>
+                <ITEXT CH=" Praedor is a deponent verb, but a passive sense makes much more sense here. Otherwise we would translate it as &quot;I stole from you, and I do not thave power to come to you,&quot; which doesn't fit in the narrative."/>
+                <trail PARENT="footnotes"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="151" YPOS="41117.7847133747" OwnPage="97" ItemID="1372634270" PTYPE="5" WIDTH="450" HEIGHT="1" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR2="Black" PLINEART="1" path="" gXpos="151" gYpos="36957.7847133769" gWidth="0" gHeight="0" LAYER="0"/>
+        <PAGEOBJECT XPOS="118" YPOS="41126.2165605096" OwnPage="97" ItemID="1387118638" PTYPE="4" WIDTH="540" HEIGHT="266.904458598729" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 266.904 L0 266.904 L0 0 Z" copath="M0 0 L540 0 L540 266.904 L0 266.904 L0 0 Z" gXpos="118" gYpos="41126.2165605096" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FEATURES="inherit superscript" CH="1"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="The brothers immediately led the ship away from the land."/>
+                <ITEXT CH=" Based on their prayer, they must have perceived the danger, and chose to move the boat away rather than attempt a rescue."/>
+                <para PARENT="footnotes"/>
+                <ITEXT FEATURES="inherit superscript" CH="2"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="And the venerable father, with his companions, saw how the unhappy (monk) was lead by a multitude of demons to torment and how we was being burned amongst them."/>
+                <ITEXT CH=" Some commentators see this as the monk being swallowed in lava. In a spiritual sense, the fact that the demons are lighting the man on fire even before he gets to Hell indicates how we are burned with sinful passion in this life when we sin. There is a judgement inherent in sin that precedes and anticipates the Final Judgement."/>
+                <para PARENT="footnotes"/>
+                <ITEXT FEATURES="inherit superscript" CH="3"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="Woe to you, my son, because you received such an end of what you merited in your life."/>
+                <ITEXT CH=" This can be interpreted in two way: (1) the monk received his merited punishment in this life (by being dragged alive to Hell, or (2) this is an allusion to the Rich Man and Lazarus in Luke 16:25: Et dixit illi Abraham: Fīlī, recordāre quia recēpistī bona in vītā tuā, et Lazarus similiter mala: nunc autem hīc cōnsōlātur, tū vērō cruciārīs. I'm partial to (2) because: (a) similar to the Rich Man, we're not told of any particularly heinous crime that the monk committed, (b) the author would have been very familiar with Luke 16:25, and the constructions are remarkably similar, and (c) it's the lack of a true faith and a religious life that damns both the Rich Man and the monk who leaps outside the protection of the Faith/Church. It is possible, of course, that the ambiguity is intentional and that both interpretations are intended."/>
+                <trail PARENT="footnotes"/>
             </StoryText>
         </PAGEOBJECT>
     </DOCUMENT>
