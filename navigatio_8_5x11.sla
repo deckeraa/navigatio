@@ -209,14 +209,14 @@
         <PAGE PAGEXPOS="712" PAGEYPOS="44948" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="18" BORDERTOP="18" BORDERBOTTOM="18" NUM="108" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="100" PAGEYPOS="45780" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="18" BORDERTOP="18" BORDERBOTTOM="18" NUM="109" NAM="" MNAM="Latin left" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="712" PAGEYPOS="45780" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="18" BORDERTOP="18" BORDERBOTTOM="18" NUM="110" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
-        <MASTEROBJECT XPOS="118" YPOS="776" OwnPage="2" ItemID="1110421500" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="118" gYpos="17541143304" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="118" YPOS="776" OwnPage="2" ItemID="1110421500" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="118" gYpos="19876916744" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
                 <trail ALIGN="1"/>
             </StoryText>
         </MASTEROBJECT>
-        <MASTEROBJECT XPOS="154" YPOS="776" OwnPage="3" ItemID="1110360572" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="696521638" gYpos="17539282952" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="154" YPOS="776" OwnPage="3" ItemID="1110360572" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="757883818" gYpos="19875056392" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
@@ -13643,9 +13643,15 @@
             <StoryText>
                 <DefaultStyle/>
                 <para/>
-                <ITEXT CH="[13]     &quot;Meum vērō refrīgerium habeō hīc omnī diē Dominicō, ā vespere usque ad vesperās, et in Nātīvitāte Dominī usque in Theophāniam, et ā Paschā usque in Pentēcostēn, et in Pūrificātiōne Deī Genetrīcis atque Assūmptiōne. [14] Posteā et anteā crucior in profundō īnfernī cum Hērōde et Pīlātō et Annā et Caiphā. Idcircō adiūrō vōs, per Redēmptōrem mundī, [15] ut intercēdere dignēminī ad Dominum Iēsum, ut habeam hīc potestātem esse usque ad ortum sōlis crās, nē mē daemonēs in adventū vestrō crucient atque dūcant ad malam hērēditātem, quam comparāvī malō pretiō.” [16] Cui sānctus Brendānus ait: “Fīat voluntās Dominī: hāc nocte nōn eris morsus daemōnum usque manē.”"/>
+                <ITEXT CH="[13]     &quot;Meum vērō refrīgerium habeō hīc omnī diē Dominicō, ā vespere usque ad vesperās, et in Nātīvitāte Dominī usque in Theophāniam, et ā Paschā usque in Pentēcostēn, et in Pūrificātiōne Deī Genetrīcis atque Assūmptiōne"/>
+                <ITEXT FEATURES="inherit superscript" CH="1"/>
+                <ITEXT CH=". [14] Posteā et anteā crucior in profundō īnfernī cum Hērōde et Pīlātō et Annā et Caiphā. Idcircō adiūrō vōs, per Redēmptōrem mundī, [15] ut intercēdere dignēminī ad Dominum Iēsum, ut habeam hīc potestātem esse usque ad ortum sōlis crās, nē mē daemonēs in adventū vestrō crucient atque dūcant ad malam hērēditātem, quam comparāvī"/>
+                <ITEXT FEATURES="inherit superscript" CH="2"/>
+                <ITEXT CH=" malō pretiō.” [16] Cui sānctus Brendānus ait: “Fīat voluntās Dominī: hāc nocte nōn eris morsus daemōnum usque manē.”"/>
                 <para PARENT="Latin"/>
-                <ITEXT CH="[17]     Iterum vir Deī interrogābat illum, dīcēns: “Quid sibi vult iste pannus?” [18] Cui ait: “Istum pannum dedī cuidam leprōsō, quandō fuī camerārius Dominī. [19] Sed tamen nōn fuit meus quem dedī: nam Dominicus et frātrum suōrum erat. Ideō ab illō nōn habeō ūllum refrīgerium sed magis impedīmentum. [20] Nam forcae ferreae, ubi pendet—illās dedī sacerdōtibus templī ad cacabōs sustinendōs. [21] Petram in quā sedeō, illam mīsī in fossam in pūblicā viā sub pedibus trānseuntium, antequam fuissem discipulus Dominī.”"/>
+                <ITEXT CH="[17]     Iterum vir Deī interrogābat illum, dīcēns: “Quid sibi vult iste pannus?” [18] Cui ait: “Istum pannum dedī cuidam leprōsō, quandō fuī camerārius Dominī. [19] Sed tamen nōn fuit meus quem dedī: nam Dominicus et frātrum suōrum erat. Ideō ab illō nōn habeō ūllum refrīgerium sed magis impedīmentum. [20] Nam forcae ferreae, ubi pendet—illās dedī sacerdōtibus templī ad cacabōs sustinendōs. [21] Petram in quā sedeō, illam mīsī"/>
+                <ITEXT FEATURES="inherit superscript" CH="3"/>
+                <ITEXT CH=" in fossam in pūblicā viā sub pedibus trānseuntium, antequam fuissem discipulus Dominī.”"/>
                 <para PARENT="Latin"/>
             </StoryText>
         </PAGEOBJECT>
@@ -13851,7 +13857,13 @@
             <StoryText>
                 <DefaultStyle/>
                 <para/>
-                <ITEXT CH="[22]     Cum autem vespera hōra obumbrāsset Tīthim, ecce innumerābilis multitūdō daemonum cooperuit faciem Tīthis in circuitū, vōciferantēs atque dīcentēs: [23] “Recēde, vir Deī, ā nōbīs, quia nōn possumus appropinquāre sociō nostrō usque dum ab illō recēdās, nec faciem prīncipis nostrī ausī sumus vidēre dōnec sibi reddāmus suum amīcum. [24] Tū vērō redde statim nōbīs nostrum morsum, et nōlī istum hāc nocte dēfendere.” [25] Quibus ait vir Deī: “Nōn ego dēfendō, sed Dominus Iēsus Chrīstus concessit sibi istam noctem hīc esse usque manē.” [26] Cui aiunt daemonēs: “Quōmodo invocās nōmen Dominī super illum, cum sit ipse trāditor Dominī?” [27] Quibus dīxit vir Deī: “Praecipiō vōbīs in nōmine Dominī nostrī Iēsu Chrīstī ut nihil illī malī faciātis usque manē.”"/>
+                <ITEXT CH="[22]     Cum autem vespera hōra obumbrāsset Tīthim"/>
+                <ITEXT FEATURES="inherit superscript" CH="1"/>
+                <ITEXT CH=", ecce innumerābilis multitūdō daemonum cooperuit faciem Tīthis in circuitū, vōciferantēs atque dīcentēs: [23] “Recēde, vir Deī, ā nōbīs, quia nōn possumus appropinquāre sociō nostrō usque dum ab illō recēdās, nec faciem prīncipis nostrī ausī"/>
+                <ITEXT FEATURES="inherit superscript" CH="2"/>
+                <ITEXT CH=" sumus vidēre dōnec sibi reddāmus suum amīcum. [24] Tū vērō redde statim nōbīs nostrum morsum, et nōlī istum hāc nocte dēfendere.” [25] Quibus ait vir Deī: “Nōn ego dēfendō, sed Dominus Iēsus Chrīstus concessit sibi istam noctem hīc esse usque manē.” [26] Cui aiunt daemonēs: “Quōmodo invocās nōmen Dominī super illum, cum sit"/>
+                <ITEXT FEATURES="inherit superscript" CH="3"/>
+                <ITEXT CH=" ipse trāditor Dominī?” [27] Quibus dīxit vir Deī: “Praecipiō vōbīs in nōmine Dominī nostrī Iēsu Chrīstī ut nihil illī malī faciātis usque manē.”"/>
                 <para PARENT="Latin"/>
             </StoryText>
         </PAGEOBJECT>
@@ -14074,7 +14086,11 @@
             <StoryText>
                 <DefaultStyle/>
                 <para/>
-                <ITEXT CH="[28]     Trānsāctā itaque nocte illā, prīmō manē cum vir Deī coepisset iter agere, ecce īnfīnīta multitūdō daemonum cooperuit faciem abyssī, ēmittentēs dīrās vōcēs atque dīcentēs: [29] “Ō vir Deī, maledictus ingressus tuus atque exitus tuus, quia prīnceps noster hāc nocte flagellāvit nōs verberibus pessimīs, propter quod nōn praesentāvimus sibi istum maledictum captīvum.” [30] Quibus ait vir Deī: “Nōn nōbīs pertinet vestra maledictiō sed vōbīsmet ipsīs. [31] Cui autem maledīcitis, ille est benedictus, et cui benedīcitis, ille est maledictus.”"/>
+                <ITEXT CH="[28]     Trānsāctā itaque nocte illā, prīmō manē cum vir Deī coepisset iter"/>
+                <ITEXT FEATURES="inherit superscript" CH="1"/>
+                <ITEXT CH=" agere, ecce īnfīnīta multitūdō daemonum cooperuit faciem abyssī, ēmittentēs dīrās vōcēs atque dīcentēs: [29] “Ō vir Deī, maledictus ingressus"/>
+                <ITEXT FEATURES="inherit superscript" CH="2"/>
+                <ITEXT CH=" tuus atque exitus tuus, quia prīnceps noster hāc nocte flagellāvit nōs verberibus3 pessimīs, propter quod nōn praesentāvimus sibi istum maledictum captīvum.” [30] Quibus ait vir Deī: “Nōn nōbīs pertinet vestra maledictiō sed vōbīsmet4 ipsīs. [31] Cui autem maledīcitis, ille est benedictus, et cui benedīcitis, ille est maledictus.”"/>
                 <trail PARENT="Latin"/>
             </StoryText>
         </PAGEOBJECT>
@@ -14167,8 +14183,6 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="noster: our; singular masculine nominative from noster, nostra, nostrum"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="o: from o{:word &quot;o&quot;, :part-of-speech :interjection, :dictionary-entry &quot;o&quot;, :definition &quot;Oh!;&quot;, :dictionary-code {:age nil, :area nil, :geo nil, :freq-code :A, :freq-text &quot;Very frequent, in all Elementry Latin books&quot;, :source nil}}"/>
-                <para PARENT="Vocab"/>
                 <ITEXT CH="pertinet: it pertains; 3rd person singular present active from pertineō, pertinēre, pertinuī, pertentus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="pessimīs: worst; plural  dative from pessimus, pessima, pessimum"/>
@@ -14211,7 +14225,13 @@
             <StoryText>
                 <DefaultStyle/>
                 <para/>
-                <ITEXT CH="[32]      Cui daemonēs respondērunt: “Duplicēs poenās sustinēbit in istīs sex diēbus īnfēlīx Jūdās, propter quod illum dēfendistī in istā praeteritā nocte.” [33] Quibus venerābilis pater dīxit: “Nōn habēbitis potestātem inde, neque prīnceps vester, sed potestās Deī erit.” [34] Iterum subiūnxit: “Praecipiō vōbīs, in nōmine Dominī nostrī Iēsu Chrīstī, et prīncipī vestrō, nē istum extollātis amplius cruciātibus quam anteā.” [35] Cui respondērunt: “Numquid Dominus es omnium, ut tuīs sermōnibus obēdiāmus?” [36] Quibus vir Deī ait: “Servus suus sum, et quicquid in suō nōmine praecipiam, inde habeō ministerium dē quibus quōs ille mihi concēdit.” [37] Et ita secūtī sunt eum usque dum nōn poterant Iūdam vidēre. Reversī sunt quoque daemonēs et levāvērunt īnfēlīcissimam animam inter illōs cum magnō impetū et ululātū."/>
+                <ITEXT CH="[32]      Cui daemonēs respondērunt: “Duplicēs poenās sustinēbit in istīs sex diēbus īnfēlīx Jūdās, propter quod illum dēfendistī in istā praeteritā nocte.” [33] Quibus venerābilis pater dīxit: “Nōn habēbitis potestātem inde, neque prīnceps vester, sed potestās"/>
+                <ITEXT FEATURES="inherit superscript" CH="1"/>
+                <ITEXT CH=" Deī erit.” [34] Iterum subiūnxit: “Praecipiō vōbīs, in nōmine Dominī nostrī Iēsu Chrīstī, et prīncipī vestrō, nē istum extollātis amplius cruciātibus quam anteā.” [35] Cui respondērunt: “Numquid"/>
+                <ITEXT FEATURES="inherit superscript" CH="2"/>
+                <ITEXT CH=" Dominus es omnium, ut tuīs sermōnibus obēdiāmus?” [36] Quibus vir Deī ait: “Servus suus sum, et quicquid in suō nōmine praecipiam, inde habeō ministerium dē quibus quōs ille mihi concēdit"/>
+                <ITEXT FEATURES="inherit superscript" CH="3"/>
+                <ITEXT CH=".” [37] Et ita secūtī sunt eum usque dum nōn poterant Iūdam vidēre. Reversī sunt quoque daemonēs et levāvērunt īnfēlīcissimam animam inter illōs cum magnō impetū et ululātū."/>
                 <para PARENT="Latin"/>
             </StoryText>
         </PAGEOBJECT>
@@ -14304,6 +14324,73 @@
                 <ITEXT FEATURES="inherit superscript" CH="6"/>
                 <ITEXT FONT="DejaVu Serif Italic" CH="I was there when it swallowed your brother, and for that reason Hell was happy, so that is sent forth huge flames; and thus it does always when it devours the souls of the impious."/>
                 <ITEXT CH=" Perhaps &quot;every time a soul goes to Hell, a volcano erupts&quot; is the infernal counterpoint to the folksy saying of &quot;every time a bell rings, an angel gets its wings.&quot;"/>
+                <trail PARENT="footnotes"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="151" YPOS="43791.5847133736" OwnPage="103" ItemID="1105070812" PTYPE="5" WIDTH="450" HEIGHT="1" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR2="Black" PLINEART="1" path="" gXpos="151" gYpos="39631.5847133758" gWidth="0" gHeight="0" LAYER="0"/>
+        <PAGEOBJECT XPOS="118" YPOS="43797.5541401274" OwnPage="103" ItemID="1110212684" PTYPE="4" WIDTH="540" HEIGHT="243.057324840767" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 243.057 L0 243.057 L0 0 Z" copath="M0 0 L540 0 L540 243.057 L0 243.057 L0 0 Z" gXpos="118" gYpos="43797.5541401274" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FEATURES="inherit superscript" CH="1"/>
+                <ITEXT CH="The idea being communicated here is that Judas also gets respite from Hell on certain feast days."/>
+                <para PARENT="footnotes"/>
+                <ITEXT FEATURES="inherit superscript" CH="2"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="That the demons might not lead be, during your coming, to (my) evil inheritance, which I compared to an evil price."/>
+                <ITEXT CH=" It appears that what Judas is referencing here is that he received the evil inheritance of Hell in exchange for the evil price of the thirty pieces of silver he took in payment to betray Christ."/>
+                <para PARENT="footnotes"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="151" YPOS="44473.5847133733" OwnPage="105" ItemID="1404091628" PTYPE="5" WIDTH="450" HEIGHT="1" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR2="Black" PLINEART="1" path="" gXpos="151" gYpos="40313.5847133755" gWidth="0" gHeight="0" LAYER="0"/>
+        <PAGEOBJECT XPOS="118" YPOS="44481.7834394904" OwnPage="105" ItemID="1610643564" PTYPE="4" WIDTH="540" HEIGHT="343.949044585985" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 343.949 L0 343.949 L0 0 Z" copath="M0 0 L540 0 L540 343.949 L0 343.949 L0 0 Z" gXpos="118" gYpos="44481.7834394904" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FEATURES="inherit superscript" CH="1"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="When the evening had overshadowed the sea, behold, an innumerable multitude of demons covered the face of the sea all around."/>
+                <ITEXT CH=" Here Tīthis is an archaic name for the sea."/>
+                <para PARENT="footnotes"/>
+                <ITEXT FEATURES="inherit superscript" CH="2"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="&quot;Withdraw, man of God, from us, because we cannot approach our associate until you withdraw from him, and neither do we dare to see the face of our prince (i.e. Satan) until we return our friend to him.&quot;"/>
+                <para PARENT="footnotes"/>
+                <ITEXT FEATURES="inherit superscript" CH="3"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="To whom the demons said: &quot;How can you invoke the name of the Lord over him, who was himself the betrayer of the Lord?&quot;"/>
+                <ITEXT CH=" Sit is subjunctive because it is in a cum circumstantial clause."/>
+                <trail PARENT="footnotes"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="151" YPOS="45220.384713373" OwnPage="107" ItemID="1394043548" PTYPE="5" WIDTH="450" HEIGHT="1" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR2="Black" PLINEART="1" path="" gXpos="151" gYpos="41060.3847133752" gWidth="0" gHeight="0" LAYER="0"/>
+        <PAGEOBJECT XPOS="118" YPOS="45228.3821656051" OwnPage="107" ItemID="1605662444" PTYPE="4" WIDTH="540" HEIGHT="320.101910828023" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 320.102 L0 320.102 L0 0 Z" copath="M0 0 L540 0 L540 320.102 L0 320.102 L0 0 Z" gXpos="118" gYpos="45228.3821656051" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FEATURES="inherit superscript" CH="1"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="The night having passed, the man of God began to make a journey (away from the island) first thing in the morning, and, behold, a infinite multitude of demonos covered the face of the abyss."/>
+                <para PARENT="footnotes"/>
+                <ITEXT FEATURES="inherit superscript" CH="2"/>
+                <ITEXT CH="This is reminiscent of Deuteronomy 28:19 "/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="Maledictus eris ingrediens, et maledictus egrediens."/>
+                <para PARENT="footnotes"/>
+                <ITEXT FEATURES="inherit superscript" CH="3"/>
+                <ITEXT CH="because our prince this night flogged us with very severe beatings"/>
+                <para PARENT="footnotes"/>
+                <ITEXT FEATURES="inherit superscript" CH="4"/>
+                <ITEXT CH="The -met suffix intensifies vōbīs, meaning &quot;you yourselves&quot;. This is redundant because of the ipsīs."/>
+                <trail PARENT="footnotes"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="151" YPOS="46142.1847133727" OwnPage="109" ItemID="1109399820" PTYPE="5" WIDTH="450" HEIGHT="1" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR2="Black" PLINEART="1" path="" gXpos="151" gYpos="41982.1847133748" gWidth="0" gHeight="0" LAYER="0"/>
+        <PAGEOBJECT XPOS="118" YPOS="46149" OwnPage="109" ItemID="1600166220" PTYPE="4" WIDTH="540" HEIGHT="301.089171974527" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 301.089 L0 301.089 L0 0 Z" copath="M0 0 L540 0 L540 301.089 L0 301.089 L0 0 Z" gXpos="118" gYpos="46149" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FEATURES="inherit superscript" CH="1"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="To whom the venerable father said: &quot;You will not have power from there (to give extra punishments to Judas), neither your prince (Satan), but he will be in the power of God.&quot; "/>
+                <ITEXT CH="The meaning of this is that Judas is to undergo precisely the penalties assigned to him by God."/>
+                <para PARENT="footnotes"/>
+                <ITEXT FEATURES="inherit superscript" CH="2"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="Is is possible that you are Lord of us all, that we might obey you words? "/>
+                <ITEXT CH="The subjunctive is used because of the ut purpose clause."/>
+                <para PARENT="footnotes"/>
+                <ITEXT FEATURES="inherit superscript" CH="3"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="To whom the man of God said: &quot;I am his (God's) servant, and whatever I will order in his name, from there I will have ministry of whomever he gives to me.&quot; "/>
+                <ITEXT CH="The idea is that Judas was in Brendan's care/urisdiction while Brendan was at the rock."/>
                 <trail PARENT="footnotes"/>
             </StoryText>
         </PAGEOBJECT>
