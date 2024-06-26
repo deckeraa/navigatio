@@ -209,14 +209,14 @@
         <PAGE PAGEXPOS="712" PAGEYPOS="44948" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="18" BORDERTOP="18" BORDERBOTTOM="18" NUM="108" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="100" PAGEYPOS="45780" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="18" BORDERTOP="18" BORDERBOTTOM="18" NUM="109" NAM="" MNAM="Latin left" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="712" PAGEYPOS="45780" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="18" BORDERTOP="18" BORDERBOTTOM="18" NUM="110" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
-        <MASTEROBJECT XPOS="118" YPOS="776" OwnPage="2" ItemID="103927151" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="118" gYpos="22402319624" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="118" YPOS="776" OwnPage="2" ItemID="103927151" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="118" gYpos="22595792904" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
                 <trail ALIGN="1"/>
             </StoryText>
         </MASTEROBJECT>
-        <MASTEROBJECT XPOS="154" YPOS="776" OwnPage="3" ItemID="103921983" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="824227678" gYpos="22400459272" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="154" YPOS="776" OwnPage="3" ItemID="103921983" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="829310338" gYpos="22593932552" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
@@ -9404,7 +9404,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="ūnīcuique: each one; ablative from ūnusquisque"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="ut: so that"/>
+                <ITEXT CH="ut: when"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="vāde: go!; 2nd person singular present imperative from vādō, vādere, vāsī, -"/>
                 <para PARENT="Vocab"/>
@@ -9444,9 +9444,15 @@
             <StoryText>
                 <DefaultStyle/>
                 <para/>
-                <ITEXT CH=" [25] Tunc sānctus Brendānus vocāvit praedictum frātrem ad sē et ait: “Ōsculā frātrēs tuōs et vāde cum illīs quī tē invocant. [26] Bonā hōrā concēpit tē māter tua, in quā meruistī habitāre cum tālī congregātiōne.” Ōsculātīsque omnibus et sānctō patre, ait illī sānctus Brendānus: [27] “Fīlī, recordāre quanta beneficia prōposuit tibi Deus in hōc saeculō. Vāde et ōra prō nōbīs.” Prōtinus secūtus est duōs iuvenēs ad eōrum scolam."/>
+                <ITEXT CH=" [25] Tunc sānctus Brendānus vocāvit praedictum frātrem ad sē et ait: “Ōsculā frātrēs tuōs et vāde cum illīs quī tē invocant. [26] Bonā hōrā concēpit tē māter tua, in quā meruistī habitāre cum tālī congregātiōne.” Ōsculātīsque"/>
+                <ITEXT FEATURES="inherit superscript" CH="1"/>
+                <ITEXT CH=" omnibus et sānctō patre, ait illī sānctus Brendānus: [27] “Fīlī, recordāre quanta beneficia prōposuit tibi Deus in hōc saeculō. Vāde et ōra prō nōbīs.” Prōtinus secūtus"/>
+                <ITEXT FEATURES="inherit superscript" CH="2"/>
+                <ITEXT CH=" est duōs iuvenēs ad eōrum scolam."/>
                 <para PARENT="Latin"/>
-                <ITEXT CH="[28]     Venerābilis pater cum suīs sodālibus coepit nāvigāre. Cum autem hōra nōna vēnerat, praecēpit suīs frātribus reficere corpora dē scaltīs Īnsulae Virōrum Fortium. [29] Cum haec dīxisset, vir Deī accēpit ūnam dē illīs. Ut autem vīdit magnitūdinem illīus et illam plēnam esse sūcō, admīrātus est et ait: [30] “Numquam vīdī nec lēgī dē scaltās tantae magnitūdinis.” Erant enim aequālis statūrae in modum pilae magnae. [31] Tunc praecēpit vir Deī vāsculum sibi afferrī, exprēmitque ūnam ex illīs, et attulit dē sūcō lībram ūnam, quam sānctus pater dīvīsit in duodecim unciās, dāns ūnīcuique singulam unciam. [32] Ita per duodecim diēs frātrēs reficiēbant dē singulīs scaltīs, tenentēs semper in ōre sapōrem mellis."/>
+                <ITEXT CH="[28]     Venerābilis pater cum suīs sodālibus coepit nāvigāre. Cum autem hōra nōna vēnerat, praecēpit suīs frātribus reficere corpora dē scaltīs Īnsulae Virōrum Fortium. [29] Cum haec dīxisset, vir Deī accēpit ūnam dē illīs. Ut autem vīdit magnitūdinem illīus et illam plēnam esse"/>
+                <ITEXT FEATURES="inherit superscript" CH="3"/>
+                <ITEXT CH=" sūcō, admīrātus est et ait: [30] “Numquam vīdī nec lēgī dē scaltās tantae magnitūdinis.” Erant enim aequālis statūrae in modum pilae magnae. [31] Tunc praecēpit vir Deī vāsculum sibi afferrī, exprēmitque ūnam ex illīs, et attulit dē sūcō lībram ūnam, quam sānctus pater dīvīsit in duodecim unciās, dāns ūnīcuique singulam unciam. [32] Ita per duodecim diēs frātrēs reficiēbant dē singulīs scaltīs, tenentēs semper in ōre sapōrem mellis."/>
                 <para PARENT="Latin"/>
             </StoryText>
         </PAGEOBJECT>
@@ -14427,10 +14433,18 @@
             </StoryText>
         </PAGEOBJECT>
         <PAGEOBJECT XPOS="151" YPOS="29616.1847133778" OwnPage="69" ItemID="613391231" PTYPE="5" WIDTH="450" HEIGHT="1" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR2="Black" PLINEART="1" path="" gXpos="151" gYpos="25456.1847133777" gWidth="0" gHeight="0" LAYER="0"/>
-        <PAGEOBJECT XPOS="118" YPOS="29625.9363057325" OwnPage="69" ItemID="614196719" PTYPE="4" WIDTH="540" HEIGHT="267.821656050954" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 267.822 L0 267.822 L0 0 Z" copath="M0 0 L540 0 L540 267.822 L0 267.822 L0 0 Z" gXpos="118" gYpos="29625.9363057325" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="118" YPOS="29624.101910828" OwnPage="69" ItemID="614196719" PTYPE="4" WIDTH="540" HEIGHT="269.656050955411" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 269.656 L0 269.656 L0 0 Z" copath="M0 0 L540 0 L540 269.656 L0 269.656 L0 0 Z" gXpos="118" gYpos="29624.101910828" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
-                <trail/>
+                <ITEXT FEATURES="inherit superscript" CH="1"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="And having kissed everyone and the holy father, Saint Brendan said to that one (the monk re-joining the monks on the island)."/>
+                <para PARENT="footnotes"/>
+                <ITEXT FEATURES="inherit superscript" CH="2"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="Onward he followed two young men to their school."/>
+                <para PARENT="footnotes"/>
+                <ITEXT FEATURES="inherit superscript" CH="3"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="When, however, he saw the size of them and saw that one to be full of juice, he marveled and said."/>
+                <para PARENT="footnotes"/>
             </StoryText>
         </PAGEOBJECT>
     </DOCUMENT>
