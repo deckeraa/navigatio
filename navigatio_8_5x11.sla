@@ -299,14 +299,14 @@
         <PAGE PAGEXPOS="712" PAGEYPOS="82388" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="18" BORDERTOP="18" BORDERBOTTOM="18" NUM="198" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="100" PAGEYPOS="83220" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="18" BORDERTOP="18" BORDERBOTTOM="18" NUM="199" NAM="" MNAM="Latin left" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="712" PAGEYPOS="83220" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="18" BORDERTOP="18" BORDERBOTTOM="18" NUM="200" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
-        <MASTEROBJECT XPOS="118" YPOS="776" OwnPage="2" ItemID="197072852" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="118" gYpos="76685104648" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="118" YPOS="776" OwnPage="2" ItemID="197072852" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="118" gYpos="77882560648" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
                 <trail ALIGN="1"/>
             </StoryText>
         </MASTEROBJECT>
-        <MASTEROBJECT XPOS="154" YPOS="776" OwnPage="3" ItemID="197121972" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="1781879770" gYpos="76684175304" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="154" YPOS="776" OwnPage="3" ItemID="197121972" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="1799321770" gYpos="77881631304" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
@@ -21384,11 +21384,29 @@
             <StoryText>
                 <DefaultStyle/>
                 <para/>
-                <ITEXT CH="[11]       Erat enim habitātiō eōrum sparsa; tamen ūnanimiter illōrum conversātiō in spē et fide et cāritāte, ūna refectiō, et ad opus Deī ūna ecclēsia perficiendum. [12] Nihil aliud cibī ministrātur nisi pōma et nucēs atque rādīcēs et cētera genera herbārum. Frātrēs post complētōrium in suās singulās cellulās usque ad gallōrum cantūs seu pulsum campanae permansērunt."/>
+                <ITEXT CH="[11]       Erat enim habitātiō eōrum sparsa"/>
+                <ITEXT FEATURES="inherit superscript" CH="1"/>
+                <ITEXT CH="; tamen ūnanimiter illōrum conversātiō"/>
+                <ITEXT FEATURES="inherit superscript" CH="2"/>
+                <ITEXT CH=" in spē et fide et cāritāte, ūna refectiō, et ad opus Deī ūna ecclēsia perficiendum"/>
+                <ITEXT FEATURES="inherit superscript" CH="3"/>
+                <ITEXT CH=". [12] Nihil aliud cibī ministrātur"/>
+                <ITEXT FEATURES="inherit superscript" CH="4"/>
+                <ITEXT CH=" nisi pōma et nucēs atque rādīcēs et cētera genera herbārum. Frātrēs post complētōrium in suās singulās cellulās usque ad gallōrum cantūs seu pulsum campanae permansērunt."/>
                 <para PARENT="Latin"/>
-                <ITEXT CH="[13]     “Pernoctantibus nōbīs et perambulantibus tōtam īnsulam, meus fīliolus dūxit mē ad lītus maris contrā occidentem, ubi erat nāvicula, et dīxit mihi: [14] ‘Pater, ascende in nāvim et nāvigēmus contrā occidentālem plagam ad īnsulam quae dīcitur Terra Reprōmissiōnis Sānctōrum, quam Deus datūrus est successōribus nostrīs in novissimō tempore.’"/>
+                <ITEXT CH="[13]     “Pernoctantibus nōbīs et perambulantibus"/>
+                <ITEXT FEATURES="inherit superscript" CH="5"/>
+                <ITEXT CH=" tōtam īnsulam, meus fīliolus dūxit mē ad lītus maris contrā occidentem, ubi erat nāvicula, et dīxit mihi: [14] ‘Pater, ascende in nāvim et nāvigēmus contrā occidentālem plagam"/>
+                <ITEXT FEATURES="inherit superscript" CH="6"/>
+                <ITEXT CH=" ad īnsulam quae dīcitur Terra Reprōmissiōnis Sānctōrum, quam Deus datūrus"/>
+                <ITEXT FEATURES="inherit superscript" CH="7"/>
+                <ITEXT CH=" est successōribus nostrīs in novissimō tempore.’"/>
                 <para PARENT="Latin"/>
-                <ITEXT CH="[15]       “Ascendentibus nōbīs et nāvigantibus, nebulae cooperuērunt nōs undique, in tantum ut vix potuissēmus puppim aut prōram nāviculae vidēre. [16] Trānsāctō vērō spatiō quasi ūnīus hōrae, circumfulsit nōs lūx ingēns, et appāruit terra spatiōsa et herbōsa pomiferōsaque valdē. [17] Cum stetisset nāvis ad terram, ascendimus nōs et coepimus circuīre et perambulāre per quīndecim diēs illam īnsulam, et nōn potuimus fīnem ipsīus invenīre."/>
+                <ITEXT CH="[15]       “Ascendentibus nōbīs et nāvigantibus, nebulae cooperuērunt nōs undique, in tantum ut vix potuissēmus"/>
+                <ITEXT FEATURES="inherit superscript" CH="8"/>
+                <ITEXT CH=" puppim aut prōram nāviculae vidēre. [16] Trānsāctō vērō spatiō quasi ūnīus hōrae, circumfulsit nōs lūx ingēns, et appāruit terra spatiōsa et herbōsa pomiferōsaque valdē. [17] Cum stetisset"/>
+                <ITEXT FEATURES="inherit superscript" CH="9"/>
+                <ITEXT CH=" nāvis ad terram, ascendimus nōs et coepimus circuīre et perambulāre per quīndecim diēs illam īnsulam, et nōn potuimus fīnem ipsīus invenīre."/>
                 <para PARENT="Latin"/>
             </StoryText>
         </PAGEOBJECT>
@@ -21439,7 +21457,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="cum: with"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="datūrus: will be given; singular masculine nominative future participle from "/>
+                <ITEXT CH="datūrus: will be given; singular masculine nominative future participle from dō, dāre, dedī, dātus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="deī: god, diety; sing. masc. gen. from Deus, Dei"/>
                 <para PARENT="Vocab"/>
@@ -24626,6 +24644,45 @@
                 <para PARENT="footnotes"/>
                 <ITEXT FEATURES="inherit superscript" CH="7"/>
                 <ITEXT CH="Monks would often build little rooms called &quot;cells&quot; that they would live in. A comparison to bees is being made here probably to emphasive the communal life of the monks."/>
+                <trail PARENT="footnotes"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="151" YPOS="12207.1847133767" OwnPage="27" ItemID="1027206612" PTYPE="5" WIDTH="450" HEIGHT="1" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR2="Black" PLINEART="1" path="" gXpos="151" gYpos="42159.1847133754" gWidth="0" gHeight="0" LAYER="0"/>
+        <PAGEOBJECT XPOS="118" YPOS="12211.5668789809" OwnPage="27" ItemID="1059959492" PTYPE="4" WIDTH="540" HEIGHT="211.872611464967" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 211.873 L0 211.873 L0 0 Z" copath="M0 0 L540 0 L540 211.873 L0 211.873 L0 0 Z" gXpos="118" gYpos="12211.5668789809" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FEATURES="inherit superscript" CH="1"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="For their dwelling place was sparse."/>
+                <ITEXT CH=" Being monks, they did not have many possessions."/>
+                <para PARENT="footnotes"/>
+                <ITEXT FEATURES="inherit superscript" CH="2"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="However their way of life (was) harmoniously in hope and faith and charity."/>
+                <para PARENT="footnotes"/>
+                <ITEXT FEATURES="inherit superscript" CH="3"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="And a church for the completing the work of God."/>
+                <ITEXT CH=" Here opus Deī probably refers to the sacraments. ad + perficiendum is a gerundive construction used to express purpose."/>
+                <para PARENT="footnotes"/>
+                <ITEXT FEATURES="inherit superscript" CH="4"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="Nothing else was served for food except apples and roots and other types of herbs."/>
+                <ITEXT CH=" cibī could be considered a genitive of material."/>
+                <para PARENT="footnotes"/>
+                <ITEXT FEATURES="inherit superscript" CH="5"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="Having spent the night with us and having walked through the whole island."/>
+                <ITEXT CH=" This is an ablative absolute"/>
+                <para PARENT="footnotes"/>
+                <ITEXT FEATURES="inherit superscript" CH="6"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="We will sail from the western shore to the island which is called the Promised Land of the Saints."/>
+                <para PARENT="footnotes"/>
+                <ITEXT FEATURES="inherit superscript" CH="7"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="Which God will give to our successors in the End Times (or the Last Day)"/>
+                <ITEXT CH=". datūrus + est is a future passive participle construction."/>
+                <para PARENT="footnotes"/>
+                <ITEXT FEATURES="inherit superscript" CH="8"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="To such an extent that we could hardly see the stern or prow of the ship"/>
+                <ITEXT CH=". The subjunctive is used because is a result clause."/>
+                <para PARENT="footnotes"/>
+                <ITEXT FEATURES="inherit superscript" CH="9"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="The ship having anchored (literally 'stood') at land."/>
                 <trail PARENT="footnotes"/>
             </StoryText>
         </PAGEOBJECT>
