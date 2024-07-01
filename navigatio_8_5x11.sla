@@ -299,14 +299,14 @@
         <PAGE PAGEXPOS="712" PAGEYPOS="82388" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="18" BORDERTOP="18" BORDERBOTTOM="18" NUM="198" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="100" PAGEYPOS="83220" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="18" BORDERTOP="18" BORDERBOTTOM="18" NUM="199" NAM="" MNAM="Latin left" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="712" PAGEYPOS="83220" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="18" BORDERTOP="18" BORDERBOTTOM="18" NUM="200" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
-        <MASTEROBJECT XPOS="118" YPOS="776" OwnPage="2" ItemID="1513076952" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="118" gYpos="80311085448" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="118" YPOS="776" OwnPage="2" ItemID="1513076952" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="118" gYpos="82907674248" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
                 <trail ALIGN="1"/>
             </StoryText>
         </MASTEROBJECT>
-        <MASTEROBJECT XPOS="154" YPOS="776" OwnPage="3" ItemID="1513053976" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="1834695370" gYpos="80310156104" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="154" YPOS="776" OwnPage="3" ItemID="1513053976" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="1872516970" gYpos="82906744904" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
@@ -21986,9 +21986,9 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="hic: this; singuglar masculine nominative of hic, haec, hoc"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="i: (w/-dem ONLY, idem, eadem, idem) same, the same, the very same, also;(pronoun)"/>
-                <para PARENT="Vocab"/>
                 <ITEXT CH="ibīdem: in the same place"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="īdem: the same"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="iēsūs: Jesus; sing. masc. nom. from Jēsūs, Jēsū"/>
                 <para PARENT="Vocab"/>
@@ -22177,9 +22177,21 @@
             <StoryText>
                 <DefaultStyle/>
                 <para/>
-                <ITEXT CH="[23]     “Quī ait: ‘Cūr mē interrogās unde sim aut quōmodo vocer? Quārē mē nōn interrogās dē istā īnsulā? Sīcut illam vidēs modo, ita ab initiō mundī permanet. [24] Indigēs aliquid cibī aut pōtūs sīve vestīmentī? Ūnum annum enim es in hāc īnsulā, et nōn gustāstī cibō aut dē pōtū. [25] Numquam fuistī oppressus somnō, nec nox tē cooperuit. Diēs namque est semper sine ūllā caecitāte tenebrārum: hīc Dominus noster Iēsus Chrīstus lūx ipsīus est.’"/>
+                <ITEXT CH="[23]     “Quī ait: ‘Cūr mē interrogās unde sim"/>
+                <ITEXT FEATURES="inherit superscript" CH="1"/>
+                <ITEXT CH=" aut quōmodo vocer? Quārē mē nōn interrogās dē istā īnsulā? Sīcut illam vidēs modo, ita ab initiō mundī permanet"/>
+                <ITEXT FEATURES="inherit superscript" CH="2"/>
+                <ITEXT CH=". [24] Indigēs aliquid cibī aut pōtūs sīve vestīmentī? Ūnum annum enim es"/>
+                <ITEXT FEATURES="inherit superscript" CH="3"/>
+                <ITEXT CH=" in hāc īnsulā, et nōn gustāstī cibō aut dē pōtū. [25] Numquam fuistī oppressus somnō, nec nox tē cooperuit. Diēs namque est semper sine ūllā caecitāte tenebrārum: hīc Dominus noster Iēsus Chrīstus lūx"/>
+                <ITEXT FEATURES="inherit superscript" CH="4"/>
+                <ITEXT CH=" ipsīus est.’"/>
                 <para PARENT="Latin"/>
-                <ITEXT CH="[26]     “Confestim inchoāvimus iter et ille praedictus vir nōbīscum pervēnit usque ad lītus ubi erat nostra nāvicula. [27] Ascendentibus autem in nāvim, raptus est idem vir ab oculīs nostrīs, et vēnimus per praedictam cālīginem ad Īnsulam Dēliciōsam. [28] At ubi frātrēs nōs vīdērunt, exultābant exultātiōne magnā dē adventū nostrō, et plōrābant dē absentiā nostrā multō tempore, dīcentēs: ‘Cūr, patrēs, dīmīsistis vestrās ovēs sine pāstōre in istā silvā errantēs? [29] Nōvimus autem abbātem nostrum frequenter ā nōbīs discēdere in aliquam partem—sed nescīmus in quam—et ibīdem dēmorārī aliquandō unum mēnsem, aliquandō duās ebdomadās seu unam ebdomadam vel plūs minusve.’"/>
+                <ITEXT CH="[26]     “Confestim inchoāvimus iter et ille praedictus vir nōbīscum pervēnit usque ad lītus ubi erat nostra nāvicula. [27] Ascendentibus autem in nāvim, raptus"/>
+                <ITEXT FEATURES="inherit superscript" CH="5"/>
+                <ITEXT CH=" est īdem vir ab oculīs nostrīs, et vēnimus per praedictam cālīginem ad Īnsulam Dēliciōsam. [28] At ubi frātrēs nōs vīdērunt, exultābant exultātiōne magnā dē adventū nostrō, et plōrābant dē absentiā nostrā multō tempore, dīcentēs: ‘Cūr, patrēs, dīmīsistis vestrās ovēs sine pāstōre in istā silvā errantēs? [29] Nōvimus autem abbātem nostrum frequenter ā nōbīs discēdere in aliquam partem—sed nescīmus in quam—et ibīdem"/>
+                <ITEXT FEATURES="inherit superscript" CH="6"/>
+                <ITEXT CH=" dēmorārī aliquandō unum mēnsem, aliquandō duās ebdomadās seu unam ebdomadam vel plūs minusve.’"/>
                 <para PARENT="Latin"/>
             </StoryText>
         </PAGEOBJECT>
@@ -24725,11 +24737,39 @@
                 <ITEXT FONT="DejaVu Serif Italic" CH="It pleased us to cross the river, but we awaited the counsel of God."/>
                 <para PARENT="footnotes"/>
                 <ITEXT FEATURES="inherit superscript" CH="6"/>
-                <ITEXT CH="Presumably the man is an angel."/>
+                <ITEXT CH="Presumably the man is an angel. See also line 32."/>
                 <para PARENT="footnotes"/>
                 <ITEXT FEATURES="inherit superscript" CH="7"/>
                 <ITEXT FONT="DejaVu Serif Italic" CH="Having had said these things, we immediately asked him from where he was or by what name he was called."/>
                 <ITEXT CH=" The subjunctive is used because it is an indirect question."/>
+                <trail PARENT="footnotes"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="151" YPOS="13811.3847133768" OwnPage="31" ItemID="1512656344" PTYPE="5" WIDTH="450" HEIGHT="1" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR2="Black" PLINEART="1" path="" gXpos="151" gYpos="43763.3847133747" gWidth="0" gHeight="0" LAYER="0"/>
+        <PAGEOBJECT XPOS="118" YPOS="13818.9554140127" OwnPage="31" ItemID="223918217" PTYPE="4" WIDTH="540" HEIGHT="266.904458598727" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 266.904 L0 266.904 L0 0 Z" copath="M0 0 L540 0 L540 266.904 L0 266.904 L0 0 Z" gXpos="118" gYpos="13818.9554140127" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FEATURES="inherit superscript" CH="1"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="Why do you ask me where I am from or how I am called?"/>
+                <para PARENT="footnotes"/>
+                <ITEXT FEATURES="inherit superscript" CH="2"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="In the manner you saw it, thus it remains from the beginning of the world."/>
+                <ITEXT CH=" The idea here is that this land has been in the same paradisial state since the beginning of the world. It's in the wrong geographic location to be the Garden of Eden, but perhaps it's meant to be taken as some sort of terrestrial paradise that's existed from the beginning."/>
+                <para PARENT="footnotes"/>
+                <ITEXT FEATURES="inherit superscript" CH="3"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="For you have been in this island for one year"/>
+                <ITEXT CH=". Presumably the man is speaking to Mernoc about his cumulative time in the island, since line 19 told us that this is on the fifteenth day of their journey. It's also possible that Barrindus's perception of time was incorrect while on the island."/>
+                <para PARENT="footnotes"/>
+                <ITEXT FEATURES="inherit superscript" CH="4"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="For our Lord Jesus Christ is himself light"/>
+                <ITEXT CH=". This is reminescent of Revelation 21:23."/>
+                <para PARENT="footnotes"/>
+                <ITEXT FEATURES="inherit superscript" CH="5"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="Therefore ascending into the boat, the same man was snatched from our eyes."/>
+                <ITEXT CH=" raptus + est is a past passive participle construction."/>
+                <para PARENT="footnotes"/>
+                <ITEXT FEATURES="inherit superscript" CH="6"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="And in the same place to dwell for a month, sometimes for two weeks or plus or minus a week."/>
                 <trail PARENT="footnotes"/>
             </StoryText>
         </PAGEOBJECT>
