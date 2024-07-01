@@ -299,14 +299,14 @@
         <PAGE PAGEXPOS="712" PAGEYPOS="82388" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="18" BORDERTOP="18" BORDERBOTTOM="18" NUM="198" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="100" PAGEYPOS="83220" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="18" BORDERTOP="18" BORDERBOTTOM="18" NUM="199" NAM="" MNAM="Latin left" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="712" PAGEYPOS="83220" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="18" BORDERTOP="18" BORDERBOTTOM="18" NUM="200" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
-        <MASTEROBJECT XPOS="118" YPOS="776" OwnPage="2" ItemID="1513076952" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="118" gYpos="85130320648" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="118" YPOS="776" OwnPage="2" ItemID="1513076952" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="118" gYpos="88327738248" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
                 <trail ALIGN="1"/>
             </StoryText>
         </MASTEROBJECT>
-        <MASTEROBJECT XPOS="154" YPOS="776" OwnPage="3" ItemID="1513053976" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="1904891770" gYpos="85129391304" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="154" YPOS="776" OwnPage="3" ItemID="1513053976" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="1951464970" gYpos="88326808904" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
@@ -20401,6 +20401,8 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="iuncturās: joinings, junctions; plural feminine accusative from junctura, juncturae"/>
                 <para PARENT="Vocab"/>
+                <ITEXT CH="ivō: of wood; singular neuter ablative from ivum, ivī"/>
+                <para PARENT="Vocab"/>
                 <ITEXT CH="levissimam: very light; singular feminine accusative from levis, leve, levior -or -us, levissimus -a -um"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="linīvērunt: they lined; 3rd person plural perfect active from liniō, linīre, linīvī, linītus"/>
@@ -20526,7 +20528,7 @@
                 <trail PARENT="Default Paragraph Style" ALIGN="1"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="118" YPOS="17529.6815286624" OwnPage="41" ItemID="1932100024" PTYPE="4" WIDTH="540" HEIGHT="475.31847133758" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 475.318 L0 475.318 L0 0 Z" copath="M0 0 L540 0 L540 475.318 L0 475.318 L0 0 Z" gXpos="118" gYpos="17529.6815286624" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="118" YPOS="17529.6815286624" OwnPage="41" ItemID="1932100024" PTYPE="4" WIDTH="540" HEIGHT="506.547770700658" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 506.548 L0 506.548 L0 0 Z" copath="M0 0 L540 0 L540 506.548 L0 506.548 L0 0 Z" gXpos="118" gYpos="17529.6815286624" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <para/>
@@ -20536,11 +20538,25 @@
                 <ITEXT CH=" Monachī Faciunt Nāvem"/>
                 <para PARENT="Chapter Heading"/>
                 <para/>
-                <ITEXT CH="[1]     Post haec, acceptā benedictiōne sānctī patris et omnium monachōrum quī cum eō erant, profectus est in ultimam partem regiōnis suae, ubi dēmorābantur parentēs eius. [2] Attamen nōluit illōs vidēre, sed in cuiusdam summitāte montis extendentis sē longē in ōceanum, in locō quī dīcitur Sēdēs Brendānī, fīxit tentōrium, ubi erat introitus ūnīus nāvis."/>
+                <ITEXT CH="[1]     Post haec, acceptā benedictiōne sānctī patris et omnium monachōrum quī cum eō erant, profectus est in ultimam partem regiōnis suae, ubi dēmorābantur"/>
+                <ITEXT FEATURES="inherit superscript" CH="1"/>
+                <ITEXT CH=" parentēs eius. [2] Attamen nōluit illōs vidēre, sed in cuiusdam summitāte montis extendentis sē longē in ōceanum, in locō quī dīcitur Sēdēs Brendānī, fīxit tentōrium, ubi erat introitus"/>
+                <ITEXT FEATURES="inherit superscript" CH="2"/>
+                <ITEXT CH=" ūnīus nāvis."/>
                 <para PARENT="Latin"/>
-                <ITEXT CH="[3]     Sānctus Brendānus et quī cum eō erant, acceptīs ferrāmentīs, fēcērunt ūnam nāviculam levissimam, costātam et columnātam ex īvō, sīcut mōs est in illīs partibus, et cooperuērunt illam coriīs bovīnīs atque rubrīcātīs in cortice roborīnō."/>
+                <ITEXT CH="[3]     Sānctus Brendānus et quī cum eō erant, acceptīs"/>
+                <ITEXT FEATURES="inherit superscript" CH="3"/>
+                <ITEXT CH=" ferrāmentīs, fēcērunt ūnam nāviculam levissimam, costātam et columnātam ex īvō, sīcut mōs"/>
+                <ITEXT FEATURES="inherit superscript" CH="4"/>
+                <ITEXT CH=" est in illīs partibus, et cooperuērunt illam coriīs"/>
+                <ITEXT FEATURES="inherit superscript" CH="5"/>
+                <ITEXT CH=" bovīnīs atque rubrīcātīs in cortice roborīnō."/>
                 <para PARENT="Latin"/>
-                <ITEXT CH="[4]     Et liniērunt—forās—omnēs iūnctūrās pellium ex būtīrō; et mīsērunt duās aliās parātūrās nāvis dē aliīs coriīs intus in nāvim, et dispendia quadrāgintā diērum, et būtīrum ad pellēs praeparandās ad cooperimentum nāvis, et cētera ūtēnsilia, quae ad ūsum vītae hūmānae pertinent. [5] Arborem posuērunt in mediō nāvis fīxam, et vēlum, et cētera quae ad gubernatiōnem nāvis pertinent. [6] Sānctus Brendānus frātribus suīs praecēpit, in nōmine Patris et Fīliī et Spīritūs Sānctī, intrāre in nāvim."/>
+                <ITEXT CH="[4]     Et liniērunt—forās—omnēs iūnctūrās pellium ex būtīrō"/>
+                <ITEXT FEATURES="inherit superscript" CH="6"/>
+                <ITEXT CH="; et mīsērunt duās aliās parātūrās nāvis dē aliīs coriīs intus in nāvim, et dispendia quadrāgintā diērum, et būtīrum ad pellēs praeparandās ad cooperimentum nāvis, et cētera ūtēnsilia, quae ad ūsum vītae hūmānae pertinent. [5] Arborem"/>
+                <ITEXT FEATURES="inherit superscript" CH="7"/>
+                <ITEXT CH=" posuērunt in mediō nāvis fīxam, et vēlum, et cētera quae ad gubernatiōnem nāvis pertinent. [6] Sānctus Brendānus frātribus suīs praecēpit, in nōmine Patris et Fīliī et Spīritūs Sānctī, intrāre in nāvim."/>
                 <para PARENT="Latin"/>
             </StoryText>
         </PAGEOBJECT>
@@ -20617,7 +20633,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="posteā: thereafter, later"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="praepositō: advantageous thing; singular masculine dative perfect passive participle from praepono, praeponere, praeposui, praepositus"/>
+                <ITEXT CH="praepositō: prior (an official in a monastery); singular masculine dative from praepositus, praepositī"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="profectus: profectus sum = I set out; singular masculine nominative perfect participle from "/>
                 <para PARENT="Vocab"/>
@@ -20651,7 +20667,7 @@
                 <trail PARENT="Vocab"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="118" YPOS="16697" OwnPage="39" ItemID="1937081336" PTYPE="4" WIDTH="540" HEIGHT="311.464968152866" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 311.465 L0 311.465 L0 0 Z" copath="M0 0 L540 0 L540 311.465 L0 311.465 L0 0 Z" gXpos="118" gYpos="16697" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="118" YPOS="16697" OwnPage="39" ItemID="1937081336" PTYPE="4" WIDTH="540" HEIGHT="276.197452229302" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 276.197 L0 276.197 L0 0 Z" copath="M0 0 L540 0 L540 276.197 L0 276.197 L0 0 Z" gXpos="118" gYpos="16697" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <para/>
@@ -20662,7 +20678,13 @@
                 <ITEXT CH="Monachī Eunt ad Īnsulam Aende"/>
                 <para PARENT="Chapter Heading"/>
                 <para/>
-                <ITEXT CH="[1]    Dēfīnīvit igitur Sānctus Brendānus, et hī quī cum eō erant, ieiūnium quadrāgintā diērum, semper per trīduānās, et posteā proficīscī. [2] Trānsāctīs iam quadrāgintā diēbus, et salūtātīs frātribus, commendātīsque omnibus praepositō monastēriī suī, quī fuit posteā suus successor in eōdem locō, profectus est contrā occidentālem plāgam cum quattuordecim frātribus ad īnsulam cuiusdam sānctī patris, nōmine Aende. [3] Ibique dēmorātus est tribus diēbus et tribus noctibus."/>
+                <ITEXT CH="[1]    Dēfīnīvit igitur Sānctus Brendānus, et hī quī cum eō erant, ieiūnium quadrāgintā diērum, semper per trīduānās, et posteā proficīscī"/>
+                <ITEXT FEATURES="inherit superscript" CH="1"/>
+                <ITEXT CH=". [2] Trānsāctīs iam quadrāgintā diēbus, et salūtātīs frātribus, commendātīsque omnibus praepositō monastēriī suī, quī fuit posteā suus successor in eōdem"/>
+                <ITEXT FEATURES="inherit superscript" CH="2"/>
+                <ITEXT CH=" locō, profectus est contrā occidentālem plāgam cum quattuordecim frātribus ad īnsulam cuiusdam sānctī patris, nōmine Aende. [3] Ibique dēmorātus"/>
+                <ITEXT FEATURES="inherit superscript" CH="3"/>
+                <ITEXT CH=" est tribus diēbus et tribus noctibus."/>
                 <para PARENT="Latin"/>
             </StoryText>
         </PAGEOBJECT>
@@ -20879,7 +20901,7 @@
                 <trail PARENT="Default Paragraph Style" ALIGN="1"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="118" YPOS="15864" OwnPage="37" ItemID="1940217112" PTYPE="4" WIDTH="540" HEIGHT="427.261146496815" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 427.261 L0 427.261 L0 0 Z" copath="M0 0 L540 0 L540 427.261 L0 427.261 L0 0 Z" gXpos="118" gYpos="15864" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="118" YPOS="15864" OwnPage="37" ItemID="1940217112" PTYPE="4" WIDTH="540" HEIGHT="456.152866242039" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 456.153 L0 456.153 L0 0 Z" copath="M0 0 L540 0 L540 456.153 L0 456.153 L0 0 Z" gXpos="118" gYpos="15864" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <para/>
@@ -20890,9 +20912,19 @@
                 <ITEXT CH="Brendānus Ēligit Frātrēs"/>
                 <para PARENT="Chapter Heading"/>
                 <para/>
-                <ITEXT CH="[1]     Igitur sānctus Brendānus, dē omnī congregātiōne suā ēlēctīs bīnīs frātribus septem, conclūsit sē in ūnō ōrātōriō cum illīs, et locūtus est ad illōs, dīcēns: [2] “Conbellātōrēs meī amantissimī, cōnsilium atque adiūtōrium ā vōbīs praestōlor, quia cor meum et omnēs cōgitātiōnēs meae conglūtinātae sunt in ūnam voluntātem; tantum sī voluntās Deī est. [3] Terram—dē quā locūtus est pater Barrindus—Reprōmissiōnis Sānctōrum, in corde meō prōposuī illam quaerere. Quōmodo vōbīs vidētur, aut quod cōnsilium mihi vultis dare?”"/>
+                <ITEXT CH="[1]     Igitur sānctus Brendānus, dē omnī congregātiōne suā ēlēctīs"/>
+                <ITEXT FEATURES="inherit superscript" CH="1"/>
+                <ITEXT CH=" bīnīs frātribus septem, conclūsit sē in ūnō ōrātōriō cum illīs, et locūtus"/>
+                <ITEXT FEATURES="inherit superscript" CH="2"/>
+                <ITEXT CH=" est ad illōs, dīcēns: [2] “Conbellātōrēs meī amantissimī, cōnsilium atque adiūtōrium ā vōbīs praestōlor, quia cor meum et omnēs cōgitātiōnēs meae conglūtinātae"/>
+                <ITEXT FEATURES="inherit superscript" CH="3"/>
+                <ITEXT CH=" sunt in ūnam voluntātem; tantum sī voluntās Deī est. [3] Terram—dē quā locūtus est pater Barrindus—Reprōmissiōnis Sānctōrum, in corde meō prōposuī illam quaerere. Quōmodo vōbīs vidētur, aut quod cōnsilium mihi vultis dare?”"/>
                 <para PARENT="Latin"/>
-                <ITEXT CH="[4]     Agnitā vērō—illī—voluntāte sānctī patris—quasi ūnō ōre dīcunt omnēs: “Abbā, voluntās tua ipsa est et nostra. [5] Nōnne parentēs nostrōs dīmīsimus? Nōnne hērēditātem nostram dēspeximus, et corpora nostra trādidimus in manūs tuās? [6] Itaque parātī sumus sīve ad mortem sīve ad vītam tēcum īre. Ūnam tantum quaerāmus Deī voluntātem.”"/>
+                <ITEXT CH="[4]     Illī vero, agnitā"/>
+                <ITEXT FEATURES="inherit superscript" CH="4"/>
+                <ITEXT CH=" voluntāte sānctī patris, quasi ūnō ōre dīcunt omnēs: “Abbā, voluntās tua ipsa est et nostra. [5] Nōnne"/>
+                <ITEXT FEATURES="inherit superscript" CH="5"/>
+                <ITEXT CH=" parentēs nostrōs dīmīsimus? Nōnne hērēditātem nostram dēspeximus, et corpora nostra trādidimus in manūs tuās? [6] Itaque parātī sumus sīve ad mortem sīve ad vītam tēcum īre. Ūnam tantum quaerāmus Deī voluntātem.”"/>
                 <para PARENT="Latin"/>
             </StoryText>
         </PAGEOBJECT>
@@ -22431,6 +22463,8 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="autem: but, however, moreover"/>
                 <para PARENT="Vocab"/>
+                <ITEXT CH="Barrindus: an Irish monk"/>
+                <para PARENT="Vocab"/>
                 <ITEXT CH="benedictiōne: benediction, blessing; singular feminine  from benedictiō, benedictiōnis"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="benedictus: blessed; singular masculine nominative perfect passive participle from benedīcō, benedīcere, benedīxī, benedictus"/>
@@ -22470,6 +22504,8 @@
                 <ITEXT CH="duās: two; plural feminine accusative from duo -ae o, secundus -a -um, bīnī -ae -a, bis"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="eāmus: let us go; 1st person plural present active subjunctive from eo, ire, ivi(ii), itus"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="ebdomadās: weeks; plur. fem. acc. from ebdomada, ebdomadae"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="et: and"/>
                 <para PARENT="Vocab"/>
@@ -22586,10 +22622,6 @@
                 <ITEXT CH="terram: land"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="trānsāctā: having been accomplished; singular feminine nominative perfect passive participle from transigo, transigere, transegi, transactus"/>
-                <para PARENT="Vocab"/>
-                <ITEXT CH="UNKNOWN: {:word &quot;Barrindus&quot;, :part-of-speech :unknown}"/>
-                <para PARENT="Vocab"/>
-                <ITEXT CH="UNKNOWN: {:word &quot;ebdomadas&quot;, :part-of-speech :unknown}"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="ut: so that"/>
                 <para PARENT="Vocab"/>
@@ -24836,6 +24868,79 @@
                 <para PARENT="footnotes"/>
                 <ITEXT FEATURES="inherit superscript" CH="6"/>
                 <ITEXT CH="According to the Dickinson commentary: &quot;'the New Commandment'; here apparently the scriptural text recited at Compline. The phrase itself reflects John 13:34.&quot;"/>
+                <trail PARENT="footnotes"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="151" YPOS="16318.784713377" OwnPage="37" ItemID="181714793" PTYPE="5" WIDTH="450" HEIGHT="1" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR2="Black" PLINEART="1" path="" gXpos="151" gYpos="46270.7847133737" gWidth="0" gHeight="0" LAYER="0"/>
+        <PAGEOBJECT XPOS="118" YPOS="16325.6560509554" OwnPage="37" ItemID="1976344072" PTYPE="4" WIDTH="540" HEIGHT="256.815286624205" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 256.815 L0 256.815 L0 0 Z" copath="M0 0 L540 0 L540 256.815 L0 256.815 L0 0 Z" gXpos="118" gYpos="16325.6560509554" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FEATURES="inherit superscript" CH="1"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="Then Saint Brendan, having selected fourteen (literally, twice seven) brothers from all his congregation."/>
+                <para PARENT="footnotes"/>
+                <ITEXT FEATURES="inherit superscript" CH="2"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="He said"/>
+                <ITEXT CH=". loquor is deponent, so locūtus est is how the perfect tense is formed."/>
+                <para PARENT="footnotes"/>
+                <ITEXT FEATURES="inherit superscript" CH="3"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="Because my heart and all of my thoughts have been cemented together in one will."/>
+                <para PARENT="footnotes"/>
+                <ITEXT FEATURES="inherit superscript" CH="4"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="And these (the brothers), having acknowledged the will of the holy father, like one mouth all said"/>
+                <ITEXT CH="."/>
+                <para PARENT="footnotes"/>
+                <ITEXT FEATURES="inherit superscript" CH="5"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="Have we not sent away our parents? Have we not forsaken our inheritance, and handed our bodies into your hands?"/>
+                <trail PARENT="footnotes"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="151" YPOS="16975.9847133771" OwnPage="39" ItemID="181963049" PTYPE="5" WIDTH="450" HEIGHT="1" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR2="Black" PLINEART="1" path="" gXpos="151" gYpos="46927.9847133734" gWidth="0" gHeight="0" LAYER="0"/>
+        <PAGEOBJECT XPOS="118" YPOS="16984" OwnPage="39" ItemID="1478468072" PTYPE="4" WIDTH="540" HEIGHT="228.585987261147" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 228.586 L0 228.586 L0 0 Z" copath="M0 0 L540 0 L540 228.586 L0 228.586 L0 0 Z" gXpos="118" gYpos="16984" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FEATURES="inherit superscript" CH="1"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="Then Saint Brendan set out, and those who were with him, a fast of forty days, always by three days (i.e. in three-day intervals) and afterwards to set out."/>
+                <ITEXT CH=" proficīscī is the present infinitive (it's a deponent verb)"/>
+                <para PARENT="footnotes"/>
+                <ITEXT FEATURES="inherit superscript" CH="2"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="Having then spent forty days, and saluting the brothers, and having commended everything of his monastery to the prior, who was afterwards his successor in the same place, he set out from the "/>
+                <ITEXT FONT="DejaVu Serif Italic" FEATURES="inherit superscript" CH="west coast with fourteen brother for the insland of a certain holy father named Aende"/>
+                <ITEXT FEATURES="inherit superscript" CH="."/>
+                <para PARENT="footnotes"/>
+                <ITEXT FEATURES="inherit superscript" CH="3"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="And there he dwelled three days and three nights."/>
+                <trail PARENT="footnotes"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="118" YPOS="18037.1464968153" OwnPage="41" ItemID="161662281" PTYPE="4" WIDTH="540" HEIGHT="228.85350318471" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 228.854 L0 228.854 L0 0 Z" copath="M0 0 L540 0 L540 228.854 L0 228.854 L0 0 Z" gXpos="118" gYpos="18037.1464968153" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FEATURES="inherit superscript" CH="1"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="Where his parents were living."/>
+                <ITEXT CH=" We're told in the next line that he didn't want to see his parents, perhaps similar to Abraham leaving his parents in Ur and sojourning in the Promised Land."/>
+                <para PARENT="footnotes"/>
+                <ITEXT FEATURES="inherit superscript" CH="2"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="Where there was the entrance of one ship."/>
+                <ITEXT CH=" Historically, they set up a tent just big enough to build the boat in. Symbolically, the trope of things being only large enough for Brendan's ship symbolizes the exclusivity of the Christian church."/>
+                <para PARENT="footnotes"/>
+                <ITEXT FEATURES="inherit superscript" CH="3"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="Saint Brendan and those who were with him, having taken (up) iron tools, made a light ship, with ribs and columns made of wood."/>
+                <para PARENT="footnotes"/>
+                <ITEXT FEATURES="inherit superscript" CH="4"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="Like the custom is in those parts"/>
+                <ITEXT CH=". Leather-skinned coracles were a traditional method of Irish shipbuilding."/>
+                <para PARENT="footnotes"/>
+                <ITEXT FEATURES="inherit superscript" CH="5"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="They covered it with cow hides and reddened/coated it with oak bark."/>
+                <ITEXT CH=" Presuambly a liquid compound for treating the hides was derived from oak bark. The hide-covered ship evokes the symbolism of the tabernacle, which was walled with animal skins."/>
+                <para PARENT="footnotes"/>
+                <ITEXT FEATURES="inherit superscript" CH="6"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="And they lined -- outside -- all the junctures of the skin with butter."/>
+                <ITEXT CH=" The butter was likely a waterproofing tallow."/>
+                <para PARENT="footnotes"/>
+                <ITEXT FEATURES="inherit superscript" CH="7"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="They fixed a tree/mast in the middle of the boat"/>
+                <ITEXT CH=". This evokes the idea of the tree in the Garden of Eden as well as the cross, which is often referred to as a tree in scripture."/>
                 <trail PARENT="footnotes"/>
             </StoryText>
         </PAGEOBJECT>
