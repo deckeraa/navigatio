@@ -299,14 +299,14 @@
         <PAGE PAGEXPOS="712" PAGEYPOS="82388" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="18" BORDERTOP="18" BORDERBOTTOM="18" NUM="198" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="100" PAGEYPOS="83220" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="18" BORDERTOP="18" BORDERBOTTOM="18" NUM="199" NAM="" MNAM="Latin left" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="712" PAGEYPOS="83220" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="18" BORDERTOP="18" BORDERBOTTOM="18" NUM="200" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
-        <MASTEROBJECT XPOS="118" YPOS="776" OwnPage="2" ItemID="1513076952" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="118" gYpos="82907674248" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="118" YPOS="776" OwnPage="2" ItemID="1513076952" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="118" gYpos="83546317448" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
                 <trail ALIGN="1"/>
             </StoryText>
         </MASTEROBJECT>
-        <MASTEROBJECT XPOS="154" YPOS="776" OwnPage="3" ItemID="1513053976" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="1872516970" gYpos="82906744904" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="154" YPOS="776" OwnPage="3" ItemID="1513053976" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="1881819370" gYpos="83545388104" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
@@ -22282,6 +22282,8 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="maris: sea; singular neuter genitive from mare, maris"/>
                 <para PARENT="Vocab"/>
+                <ITEXT CH="Mernoc: an Irish abbot who visited the Promised Land of the Saints"/>
+                <para PARENT="Vocab"/>
                 <ITEXT CH="nam: yes, truly"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="nec: nor, not either"/>
@@ -22314,7 +22316,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="probāvimus: we approved, we commended; 1st person plural perfect active from probō, probāre, probāvī, probātus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="procul: far"/>
+                <ITEXT CH="procul: without, far"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="prope: near, close"/>
                 <para PARENT="Vocab"/>
@@ -22346,8 +22348,6 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="ubī: where, when if"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="UNKNOWN: {:word &quot;Mernoc&quot;, :part-of-speech :unknown}"/>
-                <para PARENT="Vocab"/>
                 <ITEXT CH="ūsque: until, all the way, up until"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="vestīmentōrum: clothes; plural neuter genitive from vestīmentum, vestīmentī"/>
@@ -22369,7 +22369,15 @@
             <StoryText>
                 <DefaultStyle/>
                 <para/>
-                <ITEXT CH="[30]     “Cum haec audīssem, coepī illōs cōnfortāre, dīcēns eīs: ‘Nōlīte, frātrēs, putāre aliquid nisi bonum. Vestra conversātiō procul dubiō est ante portam paradīsī. [31] Hīc prope est īnsula quae vocātur Terra Reprōmissiōnis Sānctōrum, ubi nec nox imminet nec diēs fīnītur. [32] Illūc frequentātur abbās Mernoc; angelī enim Dominī cūstōdiunt illam. Nōnne cognōscitis in odōre vestīmentōrum nostrōrum quod in paradīsō Deī fuimus?’"/>
+                <ITEXT CH="[30]     “Cum haec audīssem"/>
+                <ITEXT FEATURES="inherit superscript" CH="1"/>
+                <ITEXT CH=", coepī illōs cōnfortāre, dīcēns eīs: ‘Nōlīte"/>
+                <ITEXT FEATURES="inherit superscript" CH="2"/>
+                <ITEXT CH=", frātrēs, putāre aliquid nisi bonum. Vestra conversātiō procul dubiō est ante portam"/>
+                <ITEXT FEATURES="inherit superscript" CH="3"/>
+                <ITEXT CH=" paradīsī. [31] Hīc prope est īnsula quae vocātur Terra Reprōmissiōnis Sānctōrum, ubi nec nox imminet nec diēs fīnītur. [32] Illūc frequentātur"/>
+                <ITEXT FEATURES="inherit superscript" CH="4"/>
+                <ITEXT CH=" abbās Mernoc; angelī enim Dominī cūstōdiunt illam. Nōnne cognōscitis in odōre vestīmentōrum nostrōrum quod in paradīsō Deī fuimus?’"/>
                 <para PARENT="Latin"/>
                 <ITEXT CH="[33]     “Tunc frātrēs respondērunt, dīcentēs: ‘Abbā, nōvimus quia fuistī in paradīsō Deī; spatium maris, ubi est ille paradīsus, ignōrāmus. [34] Nam saepe fragrānciam vestīmentōrum abbātis nostrī probāvimus: paene usque ad quadrāgintā diēs tenēbantur ab odōre.’"/>
                 <para PARENT="Latin"/>
@@ -24770,6 +24778,26 @@
                 <para PARENT="footnotes"/>
                 <ITEXT FEATURES="inherit superscript" CH="6"/>
                 <ITEXT FONT="DejaVu Serif Italic" CH="And in the same place to dwell for a month, sometimes for two weeks or plus or minus a week."/>
+                <trail PARENT="footnotes"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="151" YPOS="14489.9847133769" OwnPage="33" ItemID="1966637336" PTYPE="5" WIDTH="450" HEIGHT="1" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR2="Black" PLINEART="1" path="" gXpos="151" gYpos="44441.9847133744" gWidth="0" gHeight="0" LAYER="0"/>
+        <PAGEOBJECT XPOS="118" YPOS="14495.847133758" OwnPage="33" ItemID="1511591896" PTYPE="4" WIDTH="540" HEIGHT="272.407643312103" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 272.408 L0 272.408 L0 0 Z" copath="M0 0 L540 0 L540 272.408 L0 272.408 L0 0 Z" gXpos="118" gYpos="14495.847133758" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FEATURES="inherit superscript" CH="1"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="When I had heard these things, I began to comfort them, saying to them."/>
+                <para PARENT="footnotes"/>
+                <ITEXT FEATURES="inherit superscript" CH="2"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="Do not, brothers, think anything except good."/>
+                <para PARENT="footnotes"/>
+                <ITEXT FEATURES="inherit superscript" CH="3"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="Your way of life without doubt is before the gates of Paradise."/>
+                <ITEXT CH=" Here procul means &quot;without&quot;. This is a good line to ponder; the monks live physically close to the Paradise, but the conversātiō makes one think that it's their monastic way of life, and not their geographic location, that makes them near to Paradise."/>
+                <para PARENT="footnotes"/>
+                <ITEXT FEATURES="inherit superscript" CH="4"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="Mernoc the Abbot frequents there; for angels of the Lord guard him"/>
+                <ITEXT CH=". Note that frequentātur is used like a deponent verb because it has an active meaning in the sentence."/>
                 <trail PARENT="footnotes"/>
             </StoryText>
         </PAGEOBJECT>
