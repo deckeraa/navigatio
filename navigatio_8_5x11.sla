@@ -309,14 +309,14 @@
         <PAGE PAGEXPOS="712" PAGEYPOS="86548" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="18" BORDERTOP="18" BORDERBOTTOM="18" NUM="208" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="100" PAGEYPOS="87380" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="18" BORDERTOP="18" BORDERBOTTOM="18" NUM="209" NAM="" MNAM="Latin left" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="712" PAGEYPOS="87380" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="18" BORDERTOP="18" BORDERBOTTOM="18" NUM="210" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
-        <MASTEROBJECT XPOS="118" YPOS="776" OwnPage="2" ItemID="2032650496" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="118" gYpos="111346128968" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="118" YPOS="776" OwnPage="2" ItemID="2032650496" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="118" gYpos="113925083528" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
                 <trail ALIGN="1"/>
             </StoryText>
         </MASTEROBJECT>
-        <MASTEROBJECT XPOS="154" YPOS="776" OwnPage="3" ItemID="2032609840" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="2274567310" gYpos="111345199624" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="154" YPOS="776" OwnPage="3" ItemID="2032609840" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="2310360130" gYpos="113924154184" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
@@ -18262,7 +18262,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="ad: to, towards, at, according to"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="adiūtōrium: help, support; plural masculine genitive from adjutor, adjutoris"/>
+                <ITEXT CH="adiūtōrium: help, support; singular neuter accusative from adiūtōrium, adiūtōriī"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="agnam: lamb; singular feminine accusative from agna, agnae"/>
                 <para PARENT="Vocab"/>
@@ -18499,7 +18499,7 @@
                 <trail ALIGN="1"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="118" YPOS="29176.7643312102" OwnPage="69" ItemID="263555121" PTYPE="4" WIDTH="540" HEIGHT="468.687898089172" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 468.688 L0 468.688 L0 0 Z" copath="M0 0 L540 0 L540 468.688 L0 468.688 L0 0 Z" gXpos="118" gYpos="29176.7643312102" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="118" YPOS="29176.7643312102" OwnPage="69" ItemID="263555121" PTYPE="4" WIDTH="540" HEIGHT="460.178343949039" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 460.178 L0 460.178 L0 0 Z" copath="M0 0 L540 0 L540 460.178 L0 460.178 L0 0 Z" gXpos="118" gYpos="29176.7643312102" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <para/>
@@ -18507,11 +18507,19 @@
                 <ITEXT CH="Caput IX Īnsula Ovium"/>
                 <para PARENT="Chapter Heading"/>
                 <para/>
-                <ITEXT CH="[1]     Quādam diē vīdērunt īnsulam nōn longē ab illīs; cumque coepissent nāvigāre ad illam īnsulam, subvēnit illīs prōsper ventus in adiūtōrium, ut nōn labōrāssent plūs quam vīrēs poterant sustinēre. [2] Cumque nāvis stetisset in portū, praecēpit vir Deī omnēs exīre forās; ipse autem ēgressus est post illōs."/>
+                <ITEXT CH="[1]     Quādam diē vīdērunt īnsulam nōn longē ab illīs; cumque coepissent nāvigāre ad illam īnsulam, subvēnit illīs prōsper ventus in adiūtōrium, ut nōn labōrāssent"/>
+                <ITEXT FEATURES="inherit superscript" CH="1"/>
+                <ITEXT CH=" plūs quam vīrēs poterant sustinēre. [2] Cumque nāvis stetisset"/>
+                <ITEXT FEATURES="inherit superscript" CH="2"/>
+                <ITEXT CH=" in portū, praecēpit vir Deī omnēs exīre forās; ipse autem ēgressus est post illōs."/>
                 <para PARENT="Latin"/>
-                <ITEXT CH="[3]      Cumque coepissent circuīre illam īnsulam, vīdērunt aquās largissimās mānāre ex dīversīs fontibus plēnās piscibus. Dīxit sānctus Brendānus frātribus suīs: [4] “Faciāmus hīc opus dīvīnum; sacrificēmus Deō agnam immaculātam, quia hodiē est Cēna Dominī.” Et ibi mānsērunt usque in Sabbatum Sānctum Paschae."/>
+                <ITEXT CH="[3]      Cumque coepissent circuīre illam īnsulam, vīdērunt aquās largissimās mānāre ex dīversīs fontibus plēnās piscibus. Dīxit sānctus Brendānus frātribus suīs: [4] “Faciāmus hīc opus dīvīnum; sacrificēmus Deō agnam"/>
+                <ITEXT FEATURES="inherit superscript" CH="3"/>
+                <ITEXT CH=" immaculātam, quia hodiē est Cēna Dominī.” Et ibi mānsērunt usque in Sabbatum Sānctum Paschae."/>
                 <para PARENT="Latin"/>
-                <ITEXT CH="[5]      Perambulantēs autem illam īnsulam, invēnērunt dīversōs gregēs ovium ūnīus colōris, idest albī, ita ut nōn possent ultrā vidēre terram, prae multitūdine ovium. [6] Convocātīs frātribus suīs, sānctus Brendānus dīxit illīs: “Accipite quae sunt necessāria ad diem fēstum dē grege.” [7] Frātrēs vērō festīnābant, secundum mandātum virī Deī, ad gregem: quī statim accēpērunt dē grege ūnam ovem."/>
+                <ITEXT CH="[5]      Perambulantēs autem illam īnsulam, invēnērunt dīversōs gregēs ovium ūnīus colōris, idest albī, ita ut nōn possent"/>
+                <ITEXT FEATURES="inherit superscript" CH="4"/>
+                <ITEXT CH=" ultrā vidēre terram, prae multitūdine ovium. [6] Convocātīs frātribus suīs, sānctus Brendānus dīxit illīs: “Accipite quae sunt necessāria ad diem fēstum dē grege.” [7] Frātrēs vērō festīnābant, secundum mandātum virī Deī, ad gregem: quī statim accēpērunt dē grege ūnam ovem."/>
                 <para PARENT="Latin"/>
             </StoryText>
         </PAGEOBJECT>
@@ -26268,6 +26276,26 @@
                 <para PARENT="footnotes"/>
                 <ITEXT FEATURES="inherit superscript" CH="3"/>
                 <ITEXT FONT="DejaVu Serif Italic" CH="Therefore the ship was carried on the ocean through diverse places."/>
+                <trail PARENT="footnotes"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="151" YPOS="29635.3847133779" OwnPage="69" ItemID="686609169" PTYPE="5" WIDTH="450" HEIGHT="1" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR2="Black" PLINEART="1" path="" gXpos="151" gYpos="59587.38471337" gWidth="0" gHeight="0" LAYER="0"/>
+        <PAGEOBJECT XPOS="118" YPOS="29642.4458598726" OwnPage="69" ItemID="683846273" PTYPE="4" WIDTH="540" HEIGHT="252.229299363058" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 252.229 L0 252.229 L0 0 Z" copath="M0 0 L540 0 L540 252.229 L0 252.229 L0 0 Z" gXpos="118" gYpos="29642.4458598726" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FEATURES="inherit superscript" CH="1"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="A properous wind came to their aid, so that they might not labor more than their strength could sustain."/>
+                <ITEXT CH=" Note vīrēs is from vīs, not vir."/>
+                <para PARENT="footnotes"/>
+                <ITEXT FEATURES="inherit superscript" CH="2"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="A with the ship anchored in port, the man of God (Brendan) ordered everyone to go outside; however he himself got out after them."/>
+                <para PARENT="footnotes"/>
+                <ITEXT FEATURES="inherit superscript" CH="3"/>
+                <ITEXT CH="They are going to cook a lamb for Easter."/>
+                <para PARENT="footnotes"/>
+                <ITEXT FEATURES="inherit superscript" CH="4"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="And walking through the island, they found various flocks of sheep of one color, that is white, so that they couldn't see the earth beyond them, because of the multitude of the sheep."/>
+                <ITEXT CH=" The same thing (white animals covering something entirely) will happen in Caput XI: Paradisus Avium."/>
                 <trail PARENT="footnotes"/>
             </StoryText>
         </PAGEOBJECT>
