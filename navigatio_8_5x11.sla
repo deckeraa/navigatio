@@ -309,14 +309,14 @@
         <PAGE PAGEXPOS="712" PAGEYPOS="86548" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="18" BORDERTOP="18" BORDERBOTTOM="18" NUM="208" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="100" PAGEYPOS="87380" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="18" BORDERTOP="18" BORDERBOTTOM="18" NUM="209" NAM="" MNAM="Latin left" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="712" PAGEYPOS="87380" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="18" BORDERTOP="18" BORDERBOTTOM="18" NUM="210" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
-        <MASTEROBJECT XPOS="118" YPOS="776" OwnPage="2" ItemID="2032650496" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="118" gYpos="109494096968" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="118" YPOS="776" OwnPage="2" ItemID="2032650496" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="118" gYpos="110396962568" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
                 <trail ALIGN="1"/>
             </StoryText>
         </MASTEROBJECT>
-        <MASTEROBJECT XPOS="154" YPOS="776" OwnPage="3" ItemID="2032609840" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="2248863310" gYpos="109493167624" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="154" YPOS="776" OwnPage="3" ItemID="2032609840" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="2261394010" gYpos="110396033224" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
@@ -18901,7 +18901,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="chrīstī: annointed one, Christ; singular masculine genitive from Chrīstus, Chrīstī"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="conditum: building, founding; singular neuter nominative perfect passive participle from "/>
+                <ITEXT CH="conditum: buried singular neuter nominative perfect passive participle from condō, condere, condidī, conditus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="conversus: having been turned; singular masculine nominative perfect passive participle from convertō, convertere, convertī, conversus"/>
                 <para PARENT="Vocab"/>
@@ -18925,7 +18925,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="ecce: Look! Behold!"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="ēgrediētur: you will go out;   future  from egredior, egredi, egressus sum"/>
+                <ITEXT CH="ēgrediētur: it will go out; 3rd person singular future  from egredior, egredi, egressus sum"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="ēgressa: having gone out; singular nominative perfect passive participle from ēgredior, ēgredī, ēgressum (deponent)"/>
                 <para PARENT="Vocab"/>
@@ -18935,7 +18935,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="ēlevātō: having been raised up; 2nd person singular future active imperative from elev.ato"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="en: from en{:word &quot;en&quot;, :part-of-speech :interjection, :dictionary-entry &quot;en&quot;, :definition &quot;behold! see! lo! here! hey! look at this!;&quot;, :dictionary-code {:age nil, :area nil, :geo nil, :freq-code :B, :freq-text &quot;In top 10 percent&quot;, :source nil}}"/>
+                <ITEXT CH="en: Behold!"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="eōdem: the same;(pronoun)"/>
                 <para PARENT="Vocab"/>
@@ -19031,7 +19031,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="quia: because"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="salio, salire, salivi, saltus: leap, jump; move suddenly/spasmodically (part of body under stress), twitch; spurt, discharge, be ejected under force (water/fluid); mount/cover (by stud);     from salio, salire, salivi, saltus"/>
+                <ITEXT CH="salīre: leap, jump; present infinitive from saliō, salīre, saluī, saltus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="sānctō: holy"/>
                 <para PARENT="Vocab"/>
@@ -19126,9 +19126,19 @@
             <StoryText>
                 <DefaultStyle/>
                 <para PARENT="Default Paragraph Style"/>
-                <ITEXT CH="[6]      Ēlevantēs sē frātrēs ā terrā, ēlevātōque frātre ā praedictō sānctō patre, ecce vīdērunt Aethiopum parvulum salīre dē sinū suō et ululantem vōce magnā, dīcēns: [7] “Cūr mē, vir Deī, iactās dē meā habitātiōne, in quā habitāvī septem annōs, et facis mē aliēnārī ab hērēditāte meā?” [8] Sānctus Brendānus ad hanc vōcem dīxit: “Praecipiō tibi in nōmine Dominī nostri Iēsu Chrīstī ut nūllum hominem laeseris usque ad diem iūdiciī.&quot;"/>
+                <ITEXT CH="[6]      Ēlevantēs sē frātrēs ā terrā, ēlevātōque frātre ā praedictō sānctō patre, ecce vīdērunt Aethiopum parvulum salīre"/>
+                <ITEXT FEATURES="inherit superscript" CH="1"/>
+                <ITEXT CH=" dē sinū suō et ululantem vōce magnā, dīcēns: [7] “Cūr mē, vir Deī, iactās dē meā habitātiōne, in quā habitāvī septem annōs, et facis mē aliēnārī ab hērēditāte meā?” [8] Sānctus Brendānus ad hanc vōcem dīxit: “Praecipiō tibi in nōmine Dominī nostri Iēsu Chrīstī ut nūllum hominem laeseris usque ad diem iūdiciī.&quot;"/>
                 <para PARENT="Latin"/>
-                <ITEXT CH="[9]     Iterum conversus vir Deī ad praedictum frātrem ait: “Sūme corpus et sanguinem Dominī, quia anima tua modo ēgrediētur dē corpore. [10] Hīc etenim habēbis locum sepultūrae tuae. Ēn frāter tuus, quī venit tēcum dē monastēriō nostrō, in īnfernō habet locum sepultūrae.” [11] Itaque, acceptā eucharistiā, anima frātris ēgressa est dē corpore, suscepta ab angelīs lūcis, videntibus frātribus. Corpus autem eius conditum est in eōdem locō ā praedictō sānctō patre."/>
+                <ITEXT CH="[9]     Iterum conversus vir Deī ad praedictum frātrem ait: “Sūme corpus"/>
+                <ITEXT FEATURES="inherit superscript" CH="2"/>
+                <ITEXT CH=" et sanguinem Dominī, quia anima tua modo ēgrediētur"/>
+                <ITEXT FEATURES="inherit superscript" CH="3"/>
+                <ITEXT CH=" dē corpore. [10] Hīc etenim habēbis locum sepultūrae tuae. Ēn frāter tuus, quī vēnit tēcum dē monastēriō nostrō, in īnfernō"/>
+                <ITEXT FEATURES="inherit superscript" CH="4"/>
+                <ITEXT CH=" habet locum sepultūrae.” [11] Itaque, acceptā eucharistiā, anima frātris ēgressa est dē corpore, suscepta ab angelīs lūcis, videntibus frātribus. Corpus autem eius conditum"/>
+                <ITEXT FEATURES="inherit superscript" CH="5"/>
+                <ITEXT CH=" est in eōdem locō ā praedictō sānctō patre."/>
                 <para PARENT="Latin"/>
             </StoryText>
         </PAGEOBJECT>
@@ -26211,6 +26221,31 @@
                 <para PARENT="footnotes"/>
                 <ITEXT FEATURES="inherit superscript" CH="3"/>
                 <ITEXT FONT="DejaVu Serif Italic" CH="Behold, our brother, whom I foretold to you yesterday, has a silver bridal in his pocket (or in the fold of his garment), which the devil gave to him this night."/>
+                <trail PARENT="footnotes"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="151" YPOS="27864.9847133778" OwnPage="65" ItemID="701106065" PTYPE="5" WIDTH="450" HEIGHT="1" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR2="Black" PLINEART="1" path="" gXpos="151" gYpos="57816.9847133707" gWidth="0" gHeight="0" LAYER="0"/>
+        <PAGEOBJECT XPOS="118" YPOS="27874.0891719745" OwnPage="65" ItemID="2027563840" PTYPE="4" WIDTH="540" HEIGHT="357.910828025473" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 357.911 L0 357.911 L0 0 Z" copath="M0 0 L540 0 L540 357.911 L0 357.911 L0 0 Z" gXpos="118" gYpos="27874.0891719745" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FEATURES="inherit superscript" CH="1"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="Behold they saw the little Ethiopian (demon) to leap from his pocket and shouting with a great voice, saying."/>
+                <ITEXT CH=" The choice of the infinitive salīre is a little awkward here; I think it would have been better for the writer to have chosen the participle salientem to parallel ululantem."/>
+                <para PARENT="footnotes"/>
+                <ITEXT FEATURES="inherit superscript" CH="2"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="Take the body and blood of the Lord."/>
+                <ITEXT CH=" This is referring to the Eucharist, which in this case is being given as Last Rites."/>
+                <para PARENT="footnotes"/>
+                <ITEXT FEATURES="inherit superscript" CH="3"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="Because your soul will leave your body."/>
+                <ITEXT CH=" In other words, he will die."/>
+                <para PARENT="footnotes"/>
+                <ITEXT FEATURES="inherit superscript" CH="4"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="Behold! Your brother, who came with you from our monastery, has his place of burial in Hell"/>
+                <ITEXT CH=". The third monk, who will do well, is not here mentioned. It's a little odd that the present tense was chosen for habet. One manuscript put it in the future with habēbit. Perhaps the present was chosen to emphasize that one's future destiny is already present in the choices one is making in the here-and-now."/>
+                <para PARENT="footnotes"/>
+                <ITEXT FEATURES="inherit superscript" CH="5"/>
+                <ITEXT CH="Therefore his body was buried in the same place by the aforesaid holy father."/>
                 <trail PARENT="footnotes"/>
             </StoryText>
         </PAGEOBJECT>
