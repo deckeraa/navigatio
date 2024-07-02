@@ -329,14 +329,14 @@
         <PAGE PAGEXPOS="712" PAGEYPOS="94868" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="18" BORDERTOP="18" BORDERBOTTOM="18" NUM="228" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="100" PAGEYPOS="95700" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="18" BORDERTOP="18" BORDERBOTTOM="18" NUM="229" NAM="" MNAM="Latin left" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="712" PAGEYPOS="95700" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="18" BORDERTOP="18" BORDERBOTTOM="18" NUM="230" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
-        <MASTEROBJECT XPOS="118" YPOS="776" OwnPage="2" ItemID="2032650496" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="118" gYpos="156742811208" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="118" YPOS="776" OwnPage="2" ItemID="2032650496" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="118" gYpos="159123520968" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
                 <trail ALIGN="1"/>
             </StoryText>
         </MASTEROBJECT>
-        <MASTEROBJECT XPOS="154" YPOS="776" OwnPage="3" ItemID="2032609840" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="2884204990" gYpos="156741881864" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="154" YPOS="776" OwnPage="3" ItemID="2032609840" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="2914398010" gYpos="159122591624" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
@@ -17783,9 +17783,21 @@
             <StoryText>
                 <DefaultStyle/>
                 <para/>
-                <ITEXT CH="[8]     Frātrēs vērō coepērunt currere ad nāvim, dēprecantēs patrōcinium sānctī patris. Pater singulōs manibus trahēbat intus; [9] relictīs omnibus quae portābant in illam īnsulam, coepērunt nāvigāre. Porrō illa īnsula ferēbātur in ōceanum; immō poterant vidēre ignem ārdentem super duo mīliāria."/>
+                <ITEXT CH="[8]     Frātrēs vērō coepērunt currere ad nāvim, dēprecantēs"/>
+                <ITEXT FEATURES="inherit superscript" CH="1"/>
+                <ITEXT CH=" patrōcinium sānctī patris. Pater singulōs"/>
+                <ITEXT FEATURES="inherit superscript" CH="2"/>
+                <ITEXT CH=" manibus trahēbat intus; [9] relictīs"/>
+                <ITEXT FEATURES="inherit superscript" CH="3"/>
+                <ITEXT CH=" omnibus quae portābant in illam īnsulam, coepērunt nāvigāre. Porrō illa īnsula ferēbātur in ōceanum; immō"/>
+                <ITEXT FEATURES="inherit superscript" CH="4"/>
+                <ITEXT CH=" poterant vidēre ignem ārdentem super duo mīliāria."/>
                 <para PARENT="Latin"/>
-                <ITEXT CH="[10]      Sānctus Brendānus nārrāvit frātribus quid hoc esset, dīcēns: “Frātrēs, admīrāminī quod fēcit haec īnsula?” [11] Aiunt: “Admīrāmur valdē, necnōn et ingēns pavor penetrāvit nōs.” [12] Quī dīxit illīs: “Fīliolī, nōlīte expavēscere: Deus enim revēlāvit mihi hāc nocte per vīsiōnem sacrāmentum huius reī. [13] Īnsula nōn est, ubi fuimus, sed piscis, prior omnium natantium in ōceanō. Quaerit semper suam caudam ut simul iungat capitī, et nōn potest, prae longitūdine. Quī habet nōmen Iascōnius.”"/>
+                <ITEXT CH="[10]      Sānctus Brendānus nārrāvit frātribus quid hoc esset, dīcēns: “Frātrēs, admīrāminī quod fēcit haec īnsula?” [11] Aiunt: “Admīrāmur valdē, necnōn et ingēns pavor penetrāvit nōs.” [12] Quī dīxit illīs: “Fīliolī, nōlīte expavēscere: Deus enim revēlāvit mihi hāc nocte per vīsiōnem sacrāmentum huius reī. [13] Īnsula nōn est, ubi fuimus, sed piscis, prior"/>
+                <ITEXT FEATURES="inherit superscript" CH="5"/>
+                <ITEXT CH=" omnium natantium in ōceanō. Quaerit semper suam caudam ut simul"/>
+                <ITEXT FEATURES="inherit superscript" CH="6"/>
+                <ITEXT CH=" iungat capitī, et nōn potest, prae longitūdine. Quī habet nōmen Iascōnius.”"/>
                 <para PARENT="Latin"/>
             </StoryText>
         </PAGEOBJECT>
@@ -28184,6 +28196,33 @@
                 <para PARENT="footnotes"/>
                 <ITEXT FEATURES="inherit superscript" CH="6"/>
                 <ITEXT FONT="DejaVu Serif Italic" CH="They were attending to the fire with wood (putting wood on the fire) and with the cauldron having begun to boil, the island began to move like a wave."/>
+                <trail PARENT="footnotes"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="151" YPOS="41145.1847133771" OwnPage="97" ItemID="807638209" PTYPE="5" WIDTH="450" HEIGHT="1" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR2="Black" PLINEART="1" path="" gXpos="151" gYpos="71097.1847133688" gWidth="0" gHeight="0" LAYER="0"/>
+        <PAGEOBJECT XPOS="118" YPOS="41154.6496815287" OwnPage="97" ItemID="803809153" PTYPE="4" WIDTH="540" HEIGHT="232.96815286624" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 232.968 L0 232.968 L0 0 Z" copath="M0 0 L540 0 L540 232.968 L0 232.968 L0 0 Z" gXpos="118" gYpos="41154.6496815287" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FEATURES="inherit superscript" CH="1"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="The brothers began to run to the ship, crying for the protection of the holy father."/>
+                <para PARENT="footnotes"/>
+                <ITEXT FEATURES="inherit superscript" CH="2"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="The father pulled each one into the ship by hand. "/>
+                <ITEXT CH="On a spiritual level, this represents Brendan leading the monks into the faith and the protection of the Church."/>
+                <para PARENT="footnotes"/>
+                <ITEXT FEATURES="inherit superscript" CH="3"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="Leaving all which they were carrying on that island, they began to sail."/>
+                <ITEXT CH=" This is similar to how the monks left all their worldly possessions behind to become monks."/>
+                <para PARENT="footnotes"/>
+                <ITEXT FEATURES="inherit superscript" CH="4"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="However, they were able to see the fire burning more than two miles away."/>
+                <para PARENT="footnotes"/>
+                <ITEXT FEATURES="inherit superscript" CH="5"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="It is not an island, where we were, but a fish, superior/before everything swimming in the ocean."/>
+                <para PARENT="footnotes"/>
+                <ITEXT FEATURES="inherit superscript" CH="6"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="He is always seeking to join together his head and tail, and he cannot because of his size."/>
+                <ITEXT CH=" This most curious details implies that Iascōnius is like an uroboros, they self-eating snake. Yet Iascōnius is unable to accomplish this because of his size; I have yet been unable to determine what the symbolic meaning of this could be. Iascōnius is an interesting character in that he is a neutral/good character in this story; for example in chapter 27 he gives carries their boat to the Paradise of Birds."/>
                 <trail PARENT="footnotes"/>
             </StoryText>
         </PAGEOBJECT>
