@@ -309,14 +309,14 @@
         <PAGE PAGEXPOS="712" PAGEYPOS="86548" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="18" BORDERTOP="18" BORDERBOTTOM="18" NUM="208" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="100" PAGEYPOS="87380" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="18" BORDERTOP="18" BORDERBOTTOM="18" NUM="209" NAM="" MNAM="Latin left" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="712" PAGEYPOS="87380" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="18" BORDERTOP="18" BORDERBOTTOM="18" NUM="210" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
-        <MASTEROBJECT XPOS="118" YPOS="776" OwnPage="2" ItemID="1513076952" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="118" gYpos="103706496968" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="118" YPOS="776" OwnPage="2" ItemID="1513076952" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="118" gYpos="104868647048" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
                 <trail ALIGN="1"/>
             </StoryText>
         </MASTEROBJECT>
-        <MASTEROBJECT XPOS="154" YPOS="776" OwnPage="3" ItemID="1513053976" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="2168538310" gYpos="103705567624" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="154" YPOS="776" OwnPage="3" ItemID="1513053976" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="2184667570" gYpos="104867717704" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
@@ -20082,9 +20082,17 @@
             <StoryText>
                 <DefaultStyle/>
                 <para/>
-                <ITEXT CH="[7]     Cum autem appropinquāssent ad lītus illīus, vīdērunt rīpam altissimam sīcut mūrum, et dīversōs rīvulōs dēscendentēs dē summitāte īnsulae, fluentēs in mare. [8] Tamen minimē poterant invenīre portum ubi stetisset nāvis. Frātrēs enim vexātī erant valdē dē famē et sitī; singulī vērō accēpērunt vāscula ut aliquid dē aquā potuissent sūmere."/>
+                <ITEXT CH="[7]     Cum autem appropinquāssent ad lītus illīus, vīdērunt rīpam altissimam sīcut mūrum, et dīversōs rīvulōs dēscendentēs dē summitāte īnsulae, fluentēs in mare. [8] Tamen minimē poterant invenīre portum ubi stetisset"/>
+                <ITEXT FEATURES="inherit superscript" CH="1"/>
+                <ITEXT CH=" nāvis. Frātrēs enim vexātī erant valdē dē famē et sitī; singulī vērō accēpērunt vāscula ut aliquid dē aquā potuissent"/>
+                <ITEXT FEATURES="inherit superscript" CH="2"/>
+                <ITEXT CH=" sūmere."/>
                 <para PARENT="Latin"/>
-                <ITEXT CH="[9]     Sānctus Brendānus, cum haec vīdisset, dīxit: “Nōlīte facere: stultum est enim quod agitis, quandō Deus nōn vult nōbīs ostendere portum intrandī, et vultis rapīnam facere. [10] Dominus Iēsus Chrīstus post trēs diēs ostendet servīs suīs portum et locum manendī, ut reficiantur corpora vexātōrum.”"/>
+                <ITEXT CH="[9]     Sānctus Brendānus, cum haec vīdisset, dīxit: “Nōlīte facere: stultum est enim quod agitis, quandō Deus nōn vult nōbīs ostendere portum intrandī, et vultis rapīnam"/>
+                <ITEXT FEATURES="inherit superscript" CH="3"/>
+                <ITEXT CH=" facere. [10] Dominus Iēsus Chrīstus post trēs diēs ostendet servīs suīs portum et locum manendī"/>
+                <ITEXT FEATURES="inherit superscript" CH="4"/>
+                <ITEXT CH=", ut reficiantur corpora vexātōrum.”"/>
                 <para PARENT="Latin"/>
                 <ITEXT CH="[11]     Cum autem circuīrent per trēs diēs illam īnsulam, tertia diē, circā hōram nōnam, invēnērunt portum ubi erat aditus ūnīus nāvis. [12] Et statim surrēxit sānctus Brendānus et benedīxit introitum. Erat namque petra incīsa ex utrāque parte, mīrae altitūdinis, sīcut mūrus."/>
                 <para PARENT="Latin"/>
@@ -26086,6 +26094,27 @@
                 <ITEXT FEATURES="inherit superscript" CH="5"/>
                 <ITEXT FONT="DejaVu Serif Italic" CH="Put all the oars and rudder inside, only leave the sail extended, and God will do as he wants with his servants and his boat."/>
                 <para PARENT="footnotes"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="151" YPOS="24596.5847133775" OwnPage="57" ItemID="152351225" PTYPE="5" WIDTH="450" HEIGHT="1" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR2="Black" PLINEART="1" path="" gXpos="151" gYpos="54548.584713372" gWidth="0" gHeight="0" LAYER="0"/>
+        <PAGEOBJECT XPOS="118" YPOS="24608.4076433121" OwnPage="57" ItemID="277127161" PTYPE="4" WIDTH="540" HEIGHT="295.592356687896" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 295.592 L0 295.592 L0 0 Z" copath="M0 0 L540 0 L540 295.592 L0 295.592 L0 0 Z" gXpos="118" gYpos="24608.4076433121" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FEATURES="inherit superscript" CH="1"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="However they were not able to find a harbor where the ship might be anchored."/>
+                <ITEXT CH=" stāre is being used here as a nautical term, similar to how we say a ship &quot;stands off&quot; from harbor. The subjunctive is used to express doubt."/>
+                <para PARENT="footnotes"/>
+                <ITEXT FEATURES="inherit superscript" CH="2"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="Each one took vessels that they might be able to take something of the water."/>
+                <para PARENT="footnotes"/>
+                <ITEXT FEATURES="inherit superscript" CH="3"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="Do not do this, for what you do is foolish, when God has not wanted to show to us a harbor for entering, and you want to make robbery."/>
+                <ITEXT CH=" intrandī is a gerund in the genitive. It's unclear to me what the water is intened to represent; on a physical level the account doesn't make sense because the water would be flowing into the sea anyway. Water and its drinkability (or lack thereof) is a common theme in this text."/>
+                <para PARENT="footnotes"/>
+                <ITEXT FEATURES="inherit superscript" CH="4"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="The Lord Jesus Christ after three days will show to his servants a harbor and a place for staying."/>
+                <ITEXT CH=" manendī is a gerund in the genitive."/>
+                <trail PARENT="footnotes"/>
             </StoryText>
         </PAGEOBJECT>
     </DOCUMENT>
