@@ -339,14 +339,14 @@
         <PAGE PAGEXPOS="712" PAGEYPOS="99028" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="18" BORDERTOP="18" BORDERBOTTOM="18" NUM="238" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="100" PAGEYPOS="99860" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="18" BORDERTOP="18" BORDERBOTTOM="18" NUM="239" NAM="" MNAM="Latin left" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="712" PAGEYPOS="99860" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="18" BORDERTOP="18" BORDERBOTTOM="18" NUM="240" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
-        <MASTEROBJECT XPOS="118" YPOS="776" OwnPage="2" ItemID="2019482237" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="118" gYpos="202423072328" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="118" YPOS="776" OwnPage="2" ItemID="2019482237" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="118" gYpos="204011676488" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
                 <trail ALIGN="1"/>
             </StoryText>
         </MASTEROBJECT>
-        <MASTEROBJECT XPOS="154" YPOS="776" OwnPage="3" ItemID="2019490845" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="3449062630" gYpos="202422142984" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="154" YPOS="776" OwnPage="3" ItemID="2019490845" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="3468377350" gYpos="204010747144" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
@@ -14788,7 +14788,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="modō: mode, manner, way, measure, size; sing. masc. dat. from modus, modī"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="modum: mode, manner, way, measure, size; sing. masc. acc. from modus, modī"/>
+                <ITEXT CH="modum: limit, mode, manner, way, measure, size; sing. masc. acc. from modus, modī"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="nam: yes, truly"/>
                 <para PARENT="Vocab"/>
@@ -14939,9 +14939,13 @@
                 <ITEXT CH="Caput XXVI Paulus Herēmīta Spīritālis"/>
                 <para PARENT="Chapter Heading"/>
                 <para/>
-                <ITEXT CH="[1]     Sānctus vērō Brendānus cum suīs commīlitōnibus nāvigāvit contrā merīdiānam plāgam, glōrificāns Deum in omnibus. [2] Tertiā vērō diē appāruit illīs quaedam īnsula parva, contrā merīdiem procul. [3] Cum autem frātrēs coepissent nāvigāre ācrius et appropinquāssent praedictae īnsulae, ait illīs sānctus Brendānus: [4] “Virī frātrēs, nōlīte suprā modum corpora vestra fatīgāre: satis enim habētis labōrem. [5] Septem iam annī sunt postquam ēgressī sumus dē nostrā patriā usque in hōc Pascha quod ventūrum erit cito. [6] Namque modo vidēbitis Paulum heremitam spīritālem, in hāc īnsulā sine ūllō vīctū corporālī commorantem per sexāgintā annōs: [7] nam trīgintā annōs anteā sūmpsit cibum ā quādam bēstiā per praedictōs annōs."/>
+                <ITEXT CH="[1]     Sānctus vērō Brendānus cum suīs commīlitōnibus nāvigāvit contrā merīdiānam plāgam, glōrificāns Deum in omnibus. [2] Tertiā vērō diē appāruit illīs quaedam īnsula parva, contrā merīdiem procul. [3] Cum autem frātrēs coepissent nāvigāre ācrius et appropinquāssent praedictae īnsulae, ait illīs sānctus Brendānus: [4] “Virī frātrēs, nōlīte suprā"/>
+                <ITEXT FEATURES="inherit superscript" CH="1"/>
+                <ITEXT CH=" modum corpora vestra fatīgāre: satis enim habētis labōrem. [5] Septem iam annī sunt postquam ēgressī sumus dē nostrā patriā usque in hōc Pascha quod ventūrum erit cito. [6] Namque modo vidēbitis Paulum heremitam spīritālem, in hāc īnsulā sine ūllō vīctū corporālī commorantem per sexāgintā annōs: [7] nam trīgintā annōs anteā sūmpsit cibum ā quādam"/>
+                <ITEXT FEATURES="inherit superscript" CH="2"/>
+                <ITEXT CH=" bēstiā per praedictōs annōs."/>
                 <para PARENT="Latin"/>
-                <ITEXT CH="[8]     Cum autem appropinquāssent ad lītus, minimē poterant aditum invenīre, prae altitūdine rīpae illīus. Erat autem parva et nimis rotunda illa īnsula, quasi ūnīus stadiī. [9] Dē terrā vērō nihil habuit dēsuper, sed petra nūda in modum silicis appāruit. Quantum erat lātitūdinis et longitūdinis, tantae altitūdinis. [10] Cum autem circuīssent nāvigandō illam īnsulam, invēnērunt portum strictum ita ut prōram nāviculae vix capere potuisset, et ascēnsum difficillimum ad ascendendum."/>
+                <ITEXT CH="[8]     Cum autem appropinquāssent ad lītus, minimē poterant aditum invenīre, prae altitūdine rīpae illīus. Erat autem parva et nimis rotunda illa īnsula, quasi ūnīus stadiī. [9] Dē terrā vērō nihil habuit dēsuper, sed petra nūda in modum silicis appāruit. Quantum erat lātitūdinis et longitūdinis, tantae altitūdinis3. [10] Cum autem circuīssent nāvigandō illam īnsulam, invēnērunt portum strictum4 ita ut prōram nāviculae vix capere potuisset, et ascēnsum difficillimum ad ascendendum."/>
                 <para PARENT="Latin"/>
             </StoryText>
         </PAGEOBJECT>
@@ -29594,5 +29598,26 @@
             </StoryText>
         </PAGEOBJECT>
         <PAGEOBJECT XPOS="151" YPOS="92094.7847133723" OwnPage="219" ItemID="1912941006" PTYPE="5" WIDTH="450" HEIGHT="1" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR2="Black" PLINEART="1" path="" gXpos="151" gYpos="87934.7847133744" gWidth="0" gHeight="0" LAYER="0"/>
+        <PAGEOBJECT XPOS="118" YPOS="92098" OwnPage="219" ItemID="629846750" PTYPE="4" WIDTH="540" HEIGHT="195.452229299379" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 195.452 L0 195.452 L0 0 Z" copath="M0 0 L540 0 L540 195.452 L0 195.452 L0 0 Z" gXpos="118" gYpos="92098" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FEATURES="inherit superscript" CH="1"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="Brother-men, do not fatigue your bodies beyond the limit, for you have enough labor."/>
+                <para PARENT="footnotes"/>
+                <ITEXT FEATURES="inherit superscript" CH="2"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="For thirty years prior he took food from a certain beast for the aforesaid years."/>
+                <ITEXT CH=" Paul the Spiritual started out with nourishment brought by an animal, but later found nourishment directly from a fountain."/>
+                <para PARENT="footnotes"/>
+                <ITEXT FEATURES="inherit superscript" CH="3"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="However much was the length and width, such was the height."/>
+                <ITEXT CH=" The island is cubic in proportion, much like the heavenly city in Revelation."/>
+                <para PARENT="footnotes"/>
+                <ITEXT FEATURES="inherit superscript" CH="4"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="They found a narrow port so it could scarcely take the prow of the boat, and the ascent was difficult to ascend"/>
+                <ITEXT CH=". This may symbolize the strictness and difficulty of the monastic life."/>
+                <trail PARENT="footnotes"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="151" YPOS="92879.584713372" OwnPage="221" ItemID="2014415837" PTYPE="5" WIDTH="450" HEIGHT="1" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR2="Black" PLINEART="1" path="" gXpos="151" gYpos="88719.5847133741" gWidth="0" gHeight="0" LAYER="0"/>
     </DOCUMENT>
 </SCRIBUSUTF8NEW>
