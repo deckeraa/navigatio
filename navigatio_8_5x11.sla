@@ -339,14 +339,14 @@
         <PAGE PAGEXPOS="712" PAGEYPOS="99028" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="18" BORDERTOP="18" BORDERBOTTOM="18" NUM="238" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="100" PAGEYPOS="99860" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="18" BORDERTOP="18" BORDERBOTTOM="18" NUM="239" NAM="" MNAM="Latin left" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="712" PAGEYPOS="99860" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="18" BORDERTOP="18" BORDERBOTTOM="18" NUM="240" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
-        <MASTEROBJECT XPOS="118" YPOS="776" OwnPage="2" ItemID="2019482237" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="118" gYpos="204011676488" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="118" YPOS="776" OwnPage="2" ItemID="2019482237" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="118" gYpos="205473433928" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
                 <trail ALIGN="1"/>
             </StoryText>
         </MASTEROBJECT>
-        <MASTEROBJECT XPOS="154" YPOS="776" OwnPage="3" ItemID="2019490845" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="3468377350" gYpos="204010747144" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="154" YPOS="776" OwnPage="3" ItemID="2019490845" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="3486149830" gYpos="205472504584" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
@@ -15235,9 +15235,21 @@
             <StoryText>
                 <DefaultStyle/>
                 <para/>
-                <ITEXT CH="[11]     Tum sānctus Brendānus dīxit frātribus suīs: “Expectāte hīc, dōnec revertar ad vōs. [12] Nōn licet vōbīs intrāre sine licentiā virī Deī quī commorātur in hōc locō.” [13] Cum autem venerābilis pater pervēnisset ad summitātem illīus īnsulae, vīdit duās spēluncās — ōstium contrā ōstium — in latere īnsulae contrā ortum sōlis, [14] ac fontem parvissimum, rotundum in modum patulae, surgentem dē petrā ante ōstium spēluncae ubi mīles Chrīstī residēbat; at ubi surgēbat praedictus fōns, statim petra sorbēbat illum."/>
+                <ITEXT CH="[11]     Tum sānctus Brendānus dīxit frātribus suīs: “Expectāte hīc, dōnec revertar ad vōs. [12] Nōn licet vōbīs intrāre sine licentiā virī Deī quī commorātur in hōc locō.” [13] Cum autem venerābilis pater pervēnisset ad summitātem illīus īnsulae, vīdit duās spēluncās — ōstium contrā ōstium — in latere īnsulae contrā ortum"/>
+                <ITEXT FEATURES="inherit superscript" CH="1"/>
+                <ITEXT CH=" sōlis, [14] ac fontem parvissimum, rotundum in modum patulae, surgentem dē petrā ante ōstium spēluncae ubi mīles Chrīstī residēbat; at ubi surgēbat praedictus fōns, statim petra sorbēbat"/>
+                <ITEXT FEATURES="inherit superscript" CH="2"/>
+                <ITEXT CH=" illum."/>
                 <para PARENT="Latin"/>
-                <ITEXT CH="[15]     Sānctus vērō Brendānus, cum appropinquāsset ad ōstium spēluncae ūnīus, dē alterā ēgressus est senex forās obviam sibi, dīcēns: “Ecce, quam bonum et quam iocundum habitāre frātrēs in ūnum.” [16] Cum haec dīxisset, praecēpit sānctō Brendānō omnēs frātrēs suōs venīre dē nāvī. [17] Ōsculantibus sē invicem ac residentibus, propriīs nōminibus singulōs appellābat. [18] At ubi frātrēs audiērunt, admīrātī sunt valdē, nōn tantum dē suā prophētīā, vērum etiam dē suō habitū: [19] erat enim coopertus tōtus capillīs suīs et barbā et cēterīs pilīs usque ad pedēs, et erant candidī sīcut nix, prae nimiā senectūte. [20] Tantum faciēs et oculī vidēbantur illīus; nihil aliud indūmentī erat sibi iūnctum, exceptō pilōs quī ēgrediēbantur dē suō corpore."/>
+                <ITEXT CH="[15]     Sānctus vērō Brendānus, cum appropinquāsset ad ōstium spēluncae ūnīus, dē alterā ēgressus est senex forās obviam sibi, dīcēns: “Ecce, quam bonum et quam iocundum habitāre frātrēs in ūnum"/>
+                <ITEXT FEATURES="inherit superscript" CH="3"/>
+                <ITEXT CH=".” [16] Cum haec dīxisset, praecēpit sānctō Brendānō omnēs frātrēs suōs venīre dē nāvī. [17] Ōsculantibus sē invicem ac residentibus, propriīs"/>
+                <ITEXT FEATURES="inherit superscript" CH="4"/>
+                <ITEXT CH=" nōminibus singulōs appellābat. [18] At ubi frātrēs audiērunt, admīrātī"/>
+                <ITEXT FEATURES="inherit superscript" CH="5"/>
+                <ITEXT CH=" sunt valdē, nōn tantum dē suā prophētīā, vērum etiam dē suō habitū: [19] erat enim coopertus tōtus capillīs suīs et barbā et cēterīs pilīs usque ad pedēs, et erant candidī sīcut nix, prae nimiā senectūte. [20] Tantum faciēs et oculī vidēbantur illīus; nihil aliud indūmentī"/>
+                <ITEXT FEATURES="inherit superscript" CH="6"/>
+                <ITEXT CH=" erat sibi iūnctum, exceptō pilōs quī ēgrediēbantur dē suō corpore."/>
                 <para PARENT="Latin"/>
             </StoryText>
         </PAGEOBJECT>
@@ -29610,7 +29622,7 @@
                 <para PARENT="footnotes"/>
                 <ITEXT FEATURES="inherit superscript" CH="3"/>
                 <ITEXT FONT="DejaVu Serif Italic" CH="However much was the length and width, such was the height."/>
-                <ITEXT CH=" The island is cubic in proportion, much like the heavenly city in Revelation."/>
+                <ITEXT CH=" The island is cubic in proportion (though round in shape, see line 8), much like the heavenly city in Revelation."/>
                 <para PARENT="footnotes"/>
                 <ITEXT FEATURES="inherit superscript" CH="4"/>
                 <ITEXT FONT="DejaVu Serif Italic" CH="They found a narrow port so it could scarcely take the prow of the boat, and the ascent was difficult to ascend"/>
@@ -29619,5 +29631,32 @@
             </StoryText>
         </PAGEOBJECT>
         <PAGEOBJECT XPOS="151" YPOS="92879.584713372" OwnPage="221" ItemID="2014415837" PTYPE="5" WIDTH="450" HEIGHT="1" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR2="Black" PLINEART="1" path="" gXpos="151" gYpos="88719.5847133741" gWidth="0" gHeight="0" LAYER="0"/>
+        <PAGEOBJECT XPOS="118" YPOS="92886.8789808917" OwnPage="221" ItemID="680456046" PTYPE="4" WIDTH="540" HEIGHT="236.636942675163" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 236.637 L0 236.637 L0 0 Z" copath="M0 0 L540 0 L540 236.637 L0 236.637 L0 0 Z" gXpos="118" gYpos="92886.8789808917" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FEATURES="inherit superscript" CH="1"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="He saw two caves, mouth to mouth, in the side of the island facing the rising of the sun."/>
+                <para PARENT="footnotes"/>
+                <ITEXT FEATURES="inherit superscript" CH="2"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="And when the aforesaid fountain poured forth, at once the rock drank it (the water) up."/>
+                <ITEXT CH=" This is like the ouroboros imagery of Iascōnius, but is now much more positive: instead of being self-consuming, the fountain is self-generating."/>
+                <para PARENT="footnotes"/>
+                <ITEXT FEATURES="inherit superscript" CH="3"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="Behold, how good and how pleasant it is for brothers to dwell in unity."/>
+                <ITEXT CH=" This is a quote from Psalm 132."/>
+                <para PARENT="footnotes"/>
+                <ITEXT FEATURES="inherit superscript" CH="4"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="Kissing each one  in turn and sitting back down, he called each one by their own name."/>
+                <ITEXT CH=" Foreknowledge of names is a common theme in this text."/>
+                <para PARENT="footnotes"/>
+                <ITEXT FEATURES="inherit superscript" CH="5"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="And when the brother heard (their names) they were very amazed, not only because of his prophecy, but truly also of his habit: for he was entirely covered with his hairs and beard and other hairs all the way down to his feet."/>
+                <para PARENT="footnotes"/>
+                <ITEXT FEATURES="inherit superscript" CH="6"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="Nothing of other clothing was joined to him excepts hairs which came out of his own body."/>
+                <ITEXT CH=" Much like how Paul the Spiritual moved from being fed by a beast to being fed soley by the fountain, he has also transcended the need for external supplementation in the form of clothes. Compare with Adam and Eve receiving the garments of skin in Genesis 3:21."/>
+                <trail PARENT="footnotes"/>
+            </StoryText>
+        </PAGEOBJECT>
     </DOCUMENT>
 </SCRIBUSUTF8NEW>
