@@ -339,14 +339,14 @@
         <PAGE PAGEXPOS="712" PAGEYPOS="99028" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="18" BORDERTOP="18" BORDERBOTTOM="18" NUM="238" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="100" PAGEYPOS="99860" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="18" BORDERTOP="18" BORDERBOTTOM="18" NUM="239" NAM="" MNAM="Latin left" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="712" PAGEYPOS="99860" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="18" BORDERTOP="18" BORDERBOTTOM="18" NUM="240" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
-        <MASTEROBJECT XPOS="118" YPOS="776" OwnPage="2" ItemID="2019482237" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="118" gYpos="205473433928" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="118" YPOS="776" OwnPage="2" ItemID="2019482237" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="118" gYpos="208348626248" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
                 <trail ALIGN="1"/>
             </StoryText>
         </MASTEROBJECT>
-        <MASTEROBJECT XPOS="154" YPOS="776" OwnPage="3" ItemID="2019490845" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="3486149830" gYpos="205472504584" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="154" YPOS="776" OwnPage="3" ItemID="2019490845" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="3521107270" gYpos="208347696904" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
@@ -15370,6 +15370,8 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="modō: mode, manner, way, measure, size; sing. masc. dat. from modus, modī"/>
                 <para PARENT="Vocab"/>
+                <ITEXT CH="monachicum: monkish; singular masculine accusative adjective monachicus, -a, -um"/>
+                <para PARENT="Vocab"/>
                 <ITEXT CH="monachus, monachī: monk;    from monachus, monachī"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="monachus: monk; sing. masc. nom. from monachus, monachī"/>
@@ -15387,8 +15389,6 @@
                 <ITEXT CH="nūllī: no, none, not any; sing.  dat. from nūllus, nūlla, nūllum (gen -ius)"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="nūtrītus: having been nourished; singular masculine nominative perfect passive participle from nūtriō, nūtrīre, nūtrīvī, nūtrītus"/>
-                <para PARENT="Vocab"/>
-                <ITEXT CH="o: from o{:word &quot;o&quot;, :part-of-speech :interjection, :dictionary-entry &quot;o&quot;, :definition &quot;Oh!;&quot;, :dictionary-code {:age nil, :area nil, :geo nil, :freq-code :A, :freq-text &quot;Very frequent, in all Elementry Latin books&quot;, :source nil}}"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="ōrdinis: order; sing. masc. gen. from ōrdō, ōrdinis"/>
                 <para PARENT="Vocab"/>
@@ -15507,11 +15507,19 @@
                 <trail PARENT="Default Paragraph Style" ALIGN="1"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="118" YPOS="93240" OwnPage="223" ItemID="181497742" PTYPE="4" WIDTH="540" HEIGHT="398.522292993635" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 398.522 L0 398.522 L0 0 Z" copath="M0 0 L540 0 L540 398.522 L0 398.522 L0 0 Z" gXpos="118" gYpos="93240" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="118" YPOS="93240" OwnPage="223" ItemID="181497742" PTYPE="4" WIDTH="540" HEIGHT="379.719745222945" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 379.72 L0 379.72 L0 0 Z" copath="M0 0 L540 0 L540 379.72 L0 379.72 L0 0 Z" gXpos="118" gYpos="93240" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <para/>
-                <ITEXT CH="[21]     At vērō sānctus Brendānus, cum haec vīdisset, contristātus est, intrā sē dīcēns: “Vae mihi, quī portō habitum monachicum, [22] et sub mē cōnstitūtī sunt multī sub nōmine illīus ōrdinis, cum videō modo in angelicō statū hominem in carne adhūc sedentem illaesum ā vitiīs corporis.” [23] Cui ait vir Deī: “Ō venerābilis pater, quanta et quālia mīrābilia ostendit Deus tibi, quae nūllī sānctōrum patrum manifestāvit! [24] Et tū dīcis in corde tuō nōn esse tē dignum monachicum portāre habitum, et tū cum sīs maior quam monachus! Monachus vērō labōre manuum suārum ūtitur et vestītur. [25] Deus autem dē suīs sēcrētīs per septem annōs pāscit tē cum tuā familiā et induit; ego vērō miser sedeō sīcut avis in istā petrā, nūdus, exceptō meō pīlō.”"/>
+                <ITEXT CH="[21]     At vērō sānctus Brendānus, cum haec vīdisset, contristātus est, intrā sē dīcēns: “Vae mihi, quī portō habitum"/>
+                <ITEXT FEATURES="inherit superscript" CH="1"/>
+                <ITEXT CH=" monachicum, [22] et sub mē cōnstitūtī sunt multī sub nōmine illīus ōrdinis, cum videō modo in angelicō statū hominem in carne adhūc sedentem"/>
+                <ITEXT FEATURES="inherit superscript" CH="2"/>
+                <ITEXT CH=" illaesum ā vitiīs corporis.” [23] Cui ait vir Deī: “Ō venerābilis pater, quanta et quālia mīrābilia ostendit Deus tibi, quae nūllī sānctōrum patrum manifestāvit! [24] Et tū dīcis in corde tuō nōn esse"/>
+                <ITEXT FEATURES="inherit superscript" CH="3"/>
+                <ITEXT CH=" tē dignum monachicum portāre habitum, et tū cum sīs"/>
+                <ITEXT FEATURES="inherit superscript" CH="4"/>
+                <ITEXT CH=" maior quam monachus! Monachus vērō labōre manuum suārum ūtitur et vestītur. [25] Deus autem dē suīs sēcrētīs per septem annōs pāscit tē cum tuā familiā et induit; ego vērō miser sedeō sīcut avis in istā petrā, nūdus, exceptō meō pīlō.”"/>
                 <para PARENT="Latin"/>
                 <ITEXT CH="[26]     Tunc sānctus Brendānus interrogābat illum dē suō adventū aut unde esset aut quantō tempore sustinuisset ibi tālem vītam. [27] Cui ille respondit: “Fuī nūtrītus in monastēriō sānctī Patriciī per quīnquāgintā annōs, et cūstōdiēbam cimitērium frātrum. "/>
                 <para PARENT="Latin"/>
@@ -29656,6 +29664,27 @@
                 <ITEXT FONT="DejaVu Serif Italic" CH="Nothing of other clothing was joined to him excepts hairs which came out of his own body."/>
                 <ITEXT CH=" Much like how Paul the Spiritual moved from being fed by a beast to being fed soley by the fountain, he has also transcended the need for external supplementation in the form of clothes. Compare with Adam and Eve receiving the garments of skin in Genesis 3:21."/>
                 <trail PARENT="footnotes"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="151" YPOS="93622.3847133716" OwnPage="223" ItemID="685555966" PTYPE="5" WIDTH="450" HEIGHT="1" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR2="Black" PLINEART="1" path="" gXpos="151" gYpos="89462.3847133738" gWidth="0" gHeight="0" LAYER="0"/>
+        <PAGEOBJECT XPOS="118" YPOS="93631" OwnPage="223" ItemID="896555998" PTYPE="4" WIDTH="540" HEIGHT="269.299363057333" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 269.299 L0 269.299 L0 0 Z" copath="M0 0 L540 0 L540 269.299 L0 269.299 L0 0 Z" gXpos="118" gYpos="93631" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FEATURES="inherit superscript" CH="1"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="Woe is me, who carries the habit of a monk."/>
+                <ITEXT CH=" St. Brendan is expressing embarrassment at Paul the Spiritual having a much stricter monasticism than him."/>
+                <para PARENT="footnotes"/>
+                <ITEXT FEATURES="inherit superscript" CH="2"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="I see a man in the manner of the state of an angel, yet still in the flesh, sitting unharmed by the vices of the body."/>
+                <para PARENT="footnotes"/>
+                <ITEXT FEATURES="inherit superscript" CH="3"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="And you say in your hear that you are not to be worthy to wear a monk's habit"/>
+                <ITEXT CH=". esse is in the infinitive because it is part of an indirect statement."/>
+                <para PARENT="footnotes"/>
+                <ITEXT FEATURES="inherit superscript" CH="4"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="Yet you are greater than a monk"/>
+                <ITEXT CH=". sīs is subjunctive because it's a cum circumstantial clause."/>
+                <para PARENT="footnotes"/>
             </StoryText>
         </PAGEOBJECT>
     </DOCUMENT>
