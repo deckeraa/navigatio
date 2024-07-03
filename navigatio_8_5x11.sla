@@ -339,14 +339,14 @@
         <PAGE PAGEXPOS="712" PAGEYPOS="99028" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="18" BORDERTOP="18" BORDERBOTTOM="18" NUM="238" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="100" PAGEYPOS="99860" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="18" BORDERTOP="18" BORDERBOTTOM="18" NUM="239" NAM="" MNAM="Latin left" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="712" PAGEYPOS="99860" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="18" BORDERTOP="18" BORDERBOTTOM="18" NUM="240" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
-        <MASTEROBJECT XPOS="118" YPOS="776" OwnPage="2" ItemID="2019482237" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="118" gYpos="198043840328" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="118" YPOS="776" OwnPage="2" ItemID="2019482237" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="118" gYpos="202423072328" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
                 <trail ALIGN="1"/>
             </StoryText>
         </MASTEROBJECT>
-        <MASTEROBJECT XPOS="154" YPOS="776" OwnPage="3" ItemID="2019490845" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="3395818630" gYpos="198042910984" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="154" YPOS="776" OwnPage="3" ItemID="2019490845" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="3449062630" gYpos="202422142984" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
@@ -11332,6 +11332,8 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="ostendit: he shows, he showed; 3rd person singular present from ostend.it"/>
                 <para PARENT="Vocab"/>
+                <ITEXT CH="patēnam: paten, a shallow dish used to hold the bread of the Eucharist; singular feminine accusative from patēna, patēnae"/>
+                <para PARENT="Vocab"/>
                 <ITEXT CH="per: through"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="peragere: to carry through, to complete;  person present from peragō, peragere, perēgī, perāctus"/>
@@ -11388,8 +11390,6 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="trānsivērunt: they had gone over, they had crossed; 3rd person plural perfect from trānseō, trānsīre, trānsivi(iī), trānsitus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="UNKNOWN: {:word &quot;gubernam&quot;, :part-of-speech :unknown}"/>
-                <para PARENT="Vocab"/>
                 <ITEXT CH="ut: so that"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="vāscula: small vessel; plural neuter nominative from vāsculum, vāsculī"/>
@@ -11402,7 +11402,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="vērō: truly, even so, still"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="vidērent: they (might) have seen; 3rd person plural imperfect subjunctive from videō, vidēre, vīdī, vīsus"/>
+                <ITEXT CH="vidērunt: they saw; 3rd person plural perfect from videō, vidēre, vīdī, vīsus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="vir: man; singular masculine nominative from vir, virī"/>
                 <trail PARENT="Vocab"/>
@@ -11412,9 +11412,17 @@
             <StoryText>
                 <DefaultStyle/>
                 <para PARENT="Default Paragraph Style"/>
-                <ITEXT CH="[15] Quārtō autem diē invēnērunt calicem dē genere cōnōpēī et patēnam dē colōre columnae, iacentēs in quādam fenestrā in latere columnae contrā austrum. [16] Quae statim vāscula sānctus Brendānus apprehendit, dīcēns: “Dominus noster Iēsus Chrīstus ostendit nōbīs hoc mīrāculum, et, ut ostendātur multīs ad crēdendum, mihi dēdit ista bīna mūnera.” [17] Statim praecēpit vir Deī frātribus dīvīnum officium peragere et posteā corpora reficere, quia nūllum taedium habēbant dē cibō sūmere aut pōtū postquam vidērent illam columnam."/>
+                <ITEXT CH="[15] Quārtō autem diē invēnērunt calicem"/>
+                <ITEXT FEATURES="inherit superscript" CH="1"/>
+                <ITEXT CH=" dē genere cōnōpēī et patēnam dē colōre columnae, iacentēs in quādam fenestrā in latere columnae contrā austrum. [16] Quae statim vāscula sānctus Brendānus apprehendit, dīcēns: “Dominus noster Iēsus Chrīstus ostendit nōbīs hoc mīrāculum, et, ut ostendātur multīs ad crēdendum"/>
+                <ITEXT FEATURES="inherit superscript" CH="2"/>
+                <ITEXT CH=", mihi dēdit ista bīna mūnera.” [17] Statim praecēpit vir Deī frātribus dīvīnum officium peragere et posteā corpora reficere, quia nūllum taedium habēbant dē cibō sūmere aut pōtū postquam vidērunt"/>
+                <ITEXT FEATURES="inherit superscript" CH="3"/>
+                <ITEXT CH=" illam columnam."/>
                 <para PARENT="Latin"/>
-                <ITEXT CH="[18] Trānsāctā vērō illā nocte, coepērunt frātrēs nāvigāre contrā septentriōnem. [19] Cum autem trānsiērunt quoddam forāmen, posuērunt arborem et vēla in altum, et aliī tenēbant ex frātribus fībulās cōnōpēī quōusque omnia praeparāssent in nāvī. [20] Extēnsīs vēlīs, coepit prōsper ventus post illōs flāre, ita ut nihil illīs opus fuisset nāvigāre nisi tantum tenēre fūniculōs et gubernam. [21] Sīc ferēbantur per octo diēs nāvicula contrā aquilōnem."/>
+                <ITEXT CH="[18] Trānsāctā vērō illā nocte, coepērunt frātrēs nāvigāre contrā septentriōnem. [19] Cum autem trānsiērunt quoddam forāmen, posuērunt arborem et vēla in altum, et aliī tenēbant ex frātribus fībulās cōnōpēī quōusque omnia praeparāssent in nāvī. [20] Extēnsīs vēlīs, coepit prōsper ventus post illōs flāre, ita ut nihil illīs opus"/>
+                <ITEXT FEATURES="inherit superscript" CH="4"/>
+                <ITEXT CH=" fuisset nāvigāre nisi tantum tenēre fūniculōs et gubernam. [21] Sīc ferēbantur per octo diēs nāvicula contrā aquilōnem."/>
                 <para PARENT="Latin"/>
             </StoryText>
         </PAGEOBJECT>
@@ -29564,5 +29572,27 @@
                 <trail PARENT="footnotes"/>
             </StoryText>
         </PAGEOBJECT>
+        <PAGEOBJECT XPOS="151" YPOS="82002.7847133763" OwnPage="195" ItemID="2015945069" PTYPE="5" WIDTH="450" HEIGHT="1" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR2="Black" PLINEART="1" path="" gXpos="151" gYpos="77842.7847133776" gWidth="0" gHeight="0" LAYER="0"/>
+        <PAGEOBJECT XPOS="118" YPOS="82008.9171974522" OwnPage="195" ItemID="1913514734" PTYPE="4" WIDTH="540" HEIGHT="265.987261146496" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 265.987 L0 265.987 L0 0 Z" copath="M0 0 L540 0 L540 265.987 L0 265.987 L0 0 Z" gXpos="118" gYpos="82008.9171974522" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FEATURES="inherit superscript" CH="1"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="And on the fourth day they found a chalice of the same sort of material as the canopy and a paten of the color of the column, laying in a certain window in the side of the column facing the south."/>
+                <ITEXT CH=" The Eucharist is miraculously provided for them."/>
+                <para PARENT="footnotes"/>
+                <ITEXT FEATURES="inherit superscript" CH="2"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="Our Lord Jesus Christ showed to us this miracle, and, so that it may be shown to many so that they may believe, he gave me these two gifts."/>
+                <ITEXT CH=" crēdendum is a gerundive."/>
+                <para PARENT="footnotes"/>
+                <ITEXT FEATURES="inherit superscript" CH="3"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="Because no one had tiredness (requiring them) to take food or drink after they had seen the column."/>
+                <ITEXT CH=" It appears that the sight of the column provided them with nourishment, a not uncommon trope in the Nāvigātiō."/>
+                <para PARENT="footnotes"/>
+                <ITEXT FEATURES="inherit superscript" CH="4"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="Extending the sails, a prosperous wind began to blow past them, so that there was not work for them to sail except only to hold the rigging and rudder."/>
+                <para PARENT="footnotes"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="151" YPOS="92094.7847133723" OwnPage="219" ItemID="1912941006" PTYPE="5" WIDTH="450" HEIGHT="1" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR2="Black" PLINEART="1" path="" gXpos="151" gYpos="87934.7847133744" gWidth="0" gHeight="0" LAYER="0"/>
     </DOCUMENT>
 </SCRIBUSUTF8NEW>
