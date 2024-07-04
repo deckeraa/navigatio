@@ -339,14 +339,14 @@
         <PAGE PAGEXPOS="712" PAGEYPOS="99028" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="18" BORDERTOP="18" BORDERBOTTOM="18" NUM="238" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="100" PAGEYPOS="99860" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="18" BORDERTOP="18" BORDERBOTTOM="18" NUM="239" NAM="" MNAM="Latin left" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="712" PAGEYPOS="99860" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="18" BORDERTOP="18" BORDERBOTTOM="18" NUM="240" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
-        <MASTEROBJECT XPOS="118" YPOS="776" OwnPage="2" ItemID="2019482237" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="118" gYpos="208348626248" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="118" YPOS="776" OwnPage="2" ItemID="2019482237" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="118" gYpos="211845971528" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
                 <trail ALIGN="1"/>
             </StoryText>
         </MASTEROBJECT>
-        <MASTEROBJECT XPOS="154" YPOS="776" OwnPage="3" ItemID="2019490845" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="3521107270" gYpos="208347696904" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="154" YPOS="776" OwnPage="3" ItemID="2019490845" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="3563629030" gYpos="211845042184" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
@@ -15810,9 +15810,17 @@
             <StoryText>
                 <DefaultStyle/>
                 <para/>
-                <ITEXT CH="[28] Quādam vērō diē, cum locum sepultūrae dēsignāsset mihi meus decānus cuidam dēfūnctō, ut sepelīssem, appāruit mihi quīdam senex ignōtus, quī dīxit mihi: [29] ‘Nōlī, frāter, fossam ibi facere, quia sepulchrum alterīus est.’ Cui dīxī: ‘Pater, quis es tū?’ [30] Quī ait: ‘Cūr mē nōn cognōscis? Nōnne tuus abbās sum?’ Cui dīxī: ‘Sānctus Patricius meus abbās.’ At ille respondit: ‘Ego sum. [31] Heri enim migrāvī dē saeculō; ipse est enim locus meae sepultūrae. Hīc faciēs sepulchrum frātris nostrī; et nūllī dicās quid ego dīxī tibi. [32] Crās autem proficīscere ad lītus maris, et inveniēs nāvim ibi, in quam intrābis, quae tē dūcet ad locum ubi expectābis diem mortis tuae.’"/>
+                <ITEXT CH="[28] Quādam vērō diē, cum locum sepultūrae dēsignāsset"/>
+                <ITEXT FEATURES="inherit superscript" CH="1"/>
+                <ITEXT CH=" mihi meus decānus cuidam dēfūnctō, ut sepelīssem, appāruit mihi quīdam senex ignōtus, quī dīxit mihi: [29] ‘Nōlī, frāter, fossam ibi facere, quia sepulchrum alterīus est.’ Cui dīxī: ‘Pater, quis es tū?’ [30] Quī ait: ‘Cūr mē nōn cognōscis? Nōnne tuus abbās sum?’ Cui dīxī: ‘Sānctus Patricius meus abbās.’ At ille respondit: ‘Ego sum. [31] Heri enim migrāvī dē saeculō"/>
+                <ITEXT FEATURES="inherit superscript" CH="2"/>
+                <ITEXT CH="; ipse est enim locus meae sepultūrae. Hīc faciēs sepulchrum frātris nostrī; et nūllī dicās quid ego dīxī tibi. [32] Crās autem proficīscere ad lītus maris, et inveniēs nāvim ibi, in quam intrābis, quae tē dūcet ad locum ubi expectābis diem mortis tuae.’"/>
                 <para PARENT="Latin"/>
-                <ITEXT CH="[33]     “Māne vērō, secundum praeceptum sānctī patris, profectus sum ad praedictum lītus, et invēnī sīcut ipse mihi praedīxerat. [34] Cum autem ascendissem nāviculam, coepī nāvigāre per trēs diēs et trēs noctēs; quibus trānsāctīs dīmīsī nāvim ubicumque ventus voluisset illam iactāre. [35] Porrō septimō diē appāruit ista petra, in quam statim intrāvī, dīmissā nāviculā atque percussā pede meō ut īsset unde vēnerat. [36] Cōnfestim vīdī illam cursū vēlōcissimō sulcantem undās per aequora, ut redīret in patriam suam. Ego vērō mānsī hīc usque hodiē."/>
+                <ITEXT CH="[33]     “Māne vērō, secundum praeceptum sānctī patris, profectus sum ad praedictum lītus, et invēnī sīcut ipse"/>
+                <ITEXT FEATURES="inherit superscript" CH="3"/>
+                <ITEXT CH=" mihi praedīxerat. [34] Cum autem ascendissem nāviculam, coepī nāvigāre per trēs diēs et trēs noctēs; quibus trānsāctīs dīmīsī nāvim ubicumque ventus voluisset illam iactāre. [35] Porrō septimō diē appāruit ista petra, in quam statim intrāvī, dīmissā nāviculā atque percussā pede meō ut īsset unde vēnerat. [36] Cōnfestim vīdī illam cursū vēlōcissimō sulcantem"/>
+                <ITEXT FEATURES="inherit superscript" CH="4"/>
+                <ITEXT CH=" undās per aequora, ut redīret in patriam suam. Ego vērō mānsī hīc usque hodiē."/>
                 <para PARENT="Latin"/>
             </StoryText>
         </PAGEOBJECT>
@@ -29685,6 +29693,26 @@
                 <ITEXT FONT="DejaVu Serif Italic" CH="Yet you are greater than a monk"/>
                 <ITEXT CH=". sīs is subjunctive because it's a cum circumstantial clause."/>
                 <para PARENT="footnotes"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="151" YPOS="94541.3847133713" OwnPage="225" ItemID="688219358" PTYPE="5" WIDTH="450" HEIGHT="1" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR2="Black" PLINEART="1" path="" gXpos="151" gYpos="90381.3847133735" gWidth="0" gHeight="0" LAYER="0"/>
+        <PAGEOBJECT XPOS="118" YPOS="94549.6050955414" OwnPage="225" ItemID="687743054" PTYPE="4" WIDTH="540" HEIGHT="182.828025477706" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 182.828 L0 182.828 L0 0 Z" copath="M0 0 L540 0 L540 182.828 L0 182.828 L0 0 Z" gXpos="118" gYpos="94549.6050955414" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FEATURES="inherit superscript" CH="1"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="On a certain day, the dean having designated a place of burial for a certain dead (person), that I might bury (him)"/>
+                <ITEXT CH=". dēfūnctō here is in the dative."/>
+                <para PARENT="footnotes"/>
+                <ITEXT FEATURES="inherit superscript" CH="2"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="For yesterday I migrated from this world, and this here is the place of my burial."/>
+                <ITEXT CH=" St. Patrick died the day before and is buried in the spot where Paul was told to dig."/>
+                <para PARENT="footnotes"/>
+                <ITEXT FEATURES="inherit superscript" CH="3"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="I I found it just as he had foretold to me."/>
+                <para PARENT="footnotes"/>
+                <ITEXT FEATURES="inherit superscript" CH="4"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="Immediatly I saw it (the boat) furrowing a swift course through the waves of the sea, that it might return to it's fatherland."/>
+                <trail PARENT="footnotes"/>
             </StoryText>
         </PAGEOBJECT>
     </DOCUMENT>
