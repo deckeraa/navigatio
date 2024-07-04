@@ -339,14 +339,14 @@
         <PAGE PAGEXPOS="712" PAGEYPOS="99028" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="18" BORDERTOP="18" BORDERBOTTOM="18" NUM="238" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="100" PAGEYPOS="99860" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="18" BORDERTOP="18" BORDERBOTTOM="18" NUM="239" NAM="" MNAM="Latin left" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="712" PAGEYPOS="99860" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="18" BORDERTOP="18" BORDERBOTTOM="18" NUM="240" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
-        <MASTEROBJECT XPOS="118" YPOS="776" OwnPage="2" ItemID="2019482237" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="118" gYpos="211845971528" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="118" YPOS="776" OwnPage="2" ItemID="2019482237" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="118" gYpos="215029220168" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
                 <trail ALIGN="1"/>
             </StoryText>
         </MASTEROBJECT>
-        <MASTEROBJECT XPOS="154" YPOS="776" OwnPage="3" ItemID="2019490845" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="3563629030" gYpos="211845042184" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="154" YPOS="776" OwnPage="3" ItemID="2019490845" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="3602331910" gYpos="215028290824" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
@@ -16035,9 +16035,15 @@
             <StoryText>
                 <DefaultStyle/>
                 <para/>
-                <ITEXT CH="[37]     “Prīmā namque diē quā intrāvī hūc, circā hōram nōnam, luter portāvit mihi prandium dē marī — īdēst piscem ūnum in ōre suō, et fasciculum dē grāminibus ad focum faciendum — inter suōs anteriōrēs pedēs, ambulāns super duōbus posteriōribus pedibus. [38] Cum posuisset ante mē piscem et grāmina, reversus est unde vēnerat. Ego vērō, acceptō ferrō, et silice percussō, fēcī ignem dē grāminibus, et parāvī mihi cibōs dē illō pisce."/>
+                <ITEXT CH="[37]     “Prīmā namque diē quā intrāvī hūc, circā hōram nōnam, luter portāvit mihi prandium dē marī — īdēst piscem ūnum in ōre suō, et fasciculum dē grāminibus ad focum faciendum"/>
+                <ITEXT FEATURES="inherit superscript" CH="1"/>
+                <ITEXT CH=" — inter suōs anteriōrēs pedēs, ambulāns super duōbus posteriōribus pedibus. [38] Cum posuisset ante mē piscem et grāmina, reversus est unde vēnerat. Ego vērō, acceptō ferrō, et silice"/>
+                <ITEXT FEATURES="inherit superscript" CH="2"/>
+                <ITEXT CH=" percussō, fēcī ignem dē grāminibus, et parāvī mihi cibōs dē illō pisce."/>
                 <para PARENT="Latin"/>
-                <ITEXT CH="[39]     “Ita per trīgintā annōs semper tertiā diē īdem minister eāsdem escās — idest ūnum piscem — ad trēs diēs attulit. [40] Mandūcāvī tertiam partem piscis omnī diē, et nihil mihi erat sitis grātiā; [41] sed in diē Dominicō ēgrediēbātur forās pauxillum āquae dē istā petrā, unde potuī sūmere pōtum et vāsculum meum implēre ad opus manuum."/>
+                <ITEXT CH="[39]     “Ita per trīgintā annōs semper tertiā diē īdem minister eāsdem escās — idest ūnum piscem — ad trēs diēs attulit. [40] Mandūcāvī tertiam partem piscis omnī diē, et nihil mihi erat sitis grātiā; [41] sed in diē Dominicō ēgrediēbātur forās pauxillum āquae dē istā petrā, unde potuī sūmere pōtum et vāsculum meum implēre ad opus manuum"/>
+                <ITEXT FEATURES="inherit superscript" CH="3"/>
+                <ITEXT CH="."/>
                 <para PARENT="Latin"/>
             </StoryText>
         </PAGEOBJECT>
@@ -29715,5 +29721,26 @@
                 <trail PARENT="footnotes"/>
             </StoryText>
         </PAGEOBJECT>
+        <PAGEOBJECT XPOS="151" YPOS="95226.584713371" OwnPage="227" ItemID="690186622" PTYPE="5" WIDTH="450" HEIGHT="1" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR2="Black" PLINEART="1" path="" gXpos="151" gYpos="91066.5847133732" gWidth="0" gHeight="0" LAYER="0"/>
+        <PAGEOBJECT XPOS="118" YPOS="95237.5031847134" OwnPage="227" ItemID="2013909917" PTYPE="4" WIDTH="540" HEIGHT="295.337579617844" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 295.338 L0 295.338 L0 0 Z" copath="M0 0 L540 0 L540 295.338 L0 295.338 L0 0 Z" gXpos="118" gYpos="95237.5031847134" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FEATURES="inherit superscript" CH="1"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="And a bundle of tinder/kindling for making a fire"/>
+                <ITEXT CH=". faciendum is a gerundive."/>
+                <para PARENT="footnotes"/>
+                <ITEXT FEATURES="inherit superscript" CH="2"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="And striking a flint, I made fire with the tinder/kindling/grasses"/>
+                <ITEXT CH=". Perhaps this detail is meant to evoke the imagery of Moses striking the rock in the wilderness in Numbers 20."/>
+                <para PARENT="footnotes"/>
+                <ITEXT FEATURES="inherit superscript" CH="3"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="Where I could take drink and fill my vessel for the work of my hands."/>
+                <ITEXT CH=" The Dickinson commentary suggests glossing this as "/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="for washing my hands"/>
+                <ITEXT CH="."/>
+                <trail PARENT="footnotes"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="151" YPOS="96147.1847133706" OwnPage="229" ItemID="689645086" PTYPE="5" WIDTH="450" HEIGHT="1" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR2="Black" PLINEART="1" path="" gXpos="151" gYpos="91987.1847133728" gWidth="0" gHeight="0" LAYER="0"/>
     </DOCUMENT>
 </SCRIBUSUTF8NEW>
