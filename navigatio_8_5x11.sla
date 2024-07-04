@@ -351,14 +351,14 @@
         <PAGE PAGEXPOS="712" PAGEYPOS="104020" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="18" BORDERTOP="18" BORDERBOTTOM="18" NUM="250" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="100" PAGEYPOS="104852" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="18" BORDERTOP="18" BORDERBOTTOM="18" NUM="251" NAM="" MNAM="Latin left" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="712" PAGEYPOS="104852" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="18" BORDERTOP="18" BORDERBOTTOM="18" NUM="252" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
-        <MASTEROBJECT XPOS="118" YPOS="776" OwnPage="2" ItemID="1888516396" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="118" gYpos="239165627528" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="118" YPOS="776" OwnPage="2" ItemID="1888516396" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="118" gYpos="241708537352" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
                 <trail ALIGN="1"/>
             </StoryText>
         </MASTEROBJECT>
-        <MASTEROBJECT XPOS="154" YPOS="776" OwnPage="3" ItemID="1888605308" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="3885828670" gYpos="239164698184" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="154" YPOS="776" OwnPage="3" ItemID="1888605308" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="3915285454" gYpos="241707608008" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
@@ -16768,7 +16768,11 @@
             <StoryText>
                 <DefaultStyle/>
                 <para/>
-                <ITEXT CH="[7] Fīnītā vērō missā, coepit Iascōnius īre in viam suam, et omnēs frātrēs quī cum sānctō Brendānō erant coepērunt clāmāre ad Dominum, dīcentēs: [8] “Exaudī nōs, Deus salūtāris noster, spēs omnium fīnium terrae et in marī longē.” [9] Sānctus Brendānus cōnfortābat suōs, dīcēns: “Nōlīte formīdāre: nihil enim vōbīs erit malī, sed adiūtōrium imminet itineris.” [10] Rēctō cursū bēlua pervēnit usque ad lītus Īnsulae Avium, ibique dēmorātī sunt usque ad octāvās Pentēcostēn."/>
+                <ITEXT CH="[7] Fīnītā vērō missā, coepit Iascōnius īre in viam suam, et omnēs frātrēs quī cum sānctō Brendānō erant coepērunt clāmāre ad Dominum, dīcentēs: [8] “Exaudī nōs, Deus salūtāris noster, spēs omnium fīnium terrae et in marī longē.” [9] Sānctus Brendānus cōnfortābat suōs, dīcēns: “Nōlīte formīdāre: nihil"/>
+                <ITEXT FEATURES="inherit superscript" CH="1"/>
+                <ITEXT CH=" enim vōbīs erit malī, sed adiūtōrium imminet itineris.” [10] Rēctō cursū"/>
+                <ITEXT FEATURES="inherit superscript" CH="2"/>
+                <ITEXT CH=" bēlua pervēnit usque ad lītus Īnsulae Avium, ibique dēmorātī sunt usque ad octāvās Pentēcostēn."/>
                 <para PARENT="Latin"/>
                 <ITEXT CH="[11]     Trānsāctō iam tempore sollemnitātum, prōcūrātor quī cum illīs erat dīxit sānctō Brendānō: “Ascendite nāviculam et implēte utrēs fonte istō. [12] Erō namque socius itineris vestrī istā vice atque ductor; sine mē nōn poteritis invenīre Terram Reprōmissiōnis Sānctōrum.” [13] Ascendentibus autem nāvim, omnēs avēs quae in illā īnsulā erant quasi ūnā vōce dīcēbant: “Prōsperum iter faciet vōbīs Deus salūtārium nostrōrum.”"/>
                 <para PARENT="Latin"/>
@@ -31079,6 +31083,19 @@
                 <para PARENT="footnotes"/>
                 <ITEXT FEATURES="inherit superscript" CH="2"/>
                 <ITEXT FONT="DejaVu Serif Italic" CH="And there was enough food and water for them, as much as they had received for the insland of the men of God, for refreshment every third day without hunger or thirst, everyone remaining happy."/>
+                <trail PARENT="footnotes"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="151" YPOS="102743.18471337" OwnPage="245" ItemID="817754845" PTYPE="5" WIDTH="450" HEIGHT="1" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR2="Black" PLINEART="1" path="" gXpos="151" gYpos="98583.1847133722" gWidth="0" gHeight="0" LAYER="0"/>
+        <PAGEOBJECT XPOS="118" YPOS="102751.184713376" OwnPage="245" ItemID="1883430204" PTYPE="4" WIDTH="540" HEIGHT="359.541401273891" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 359.541 L0 359.541 L0 0 Z" copath="M0 0 L540 0 L540 359.541 L0 359.541 L0 0 Z" gXpos="118" gYpos="102751.184713376" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FEATURES="inherit superscript" CH="1"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="Do not fear: he will be nothing of bad for you, but  (rather he will be) of help of your imminent journey."/>
+                <para PARENT="footnotes"/>
+                <ITEXT FEATURES="inherit superscript" CH="2"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="With a straight course the beast came to the shore of the Island of Birds."/>
+                <ITEXT CH=" The Dickinson commentary notes that the straight course here stands in contrast to Iascōnius's circuitous paths before, where he is always chasing his tail. That is a good observation. It's possible that Iascōnius represents the human body/fleshly nature/appetitive self: the human body is ahead and above the other animals, the body in the natural, fallen state is prone to pointless wanderings due to sin and disordered desires, and the human body can even recoil at the encroachment of the spiritual, much like Iascōnius at the monk's first arrival. However, over the course of the spiritual journey the monks are on, Iascōnius has learned to sustain the monks when they take the Eucharist (much as the Christian celebrates the Eucharist by means of their physical body) and has become free from futile labor and can now swim in a straight line. Such a reading has the benefit of explaining why the monks would disembark from their ship onto Iascōnius when in other chapters they seem able to celebrate Mass while still on board the ship."/>
                 <trail PARENT="footnotes"/>
             </StoryText>
         </PAGEOBJECT>
