@@ -360,14 +360,14 @@
         <PAGE PAGEXPOS="712" PAGEYPOS="107348" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="18" BORDERTOP="18" BORDERBOTTOM="18" NUM="258" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="100" PAGEYPOS="108180" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="18" BORDERTOP="18" BORDERBOTTOM="18" NUM="259" NAM="" MNAM="Latin left" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="712" PAGEYPOS="108180" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="18" BORDERTOP="18" BORDERBOTTOM="18" NUM="260" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
-        <MASTEROBJECT XPOS="118" YPOS="776" OwnPage="2" ItemID="1208006723" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="118" gYpos="276028336840" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="118" YPOS="776" OwnPage="2" ItemID="1208006723" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="118" gYpos="281065402120" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
                 <trail ALIGN="1"/>
             </StoryText>
         </MASTEROBJECT>
-        <MASTEROBJECT XPOS="154" YPOS="776" OwnPage="3" ItemID="1208005635" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="4304283670" gYpos="276027407496" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="154" YPOS="776" OwnPage="3" ItemID="1208005635" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="4360850830" gYpos="281064472776" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
@@ -1872,8 +1872,6 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="hōram: hour, time; singular feminine accusative from hōra, hōrae"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="i: (w/-dem ONLY, idem, eadem, idem) same, the same, the very same, also;(pronoun)"/>
-                <para PARENT="Vocab"/>
                 <ITEXT CH="igitur: therefore"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="illīs: those; plural dative or ablative from ille, illa, illud"/>
@@ -2164,8 +2162,6 @@
                 <ITEXT CH="hōc: this; sing. masc. or neut. abl. of hic, haec, hoc"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="hōrae: hour, time; singular feminine genitive from hōra, hōrae"/>
-                <para PARENT="Vocab"/>
-                <ITEXT CH="i: (w/-dem ONLY, idem, eadem, idem) same, the same, the very same, also;(pronoun)"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="illīs: those; plural dative or ablative from ille, illa, illud"/>
                 <para PARENT="Vocab"/>
@@ -3031,8 +3027,6 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="gravitātis: gravity, weight, importance; singular feminine genitive from gravitās, gravitātis"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="i: (w/-dem ONLY, idem, eadem, idem) same, the same, the very same, also;(pronoun)"/>
-                <para PARENT="Vocab"/>
                 <ITEXT CH="ībat: he was going; 3rd person singular imperfect from eo, ire, ivi(ii), itus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="ibī: there, then"/>
@@ -3335,8 +3329,6 @@
                 <ITEXT CH="hospitum: of the guests; plural masculine genitive from hospes, hospitis"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="hymnīs: hymns; plural masculine from hymnus, hymnī"/>
-                <para PARENT="Vocab"/>
-                <ITEXT CH="i: (w/-dem ONLY, idem, eadem, idem) same, the same, the very same, also;(pronoun)"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="iam: already, now, soon"/>
                 <para PARENT="Vocab"/>
@@ -4603,7 +4595,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="tempus: time, period; singular neuter nominative from tempus, temporis"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="trīnitātī: Trinity; singular feminine from Trinitas, Trinitatis"/>
+                <ITEXT CH="Trīnitātī: Trinity; singular feminine from Trinitas, Trinitatis"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="tu: you;(pronoun)"/>
                 <para PARENT="Vocab"/>
@@ -6477,8 +6469,6 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="hōram: hour, time; singular feminine accusative from hōra, hōrae"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="i: (w/-dem ONLY, idem, eadem, idem) same, the same, the very same, also;(pronoun)"/>
-                <para PARENT="Vocab"/>
                 <ITEXT CH="iam: already, now, soon"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="illam: that; singular feminine accusative from ille, illa, illud"/>
@@ -6774,8 +6764,6 @@
                 <ITEXT CH="nōn: not"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="nōs: us; plural nominative or accusative of ego"/>
-                <para PARENT="Vocab"/>
-                <ITEXT CH="o: from o{:word &quot;o&quot;, :part-of-speech :interjection, :dictionary-entry &quot;o&quot;, :definition &quot;Oh!;&quot;, :dictionary-code {:age nil, :area nil, :geo nil, :freq-code :A, :freq-text &quot;Very frequent, in all Elementry Latin books&quot;, :source nil}}"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="offerebant: they were offering; 3rd person plural imperfect from offerō, offerre, obtulī, oblātus"/>
                 <para PARENT="Vocab"/>
@@ -7730,8 +7718,6 @@
                 <ITEXT CH="perīculīs: dangers; plural neuter from perīculum, perīculī"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="post: behind, after, since"/>
-                <para PARENT="Vocab"/>
-                <ITEXT CH="qu.a: qu PACK [XXXBX];(pronoun)"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="quadrāgintā: 40"/>
                 <para PARENT="Vocab"/>
