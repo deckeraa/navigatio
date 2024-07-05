@@ -371,14 +371,14 @@
         <PAGE PAGEXPOS="712.0008" PAGEYPOS="108180.4176" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="18" BORDERTOP="18" BORDERBOTTOM="18" NUM="260" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="100.0008" PAGEYPOS="109012.4208" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="18" BORDERTOP="18" BORDERBOTTOM="18" NUM="261" NAM="" MNAM="Latin left" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="712.0008" PAGEYPOS="109012.4208" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="18" BORDERTOP="18" BORDERBOTTOM="18" NUM="262" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
-        <MASTEROBJECT XPOS="118.0008" YPOS="776.0016" OwnPage="2" ItemID="1208006723" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="118.0008" gYpos="370548633672.225" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="118.0008" YPOS="776.0016" OwnPage="2" ItemID="1208006723" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="118.0008" gYpos="372886521064.018" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
                 <trail ALIGN="1"/>
             </StoryText>
         </MASTEROBJECT>
-        <MASTEROBJECT XPOS="154.0008" YPOS="776.0016" OwnPage="3" ItemID="1208005635" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="5359959190.0008" gYpos="370547704328.225" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="154.0008" YPOS="776.0016" OwnPage="3" ItemID="1208005635" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="5386015090.0008" gYpos="372885591720.018" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
@@ -5130,9 +5130,9 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="praeclārum: very bright, remarkable; singular neuter nominative from praeclārus, praeclāra, praeclārum"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="praedicta: the aforesaid; singular feminine nominative perfect passive participle from praedīcō, praedīcere, praedīxī, praedictus"/>
+                <ITEXT CH="praedicta: the aforesaid;"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="praedictum: the aforesaid; singular neuter nominative perfect passive participle from praedict.um"/>
+                <ITEXT CH="praedictum: the aforesaid;"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="proficiscendi: setting out; singular masculine genitive future participle from proficīscor, proficīscī, profectus sum"/>
                 <para PARENT="Vocab"/>
@@ -8502,9 +8502,9 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="dīxerat: he had said; 3rd person singular pluperfect from dīcō, dīcere, dīxī, dictus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="dīxī: I said; 1st person singular perfect from dīcō, dīcere, dīxī, dictus"/>
+                <ITEXT CH="dīxī: I said; 1st person singular perfect from dīcere"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="dīxistī: you said; 2nd person singular perfect from dīcō, dīcere, dīxī, dictus"/>
+                <ITEXT CH="dīxistī: you said; 2nd person singular perfect from dīcere"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="dominus: lord, master; singular masculine nominative from dominus, dominī"/>
                 <para PARENT="Vocab"/>
@@ -8620,7 +8620,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="praecēpit: he ordered; 3rd person singular perfect from praecipiō, praecipere, praecēpī, praeceptus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="praedictīs: the aforesaid; plural dative perfect passive participle from praedīcō, praedīcere, praedīxī, praedictus"/>
+                <ITEXT CH="praedictīs: the aforesaid;"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="praedictus: the aforesaid;"/>
                 <para PARENT="Vocab"/>
@@ -13691,7 +13691,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="daemōnum: of demons; pl. masc. gen. from daemōn, daemōnis"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="dedī: I gave; 1st person sing. perfectactivefrom do, dare, dedi, datus"/>
+                <ITEXT CH="dedī: I gave; 1st person sing. perfect active from dāre"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="deī: god, diety; sing. masc. gen. from Deus, Dei"/>
                 <para PARENT="Vocab"/>
@@ -13747,7 +13747,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="hērēditātem: inheritance; sing. fem. acc. from hērēditās, hērēditātis"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="hērōde: Ablative of Herod, the Roman-installed king of Israel involved with the crucifixion of Christ."/>
+                <ITEXT CH="hērōde: Ablative of Herod, the Roman-installed king of Israel"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="hic: this; singuglar masculine nominative of hic, haec, hoc"/>
                 <para PARENT="Vocab"/>
@@ -13761,7 +13761,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="illās: that; plural feminine accusative from ille, illa, illud"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="illō: these; singular masculine or neuter ablative from ille, illa, illud"/>
+                <ITEXT CH="illō: these; sing. masc. or neuter abl. from ille, illa, illud"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="illum: that; singular feminine accusative from ille, illa, illud"/>
                 <para PARENT="Vocab"/>
@@ -13771,7 +13771,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="īnfernī: Hell; sing. masc. gen. from infernus, inferna, infernum"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="intercēdere: to intercede;  person  presentactivefrom intercēdō, intercēdere, intercessī, intercessus"/>
+                <ITEXT CH="intercēdere: to intercede;  person  present active from intercēdō, intercēdere, intercessī, intercessus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="interrogābat: he was asking; 3rd person sing. imperfectactivefrom interrogō, interrogāre, interrogāvī, interrogātus"/>
                 <para PARENT="Vocab"/>
@@ -13911,7 +13911,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="vōs: you;(pronoun)"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="vult: he wants; singular 3rd person present from volō, velle, voluī (irr.)"/>
+                <ITEXT CH="vult: he wants; singular 3rd person present from velle"/>
                 <trail PARENT="Vocab"/>
             </StoryText>
         </PAGEOBJECT>
@@ -15795,9 +15795,9 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="porrō: farther, further, also"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="praeceptum: order, direction, precept; singular neuter nominative perfect passive participle from praecept.um"/>
+                <ITEXT CH="praeceptum: order, direction, precept;"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="praedictum: the aforesaid; singular neuter nominative perfect passive participle from praedict.um"/>
+                <ITEXT CH="praedictum: the aforesaid;"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="praedīxerat: he had said; 3rd person sing. pluperfect active from praedīcō, praedīcere, praedīxī, praedictus"/>
                 <para PARENT="Vocab"/>
@@ -15851,7 +15851,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="sulcantem: furrowing; singular common accusative present participle from sulcō, sulcāre, sulcāvī, sulcātus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="sum: I am; 1st person sing. present active from sum, esse, fuī, futūrus"/>
+                <ITEXT CH="sum: I am; 1st person sing. present active from esse"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="tē: to you, accusative from tu"/>
                 <para PARENT="Vocab"/>
@@ -15879,7 +15879,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="ut: so that"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="vēlōcissimō: very quickly; sing. masc. dat. from vēlōx, vēlōcis (gen.), vēlōcior -or -us, vēlōcissimus -a -um"/>
+                <ITEXT CH="vēlōcissimō: very quickly; sing. masc. dat. from vēlōx"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="vēnerat: he had come; 3rd person sing. pluperfect active from veniō, venīre, vēnī, ventus"/>
                 <para PARENT="Vocab"/>
@@ -15889,7 +15889,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="vīdī: I saw; 1st person sing. perfect active from videō, vidēre, vīdī, vīsus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="voluisset: he (might) have had wanted; 3rd person sing. pluperfect active subjunctive from volō, velle, voluī, -"/>
+                <ITEXT CH="voluisset: he (might) have had wanted; 3rd person sing. plup. sub. from volō, velle, voluī, -"/>
                 <trail PARENT="Vocab"/>
             </StoryText>
         </PAGEOBJECT>
@@ -18250,7 +18250,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="cecidit: he fell; 3rd person sing. perfect active from cadō, cadere, cecidī, cāsus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="celebrābitis: you will celebrate; 2nd person pl. future active from celebrō, celebrāre, celebrāvī, celebrātus"/>
+                <ITEXT CH="celebrābitis: you will celebrate; 2nd person pl. future active from celebrāre"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="celebrāre: to celebrate;  person  present active from celebrō, celebrāre, celebrāvī, celebrātus"/>
                 <para PARENT="Vocab"/>
@@ -18268,7 +18268,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="crāstinum: tomorrow;"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="cui: who; singular dative from quis"/>
+                <ITEXT CH="cui: who; singular dative from quist"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="cum: with"/>
                 <para PARENT="Vocab"/>
@@ -18410,7 +18410,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="posuisset: he (might) have put; 3rd person sing. pluperfect active subjunctive from pōnō, pōnere, posuī, positus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="praedictus: the aforesaid; singular masculine nominative perfect passive participle from praedīcō, praedīcere, praedīxī, praedictus"/>
+                <ITEXT CH="praedictus: the aforesaid;"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="praeparāre: to prepare;  person  present active from praeparō, praeparāre, praeparāvī, praeparātus"/>
                 <para PARENT="Vocab"/>
