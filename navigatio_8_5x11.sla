@@ -31,6 +31,9 @@
         <STYLE NAME="Introduction" LANGUAGE="en_US"/>
         <STYLE NAME="Reverse indent" INDENT="18" FIRST="-18" LANGUAGE="en_US"/>
         <STYLE NAME="None" LINESPMode="0" LINESP="15" KERN="0"/>
+        <STYLE NAME="TOC" LANGUAGE="en_US">
+            <Tabs Type="0" Pos="324" Fill="."/>
+        </STYLE>
         <TableStyle NAME="Default Table Style" DefaultStyle="1" FillColor="None" FillShade="100">
             <TableBorderLeft>
                 <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
@@ -75,7 +78,7 @@
             <ItemAttribute Name="TOC" Type="none" Value="" Parameter="" Relationship="none" RelationshipTo="" AutoAddTo="none"/>
         </DocItemAttributes>
         <TablesOfContents>
-            <TableOfContents Name="Table of Contents 1" ItemAttributeName="TOC" FrameName="TableOfContents" ListNonPrinting="0" Style="None" NumberPlacement="End"/>
+            <TableOfContents Name="Table of Contents 1" ItemAttributeName="TOC" FrameName="TableOfContents" ListNonPrinting="0" Style="TOC" NumberPlacement="End"/>
         </TablesOfContents>
         <NotesStyles>
             <notesStyle Name="Default" Start="1" Endnotes="0" Type="Type_1_2_3" Range="0" Prefix="" Suffix=")" AutoHeight="1" AutoWidth="1" AutoRemove="1" AutoWeld="1" SuperNote="1" SuperMaster="1" MarksStyle="" NotesStyle=""/>
@@ -368,14 +371,14 @@
         <PAGE PAGEXPOS="712.0008" PAGEYPOS="108180.4176" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="18" BORDERTOP="18" BORDERBOTTOM="18" NUM="260" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="100.0008" PAGEYPOS="109012.4208" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="18" BORDERTOP="18" BORDERBOTTOM="18" NUM="261" NAM="" MNAM="Latin left" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="712.0008" PAGEYPOS="109012.4208" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="18" BORDERTOP="18" BORDERBOTTOM="18" NUM="262" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
-        <MASTEROBJECT XPOS="118.0008" YPOS="776.0016" OwnPage="2" ItemID="1208006723" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="118.0008" gYpos="314122822283.86" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="118.0008" YPOS="776.0016" OwnPage="2" ItemID="1208006723" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="118.0008" gYpos="324869910786.437" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
                 <trail ALIGN="1"/>
             </StoryText>
         </MASTEROBJECT>
-        <MASTEROBJECT XPOS="154.0008" YPOS="776.0016" OwnPage="3" ItemID="1208005635" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="4731090022.0008" gYpos="314121892939.86" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="154.0008" YPOS="776.0016" OwnPage="3" ItemID="1208005635" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="4850866990.0008" gYpos="324868981442.437" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
@@ -24091,6 +24094,9 @@
                 <ITEXT CH="Tunc frātrēs cum Sānctō Brendānō iērunt ad lītus. Nāvis erat in lītore. Iuvenis appāruit cum pānibus et aquā et dīxit: “Accipite pānēs et aquam, et habēbunt cibum usque in Paschā.” Et nāvigāvērunt in ōceanum."/>
                 <trail PARENT="Latin"/>
             </StoryText>
+            <PageItemAttributes>
+                <ItemAttribute Name="TOC" Type="none" Value="Caput VII &amp; VIII Brendānus Iacit Daemōnum" Parameter="" Relationship="none" RelationshipTo="" AutoAddTo="none"/>
+            </PageItemAttributes>
         </PAGEOBJECT>
         <PAGEOBJECT XPOS="766.0008" YPOS="9190.0368" OwnPage="22" ItemID="1698355763" PTYPE="4" WIDTH="540" HEIGHT="736.31847133758" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="2" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 736.318 L0 736.318 L0 0 Z" copath="M0 0 L540 0 L540 736.318 L0 736.318 L0 0 Z" gXpos="766.0008" gYpos="9190.0368" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
@@ -24349,8 +24355,11 @@
                 <ITEXT CH="Brendānus dīxit: “Cūr sunt ovēs tuae magnae? Ovēs tuae sunt maior quam bovēs.” Vir respondit: “Nēmō capit lac dē ovibus in hāc īnsulā, et nōn est hiemps.”"/>
                 <para PARENT="Latin"/>
             </StoryText>
+            <PageItemAttributes>
+                <ItemAttribute Name="TOC" Type="none" Value="Caput IX Īnsula Ovium" Parameter="" Relationship="none" RelationshipTo="" AutoAddTo="none"/>
+            </PageItemAttributes>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="118.0008" YPOS="10039.4349044586" OwnPage="23" ItemID="1703669459" PTYPE="4" WIDTH="540" HEIGHT="398.980891719745" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 398.981 L0 398.981 L0 0 Z" copath="M0 0 L540 0 L540 398.981 L0 398.981 L0 0 Z" gXpos="118.0008" gYpos="10039.4349044586" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="118.0008" YPOS="10039.4349044586" OwnPage="23" ItemID="1703669459" PTYPE="4" WIDTH="540" HEIGHT="430.374012738854" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 430.374 L0 430.374 L0 0 Z" copath="M0 0 L540 0 L540 430.374 L0 430.374 L0 0 Z" gXpos="118.0008" gYpos="10039.4349044586" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <para/>
@@ -24374,6 +24383,9 @@
                 <ITEXT CH="Brendānus dīxit: “Deus mē revēlāvit nōmen huius mōnstrum. Nōmen eius est Iascōnius.”"/>
                 <para PARENT="Latin"/>
             </StoryText>
+            <PageItemAttributes>
+                <ItemAttribute Name="TOC" Type="none" Value="Caput X Iascōnius" Parameter="" Relationship="none" RelationshipTo="" AutoAddTo="none"/>
+            </PageItemAttributes>
         </PAGEOBJECT>
         <PAGEOBJECT XPOS="118.0008" YPOS="10022.04" OwnPage="23" ItemID="1703633539" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" gXpos="118.0008" gYpos="10022.04" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
@@ -24517,6 +24529,9 @@
                 <ITEXT CH="Sānctus Brendānus sē cōgitāvit: “Cūr sunt multae avēs super ūnam arborem?” Brendānus ōrāvit ad Deum: “Deus, revēlā mihi sēcrētum avium.” Et avis volāvit dē arbore ad nāvem ubi Brendānus sedēbat. Sēdit super prōram et extendit ālās eius. Brendānus dīxit: “Sī nūntius Deī es, dīc mihi: unde sunt istae avēs?”"/>
                 <para PARENT="Latin"/>
             </StoryText>
+            <PageItemAttributes>
+                <ItemAttribute Name="TOC" Type="none" Value="Caput XI Paradisus Avium" Parameter="" Relationship="none" RelationshipTo="" AutoAddTo="none"/>
+            </PageItemAttributes>
         </PAGEOBJECT>
         <PAGEOBJECT XPOS="118.0008" YPOS="11705.7406675159" OwnPage="27" ItemID="1704954099" PTYPE="4" WIDTH="540" HEIGHT="441.171974522293" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 441.172 L0 441.172 L0 0 Z" copath="M0 0 L540 0 L540 441.172 L0 441.172 L0 0 Z" gXpos="118.0008" gYpos="11705.7406675159" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
@@ -25221,6 +25236,9 @@
                 <ITEXT CH="Senex dūxit illōs ad refectōrium. Frātrēs sēdērunt et ēdērunt. In refectōriō erant vīgintī trēs frātrēs et ūnus abbās. Abbās dīxit: “Ēdimus pānēs sed nōn faciunt pānēs; omnī diē Deus nōbīs dat pānēs.”"/>
                 <trail PARENT="Latin"/>
             </StoryText>
+            <PageItemAttributes>
+                <ItemAttribute Name="TOC" Type="none" Value="Caput XII Īnsula Familiae Ailbēī" Parameter="" Relationship="none" RelationshipTo="" AutoAddTo="none"/>
+            </PageItemAttributes>
         </PAGEOBJECT>
         <PAGEOBJECT XPOS="766.0008" YPOS="12518.0496" OwnPage="30" ItemID="1721782003" PTYPE="4" WIDTH="540" HEIGHT="736.369426751595" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="2" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 736.369 L0 736.369 L0 0 Z" copath="M0 0 L540 0 L540 736.369 L0 736.369 L0 0 Z" gXpos="766.0008" gYpos="12518.0496" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
@@ -25636,6 +25654,9 @@
                 <ITEXT CH="Post trēs diēs et noctēs, ventus cessāvit et mare erat quasi coāgulātum. Sānctus Brendānus dīxit: “Laxāte vēla, Deus erit gubernātor noster.” Post vīgintī diēs, habērunt ventum prōsperum. Tetendērunt vēla et nāvigāvērunt."/>
                 <para PARENT="Latin"/>
             </StoryText>
+            <PageItemAttributes>
+                <ItemAttribute Name="TOC" Type="none" Value="Caput XIII &amp; XIV Fōns Sopōris" Parameter="" Relationship="none" RelationshipTo="" AutoAddTo="none"/>
+            </PageItemAttributes>
         </PAGEOBJECT>
         <PAGEOBJECT XPOS="766.0008" YPOS="14182.056" OwnPage="34" ItemID="1730313331" PTYPE="4" WIDTH="540" HEIGHT="738" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="2" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 738 L0 738 L0 0 Z" copath="M0 0 L540 0 L540 738 L0 738 L0 0 Z" gXpos="766.0008" gYpos="14182.056" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
@@ -25855,6 +25876,9 @@
                 <ITEXT CH="      Prōcūrātor dīxit: “Nāvigāte, et celebrātē Resurrēctiōnem Dominī in Paradīsō Avium.” [15] Onerāvit nāvem cum pānibus et pōtū et carnibus dēliciīs. Sānctus Brendānus dedit benedictiōnem et nāvigāvērunt ad Īnsulam Avium."/>
                 <para PARENT="Latin"/>
             </StoryText>
+            <PageItemAttributes>
+                <ItemAttribute Name="TOC" Type="none" Value="Caput XV Fēsta in Diversīs Īnsulīs" Parameter="" Relationship="none" RelationshipTo="" AutoAddTo="none"/>
+            </PageItemAttributes>
         </PAGEOBJECT>
         <PAGEOBJECT XPOS="766.0008" YPOS="15014.0592" OwnPage="36" ItemID="1735320067" PTYPE="4" WIDTH="540" HEIGHT="736.522292993632" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="2" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 736.522 L0 736.522 L0 0 Z" copath="M0 0 L540 0 L540 736.522 L0 736.522 L0 0 Z" gXpos="766.0008" gYpos="15014.0592" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
@@ -26040,7 +26064,7 @@
                 <trail PARENT="Default Paragraph Style" ALIGN="1"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="118.0008" YPOS="15864.0624" OwnPage="37" ItemID="1736027379" PTYPE="4" WIDTH="540" HEIGHT="455.184713375796" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 455.185 L0 455.185 L0 0 Z" copath="M0 0 L540 0 L540 455.185 L0 455.185 L0 0 Z" gXpos="118.0008" gYpos="15864.0624" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="118.0008" YPOS="15864.0624" OwnPage="37" ItemID="1736027379" PTYPE="4" WIDTH="540" HEIGHT="507.912122293003" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 507.912 L0 507.912 L0 0 Z" copath="M0 0 L540 0 L540 507.912 L0 507.912 L0 0 Z" gXpos="118.0008" gYpos="15864.0624" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <para/>
@@ -26700,6 +26724,9 @@
                 <ITEXT CH="      Alterā diē vīdērunt īnsulam cum multīs arboribus. Ascendērunt dē nāve et vīdērunt posteriōrem partem bēluae mortuae. Sānctus Brendānus dīxit: “Bēlua voluit vōs edere, sed dēvorābitis bēluam. Remanēbimus multum tempus in hāc īnsulā.”"/>
                 <para PARENT="Latin"/>
             </StoryText>
+            <PageItemAttributes>
+                <ItemAttribute Name="TOC" Type="none" Value="Caput XVI Bēlua Magna" Parameter="" Relationship="none" RelationshipTo="" AutoAddTo="none"/>
+            </PageItemAttributes>
         </PAGEOBJECT>
         <PAGEOBJECT XPOS="118.0008" YPOS="17510.0688" OwnPage="41" ItemID="1754080819" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" gXpos="118.0008" gYpos="49126.0687999978" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
@@ -26951,7 +26978,7 @@
                 <trail PARENT="Default Paragraph Style" ALIGN="1"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="118.0008" YPOS="18360.9382420382" OwnPage="43" ItemID="1755671459" PTYPE="4" WIDTH="540" HEIGHT="337.528662420384" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 337.529 L0 337.529 L0 0 Z" copath="M0 0 L540 0 L540 337.529 L0 337.529 L0 0 Z" gXpos="118.0008" gYpos="18360.9382420382" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="118.0008" YPOS="18360.9382420382" OwnPage="43" ItemID="1755671459" PTYPE="4" WIDTH="540" HEIGHT="376.488509554165" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 376.489 L0 376.489 L0 0 Z" copath="M0 0 L540 0 L540 376.489 L0 376.489 L0 0 Z" gXpos="118.0008" gYpos="18360.9382420382" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <para/>
@@ -26969,6 +26996,9 @@
                 <ITEXT CH="Vēnērunt ad praedictam īnsulam. Erat īnsula mīrae plānitiae, et nōn erant arbōrēs. Īnsula erat cooperta cum scaltīs albīs et purpureīs. Vīdērunt trēs turmās, sīcut vir Deī praedīxerat. Et turmae cantābant hymnōs. Prīma turma puerōrum erat in vestibus candidissimīs, et secunda turma erat in vestibus ianthinīs, et tertia turma erat in purpureīs dalmaticīs."/>
                 <trail PARENT="Latin"/>
             </StoryText>
+            <PageItemAttributes>
+                <ItemAttribute Name="TOC" Type="none" Value="Caput XVII Īnsulae Virōrum Fortium" Parameter="" Relationship="none" RelationshipTo="" AutoAddTo="none"/>
+            </PageItemAttributes>
         </PAGEOBJECT>
         <PAGEOBJECT XPOS="118.0008" YPOS="19192.9414420382" OwnPage="45" ItemID="1760163731" PTYPE="4" WIDTH="540" HEIGHT="408.133757961781" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 408.134 L0 408.134 L0 0 Z" copath="M0 0 L540 0 L540 408.134 L0 408.134 L0 0 Z" gXpos="118.0008" gYpos="19192.9414420382" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
@@ -27346,6 +27376,9 @@
                 <ITEXT CH="Brendānus invēnit sex fontēs et herbās. Dīxit: “Ascendite dē nāve et fīgite tentōrium et cōnfortāminī dē optimīs frūctibus terrae. Per quadrāgintā diēs reficiēbant dē ūvīs et herbīs. Posteā, portāvērunt multum frūctum ad nāvem."/>
                 <para PARENT="Latin"/>
             </StoryText>
+            <PageItemAttributes>
+                <ItemAttribute Name="TOC" Type="none" Value="Caput XVIII Īnsula Ūvārum" Parameter="" Relationship="none" RelationshipTo="" AutoAddTo="none"/>
+            </PageItemAttributes>
         </PAGEOBJECT>
         <PAGEOBJECT XPOS="118.0008" YPOS="20006.0784" OwnPage="47" ItemID="1764141443" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" gXpos="118.0008" gYpos="51622.0783999966" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
@@ -27584,6 +27617,9 @@
                 <ITEXT CH="Posteā, Sānctus Brendānus et frātrēs eius vīdērunt Īnsulam praedictam familiae Ailbēī. Ibi celebrāvit Nātālem Dominī. Tunc nāvigāvērunt in ōceanō per multum tempus, nisi in praedictīs fēstīvitātibus, id est Paschae et Nātālis Dominī. In illīs habēbat requiem in praedictīs locīs."/>
                 <para PARENT="Latin"/>
             </StoryText>
+            <PageItemAttributes>
+                <ItemAttribute Name="TOC" Type="none" Value="Caput XIX &amp; XX Grȳphus" Parameter="" Relationship="none" RelationshipTo="" AutoAddTo="none"/>
+            </PageItemAttributes>
         </PAGEOBJECT>
         <PAGEOBJECT XPOS="766.0008" YPOS="20838.0816" OwnPage="50" ItemID="1773273891" PTYPE="4" WIDTH="540" HEIGHT="738" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="2" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 738 L0 738 L0 0 Z" copath="M0 0 L540 0 L540 738 L0 738 L0 0 Z" gXpos="766.0008" gYpos="20838.0816" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
@@ -27754,6 +27790,9 @@
                 <ITEXT CH="Brendānus coepit cantāre. Bēstiae sē levāvērunt ā terrā et natābant prope nāvem. Sed nōn pulsāvērunt nāvem, et, quandō Brendānus fīnīvit missam, fūgērunt per dīversās sēmitās ōceanī et natābant ā faciē servōrum Deī."/>
                 <para PARENT="Latin"/>
             </StoryText>
+            <PageItemAttributes>
+                <ItemAttribute Name="TOC" Type="none" Value="Caput XXI Bēstiae sub Māre" Parameter="" Relationship="none" RelationshipTo="" AutoAddTo="none"/>
+            </PageItemAttributes>
         </PAGEOBJECT>
         <PAGEOBJECT XPOS="766.0008" YPOS="21670.0848" OwnPage="52" ItemID="1776827523" PTYPE="4" WIDTH="540" HEIGHT="738" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="2" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 738 L0 738 L0 0 Z" copath="M0 0 L540 0 L540 738 L0 738 L0 0 Z" gXpos="766.0008" gYpos="21670.0848" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
@@ -27958,6 +27997,9 @@
                 <ITEXT CH="Quādam diē, celebrābant missās et appāruit columna in marī. Columna nōn vidēbātur longē ab illīs, sed nōn poterant appropinquāre ante trēs diēs. Brendānus aspiciēbat summitātem sed nōn potuit prae altitūdine illīus: columna erat altior quam āēr. Columna habēbat cōnōpēum rārum. Cōnōpēum erat tantum rārum ut nāvis posset trānsīre per forāmina illīus. Cōnōpēum habēbat colōrem argentī, sed erat dūrior quam marmor; columna erat dē crystāllō clārissimō."/>
                 <para PARENT="Latin"/>
             </StoryText>
+            <PageItemAttributes>
+                <ItemAttribute Name="TOC" Type="none" Value="Caput XXII Columnae Crystallī" Parameter="" Relationship="none" RelationshipTo="" AutoAddTo="none"/>
+            </PageItemAttributes>
         </PAGEOBJECT>
         <PAGEOBJECT XPOS="118.0008" YPOS="23334.0912" OwnPage="55" ItemID="1781116467" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" gXpos="118.0008" gYpos="54950.0911999949" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
@@ -28353,6 +28395,9 @@
                 <ITEXT CH="Tunc ūnus ex habitātōribus īnsulae iit forās. Erat valdē hispidus et igneus et tenebrōsus. Vīdit famulōs Chrīstī et revertit in suam officīnam. Brendānus dīxit “Fīliī, nāvigāte et fugite istam īnsulam.”"/>
                 <trail PARENT="Latin"/>
             </StoryText>
+            <PageItemAttributes>
+                <ItemAttribute Name="TOC" Type="none" Value="Caput XXIII Īnsula Fabrōrum" Parameter="" Relationship="none" RelationshipTo="" AutoAddTo="none"/>
+            </PageItemAttributes>
         </PAGEOBJECT>
         <PAGEOBJECT XPOS="118.0008" YPOS="24166.0944" OwnPage="57" ItemID="1784317763" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" gXpos="118.0008" gYpos="55782.0943999945" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
@@ -28680,7 +28725,7 @@
                 <trail PARENT="Default Paragraph Style" ALIGN="1"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="118.0008" YPOS="25848.9670420382" OwnPage="61" ItemID="1793309731" PTYPE="4" WIDTH="540" HEIGHT="454.929936305733" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 454.93 L0 454.93 L0 0 Z" copath="M0 0 L540 0 L540 454.93 L0 454.93 L0 0 Z" gXpos="118.0008" gYpos="25848.9670420382" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="118.0008" YPOS="25848.9670420382" OwnPage="61" ItemID="1793309731" PTYPE="4" WIDTH="540" HEIGHT="489.274996178377" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 489.275 L0 489.275 L0 0 Z" copath="M0 0 L540 0 L540 489.275 L0 489.275 L0 0 Z" gXpos="118.0008" gYpos="25848.9670420382" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <para/>
@@ -28704,6 +28749,9 @@
                 <ITEXT CH="Tunc frātrēs nāvigāvērunt ab īnsulā. Aspēxērunt īnsulam et vīdērunt montem discoopertum ā fūmō, et flammās usque ad aethera."/>
                 <para PARENT="Latin"/>
             </StoryText>
+            <PageItemAttributes>
+                <ItemAttribute Name="TOC" Type="none" Value="Caput XXIV Monachus Iit ad Īnfernum" Parameter="" Relationship="none" RelationshipTo="" AutoAddTo="none"/>
+            </PageItemAttributes>
         </PAGEOBJECT>
         <PAGEOBJECT XPOS="766.0008" YPOS="25830.1008" OwnPage="62" ItemID="1796405779" PTYPE="4" WIDTH="540" HEIGHT="737.03184713376" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="2" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 737.032 L0 737.032 L0 0 Z" copath="M0 0 L540 0 L540 737.032 L0 737.032 L0 0 Z" gXpos="766.0008" gYpos="25830.1008" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
@@ -28927,6 +28975,9 @@
                 <ITEXT CH="Brendānus interrogāvit eum: “Quis es?” Vir respondit: “Ego sum īnfēlīcissimus Iūdās. Hic locus nōn est poenitentiam meum, sed est indulgentiam Redēmptōris propter honōrem Dominicae resurrēctiōnis. Hodiē est Dominicus, sed in hōc vespere revertam in mediō montis quem vīdistis. Ārdeō sīcut massa plumbī liquefacta in ōllā, diē et nocte. Ibi est Leviathan cum daemonibus eius. Eram ibi quandō dēglūtīvit frātrem vestrum. Mōns ēmittit flammās quandō dēvorat animās impiōrum.”"/>
                 <para PARENT="Latin"/>
             </StoryText>
+            <PageItemAttributes>
+                <ItemAttribute Name="TOC" Type="none" Value="Caput XXV Iūdās Super Petram" Parameter="" Relationship="none" RelationshipTo="" AutoAddTo="none"/>
+            </PageItemAttributes>
         </PAGEOBJECT>
         <PAGEOBJECT XPOS="118.0008" YPOS="27494.1072" OwnPage="65" ItemID="1801039107" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" gXpos="118.0008" gYpos="59110.107199993" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
@@ -28942,7 +28993,7 @@
                 <trail PARENT="Default Paragraph Style" ALIGN="1"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="118.0008" YPOS="27512.7696203822" OwnPage="65" ItemID="1801720451" PTYPE="4" WIDTH="540" HEIGHT="378.802547770701" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 378.803 L0 378.803 L0 0 Z" copath="M0 0 L540 0 L540 378.803 L0 378.803 L0 0 Z" gXpos="118.0008" gYpos="27512.7696203822" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="118.0008" YPOS="27512.7696203822" OwnPage="65" ItemID="1801720451" PTYPE="4" WIDTH="540" HEIGHT="409.472417834379" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 409.472 L0 409.472 L0 0 Z" copath="M0 0 L540 0 L540 409.472 L0 409.472 L0 0 Z" gXpos="118.0008" gYpos="27512.7696203822" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <para/>
@@ -29780,6 +29831,9 @@
                 <ITEXT CH="Tunc senex iit ab spēluncā et dīxit: “Ecce, quam bonum et quam iocundum habitāre frātrēs in ūnum.” Ergō Brendānus praecēpit omnēs frātrēs suōs venīre dē nāvī. Senex appellābat frātrēs singulōs propriīs nōminibus. Et senex erat coopertus tōtus cum capillīs suīs. Capillī erant candidī sīcut nix, prae nimiā senectūte."/>
                 <para PARENT="Latin"/>
             </StoryText>
+            <PageItemAttributes>
+                <ItemAttribute Name="TOC" Type="none" Value="Caput XXVI Paulus Herēmīta Spīritālis" Parameter="" Relationship="none" RelationshipTo="" AutoAddTo="none"/>
+            </PageItemAttributes>
         </PAGEOBJECT>
         <PAGEOBJECT XPOS="118.0008" YPOS="29990.1168" OwnPage="71" ItemID="1811417603" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" gXpos="118.0008" gYpos="61606.116799992" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
@@ -30444,6 +30498,9 @@
                 <ITEXT CH="Post tempus sollemnitātum, prōcūrātor dīxit Sānctō Brendānō: “Ascendite nāvem et implēte utrēs cum fonte istō. Nāvigābam vōbīscum; sine mē nōn potestis invenīre Terram Reprōmissiōnis Sānctōrum.” Frātrēs nāvigāvērunt et omnēs avēs cantāvērunt: “Deus, salūtārium nostrōrum, faciet prōsperum iter.” "/>
                 <para PARENT="Latin"/>
             </StoryText>
+            <PageItemAttributes>
+                <ItemAttribute Name="TOC" Type="none" Value="Caput XXVII Monachī Faciunt Iter cum Iascōniō" Parameter="" Relationship="none" RelationshipTo="" AutoAddTo="none"/>
+            </PageItemAttributes>
         </PAGEOBJECT>
         <PAGEOBJECT XPOS="766.0008" YPOS="31654.1232" OwnPage="76" ItemID="1833396195" PTYPE="4" WIDTH="540" HEIGHT="736.318471337581" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="2" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 736.318 L0 736.318 L0 0 Z" copath="M0 0 L540 0 L540 736.318 L0 736.318 L0 0 Z" gXpos="766.0008" gYpos="31654.1232" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
@@ -31030,6 +31087,9 @@
                 <ITEXT CH="Post quadrāgintā diēs, nebula magna cooperuit eōs. Prōcūrātor interrogāvit Sānctō Brendānō: “Scītis quae est ista nebula?” Sānctus Brendānus respondit: “Quae est?” Prōcūrātor dīxit: “Ista nebula circuit Terram Reprōmissiōnis Sānctōrum.” Post spatium ūnīus hōrae lūx ingēns circumfulsit illōs, et vēnērunt ad lītus."/>
                 <para PARENT="Latin"/>
             </StoryText>
+            <PageItemAttributes>
+                <ItemAttribute Name="TOC" Type="none" Value="Caput XXVIII Terra Reprōmissiōnis Sānctōrum" Parameter="" Relationship="none" RelationshipTo="" AutoAddTo="none"/>
+            </PageItemAttributes>
         </PAGEOBJECT>
         <PAGEOBJECT XPOS="118.0008" YPOS="33336.9958420382" OwnPage="79" ItemID="1845927795" PTYPE="4" WIDTH="540" HEIGHT="414.573248407643" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 414.573 L0 414.573 L0 0 Z" copath="M0 0 L540 0 L540 414.573 L0 414.573 L0 0 Z" gXpos="118.0008" gYpos="33336.9958420382" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
@@ -31098,29 +31158,105 @@
                 <trail PARENT="footnotes"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="766.0008" YPOS="870.0048" OwnPage="2" ItemID="1848417507" PTYPE="4" WIDTH="540" HEIGHT="736.929936305733" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" ANNAME="TableOfContents" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 736.93 L0 736.93 L0 0 Z" copath="M0 0 L540 0 L540 736.93 L0 736.93 L0 0 Z" gXpos="766.0008" gYpos="870.0048" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="766.0008" YPOS="924.535031847134" OwnPage="2" ItemID="1848417507" PTYPE="4" WIDTH="540" HEIGHT="682.399704458599" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" ANNAME="TableOfContents" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 682.4 L0 682.4 L0 0 Z" copath="M0 0 L540 0 L540 682.4 L0 682.4 L0 0 Z" gXpos="766.0008" gYpos="924.535031847134" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <ITEXT CH="Introduction"/>
                 <tab/>
                 <ITEXT CH="4"/>
-                <para PARENT="None"/>
+                <para PARENT="TOC"/>
                 <ITEXT CH="Caput I Fābula Barrindī"/>
                 <tab/>
                 <ITEXT CH="10"/>
-                <para PARENT="None"/>
+                <para PARENT="TOC"/>
                 <ITEXT CH="Caput II &amp; III Brendānus Ēlēgit Frātrēs"/>
                 <tab/>
                 <ITEXT CH="12"/>
-                <para PARENT="None"/>
+                <para PARENT="TOC"/>
                 <ITEXT CH="Caput IV &amp; V Trēs Aliī Monachī"/>
                 <tab/>
                 <ITEXT CH="14"/>
-                <para PARENT="None"/>
+                <para PARENT="TOC"/>
                 <ITEXT CH="Caput VI Aulam Vacuam"/>
                 <tab/>
                 <ITEXT CH="16"/>
-                <para PARENT="None"/>
+                <para PARENT="TOC"/>
+                <ITEXT CH="Caput VII &amp; VIII Brendānus Iacit Daemōnum"/>
+                <tab/>
+                <ITEXT CH="20"/>
+                <para PARENT="TOC"/>
+                <ITEXT CH="Caput IX Īnsula Ovium"/>
+                <tab/>
+                <ITEXT CH="22"/>
+                <para PARENT="TOC"/>
+                <ITEXT CH="Caput X Iascōnius"/>
+                <tab/>
+                <ITEXT CH="24"/>
+                <para PARENT="TOC"/>
+                <ITEXT CH="Caput XI Paradisus Avium"/>
+                <tab/>
+                <ITEXT CH="26"/>
+                <para PARENT="TOC"/>
+                <ITEXT CH="Caput XII Īnsula Familiae Ailbēī"/>
+                <tab/>
+                <ITEXT CH="30"/>
+                <para PARENT="TOC"/>
+                <ITEXT CH="Caput XIII &amp; XIV Fōns Sopōris"/>
+                <tab/>
+                <ITEXT CH="34"/>
+                <para PARENT="TOC"/>
+                <ITEXT CH="Caput XV Fēsta in Diversīs Īnsulīs"/>
+                <tab/>
+                <ITEXT CH="36"/>
+                <para PARENT="TOC"/>
+                <ITEXT CH="Caput XVI Bēlua Magna"/>
+                <tab/>
+                <ITEXT CH="40"/>
+                <para PARENT="TOC"/>
+                <ITEXT CH="Caput XVII Īnsulae Virōrum Fortium"/>
+                <tab/>
+                <ITEXT CH="44"/>
+                <para PARENT="TOC"/>
+                <ITEXT CH="Caput XVIII Īnsula Ūvārum"/>
+                <tab/>
+                <ITEXT CH="48"/>
+                <para PARENT="TOC"/>
+                <ITEXT CH="Caput XIX &amp; XX Grȳphus"/>
+                <tab/>
+                <ITEXT CH="50"/>
+                <para PARENT="TOC"/>
+                <ITEXT CH="Caput XXI Bēstiae sub Māre"/>
+                <tab/>
+                <ITEXT CH="52"/>
+                <para PARENT="TOC"/>
+                <ITEXT CH="Caput XXII Columnae Crystallī"/>
+                <tab/>
+                <ITEXT CH="54"/>
+                <para PARENT="TOC"/>
+                <ITEXT CH="Caput XXIII Īnsula Fabrōrum"/>
+                <tab/>
+                <ITEXT CH="58"/>
+                <para PARENT="TOC"/>
+                <ITEXT CH="Caput XXIV Monachus Iit ad Īnfernum"/>
+                <tab/>
+                <ITEXT CH="62"/>
+                <para PARENT="TOC"/>
+                <ITEXT CH="Caput XXV Iūdās Super Petram"/>
+                <tab/>
+                <ITEXT CH="64"/>
+                <para PARENT="TOC"/>
+                <ITEXT CH="Caput XXVI Paulus Herēmīta Spīritālis"/>
+                <tab/>
+                <ITEXT CH="70"/>
+                <para PARENT="TOC"/>
+                <ITEXT CH="Caput XXVII Monachī Faciunt Iter cum Iascōniō"/>
+                <tab/>
+                <ITEXT CH="76"/>
+                <para PARENT="TOC"/>
+                <ITEXT CH="Caput XXVIII Terra Reprōmissiōnis Sānctōrum"/>
+                <tab/>
+                <ITEXT CH="78"/>
+                <para PARENT="TOC"/>
             </StoryText>
         </PAGEOBJECT>
         <PAGEOBJECT XPOS="118.0008" YPOS="1702.008" OwnPage="3" ItemID="1846944515" PTYPE="4" WIDTH="540" HEIGHT="735.910828025478" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 735.911 L0 735.911 L0 0 Z" copath="M0 0 L540 0 L540 735.911 L0 735.911 L0 0 Z" gXpos="118.0008" gYpos="1702.008" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="1848558563" BACKITEM="-1">
@@ -31451,6 +31587,13 @@
                 <para ALIGN="1"/>
                 <ITEXT CH="decker49@gmail.com"/>
                 <trail ALIGN="1"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="766.0008" YPOS="870.0048" OwnPage="2" ItemID="140278212" PTYPE="4" WIDTH="540" HEIGHT="38.9378751592357" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 38.9379 L0 38.9379 L0 0 Z" copath="M0 0 L540 0 L540 38.9379 L0 38.9379 L0 0 Z" gXpos="766.0008" gYpos="870.0048" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="Table of Contents"/>
+                <trail PARENT="Chapter Heading"/>
             </StoryText>
         </PAGEOBJECT>
     </DOCUMENT>
