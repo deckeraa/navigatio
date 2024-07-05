@@ -371,14 +371,14 @@
         <PAGE PAGEXPOS="712.0008" PAGEYPOS="108180.4176" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="18" BORDERTOP="18" BORDERBOTTOM="18" NUM="260" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="100.0008" PAGEYPOS="109012.4208" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="18" BORDERTOP="18" BORDERBOTTOM="18" NUM="261" NAM="" MNAM="Latin left" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="712.0008" PAGEYPOS="109012.4208" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="18" BORDERTOP="18" BORDERBOTTOM="18" NUM="262" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
-        <MASTEROBJECT XPOS="118.0008" YPOS="776.0016" OwnPage="2" ItemID="1208006723" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="118.0008" gYpos="324869910786.437" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="118.0008" YPOS="776.0016" OwnPage="2" ItemID="1208006723" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="118.0008" gYpos="334458845842.619" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
                 <trail ALIGN="1"/>
             </StoryText>
         </MASTEROBJECT>
-        <MASTEROBJECT XPOS="154.0008" YPOS="776.0016" OwnPage="3" ItemID="1208005635" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="4850866990.0008" gYpos="324868981442.437" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="154.0008" YPOS="776.0016" OwnPage="3" ItemID="1208005635" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="4957736266.0008" gYpos="334457916498.619" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
@@ -17849,12 +17849,15 @@
                 <trail ALIGN="1"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="118.0008" YPOS="52472.9675312102" OwnPage="125" ItemID="1570966371" PTYPE="4" WIDTH="540" HEIGHT="462.267515923567" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 462.268 L0 462.268 L0 0 Z" copath="M0 0 L540 0 L540 462.268 L0 462.268 L0 0 Z" gXpos="118.0008" gYpos="52472.9675312102" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="118.0008" YPOS="52472.9675312102" OwnPage="125" ItemID="1570966371" PTYPE="4" WIDTH="540" HEIGHT="487.847755414048" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 487.848 L0 487.848 L0 0 Z" copath="M0 0 L540 0 L540 487.848 L0 487.848 L0 0 Z" gXpos="118.0008" gYpos="52472.9675312102" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <para/>
                 <para/>
-                <ITEXT CH="Caput X Iascōnius"/>
+                <ITEXT CH="Caput X "/>
+                <para PARENT="Chapter Heading"/>
+                <para PARENT="Chapter Heading"/>
+                <ITEXT CH="Iascōnius"/>
                 <para PARENT="Chapter Heading"/>
                 <para/>
                 <ITEXT CH="[1]    Cum autem vēnissent ad aliam īnsulam, coepit illa nāvis stāre"/>
@@ -17874,6 +17877,9 @@
                 <ITEXT CH=" cacabus, coepit illa īnsula sē movēre sīcut unda."/>
                 <para PARENT="Latin"/>
             </StoryText>
+            <PageItemAttributes>
+                <ItemAttribute Name="TOC" Type="none" Value="Caput X Iascōnius" Parameter="" Relationship="none" RelationshipTo="" AutoAddTo="none"/>
+            </PageItemAttributes>
         </PAGEOBJECT>
         <PAGEOBJECT XPOS="118.0008" YPOS="53304.8688203822" OwnPage="127" ItemID="1571094099" PTYPE="4" WIDTH="540" HEIGHT="329.273885350319" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 329.274 L0 329.274 L0 0 Z" copath="M0 0 L540 0 L540 329.274 L0 329.274 L0 0 Z" gXpos="118.0008" gYpos="53304.8688203822" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
@@ -18639,12 +18645,15 @@
                 <trail ALIGN="1"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="118.0008" YPOS="49976.9579312102" OwnPage="119" ItemID="1586490051" PTYPE="4" WIDTH="540" HEIGHT="460.178343949039" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 460.178 L0 460.178 L0 0 Z" copath="M0 0 L540 0 L540 460.178 L0 460.178 L0 0 Z" gXpos="118.0008" gYpos="49976.9579312102" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="118.0008" YPOS="49976.9579312102" OwnPage="119" ItemID="1586490051" PTYPE="4" WIDTH="540" HEIGHT="485.235668789799" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 485.236 L0 485.236 L0 0 Z" copath="M0 0 L540 0 L540 485.236 L0 485.236 L0 0 Z" gXpos="118.0008" gYpos="49976.9579312102" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <para/>
                 <para/>
-                <ITEXT CH="Caput IX Īnsula Ovium"/>
+                <ITEXT CH="Caput IX "/>
+                <para PARENT="Chapter Heading"/>
+                <para PARENT="Chapter Heading"/>
+                <ITEXT CH="Īnsula Ovium"/>
                 <para PARENT="Chapter Heading"/>
                 <para/>
                 <ITEXT CH="[1]     Quādam diē vīdērunt īnsulam nōn longē ab illīs; cumque coepissent nāvigāre ad illam īnsulam, subvēnit illīs prōsper ventus in adiūtōrium, ut nōn labōrāssent"/>
@@ -18662,6 +18671,9 @@
                 <ITEXT CH=" ultrā vidēre terram, prae multitūdine ovium. [6] Convocātīs frātribus suīs, sānctus Brendānus dīxit illīs: “Accipite quae sunt necessāria ad diem fēstum dē grege.” [7] Frātrēs vērō festīnābant, secundum mandātum virī Deī, ad gregem: quī statim accēpērunt dē grege ūnam ovem."/>
                 <para PARENT="Latin"/>
             </StoryText>
+            <PageItemAttributes>
+                <ItemAttribute Name="TOC" Type="none" Value="Caput IX Īnsula Ovium" Parameter="" Relationship="none" RelationshipTo="" AutoAddTo="none"/>
+            </PageItemAttributes>
         </PAGEOBJECT>
         <PAGEOBJECT XPOS="118.0008" YPOS="50809.7764178344" OwnPage="121" ItemID="1586454595" PTYPE="4" WIDTH="540" HEIGHT="471.43949044586" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 471.439 L0 471.439 L0 0 Z" copath="M0 0 L540 0 L540 471.439 L0 471.439 L0 0 Z" gXpos="118.0008" gYpos="50809.7764178344" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
@@ -18697,12 +18709,15 @@
                 <para PARENT="Latin"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="118.0008" YPOS="49145.4069605096" OwnPage="117" ItemID="1588428579" PTYPE="4" WIDTH="540" HEIGHT="273.636942675115" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 273.637 L0 273.637 L0 0 Z" copath="M0 0 L540 0 L540 273.637 L0 273.637 L0 0 Z" gXpos="118.0008" gYpos="49145.4069605096" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="118.0008" YPOS="49145.4069605096" OwnPage="117" ItemID="1588428579" PTYPE="4" WIDTH="540" HEIGHT="310.796861146489" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 310.797 L0 310.797 L0 0 Z" copath="M0 0 L540 0 L540 310.797 L0 310.797 L0 0 Z" gXpos="118.0008" gYpos="49145.4069605096" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <para/>
                 <para/>
-                <ITEXT CH="Caput VIII Monachī Accipiunt Cibum"/>
+                <ITEXT CH="Caput VIII "/>
+                <para PARENT="Chapter Heading"/>
+                <para PARENT="Chapter Heading"/>
+                <ITEXT CH="Monachī Accipiunt Cibum"/>
                 <para PARENT="Chapter Heading"/>
                 <para/>
                 <ITEXT CH="[1]   Igitur frātrēs cum sānctō Brendānō vēnērunt ad lītus eiusdem īnsulae ubi erat illōrum nāvis. [2] Ascendentibus illīs nāvim, occurrit illīs iuvenis"/>
@@ -18712,6 +18727,9 @@
                 <ITEXT CH=" nāvis."/>
                 <para PARENT="Latin"/>
             </StoryText>
+            <PageItemAttributes>
+                <ItemAttribute Name="TOC" Type="none" Value="Caput VIII Monachī Accipiunt Cibum" Parameter="" Relationship="none" RelationshipTo="" AutoAddTo="none"/>
+            </PageItemAttributes>
         </PAGEOBJECT>
         <PAGEOBJECT XPOS="118.0008" YPOS="49126.1904" OwnPage="117" ItemID="1588094099" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" gXpos="118.0008" gYpos="49126.1904" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
@@ -19287,6 +19305,9 @@
                 <ITEXT CH="[4]     Cum haec audīsset praedictus frāter, iactāvit illum frēnum dē sinū suō, et cecidit ante pedēs virī Deī, dīcēns: “Peccāvī, pater, ignōsce! Ōra prō animā meā, nē pereat.” [5] Confestim omnēs simul prōsternēbant sē ad terram, dēprecantēs Dominum prō animā frātris."/>
                 <para PARENT="Latin"/>
             </StoryText>
+            <PageItemAttributes>
+                <ItemAttribute Name="TOC" Type="none" Value="Caput VII Brendānus Iacit Daemōnum" Parameter="" Relationship="none" RelationshipTo="" AutoAddTo="none"/>
+            </PageItemAttributes>
         </PAGEOBJECT>
         <PAGEOBJECT XPOS="118.0008" YPOS="48312.8496203822" OwnPage="115" ItemID="1599849411" PTYPE="4" WIDTH="540" HEIGHT="355.872611464968" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 355.873 L0 355.873 L0 0 Z" copath="M0 0 L540 0 L540 355.873 L0 355.873 L0 0 Z" gXpos="118.0008" gYpos="48312.8496203822" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
@@ -20236,7 +20257,7 @@
                 <trail PARENT="Default Paragraph Style" ALIGN="1"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="118.0008" YPOS="46646.8050038217" OwnPage="111" ItemID="1619958003" PTYPE="4" WIDTH="540" HEIGHT="444.84076433121" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 444.841 L0 444.841 L0 0 Z" copath="M0 0 L540 0 L540 444.841 L0 444.841 L0 0 Z" gXpos="118.0008" gYpos="46646.8050038217" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="118.0008" YPOS="46646.8050038217" OwnPage="111" ItemID="1619958003" PTYPE="4" WIDTH="540" HEIGHT="475.13130191082" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 475.131 L0 475.131 L0 0 Z" copath="M0 0 L540 0 L540 475.131 L0 475.131 L0 0 Z" gXpos="118.0008" gYpos="46646.8050038217" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <para/>
@@ -20330,6 +20351,9 @@
                 <ITEXT CH="[5]     Reficiēbant autem semper ad vesperam. Aliquandō ventum habēbant; tamen ignōrābant ex quā parte veniēbat aut in quam partem ferēbātur nāvis. [6] Cōnsummātīs iam quadrāgintā diēbus et omnibus dispendiīs quae ad vīctum pertinēbant, appāruit illīs quaedam īnsula ex parte septentriōnālī, valdē saxōsa et alta."/>
                 <para PARENT="Latin"/>
             </StoryText>
+            <PageItemAttributes>
+                <ItemAttribute Name="TOC" Type="none" Value="Caput VI Aulam Vacuam" Parameter="" Relationship="none" RelationshipTo="" AutoAddTo="none"/>
+            </PageItemAttributes>
         </PAGEOBJECT>
         <PAGEOBJECT XPOS="766.0008" YPOS="43302.168" OwnPage="104" ItemID="1621656131" PTYPE="4" WIDTH="540" HEIGHT="738.764331210191" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="2" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 738.764 L0 738.764 L0 0 Z" copath="M0 0 L540 0 L540 738.764 L0 738.764 L0 0 Z" gXpos="766.0008" gYpos="43302.168" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
@@ -20521,6 +20545,9 @@
                 <ITEXT CH=".”"/>
                 <para PARENT="Latin"/>
             </StoryText>
+            <PageItemAttributes>
+                <ItemAttribute Name="TOC" Type="none" Value="Caput V Trēs Monachī" Parameter="" Relationship="none" RelationshipTo="" AutoAddTo="none"/>
+            </PageItemAttributes>
         </PAGEOBJECT>
         <PAGEOBJECT XPOS="766.0008" YPOS="42470.1648" OwnPage="102" ItemID="1626211027" PTYPE="4" WIDTH="540" HEIGHT="736.929936305733" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="2" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 736.93 L0 736.93 L0 0 Z" copath="M0 0 L540 0 L540 736.93 L0 736.93 L0 0 Z" gXpos="766.0008" gYpos="42470.1648" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
@@ -20795,6 +20822,9 @@
                 <ITEXT CH=" posuērunt in mediō nāvis fīxam, et vēlum, et cētera quae ad gubernatiōnem nāvis pertinent. [6] Sānctus Brendānus frātribus suīs praecēpit, in nōmine Patris et Fīliī et Spīritūs Sānctī, intrāre in nāvim."/>
                 <para PARENT="Latin"/>
             </StoryText>
+            <PageItemAttributes>
+                <ItemAttribute Name="TOC" Type="none" Value="Caput IV Monachī Faciunt Nāvem" Parameter="" Relationship="none" RelationshipTo="" AutoAddTo="none"/>
+            </PageItemAttributes>
         </PAGEOBJECT>
         <PAGEOBJECT XPOS="766.0008" YPOS="41638.1616" OwnPage="100" ItemID="1631948675" PTYPE="4" WIDTH="540" HEIGHT="738" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="2" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 738 L0 738 L0 0 Z" copath="M0 0 L540 0 L540 738 L0 738 L0 0 Z" gXpos="766.0008" gYpos="41638.1616" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
@@ -20923,6 +20953,9 @@
                 <ITEXT CH=" est tribus diēbus et tribus noctibus."/>
                 <para PARENT="Latin"/>
             </StoryText>
+            <PageItemAttributes>
+                <ItemAttribute Name="TOC" Type="none" Value="Caput III Monachī Eunt ad Īnsulam Aende" Parameter="" Relationship="none" RelationshipTo="" AutoAddTo="none"/>
+            </PageItemAttributes>
         </PAGEOBJECT>
         <PAGEOBJECT XPOS="118.0008" YPOS="41638.1616" OwnPage="99" ItemID="1632823923" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" gXpos="118.0008" gYpos="41638.1616" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
@@ -21163,6 +21196,9 @@
                 <ITEXT CH=" parentēs nostrōs dīmīsimus? Nōnne hērēditātem nostram dēspeximus, et corpora nostra trādidimus in manūs tuās? [6] Itaque parātī sumus sīve ad mortem sīve ad vītam tēcum īre. Ūnam tantum quaerāmus Deī voluntātem.”"/>
                 <para PARENT="Latin"/>
             </StoryText>
+            <PageItemAttributes>
+                <ItemAttribute Name="TOC" Type="none" Value="Caput II Brendānus Ēligit Frātrēs" Parameter="" Relationship="none" RelationshipTo="" AutoAddTo="none"/>
+            </PageItemAttributes>
         </PAGEOBJECT>
         <PAGEOBJECT XPOS="118.0008" YPOS="35000.5882292994" OwnPage="83" ItemID="1638763203" PTYPE="4" WIDTH="540" HEIGHT="456.15923566879" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 456.159 L0 456.159 L0 0 Z" copath="M0 0 L540 0 L540 456.159 L0 456.159 L0 0 Z" gXpos="118.0008" gYpos="35000.5882292994" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
@@ -21200,6 +21236,9 @@
                 <ITEXT CH=" multīs sermōnibus ā praedictō sānctō patre, coepit lacrimāre et sē prostrāre in terram et diūtius permanēre in ōrātiōne.  [4] Sānctus Brendānus ērēxit illum dē terrā et ōsculātus est eum, dīcēns: “Pater, cūr trīstitiam habēmus in adventū tuō?  Nōnne ad cōnsōlātiōnem nostram vēnistī?  [5] Magis laetitiam tū dēbēs frātribus praeparāre.  Indicā nōbīs verbum Deī, atque refice animās nostrās dē dīversīs mīrāculīs quae vīdistī in ōceanō.”"/>
                 <trail PARENT="Latin"/>
             </StoryText>
+            <PageItemAttributes>
+                <ItemAttribute Name="TOC" Type="none" Value="Caput I Fābula Barrindī" Parameter="" Relationship="none" RelationshipTo="" AutoAddTo="none"/>
+            </PageItemAttributes>
         </PAGEOBJECT>
         <PAGEOBJECT XPOS="118.0008" YPOS="34982.136" OwnPage="83" ItemID="1638735667" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" gXpos="118.0008" gYpos="34982.136" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
@@ -21617,7 +21656,7 @@
                 <trail PARENT="Vocab"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="118.0008" YPOS="35833.7188178344" OwnPage="85" ItemID="1645134643" PTYPE="4" WIDTH="540" HEIGHT="299.006369426752" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 299.006 L0 299.006 L0 0 Z" copath="M0 0 L540 0 L540 299.006 L0 299.006 L0 0 Z" gXpos="118.0008" gYpos="35833.7188178344" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="118.0008" YPOS="35833.7188178344" OwnPage="85" ItemID="1645134643" PTYPE="4" WIDTH="540" HEIGHT="330.459526114668" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 330.46 L0 330.46 L0 0 Z" copath="M0 0 L540 0 L540 330.46 L0 330.46 L0 0 Z" gXpos="118.0008" gYpos="35833.7188178344" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <para/>
@@ -22133,7 +22172,7 @@
                 <trail PARENT="Vocab"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="118.0008" YPOS="37496.1456" OwnPage="89" ItemID="1655318131" PTYPE="4" WIDTH="540" HEIGHT="326.980891719746" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 326.981 L0 326.981 L0 0 Z" copath="M0 0 L540 0 L540 326.981 L0 326.981 L0 0 Z" gXpos="118.0008" gYpos="37496.1456" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="118.0008" YPOS="37496.1456" OwnPage="89" ItemID="1655318131" PTYPE="4" WIDTH="540" HEIGHT="351" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 351 L0 351 L0 0 Z" copath="M0 0 L540 0 L540 351 L0 351 L0 0 Z" gXpos="118.0008" gYpos="37496.1456" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <para/>
@@ -22629,7 +22668,7 @@
                 <trail PARENT="Default Paragraph Style" ALIGN="1"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="118.0008" YPOS="39160.152" OwnPage="93" ItemID="1665850899" PTYPE="4" WIDTH="540" HEIGHT="289.171974522294" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 289.172 L0 289.172 L0 0 Z" copath="M0 0 L540 0 L540 289.172 L0 289.172 L0 0 Z" gXpos="118.0008" gYpos="39160.152" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="118.0008" YPOS="39160.152" OwnPage="93" ItemID="1665850899" PTYPE="4" WIDTH="540" HEIGHT="324" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 324 L0 324 L0 0 Z" copath="M0 0 L540 0 L540 324 L0 324 L0 0 Z" gXpos="118.0008" gYpos="39160.152" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <para/>
@@ -24937,8 +24976,8 @@
             </StoryText>
         </PAGEOBJECT>
         <PAGEOBJECT XPOS="151.0008" YPOS="35453.7207133765" OwnPage="83" ItemID="1710946499" PTYPE="5" WIDTH="450" HEIGHT="1" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR2="Black" PLINEART="1" path="" gXpos="151.0008" gYpos="65405.7207133761" gWidth="0" gHeight="0" LAYER="0"/>
-        <PAGEOBJECT XPOS="151.0008" YPOS="36127.1239133766" OwnPage="85" ItemID="1710921043" PTYPE="5" WIDTH="450" HEIGHT="1" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR2="Black" PLINEART="1" path="" gXpos="151.0008" gYpos="66079.1239133758" gWidth="0" gHeight="0" LAYER="0"/>
-        <PAGEOBJECT XPOS="118.0008" YPOS="36134.3557605096" OwnPage="85" ItemID="1710926387" PTYPE="4" WIDTH="540" HEIGHT="346.700636942676" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 346.701 L0 346.701 L0 0 Z" copath="M0 0 L540 0 L540 346.701 L0 346.701 L0 0 Z" gXpos="118.0008" gYpos="36134.3557605096" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="149.0008" YPOS="36154.7239133765" OwnPage="85" ItemID="1710921043" PTYPE="5" WIDTH="450" HEIGHT="1" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR2="Black" PLINEART="1" path="" gXpos="149.0008" gYpos="66106.7239133757" gWidth="0" gHeight="0" LAYER="0"/>
+        <PAGEOBJECT XPOS="118.0008" YPOS="36164.3557605096" OwnPage="85" ItemID="1710926387" PTYPE="4" WIDTH="540" HEIGHT="346.700636942676" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 346.701 L0 346.701 L0 0 Z" copath="M0 0 L540 0 L540 346.701 L0 346.701 L0 0 Z" gXpos="118.0008" gYpos="36164.3557605096" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <ITEXT FEATURES="inherit superscript" CH="1"/>
@@ -25008,8 +25047,8 @@
                 <trail PARENT="footnotes"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="151.0008" YPOS="37818.5303133767" OwnPage="89" ItemID="1716519459" PTYPE="5" WIDTH="450" HEIGHT="1" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR2="Black" PLINEART="1" path="" gXpos="151.0008" gYpos="67770.5303133751" gWidth="0" gHeight="0" LAYER="0"/>
-        <PAGEOBJECT XPOS="118.0008" YPOS="37825.6742624204" OwnPage="89" ItemID="1716528771" PTYPE="4" WIDTH="540" HEIGHT="284.331210191083" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 284.331 L0 284.331 L0 0 Z" copath="M0 0 L540 0 L540 284.331 L0 284.331 L0 0 Z" gXpos="118.0008" gYpos="37825.6742624204" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="151.0008" YPOS="37850.3303133767" OwnPage="89" ItemID="1716519459" PTYPE="5" WIDTH="450" HEIGHT="1" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR2="Black" PLINEART="1" path="" gXpos="151.0008" gYpos="67802.3303133751" gWidth="0" gHeight="0" LAYER="0"/>
+        <PAGEOBJECT XPOS="118.0008" YPOS="37860.6742624204" OwnPage="89" ItemID="1716528771" PTYPE="4" WIDTH="540" HEIGHT="284.331210191083" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 284.331 L0 284.331 L0 0 Z" copath="M0 0 L540 0 L540 284.331 L0 284.331 L0 0 Z" gXpos="118.0008" gYpos="37860.6742624204" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <ITEXT FEATURES="inherit superscript" CH="1"/>
@@ -25069,8 +25108,8 @@
                 <trail PARENT="footnotes"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="151.0008" YPOS="39450.1367133769" OwnPage="93" ItemID="1717880083" PTYPE="5" WIDTH="450" HEIGHT="1" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR2="Black" PLINEART="1" path="" gXpos="151.0008" gYpos="69402.1367133744" gWidth="0" gHeight="0" LAYER="0"/>
-        <PAGEOBJECT XPOS="118.0008" YPOS="39455.999133758" OwnPage="93" ItemID="1717883363" PTYPE="4" WIDTH="540" HEIGHT="272.407643312103" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 272.408 L0 272.408 L0 0 Z" copath="M0 0 L540 0 L540 272.408 L0 272.408 L0 0 Z" gXpos="118.0008" gYpos="39455.999133758" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="156.0008" YPOS="39480.1367133769" OwnPage="93" ItemID="1717880083" PTYPE="5" WIDTH="450" HEIGHT="1" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR2="Black" PLINEART="1" path="" gXpos="156.0008" gYpos="69432.1367133744" gWidth="0" gHeight="0" LAYER="0"/>
+        <PAGEOBJECT XPOS="118.0008" YPOS="39489.999133758" OwnPage="93" ItemID="1717883363" PTYPE="4" WIDTH="540" HEIGHT="272.407643312103" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 272.408 L0 272.408 L0 0 Z" copath="M0 0 L540 0 L540 272.408 L0 272.408 L0 0 Z" gXpos="118.0008" gYpos="39489.999133758" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <ITEXT FEATURES="inherit superscript" CH="1"/>
@@ -26364,8 +26403,8 @@
             </StoryText>
         </PAGEOBJECT>
         <PAGEOBJECT XPOS="151.0008" YPOS="47086.7655133776" OwnPage="111" ItemID="1746176659" PTYPE="5" WIDTH="450" HEIGHT="1" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR2="Black" PLINEART="1" path="" gXpos="151.0008" gYpos="77038.7655133713" gWidth="0" gHeight="0" LAYER="0"/>
-        <PAGEOBJECT XPOS="151.0008" YPOS="47086.7655133776" OwnPage="111" ItemID="1746184035" PTYPE="5" WIDTH="450" HEIGHT="1" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR2="Black" PLINEART="1" path="" gXpos="151.0008" gYpos="77038.7655133713" gWidth="0" gHeight="0" LAYER="0"/>
-        <PAGEOBJECT XPOS="118.0008" YPOS="47098.9833477707" OwnPage="111" ItemID="1746189251" PTYPE="4" WIDTH="540" HEIGHT="267.821656050957" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 267.822 L0 267.822 L0 0 Z" copath="M0 0 L540 0 L540 267.822 L0 267.822 L0 0 Z" gXpos="118.0008" gYpos="47098.9833477707" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="151.0008" YPOS="47117.7655133776" OwnPage="111" ItemID="1746184035" PTYPE="5" WIDTH="450" HEIGHT="1" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR2="Black" PLINEART="1" path="" gXpos="151.0008" gYpos="77069.7655133713" gWidth="0" gHeight="0" LAYER="0"/>
+        <PAGEOBJECT XPOS="118.0008" YPOS="47129.359143949" OwnPage="111" ItemID="1746189251" PTYPE="4" WIDTH="540" HEIGHT="267.821656050957" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 267.822 L0 267.822 L0 0 Z" copath="M0 0 L540 0 L540 267.822 L0 267.822 L0 0 Z" gXpos="118.0008" gYpos="47129.359143949" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <ITEXT FEATURES="inherit superscript" CH="1"/>
@@ -26432,8 +26471,8 @@
                 <trail PARENT="footnotes"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="151.0008" YPOS="49421.1751133778" OwnPage="117" ItemID="1747723603" PTYPE="5" WIDTH="450" HEIGHT="1" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR2="Black" PLINEART="1" path="" gXpos="151.0008" gYpos="79373.1751133704" gWidth="0" gHeight="0" LAYER="0"/>
-        <PAGEOBJECT XPOS="118.0008" YPOS="49428.215877707" OwnPage="117" ItemID="1747726883" PTYPE="4" WIDTH="540" HEIGHT="192.974522292989" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 192.975 L0 192.975 L0 0 Z" copath="M0 0 L540 0 L540 192.975 L0 192.975 L0 0 Z" gXpos="118.0008" gYpos="49428.215877707" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="151.0008" YPOS="49452.1751133778" OwnPage="117" ItemID="1747723603" PTYPE="5" WIDTH="450" HEIGHT="1" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR2="Black" PLINEART="1" path="" gXpos="151.0008" gYpos="79404.1751133704" gWidth="0" gHeight="0" LAYER="0"/>
+        <PAGEOBJECT XPOS="118.0008" YPOS="49463.215877707" OwnPage="117" ItemID="1747726883" PTYPE="4" WIDTH="540" HEIGHT="192.974522292989" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 192.975 L0 192.975 L0 0 Z" copath="M0 0 L540 0 L540 192.975 L0 192.975 L0 0 Z" gXpos="118.0008" gYpos="49463.215877707" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <ITEXT FEATURES="inherit superscript" CH="1"/>
@@ -26448,8 +26487,8 @@
                 <trail PARENT="footnotes"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="151.0008" YPOS="50435.5783133779" OwnPage="119" ItemID="1748558099" PTYPE="5" WIDTH="450" HEIGHT="1" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR2="Black" PLINEART="1" path="" gXpos="151.0008" gYpos="80387.57831337" gWidth="0" gHeight="0" LAYER="0"/>
-        <PAGEOBJECT XPOS="118.0008" YPOS="50442.6394598726" OwnPage="119" ItemID="1748534771" PTYPE="4" WIDTH="540" HEIGHT="252.229299363058" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 252.229 L0 252.229 L0 0 Z" copath="M0 0 L540 0 L540 252.229 L0 252.229 L0 0 Z" gXpos="118.0008" gYpos="50442.6394598726" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="151.0008" YPOS="50462.5783133779" OwnPage="119" ItemID="1748558099" PTYPE="5" WIDTH="450" HEIGHT="1" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR2="Black" PLINEART="1" path="" gXpos="151.0008" gYpos="80414.57831337" gWidth="0" gHeight="0" LAYER="0"/>
+        <PAGEOBJECT XPOS="118.0008" YPOS="50470.6394598726" OwnPage="119" ItemID="1748534771" PTYPE="4" WIDTH="540" HEIGHT="252.229299363058" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 252.229 L0 252.229 L0 0 Z" copath="M0 0 L540 0 L540 252.229 L0 252.229 L0 0 Z" gXpos="118.0008" gYpos="50470.6394598726" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <ITEXT FEATURES="inherit superscript" CH="1"/>
@@ -28305,8 +28344,8 @@
                 <trail PARENT="footnotes"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="151.0008" YPOS="52926.9879133774" OwnPage="125" ItemID="1787583635" PTYPE="5" WIDTH="450" HEIGHT="1" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR2="Black" PLINEART="1" path="" gXpos="151.0008" gYpos="82878.9879133691" gWidth="0" gHeight="0" LAYER="0"/>
-        <PAGEOBJECT XPOS="118.0008" YPOS="52934.1140280255" OwnPage="125" ItemID="1787586915" PTYPE="4" WIDTH="540" HEIGHT="258.649681528666" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 258.65 L0 258.65 L0 0 Z" copath="M0 0 L540 0 L540 258.65 L0 258.65 L0 0 Z" gXpos="118.0008" gYpos="52934.1140280255" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="151.0008" YPOS="52956.9879133774" OwnPage="125" ItemID="1787583635" PTYPE="5" WIDTH="450" HEIGHT="1" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR2="Black" PLINEART="1" path="" gXpos="151.0008" gYpos="82908.9879133691" gWidth="0" gHeight="0" LAYER="0"/>
+        <PAGEOBJECT XPOS="118.0008" YPOS="52967.1140280255" OwnPage="125" ItemID="1787586915" PTYPE="4" WIDTH="540" HEIGHT="218.395526114669" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 218.396 L0 218.396 L0 0 Z" copath="M0 0 L540 0 L540 218.396 L0 218.396 L0 0 Z" gXpos="118.0008" gYpos="52967.1140280255" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <ITEXT FEATURES="inherit superscript" CH="1"/>
