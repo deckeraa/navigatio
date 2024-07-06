@@ -371,14 +371,14 @@
         <PAGE PAGEXPOS="712.0008" PAGEYPOS="108180.4176" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="18" BORDERTOP="18" BORDERBOTTOM="18" NUM="260" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="100.0008" PAGEYPOS="109012.4208" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="18" BORDERTOP="18" BORDERBOTTOM="18" NUM="261" NAM="" MNAM="Latin left" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="712.0008" PAGEYPOS="109012.4208" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="18" BORDERTOP="18" BORDERBOTTOM="18" NUM="262" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
-        <MASTEROBJECT XPOS="118.0008" YPOS="776.0016" OwnPage="2" ItemID="1208006723" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="118.0008" gYpos="375713566433.17" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="118.0008" YPOS="776.0016" OwnPage="2" ItemID="1208006723" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="118.0008" gYpos="378260065315.306" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
                 <trail ALIGN="1"/>
             </StoryText>
         </MASTEROBJECT>
-        <MASTEROBJECT XPOS="154.0008" YPOS="776.0016" OwnPage="3" ItemID="1208005635" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="5417522686.0008" gYpos="375712637089.17" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="154.0008" YPOS="776.0016" OwnPage="3" ItemID="1208005635" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="5445903574.0008" gYpos="378259135971.306" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
@@ -31296,7 +31296,7 @@
                 <trail PARENT="footnotes"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="766.0008" YPOS="898.535031847134" OwnPage="2" ItemID="1848417507" PTYPE="4" WIDTH="540" HEIGHT="712.980891719745" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" ANNAME="TableOfContents" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 712.981 L0 712.981 L0 0 Z" copath="M0 0 L540 0 L540 712.981 L0 712.981 L0 0 Z" gXpos="766.0008" gYpos="898.535031847134" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="766.0008" YPOS="898.535031847134" OwnPage="2" ItemID="1848417507" PTYPE="4" WIDTH="540" HEIGHT="706.56050955414" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" ANNAME="TableOfContents" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 706.561 L0 706.561 L0 0 Z" copath="M0 0 L540 0 L540 706.561 L0 706.561 L0 0 Z" gXpos="766.0008" gYpos="898.535031847134" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <ITEXT CH="Introduction"/>
@@ -31533,10 +31533,12 @@
                 <ITEXT CH=", follows the journey of Bredan of Clonfert (c. AD 484 - c. 577) and the monks who followed him on a trip to find the Promised Land of the Saints."/>
                 <para/>
                 <tab/>
-                <ITEXT CH="This volume contains the full Latin text of the Nāvigātiō (labelled Orīginālis) as well as a greatly simplified version (labelled Simplicissimus). The purpose of the simplified version is to allow beginning Latin learners to experience the Nāvigātiō much earlier and to give them familiarity with the content and vocabulary of the text before they attempt the original version."/>
+                <ITEXT CH="This volume contains the full, original, Latin text of the "/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="Nāvigātiō"/>
+                <ITEXT CH=" (labelled Orīginālis) as well as a greatly simplified version (labelled Simplicissimus). The purpose of the simplified version is to allow beginning Latin learners to experience the Nāvigātiō much earlier and to give them familiarity with the content and vocabulary of the text before they attempt the original version."/>
                 <para/>
                 <tab/>
-                <ITEXT CH="The Latin text is provided on the left-hand page; the right-hand page contains a full glossary of every word used on the facing page. Unlike many glossaries, these page-specific glossaries contain every form of the word used and fully parse them. I've also simplified the provided definitions down to how the word was actually used on the page. This will save the novice reader much time and confusion. However, as you can imagine, creating a unique glossary for every page was quite labor-intensive and involved computer assistance, so there is a possibility that some errors made it through the proof-reading process. If you find any errors, please send them to me so that the book can be amended."/>
+                <ITEXT CH="The Latin text is provided on the left-hand page; the right-hand page contains a full glossary of every word used on the facing page. Unlike many glossaries, these page-specific glossaries contain every form of the word used. The provided definitions are simplified down to how the words were actually used on the page. This will save the novice reader much time and confusion. However, as you can imagine, creating a unique glossary for every page was quite labor-intensive and involved computer assistance, so there is a possibility that some errors made it through the proof-reading process. If you find any errors, please send them to me so that the book can be amended."/>
                 <para/>
                 <tab/>
                 <ITEXT CH="The simplified text was created with the following goals in mind:"/>
@@ -31557,7 +31559,7 @@
                 <ITEXT CH="- the elimination of some details (such as which particular Psalms were sung) in order to keep a faster pace."/>
                 <para/>
                 <tab/>
-                <ITEXT CH="The original text largely follows Selmar's critical text. I've classicized some spellings, such as changing Coena to cēna."/>
+                <ITEXT CH="The original text largely follows Selmer's critical text. I've classicized some spellings, such as changing coena to cēna. The verse numbers follow that of the Dickinson commentary, which you can find linked to in the bibliography"/>
                 <para/>
                 <para/>
                 <tab/>
@@ -31636,9 +31638,7 @@
                 <para PARENT="Chapter Heading"/>
                 <para/>
                 <tab/>
-                <ITEXT CH="Poetry is unlike propositional knowledge in that it cannot be reduced down and transmitted in single, concrete ideas. I also do not have all the symbolism of the "/>
-                <ITEXT FONT="DejaVu Serif Italic" CH="Nāvigātiō"/>
-                <ITEXT CH=" figured out. However, you may find the following hints and data to be helpful for your interpretive journey. The overarching symbolic theme is the spiritual progress made in the monastic life."/>
+                <ITEXT CH="Poetry is unlike propositional knowledge in that it cannot be reduced down and transmitted in single, concrete ideas. However, you may find the following hints and data to be helpful for your interpretive journey. The overarching symbolic theme is the spiritual progress made in the monastic life."/>
                 <para/>
                 <para/>
                 <ITEXT CH="Boat: the boat symbolizes the church. The church being symbolized as a boat is common in Christianity; for example, in many traditional churches the main area where people sit is called the nave. The Bible contains a number of ship-related stories: Noah's Ark, Moses in the basket, and Christ with the disciples on the Sea of Galilee. A ship gets you across the sea of chaos to your destination. The monks who stay in the boat arrive in the Promised Land of the Saints, the monk who jumps out after the Island of Smiths is taken to Hell alive. Judas is pictued as being on a &quot;boat&quot; consisting of a naked rock and a cloth &quot;sail&quot; that whips him in the face; much as he was a false disciple, in the Nāvigātiō he is on a false ship (though only on Sundays and certain feast days, he's in Hell the rest of the time). Brendan's ship contains some specific imagery: it is clad with leather skins, which is reminiscent of the garments of skin in Genesis 3, the tabernacle, and the Incarnation (the Word became flesh and dwelt (tabernacled)) amongst us. In several cases the boat is put in a tent, which was likely skin-clad. The text specifically relates that the boat has a tree placed in the middle of it as a mast. The mast holds up a cloth, catches the wind, and propels the ship to its destination; Christ was on the cross (often likened to a tree in scripture) and the Spirit of God propels the Church to its destination. In Greek πνεῦμα means both spirit and wind, and Christ specifically likens the Spirit to wind in John 3."/>
@@ -31830,7 +31830,7 @@
         <PAGEOBJECT XPOS="118.0008" YPOS="958.476137579618" OwnPage="1" ItemID="1849782179" PTYPE="4" WIDTH="540" HEIGHT="283.414012738853" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 283.414 L0 283.414 L0 0 Z" copath="M0 0 L540 0 L540 283.414 L0 283.414 L0 0 Z" gXpos="118.0008" gYpos="958.476137579618" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
-                <ITEXT FONT="DejaVu Serif Italic" FONTSIZE="24" CH="Ad omnēs sine nōmine "/>
+                <ITEXT FONT="DejaVu Serif Italic" FONTSIZE="24" CH="Ad omnēs sine nōminibus"/>
                 <para ALIGN="1"/>
                 <para ALIGN="1"/>
                 <ITEXT FONT="DejaVu Serif Italic" FONTSIZE="24" CH="quī cūstōdīvērunt flammam litterāriām"/>
