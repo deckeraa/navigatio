@@ -371,14 +371,14 @@
         <PAGE PAGEXPOS="712.0008" PAGEYPOS="108180.4176" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="18" BORDERTOP="18" BORDERBOTTOM="18" NUM="260" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="100.0008" PAGEYPOS="109012.4208" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="18" BORDERTOP="18" BORDERBOTTOM="18" NUM="261" NAM="" MNAM="Latin left" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="712.0008" PAGEYPOS="109012.4208" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="18" BORDERTOP="18" BORDERBOTTOM="18" NUM="262" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
-        <MASTEROBJECT XPOS="118.0008" YPOS="776.0016" OwnPage="2" ItemID="1208006723" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="118.0008" gYpos="378260065315.306" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="118.0008" YPOS="776.0016" OwnPage="2" ItemID="1208006723" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="118.0008" gYpos="406638421501.831" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
                 <trail ALIGN="1"/>
             </StoryText>
         </MASTEROBJECT>
-        <MASTEROBJECT XPOS="154.0008" YPOS="776.0016" OwnPage="3" ItemID="1208005635" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="5445903574.0008" gYpos="378259135971.306" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="154.0008" YPOS="776.0016" OwnPage="3" ItemID="1208005635" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="5762182114.0008" gYpos="406637492157.831" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
@@ -1538,7 +1538,7 @@
                 <para PARENT="Latin"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="118.0008" YPOS="57057.3402191083" OwnPage="135" ItemID="1224351347" PTYPE="4" WIDTH="540" HEIGHT="294.878980891719" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 294.879 L0 294.879 L0 0 Z" copath="M0 0 L540 0 L540 294.879 L0 294.879 L0 0 Z" gXpos="118.0008" gYpos="57057.3402191083" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="118.0008" YPOS="57054.3402191083" OwnPage="135" ItemID="1224351347" PTYPE="4" WIDTH="540" HEIGHT="294.878980891719" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 294.879 L0 294.879 L0 0 Z" copath="M0 0 L540 0 L540 294.879 L0 294.879 L0 0 Z" gXpos="118.0008" gYpos="57054.3402191083" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <ITEXT FEATURES="inherit superscript" CH="1"/>
@@ -2951,8 +2951,9 @@
                 <ITEXT FONT="DejaVu Serif Italic" CH="Having approached the shore, the wind drew them aside"/>
                 <ITEXT CH=". Here partem (from pars) takes on the meaning of &quot;side&quot;."/>
                 <para PARENT="footnotes"/>
-                <ITEXT FEATURES="inherit superscript" CH="4And the brother who were in the boat began to implore God with tears that he would give them help"/>
-                <ITEXT CH=". This usage of praestōlāsset is not well attested, but the meaning can easily be inferred based on context. The subjunctive is used because this is a purpose clause."/>
+                <ITEXT FEATURES="inherit superscript" CH="4"/>
+                <ITEXT FONT="DejaVu Serif Italic" FEATURES="inherit" CH="And the brother who were in the boat began to implore God with tears that he would give them help."/>
+                <ITEXT CH=" This usage of praestōlāsset is not well attested, but the meaning can easily be inferred based on context. The subjunctive is used because this is a purpose clause."/>
                 <para PARENT="footnotes"/>
                 <ITEXT FEATURES="inherit superscript" CH="5"/>
                 <ITEXT FONT="DejaVu Serif Italic" CH="Having remained in frequent prayer for three days and in abstinence, there appeared to them a narrow harbor"/>
@@ -23288,7 +23289,9 @@
                 <ITEXT CH="Sānctus Brendānus praecēpit frātribus suīs intrāre nāvem in nōmine Patrīs et Fīliī et Spīritus Sānctī."/>
                 <para PARENT="Latin"/>
                 <tab/>
-                <ITEXT CH="Tunc trēs aliī frātres cucurrērunt dē suō monastēriō ad Brendānum. Trēs frātrēs cecidērunt ad pedēs Brendānī et dīxērunt: “Pater, volumus īre tēcum.” Tunc Brendānus praecēpit illīs intrāre nāvim. Brendānus dīxit: “Sciō cūr vēnistis. Ūnus frāter faciet bonum et ībit ad paradīsum. Duo aliī frātres facient mālum et ībunt ad īudicium.”"/>
+                <ITEXT CH="Tunc trēs aliī frātres cucurrērunt dē suō monastēriō ad Brendānum. Trēs frātrēs cecidērunt ad pedēs Brendānī et dīxērunt: “Pater, volumus īre tēcum.” Tunc Brendānus praecēpit illīs intrāre nāvim. Brendānus dīxit: “Sciō cūr vēnistis. Ūnus frāter faciet bonum et ībit ad paradīsum. Duo aliī frātres facient mālum et ībunt ad īudicium"/>
+                <ITEXT FEATURES="inherit superscript" CH="1"/>
+                <ITEXT CH=".”"/>
                 <para PARENT="Latin"/>
             </StoryText>
             <PageItemAttributes>
@@ -23819,7 +23822,9 @@
                 <ITEXT CH="Monachī intraverunt oppidum et vīdērunt aulam magnum cum sēdibus. Monachī sēdērunt in sēdibus. Sānctus Brendānus dīxit “Cavēte, frātrēs. Satanās vult dūcere vōs in temptātiōnem. Satanās vult dūcere ūnum ex tribus frātribus in fūrtum pessimum. Ōrātē prō animā eius, quia carō eius est in potestātem Satānae.”"/>
                 <para PARENT="Latin"/>
                 <tab/>
-                <ITEXT CH="Aula magna habuit vāscula argentea et frēna argentea. Sānctus Brendānus dīxit “Deus dēdit cibum nōbīs. Accipite cibum.” Monachī ēdērunt pānēs et piscēs."/>
+                <ITEXT CH="Aula magna habuit vāscula argentea et frēna"/>
+                <ITEXT FEATURES="inherit superscript" CH="1"/>
+                <ITEXT CH=" argentea. Sānctus Brendānus dīxit “Deus dēdit cibum nōbīs. Accipite cibum.” Monachī ēdērunt pānēs et piscēs."/>
                 <para PARENT="Latin"/>
                 <tab/>
                 <ITEXT CH="Tunc, monachī invēnērunt lectula in aulā et dormiēbant. Sānctus Brendānus vīdit daemonem. Daemon temptābat praedictum frātrem cum frēnō argenteō. Et Sānctus Brendānus ōrābat pernoctāns usque ad diem. In māne, monachī  ēdērunt pānēs et piscēs iterum. Per trēs diēs et trēs noctēs Due praeparāvit cēnam servīs suīs."/>
@@ -23893,7 +23898,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="frēna: bridle; plural neuter nominative from frēnum, frēnī"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="frēnō: bridle; singular masculine dative from fren.o"/>
+                <ITEXT CH="frēnō: bridle; singular masculine ablative from frēnum, frēnī"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="fūrtum: theft, stolen article; singular neuter nominative from fūrtum, fūrtī"/>
                 <para PARENT="Vocab"/>
@@ -25371,7 +25376,9 @@
                 <ITEXT CH="Tunc senex occurrit eīs. Senex tenuit manum Brendānī et iērunt ad monastērium. Sānctus Brendānus, cum frātribus suīs, stābat ante portam monastēriī et dīxit senī: “Cuius est istud monastērium?” Sed senex nōn respondēbat. Tunc Brendānus scīvit quod monachī in hōc monastēriō habēbant rēgulam silentiī et nōn dīcēbant."/>
                 <para PARENT="Latin"/>
                 <tab/>
-                <ITEXT CH="Senex dūxit illōs ad refectōrium. Frātrēs sēdērunt et ēdērunt. In refectōriō erant vīgintī trēs frātrēs et ūnus abbās. Abbās dīxit: “Ēdimus pānēs sed nōn faciunt pānēs; omnī diē Deus nōbīs dat pānēs.”"/>
+                <ITEXT CH="Senex dūxit illōs ad refectōrium. Frātrēs sēdērunt et ēdērunt. In refectōriō erant vīgintī trēs frātrēs et ūnus abbās. Abbās dīxit: “Ēdimus pānēs sed nōn faciunt"/>
+                <ITEXT FEATURES="inherit superscript" CH="1"/>
+                <ITEXT CH=" pānēs; omnī diē Deus nōbīs dat pānēs.”"/>
                 <trail PARENT="Latin"/>
             </StoryText>
             <PageItemAttributes>
@@ -26501,7 +26508,6 @@
                 <trail PARENT="footnotes"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="151.0008" YPOS="47086.7655133776" OwnPage="111" ItemID="1746176659" PTYPE="5" WIDTH="450" HEIGHT="1" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR2="Black" PLINEART="1" path="" gXpos="151.0008" gYpos="77038.7655133713" gWidth="0" gHeight="0" LAYER="0"/>
         <PAGEOBJECT XPOS="151.0008" YPOS="47117.7655133776" OwnPage="111" ItemID="1746184035" PTYPE="5" WIDTH="450" HEIGHT="1" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR2="Black" PLINEART="1" path="" gXpos="151.0008" gYpos="77069.7655133713" gWidth="0" gHeight="0" LAYER="0"/>
         <PAGEOBJECT XPOS="118.0008" YPOS="47129.359143949" OwnPage="111" ItemID="1746189251" PTYPE="4" WIDTH="540" HEIGHT="267.821656050957" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 267.822 L0 267.822 L0 0 Z" copath="M0 0 L540 0 L540 267.822 L0 267.822 L0 0 Z" gXpos="118.0008" gYpos="47129.359143949" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
@@ -26607,7 +26613,6 @@
             </StoryText>
         </PAGEOBJECT>
         <PAGEOBJECT XPOS="151.0008" YPOS="51281.381513378" OwnPage="121" ItemID="1748703379" PTYPE="5" WIDTH="450" HEIGHT="1" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR2="Black" PLINEART="1" path="" gXpos="151.0008" gYpos="81233.3815133696" gWidth="0" gHeight="0" LAYER="0"/>
-        <PAGEOBJECT XPOS="151.0008" YPOS="51279.181513378" OwnPage="121" ItemID="1748710755" PTYPE="5" WIDTH="450" HEIGHT="1" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR2="Black" PLINEART="1" path="" gXpos="151.0008" gYpos="81231.1815133697" gWidth="0" gHeight="0" LAYER="0"/>
         <PAGEOBJECT XPOS="118.0008" YPOS="51287.3815133758" OwnPage="121" ItemID="1748814275" PTYPE="4" WIDTH="540" HEIGHT="239.388535031849" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 239.389 L0 239.389 L0 0 Z" copath="M0 0 L540 0 L540 239.389 L0 239.389 L0 0 Z" gXpos="118.0008" gYpos="51287.3815133758" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
@@ -26855,7 +26860,9 @@
                 <ITEXT CH="Bēlua Magna"/>
                 <para PARENT="Chapter Heading"/>
                 <para/>
-                <ITEXT CH="      Nāvigāvērunt per quadrāgintā diēs. Quādam diē, bēstia immēnsae magnitūdinis appāruit. Bēstia iactābat spūmās dē nāribus eius et natābat vēlōciter, quasi voluit edere illōs. Frātrēs vīdērunt bēstiam et clāmābant ad Dominum. Dīxērunt: “Lībera nōs, Domine, ab bēluā.” Sānctus Brendānus cōnfortāvit illōs, et dīxit: “Nōn dēbētis esse perterritī. Deus est semper noster dēfēnsor.” Sed frātrēs magis et magis timēbant. Brendānus extendit manūs in caelum et dīxit: “Domine, līberā servōs tuōs.”"/>
+                <ITEXT CH="      Nāvigāvērunt per quadrāgintā diēs. Quādam diē, bēstia"/>
+                <ITEXT FEATURES="inherit superscript" CH="1"/>
+                <ITEXT CH=" immēnsae magnitūdinis appāruit. Bēstia iactābat spūmās dē nāribus eius et natābat vēlōciter, quasi voluit edere illōs. Frātrēs vīdērunt bēstiam et clāmābant ad Dominum. Dīxērunt: “Lībera nōs, Domine, ab bēluā.” Sānctus Brendānus cōnfortāvit illōs, et dīxit: “Nōn dēbētis esse perterritī. Deus est semper noster dēfēnsor.” Sed frātrēs magis et magis timēbant. Brendānus extendit manūs in caelum et dīxit: “Domine, līberā servōs tuōs.”"/>
                 <para PARENT="Latin"/>
                 <ITEXT CH="      Tunc, ecce, ingēns bēlua, ab occidente, appāruit et pugnāvit contrā illam, et ēmīsit ignem ex ōre suō. Brendānus dīxit: “Vidēte, fīliī, magnālia Redēmptōris nostrī; vidēte oboedientiam bēstiārum creātōrī suō.” Et misera bēstia quae persequēbātur servōs Chrīstī interfecta est in trēs partēs cōram illīs."/>
                 <para PARENT="Latin"/>
@@ -27507,10 +27514,13 @@
                 <ITEXT CH="Īnsula Ūvārum"/>
                 <para PARENT="Chapter Heading"/>
                 <para/>
+                <tab/>
                 <ITEXT CH="Post duodecim diēs, Sānctus Brendānus iēiūnāvit. Post trēs diēs, avis grandissima volāvit super nāvem.  Avis habuit rāmum ūvārum. Avis mīsit rāmum dē ōre suō in sinum sānctī virī. Tunc Sānctus Brendānus vocāvit frātrēs suōs ad sē et dīxit: “Vidēte et sūmite prandium quod Deus mīsit vōbīs. Erant ūvae sīcut pōma, et habēbant vīctum usque ad duodecimum diem."/>
                 <para PARENT="Latin"/>
+                <tab/>
                 <ITEXT CH="Iterum vir Deī coepit ieiūnāre cum frātribus suīs. Tertiā diē vīdērunt īnsulam, tōtam coopertam cum arboribus dēnsissimīs. Arbōrēs habēbant frūctum praedictum ūvārum incrēdibilī fertilitāte. Nōn erant arbōrēs sterilī et nōn erant arbōrēs alterōrum generum. Invēnērunt portam et Brendānus ascendit dē nāvī et ambulābat per īnsulam. Erat odor suāvissimum."/>
                 <para PARENT="Latin"/>
+                <tab/>
                 <ITEXT CH="Brendānus invēnit sex fontēs et herbās. Dīxit: “Ascendite dē nāve et fīgite tentōrium et cōnfortāminī dē optimīs frūctibus terrae. Per quadrāgintā diēs reficiēbant dē ūvīs et herbīs. Posteā, portāvērunt multum frūctum ad nāvem."/>
                 <para PARENT="Latin"/>
             </StoryText>
@@ -29106,10 +29116,13 @@
                 <ITEXT CH="Iūdās Super Petram"/>
                 <para PARENT="Chapter Heading"/>
                 <para/>
+                <tab/>
                 <ITEXT CH="Nāvigāvērunt per septem diēs. Appāruit vir, vir sedēbat super petram. Pannus quasi mēnsūrā ūnīus sagī pendēbat inter duās forcellās ferreās."/>
                 <para PARENT="Latin"/>
+                <tab/>
                 <ITEXT CH="Brendānus appropinquāvit et undae restitērunt quasi coāgulātae. Vir erat hispidus et dēfōrmis. Et undae, quandō effluēbant ad illam, percutiēbant eum. Et quandō ventus impulit pannum, pannus percutiēbat caput eius."/>
                 <para PARENT="Latin"/>
+                <tab/>
                 <ITEXT CH="Brendānus interrogāvit eum: “Quis es?” Vir respondit: “Ego sum īnfēlīcissimus Iūdās. Hic locus nōn est poenitentiam meum, sed est indulgentiam Redēmptōris propter honōrem Dominicae resurrēctiōnis. Hodiē est Dominicus, sed in hōc vespere revertam in mediō montis quem vīdistis. Ārdeō sīcut massa plumbī liquefacta in ōllā, diē et nocte. Ibi est Leviathan cum daemonibus eius. Eram ibi quandō dēglūtīvit frātrem vestrum. Mōns ēmittit flammās quandō dēvorat animās impiōrum.”"/>
                 <para PARENT="Latin"/>
             </StoryText>
@@ -31728,7 +31741,7 @@
                 <ITEXT CH="Some Brief Grammar Notes"/>
                 <para PARENT="Chapter Heading"/>
                 <para/>
-                <ITEXT CH="Pluperfect Subjunctive"/>
+                <ITEXT FEATURES="inherit underline" CH="Pluperfect Subjunctive"/>
                 <para/>
                 <ITEXT CH="A clause involving the pluperfect subjunctive is often used to start phrases in the "/>
                 <ITEXT FONT="DejaVu Serif Italic" CH="Nāvigātiō"/>
@@ -31739,7 +31752,7 @@
                 <ITEXT CH="Here the subjunctive is employed with audīssem, not to express doubt but simply because it's part of a circumstantial clause. You can translate these in the indicative mood. The author's choice of the pluperfect seems mostly stylistic; it doesn't seem necessary to burden yourself with translating the aspect precisely. (As a quick reminder: &quot;I swam&quot; = perfect, &quot;I had swum&quot; = pluperfect)."/>
                 <para/>
                 <para/>
-                <ITEXT CH="Common transition words"/>
+                <ITEXT FEATURES="inherit underline" CH="Common transition words"/>
                 <para/>
                 <ITEXT CH="Words like vērō and autem are often used in the "/>
                 <ITEXT FONT="DejaVu Serif Italic" CH="Nāvigātiō"/>
@@ -31872,5 +31885,44 @@
                 <trail PARENT="Chapter Heading"/>
             </StoryText>
         </PAGEOBJECT>
+        <PAGEOBJECT XPOS="151.0008" YPOS="4867.00231337649" OwnPage="9" ItemID="2050091731" PTYPE="5" WIDTH="450" HEIGHT="1" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR2="Black" PLINEART="1" path="" gXpos="151.0008" gYpos="65603.120713376" gWidth="0" gHeight="0" LAYER="0"/>
+        <PAGEOBJECT XPOS="151.0008" YPOS="6353.20231337646" OwnPage="13" ItemID="2049973299" PTYPE="5" WIDTH="450" HEIGHT="1" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR2="Black" PLINEART="1" path="" gXpos="151.0008" gYpos="67089.3207133754" gWidth="0" gHeight="0" LAYER="0"/>
+        <PAGEOBJECT XPOS="118.0008" YPOS="6362.0127388535" OwnPage="13" ItemID="2064506515" PTYPE="4" WIDTH="540" HEIGHT="148.585987261146" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 148.586 L0 148.586 L0 0 Z" copath="M0 0 L540 0 L540 148.586 L0 148.586 L0 0 Z" gXpos="118.0008" gYpos="6362.0127388535" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FEATURES="inherit superscript" CH="1"/>
+                <ITEXT CH="One of the monks dies because he stole, but repents before his death and is taken up into Paradise. The other monk is swalled alive in Hell."/>
+                <trail PARENT="footnotes"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="151.0008" YPOS="7866.80871337646" OwnPage="17" ItemID="1661022435" PTYPE="5" WIDTH="450" HEIGHT="1" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR2="Black" PLINEART="1" path="" gXpos="151.0008" gYpos="66938.9207133755" gWidth="0" gHeight="0" LAYER="0"/>
+        <PAGEOBJECT XPOS="118.0008" YPOS="7875.97452229299" OwnPage="17" ItemID="2052486339" PTYPE="4" WIDTH="540" HEIGHT="215.541401273886" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 215.541 L0 215.541 L0 0 Z" copath="M0 0 L540 0 L540 215.541 L0 215.541 L0 0 Z" gXpos="118.0008" gYpos="7875.97452229299" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FEATURES="inherit superscript" CH="1"/>
+                <ITEXT CH="The frēnum could be a bridle or it could be some sort of ornamented necklace. The latter is more likely from context."/>
+                <trail PARENT="footnotes"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="151.0008" YPOS="7866.80871337646" OwnPage="17" ItemID="2064848019" PTYPE="5" WIDTH="450" HEIGHT="1" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR2="Black" PLINEART="1" path="" gXpos="151.0008" gYpos="66938.9207133755" gWidth="0" gHeight="0" LAYER="0"/>
+        <PAGEOBJECT XPOS="151.0008" YPOS="12963.8279133765" OwnPage="29" ItemID="164772436" PTYPE="5" WIDTH="450" HEIGHT="1" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR2="Black" PLINEART="1" path="" gXpos="151.0008" gYpos="67043.9207133755" gWidth="0" gHeight="0" LAYER="0"/>
+        <PAGEOBJECT XPOS="118.0008" YPOS="12971.923566879" OwnPage="29" ItemID="1482409699" PTYPE="4" WIDTH="540" HEIGHT="170.598726114649" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 170.599 L0 170.599 L0 0 Z" copath="M0 0 L540 0 L540 170.599 L0 170.599 L0 0 Z" gXpos="118.0008" gYpos="12971.923566879" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FEATURES="inherit superscript" CH="1"/>
+                <ITEXT CH="The monks are miraculously provided with bread every day. Similarly, the lamps in the church are miraculously lit every night."/>
+                <trail PARENT="footnotes"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="151.0008" YPOS="17182.8439133765" OwnPage="39" ItemID="1580540067" PTYPE="5" WIDTH="450" HEIGHT="1" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR2="Black" PLINEART="1" path="" gXpos="151.0008" gYpos="67102.9207133755" gWidth="0" gHeight="0" LAYER="0"/>
+        <PAGEOBJECT XPOS="118.0008" YPOS="17193.7834394904" OwnPage="39" ItemID="1482721427" PTYPE="4" WIDTH="540" HEIGHT="149.503184713376" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 149.503 L0 149.503 L0 0 Z" copath="M0 0 L540 0 L540 149.503 L0 149.503 L0 0 Z" gXpos="118.0008" gYpos="17193.7834394904" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FEATURES="inherit superscript" CH="1"/>
+                <ITEXT CH="This sea beast is not Iascōnius. Both are referred to as a bēlua, but they are different creatures."/>
+                <trail PARENT="footnotes"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="155.0008" YPOS="57043.2007133754" OwnPage="135" ItemID="1861147699" PTYPE="5" WIDTH="450" HEIGHT="1" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR2="Black" PLINEART="1" path="" gXpos="155.0008" gYpos="55379.2007133755" gWidth="0" gHeight="0" LAYER="0"/>
     </DOCUMENT>
 </SCRIBUSUTF8NEW>
