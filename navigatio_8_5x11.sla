@@ -371,14 +371,14 @@
         <PAGE PAGEXPOS="712.0008" PAGEYPOS="108180.4176" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="18" BORDERTOP="36" BORDERBOTTOM="18" NUM="260" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="100.0008" PAGEYPOS="109012.4208" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="18" BORDERTOP="36" BORDERBOTTOM="18" NUM="261" NAM="" MNAM="Latin left" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="712.0008" PAGEYPOS="109012.4208" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="18" BORDERTOP="36" BORDERBOTTOM="18" NUM="262" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
-        <MASTEROBJECT XPOS="118.0008" YPOS="776.0016" OwnPage="2" ItemID="1240146862" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="118.0008" gYpos="553536878203.014" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="118.0008" YPOS="776.0016" OwnPage="2" ItemID="1240146862" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="118.0008" gYpos="558543553971.665" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
                 <trail ALIGN="1"/>
             </StoryText>
         </MASTEROBJECT>
-        <MASTEROBJECT XPOS="154.0008" YPOS="776.0016" OwnPage="3" ItemID="1238278574" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="7399374526.0008" gYpos="553535948859.014" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="154.0008" YPOS="776.0016" OwnPage="3" ItemID="1238278574" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="7455174238.0008" gYpos="558542624627.665" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
@@ -23340,7 +23340,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="mortem: death; singular feminine accusative from mors, mortis"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="nāvigāre: to sail;  person  present active from nāvigō, nāvigāre, nāvigāvī, nāvigātus"/>
+                <ITEXT CH="nāvigāre: to sail;"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="nāvigāvērunt: they sailed; 3rd person plural perfect active from nāvigō, nāvigāre, nāvigāvī, nāvigātus"/>
                 <para PARENT="Vocab"/>
@@ -23467,7 +23467,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="in: into (with accusative), in (with ablative)"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="intrāre: to enter;  person  present active from intrō, intrāre, intrāvī, intrātus"/>
+                <ITEXT CH="intrāre: to enter;"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="īre: to go; present infinitive from eō, īre, iī, itus (irregular)"/>
                 <para PARENT="Vocab"/>
@@ -23630,7 +23630,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="canis: dog; singular common genitive from can.is"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="capere: to seize, to take hold;  person  present active from capiō, capere, cēpī, captus"/>
+                <ITEXT CH="capere: to seize, to take hold;"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="cessāvit: it ceased; 3rd person singular perfect active from cessō, cessāre, cessāvī, cessātus"/>
                 <para PARENT="Vocab"/>
@@ -23694,7 +23694,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="invēnērunt: they found; 3rd person plural perfect active from invenio, invenire, inveni, inventus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="invenīre: to find;  person  present active from invenio, invenire, inveni, inventus"/>
+                <ITEXT CH="invenīre: to find;"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="invenit: he finds, he found; 3rd person singular present active from invenio, invenire, inveni, inventus"/>
                 <para PARENT="Vocab"/>
@@ -23748,7 +23748,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="quīndecim: fifteen; from quīndecim, quīndecimus -a -um, quīndeci -ae -a, quīndecie (n)s"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="rēmigāre: to row;  person  present active from rēmigō, rēmigāre, rēmigāvī, rēmigātus"/>
+                <ITEXT CH="rēmigāre: to row;"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="rīpam: bank, shore; singular feminine accusative from rīpa, rīpae"/>
                 <para PARENT="Vocab"/>
@@ -23867,7 +23867,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="dormiēbant: we were sleeping; 3rd person plural imperfect active from dormiō, dormīre, dormīvī, dormītus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="dūcere: to lead;  person  present active from dūcō, dūcere, dūxī, ductus"/>
+                <ITEXT CH="dūcere: to lead;"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="ēdērunt: they ate; 3rd person plural perfect active from edō, edere, ēdī, ēsus"/>
                 <para PARENT="Vocab"/>
@@ -24012,7 +24012,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="Brendānus: Brendan of Clonfert (c. AD 484 – c. 577), an Irish abbot who sailed the Atlantic"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="capere: to seize, to take hold;  person  present active from capiō, capere, cēpī, captus"/>
+                <ITEXT CH="capere: to seize, to take hold;"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="capiēmus: we will take; 1st person plural future active from capiō, capere, cēpī, captus"/>
                 <para PARENT="Vocab"/>
@@ -24257,7 +24257,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="capite: take!; 2nd person plural present active imperative from capiō, capere, cēpī, captus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="celebrāre: to celebrate;  person  present active from celebrō, celebrāre, celebrāvī, celebrātus"/>
+                <ITEXT CH="celebrāre: to celebrate;"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="cēnā: dinner; singular feminine nominative from cēna, cēnae"/>
                 <para PARENT="Vocab"/>
@@ -24549,7 +24549,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="coepit: he started; 3rd person singular present active from coepio, coepere, coepi, coeptus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="coquināre: to cook;  person  present active from coquinō, coquināre, coquināvī, coquinātus"/>
+                <ITEXT CH="coquināre: to cook;"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="creāvērunt: they created; 3rd person plural perfect active from creo, creare, creavi, creatus"/>
                 <para PARENT="Vocab"/>
@@ -24599,7 +24599,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="īnsulam: island; singular feminine accusative from īnsula, īnsulae"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="intrāre: to enter;  person  present active from intrō, intrāre, intrāvī, intrātus"/>
+                <ITEXT CH="intrāre: to enter;"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="iūvit: he helped; 3rd person singular perfect active from juvo, juvare, juvi, jutus"/>
                 <para PARENT="Vocab"/>
@@ -24613,7 +24613,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="mōnstrum: monster; singular neuter nominative from mōnstrum, mōnstrī"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="movēre: to move;  person  present active from moveō, movēre, mōvī, mōtus"/>
+                <ITEXT CH="movēre: to move;"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="natāvit: he swam; 3rd person singular perfect active from natō, natāre, natāvī, natātus"/>
                 <para PARENT="Vocab"/>
@@ -25064,7 +25064,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="vesperā: evening; singular feminine nominative from vespera, vesperae"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="vidēre: to see;  person  present active from videō, vidēre, vīdī, vīsus"/>
+                <ITEXT CH="vidēre: to see;"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="vigiliam: vigil, watch; singular feminine accusative from vigilia, vigiliae"/>
                 <para PARENT="Vocab"/>
@@ -25455,7 +25455,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="īnsulam: island; singular feminine accusative from īnsula, īnsulae"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="invenīre: to find;  person  present active from invenio, invenire, inveni, inventus"/>
+                <ITEXT CH="invenīre: to find;"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="istud: that; singuglar neuter nominative and accusative from iste, ista, istud"/>
                 <para PARENT="Vocab"/>
@@ -25591,7 +25591,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="cantāvērunt: they sang; 3rd person plural perfect active from cantō, cantāre, cantāvī, cantātus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="celebrāre: to celebrate;  person  present active from celebrō, celebrāre, celebrāvī, celebrātus"/>
+                <ITEXT CH="celebrāre: to celebrate;"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="cum: with"/>
                 <para PARENT="Vocab"/>
@@ -25625,9 +25625,9 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="et: and"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="exīre: to come out;  person  present active from exeō, exīre, exivī(iī), exitus"/>
+                <ITEXT CH="exīre: to come out;"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="facere: to make, to do;  person  present active from faciō, facere, fēcī, factus"/>
+                <ITEXT CH="facere: to make, to do;"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="familiae: family; singular feminine genitive from familia, familiae"/>
                 <para PARENT="Vocab"/>
@@ -25715,7 +25715,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="quod: what; singular neuter nom. or acc. of qui"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="remanēre: to remain;  person  present active from remaneō, remanēre, remānsī, remānsus"/>
+                <ITEXT CH="remanēre: to remain;"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="remānsērunt: they remained; 3rd person plural perfect active from remaneō, remanēre, remānsī, remānsus"/>
                 <para PARENT="Vocab"/>
@@ -25751,7 +25751,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="vīgintī: 20"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="vīvere: to live;  person  present active from vīvō, vīvere, vīxī, vīctus"/>
+                <ITEXT CH="vīvere: to live;"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="vōcem: voice; 1st person singular present active subjunctive from vocō, vocāre, vocāvī, vocātus"/>
                 <para PARENT="Vocab"/>
@@ -25809,7 +25809,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="aquam: water; singular feminine accusative from aqua, aquae"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="bibere: to drink;  person  present active from bibo, bibere, bibi, bibitus"/>
+                <ITEXT CH="bibere: to drink;"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="bibērunt: they drunk; 3rd person plural perfect active from bibo, bibere, bibi, bibitus"/>
                 <para PARENT="Vocab"/>
@@ -25875,7 +25875,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="frātribus: brothers; plural masculine  from frāter, frātris"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="fugere: to flee;  person  present active from fugiō, fugere, fūgī, fugitus"/>
+                <ITEXT CH="fugere: to flee;"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="gubernātor: helmsman, pilot; 2nd person singular future passive imperative from gubernō, gubernāre, gubernāvī, gubernātus"/>
                 <para PARENT="Vocab"/>
@@ -26085,7 +26085,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="extendit: he extends, he extended; 3rd person singular present active from extendō, extendere, extendī, extensus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="fatīgāre: to grow weary, to fatigue;  person  present active from fatigo, fatigare, fatigavi, fatigatus"/>
+                <ITEXT CH="fatīgāre: to grow weary, to fatigue;"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="fēsta: festivals; singular feminine nominative from fēstus, fēsta, fēstum"/>
                 <para PARENT="Vocab"/>
@@ -26121,7 +26121,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="nāvem: boat; singular feminine accusative from nāvis, nāvis"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="nāvigāre: to sail;  person  present active from nāvigō, nāvigāre, nāvigāvī, nāvigātus"/>
+                <ITEXT CH="nāvigāre: to sail;"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="nāvigātē: sail! Plural imperative from nāvigō, nāvigāre, nāvigāvī, nāvigātus"/>
                 <para PARENT="Vocab"/>
@@ -26363,7 +26363,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="praedictus: the aforesaid; singular masculine nominative perfect passive participle from praedīcō, praedīcere, praedīxī, praedictus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="praeparāre: to prepare;  person  present active from praeparō, praeparāre, praeparāvī, praeparātus"/>
+                <ITEXT CH="praeparāre: to prepare;"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="prōcūrātor: procurator; 2nd person singular future passive imperative from procuro, procurare, procuravi, procuratus"/>
                 <para PARENT="Vocab"/>
@@ -27099,11 +27099,11 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="vestra: your"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="vidēre: to see;  person  present active from videō, vidēre, vīdī, vīsus"/>
+                <ITEXT CH="vidēre: to see;"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="vir: man; singular masculine nominative from vir, virī"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="vīvere: to live;  person  present active from vīvō, vīvere, vīxī, vīctus"/>
+                <ITEXT CH="vīvere: to live;"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="vōbīs: you; plural dative or ablative from tu"/>
                 <trail PARENT="Vocab"/>
