@@ -371,14 +371,14 @@
         <PAGE PAGEXPOS="712.0008" PAGEYPOS="108180.4176" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="18" BORDERTOP="36" BORDERBOTTOM="18" NUM="260" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="100.0008" PAGEYPOS="109012.4208" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="18" BORDERTOP="36" BORDERBOTTOM="18" NUM="261" NAM="" MNAM="Latin left" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="712.0008" PAGEYPOS="109012.4208" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="18" BORDERTOP="36" BORDERBOTTOM="18" NUM="262" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
-        <MASTEROBJECT XPOS="118.0008" YPOS="776.0016" OwnPage="2" ItemID="355445379" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="118.0008" gYpos="597273356182.037" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="118.0008" YPOS="776.0016" OwnPage="2" ItemID="355445379" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="118.0008" gYpos="603251154405.814" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
                 <trail ALIGN="1"/>
             </StoryText>
         </MASTEROBJECT>
-        <MASTEROBJECT XPOS="154.0008" YPOS="776.0016" OwnPage="3" ItemID="355436419" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="7886820286.0008" gYpos="597272426838.037" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="154.0008" YPOS="776.0016" OwnPage="3" ItemID="355436419" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="7953443218.0008" gYpos="603250225061.814" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
@@ -5907,7 +5907,7 @@
                 <ITEXT CH="."/>
                 <para PARENT="footnotes"/>
                 <ITEXT FEATURES="inherit superscript" CH="2"/>
-                <ITEXT FONT="DejaVu Serif Italic" CH="Brothers, beware lest you overuse these waters, lest your bodies by more gravely vexed."/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="Brothers, beware lest you overuse these waters, lest your bodies be more gravely vexed."/>
                 <para PARENT="footnotes"/>
                 <ITEXT FEATURES="inherit superscript" CH="3"/>
                 <ITEXT FONT="DejaVu Serif Italic" CH="And the brothers considered the specification of the man of God unequally."/>
@@ -6095,7 +6095,7 @@
             <StoryText>
                 <DefaultStyle/>
                 <ITEXT FEATURES="inherit superscript" CH="1"/>
-                <ITEXT FONT="DejaVu Serif Italic" CH="the sea began to be coagulated"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="The sea began to be coagulated"/>
                 <ITEXT CH=" or "/>
                 <ITEXT FONT="DejaVu Serif Italic" CH="the sea began to be like curdled milk"/>
                 <ITEXT CH=". They could be far enough north that the sea is getting very icy, or they could be in the Sargasso Sea, which is known for becoming becalmed, or they could be in another location in the Atlantic."/>
@@ -7522,7 +7522,7 @@
                 <ITEXT CH=". A literal translation of obsequium from the dictionary is difficult here, so I recommend translating more idiomatically given the context."/>
                 <para PARENT="footnotes"/>
                 <ITEXT FEATURES="inherit superscript" CH="3"/>
-                <ITEXT FONT="DejaVu Serif Italic" CH="The order of the Sabbath day being finishing, and the spiritual victims have been immolated to God, and the dinner being consumed, the same procurator said to Saint Brendan."/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="The order of the Sabbath day being finished, and the spiritual victims having been immolated to God, and the dinner having been consumed, the same procurator said to Saint Brendan."/>
                 <ITEXT CH=" This is an ablative absolute."/>
                 <para PARENT="footnotes"/>
                 <ITEXT FEATURES="inherit superscript" CH="4"/>
@@ -7537,7 +7537,7 @@
             <StoryText>
                 <DefaultStyle/>
                 <ITEXT FEATURES="inherit superscript" CH="1"/>
-                <ITEXT FONT="DejaVu Serif Italic" CH="Therefore having approached the place where theye should have ascended from the ship."/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="Therefore having approached the place where they should have ascended from the ship."/>
                 <ITEXT CH=" The subjunctive is used because this is a cum circumstantial clause. Appropinquāvissent syncopates to appropinquāssent (the vi drops out)."/>
                 <para PARENT="footnotes"/>
                 <ITEXT FEATURES="inherit superscript" CH="2"/>
@@ -8135,7 +8135,7 @@
                 <DefaultStyle/>
                 <ITEXT FEATURES="inherit superscript" CH="1"/>
                 <ITEXT FONT="DejaVu Serif Italic" CH="These three verses having been finished, behold a massive beast from the west, crossing in the path of the other beast next to them."/>
-                <ITEXT CH=" In a way, the three verses could be though of as Saint Brendan summoning the second beast."/>
+                <ITEXT CH=" In a way, the three verses could be thought of as Saint Brendan summoning the second beast."/>
                 <para PARENT="footnotes"/>
                 <ITEXT FEATURES="inherit superscript" CH="2"/>
                 <ITEXT FONT="DejaVu Serif Italic" CH="Who immediately rushed to battle against the other."/>
@@ -8155,7 +8155,7 @@
                 <ITEXT FONT="DejaVu Serif Italic" CH="Behold, the one who wanted to devour you, you yourselves will devour."/>
                 <para PARENT="footnotes"/>
                 <ITEXT FEATURES="inherit superscript" CH="7"/>
-                <ITEXT FONT="DejaVu Serif Italic" CH="The holy father himself presdestined the place for them to live"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="The holy father himself predestined the place for them to live"/>
                 <ITEXT CH=". habitandum is a gerundive."/>
                 <trail PARENT="footnotes"/>
             </StoryText>
@@ -9336,7 +9336,7 @@
             <StoryText>
                 <DefaultStyle/>
                 <ITEXT FEATURES="inherit superscript" CH="1"/>
-                <ITEXT CH="The verses referenced are, respectively: Vulgate Psalm 66:2, 69:2, 115:1, 129:1, 132:1, 147:1, 64:2, 102:1, 7:2, 112:1"/>
+                <ITEXT CH="The verses referenced are, respectively: Vulgate Psalm 66:2, 69:2, 115:1, 129:1, 132:1, 147:1, 64:2, 102:1, 7:2, 112:1."/>
                 <para PARENT="footnotes"/>
                 <ITEXT FEATURES="inherit superscript" CH="2"/>
                 <ITEXT CH="The Quīndecim Gradūs are Vulgate Psalms 119-133."/>
@@ -10602,7 +10602,7 @@
                 <para PARENT="footnotes"/>
                 <ITEXT FEATURES="inherit superscript" CH="7"/>
                 <ITEXT FONT="DejaVu Serif Italic" CH="Who (i.e. the griffin) right away wanted to devour it (i.e. the bird)"/>
-                <ITEXT CH=". It's interesting to contrast the large beast in chapter XVI which seemed to be the aggressor against the monster seeking to harm the monks, whereas her the bird seems to be the one aggressed against."/>
+                <ITEXT CH=". It's interesting to contrast the large beast in chapter XVI which seemed to be the aggressor against the monster seeking to harm the monks, whereas here the bird seems to be the one aggressed against."/>
                 <trail PARENT="footnotes"/>
             </StoryText>
         </PAGEOBJECT>
@@ -11964,7 +11964,8 @@
                 <ITEXT FONT="DejaVu Serif Italic" CH="The man of God having approached, he was looking at its top, but he couldn't because of its height: for it was higher than the sky."/>
                 <para PARENT="footnotes"/>
                 <ITEXT FEATURES="inherit superscript" CH="3"/>
-                <ITEXT CH="Put the oars, and the mast and sail, inside the boat, and let others of you hold the boat between the ribs of the canopy. Here arborem best translates to &quot;mast&quot;, which they are lowering in order to get through the opening in the column. A potential interpretation: they celebrated the Mass (commemorating the crucifixion) and see a crystal column reaching to the heavens (symbolizing Paradise), after a three day journey (corresponding to the three days between the crucifixion and resurrection) they reach the column. Having reached the column of Paradise, they put the oars inside the boat (symbolizing the end of the striving of the Church) and take down the mast/tree/cross (symbolizing the end of the suffering of the Church)."/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="Put the oars, and the mast and sail, inside the boat, and let others of you hold the boat between the ribs of the canopy."/>
+                <ITEXT CH=" Here arborem best translates to &quot;mast&quot;, which they are lowering in order to get through the opening in the column. A potential interpretation: they celebrated the Mass (commemorating the crucifixion) and see a crystal column reaching to the heavens (symbolizing Paradise), after a three day journey (corresponding to the three days between the crucifixion and resurrection) they reach the column. Having reached the column of Paradise, they put the oars inside the boat (symbolizing the end of the striving of the Church) and take down the mast/tree/cross (symbolizing the end of the suffering of the Church)."/>
                 <para PARENT="footnotes"/>
                 <ITEXT FEATURES="inherit superscript" CH="4"/>
                 <ITEXT CH="Fībula can mean clasp, buckle, brace, connection, bond, fetter, or a needle used to stitch together a wound. I've translated this as &quot;ribs&quot; based on the context. Many commentators see the crystal column as an iceberg. If that's the case, it's unclear what the canopy is. Also, it's rather silly to think that a bunch of monks who spent years sailing the Atlantic couldn't figure out that an iceberg is made of ice (see line five). Perhaps icebergs could be considered to be earthly shadows of the crystal column they saw."/>
@@ -12669,15 +12670,15 @@
                 <para PARENT="footnotes"/>
                 <ITEXT FEATURES="inherit superscript" CH="3"/>
                 <ITEXT FONT="DejaVu Serif Italic" CH="She (the island) was surrounded by a boundary."/>
-                <ITEXT CH=" Perhaps the island was walled, since much of the rest of the island appeared to be artificial and full or smith's workshops."/>
+                <ITEXT CH=" Perhaps the island was walled, since much of the rest of the island appeared to be artificial and full of smith's workshops."/>
                 <para PARENT="footnotes"/>
                 <ITEXT FEATURES="inherit superscript" CH="4"/>
-                <ITEXT FONT="DejaVu Serif Italic" CH="like a stone's throw"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="Like a stone's throw"/>
                 <ITEXT CH=". A stone's throw is an idiom indicating distance."/>
                 <para PARENT="footnotes"/>
                 <ITEXT FONT="DejaVu Serif Italic" FEATURES="inherit superscript" CH="5"/>
                 <ITEXT FONT="DejaVu Serif Italic" CH="Having heard these, the venerable father armed himself with the sign of the Lord in four parts, saying: &quot;Lord Jesus Christ, free us from this island!"/>
-                <ITEXT CH="&quot; It is probably that the sign of the Lord is Brendan crossing himself. The Dickinson College Commentary suggests that the "/>
+                <ITEXT CH="&quot; It is probable that the sign of the Lord is Brendan crossing himself. The Dickinson College Commentary suggests that the "/>
                 <ITEXT FONT="DejaVu Serif Italic" CH="quattour partēs"/>
                 <ITEXT CH=" indicates that he crossed himself facing four different directions."/>
                 <trail PARENT="footnotes"/>
@@ -14519,7 +14520,7 @@
                 <para PARENT="footnotes"/>
                 <ITEXT FEATURES="inherit superscript" CH="3"/>
                 <ITEXT FONT="DejaVu Serif Italic" CH="For the cliff/bank was of great altitude, such that they could barely see the summit."/>
-                <ITEXT CH=" Note that, unlike the crystal column, this island is not described as reachinig to heaven. That which is given by God reaches to heaven, while the demonic, hellish, and counterfeit (e.g. this island or the Tower of Babel) is merely tall."/>
+                <ITEXT CH=" Note that, unlike the crystal column, this island is not described as reaching to heaven. That which is given by God reaches to heaven, while the demonic, hellish, and counterfeit (e.g. this island or the Tower of Babel) is merely tall."/>
                 <para PARENT="footnotes"/>
                 <ITEXT FEATURES="inherit superscript" CH="4"/>
                 <ITEXT FONT="DejaVu Serif Italic" CH="A certain one who remained of the three monks who followed Saint Brendan out of their monastery went outside/leaped from the boat and began to walk up to the base of the cliff."/>
@@ -14527,7 +14528,7 @@
                 <para PARENT="footnotes"/>
                 <ITEXT FEATURES="inherit superscript" CH="5"/>
                 <ITEXT FONT="DejaVu Serif Italic" CH="Then he began to wail, sayinig: &quot;Woe to me, father! I am snatached from you, and I do not have power to come to you.&quot;"/>
-                <ITEXT CH=" Praedor is a deponent verb, but a passive sense makes much more sense here. Otherwise we would translate it as &quot;I stole from you, and I do not thave power to come to you,&quot; which doesn't fit in the narrative."/>
+                <ITEXT CH=" Praedor is a deponent verb, but a passive sense makes much more sense here. Otherwise we would translate it as &quot;I stole from you, and I do not have power to come to you,&quot; which doesn't fit in the narrative."/>
                 <trail PARENT="footnotes"/>
             </StoryText>
         </PAGEOBJECT>
@@ -14545,7 +14546,7 @@
                 <para PARENT="footnotes"/>
                 <ITEXT FEATURES="inherit superscript" CH="3"/>
                 <ITEXT FONT="DejaVu Serif Italic" CH="Woe to you, my son, because you received such an end of what you merited in your life."/>
-                <ITEXT CH=" This can be interpreted in two way: (1) the monk received his merited punishment in this life (by being dragged alive to Hell, or (2) this is an allusion to the Rich Man and Lazarus in Luke 16:25: Et dixit illi Abraham: Fīlī, recordāre quia recēpistī bona in vītā tuā, et Lazarus similiter mala: nunc autem hīc cōnsōlātur, tū vērō cruciārīs. I'm partial to (2) because: (a) similar to the Rich Man, we're not told of any particularly heinous crime that the monk committed, (b) the author would have been very familiar with Luke 16:25, and the constructions are remarkably similar, and (c) it's the lack of a true faith and a religious life that damns both the Rich Man and the monk who leaps outside the protection of the Faith/Church. It is possible, of course, that the ambiguity is intentional and that both interpretations are intended."/>
+                <ITEXT CH=" This can be interpreted in two way: (1) the monk received his merited punishment in this life (by being dragged alive to Hell), or (2) this is an allusion to the Rich Man and Lazarus in Luke 16:25: Et dixit illī Abraham: Fīlī, recordāre quia recēpistī bona in vītā tuā, et Lazarus similiter mala: nunc autem hīc cōnsōlātur, tū vērō cruciārīs. I'm partial to (2) because: (a) similar to the Rich Man, we're not told of any particularly heinous crime that the monk committed, (b) the author would have been very familiar with Luke 16:25, and the constructions are remarkably similar, and (c) it's the lack of a true faith and a religious life that damns both the Rich Man and the monk who leaps outside the protection of the Faith/Church. It is possible, of course, that the ambiguity is intentional and that both interpretations are intended."/>
                 <trail PARENT="footnotes"/>
             </StoryText>
         </PAGEOBJECT>
@@ -14589,13 +14590,13 @@
                 <ITEXT CH=" The idea here is that Judas is let out of Hell on Sundays because of a respect for Sunday."/>
                 <para PARENT="footnotes"/>
                 <ITEXT FEATURES="inherit superscript" CH="4"/>
-                <ITEXT FONT="DejaVu Serif Italic" CH="To me it appears, when I sit here, like I am in a paradise of delights, because of the fear of the torments when will be (done) to me in this evening."/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="To me it appears, when I sit here, like I am in a paradise of delights, because of the fear of the torments which will be (done) to me in this evening."/>
                 <para PARENT="footnotes"/>
                 <ITEXT FEATURES="inherit superscript" CH="5"/>
                 <ITEXT CH="A common trope in church art is to depict the mouth of the sea monster Leviathan as the mouth of Hell."/>
                 <para PARENT="footnotes"/>
                 <ITEXT FEATURES="inherit superscript" CH="6"/>
-                <ITEXT FONT="DejaVu Serif Italic" CH="I was there when it swallowed your brother, and for that reason Hell was happy, so that is sent forth huge flames; and thus it does always when it devours the souls of the impious."/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="I was there when it swallowed your brother, and for that reason Hell was happy, so that it sent forth huge flames; and thus it does always when it devours the souls of the impious."/>
                 <ITEXT CH=" Perhaps &quot;every time a soul goes to Hell, a volcano erupts&quot; is the infernal counterpoint to the folksy saying of &quot;every time a bell rings, an angel gets its wings.&quot;"/>
                 <trail PARENT="footnotes"/>
             </StoryText>
@@ -14608,7 +14609,7 @@
                 <ITEXT CH="The idea being communicated here is that Judas also gets respite from Hell on certain feast days."/>
                 <para PARENT="footnotes"/>
                 <ITEXT FEATURES="inherit superscript" CH="2"/>
-                <ITEXT FONT="DejaVu Serif Italic" CH="That the demons might not lead be, during your coming, to (my) evil inheritance, which I compared to an evil price."/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="That the demons might not torture and lead me, during your coming, to (my) evil inheritance, which I compared to an evil price."/>
                 <ITEXT CH=" It appears that what Judas is referencing here is that he received the evil inheritance of Hell in exchange for the evil price of the thirty pieces of silver he took in payment to betray Christ."/>
                 <para PARENT="footnotes"/>
             </StoryText>
@@ -14713,7 +14714,7 @@
                 <ITEXT CH=" This meaning of regiōne is less common, but is the gloss that makes sense in this sentence."/>
                 <para PARENT="footnotes"/>
                 <ITEXT FEATURES="inherit superscript" CH="2"/>
-                <ITEXT FONT="DejaVu Serif Italic" CH="Having fruit of the aforesaid graphs of incredible fertility, so that all the trees were curved to the ground, of one fruit, of one color."/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="Having fruit of the aforesaid grapes of incredible fertility, so that all the trees were curved to the ground, of one fruit, of one color."/>
                 <trail PARENT="footnotes"/>
             </StoryText>
         </PAGEOBJECT>
@@ -14726,7 +14727,7 @@
                 <ITEXT CH=" The Punic apples are pomegranates."/>
                 <para PARENT="footnotes"/>
                 <ITEXT FEATURES="inherit superscript" CH="2"/>
-                <ITEXT FONT="DejaVu Serif Italic" CH="Meanwhile a wind blew to them a most sweet odor, so that it have caused them to forget their fast."/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="Meanwhile a wind blew to them a most sweet odor, so that it caused them to forget their fast."/>
                 <trail PARENT="footnotes"/>
             </StoryText>
         </PAGEOBJECT>
@@ -29780,7 +29781,7 @@
                 <para PARENT="footnotes"/>
                 <ITEXT FEATURES="inherit superscript" CH="4"/>
                 <ITEXT FONT="DejaVu Serif Italic" CH="After this, like they were fleeing, all of the animals were swimming through various paths of the sea from the face of the servants of God"/>
-                <ITEXT CH=". Fuiendō is a gerund."/>
+                <ITEXT CH=". Fugiendō is a gerund."/>
                 <para PARENT="footnotes"/>
                 <ITEXT FEATURES="inherit superscript" CH="5"/>
                 <ITEXT FONT="DejaVu Serif Italic" CH="Saint Brendan, with prosperous winds and sails extended, could hardly sail across the clear (region of the) sea in eight days."/>
