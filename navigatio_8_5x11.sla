@@ -371,14 +371,14 @@
         <PAGE PAGEXPOS="712.0008" PAGEYPOS="108180.4176" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="18" BORDERTOP="36" BORDERBOTTOM="18" NUM="260" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="100.0008" PAGEYPOS="109012.4208" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="18" BORDERTOP="36" BORDERBOTTOM="18" NUM="261" NAM="" MNAM="Latin left" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="712.0008" PAGEYPOS="109012.4208" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="18" BORDERTOP="36" BORDERBOTTOM="18" NUM="262" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
-        <MASTEROBJECT XPOS="118.0008" YPOS="776.0016" OwnPage="2" ItemID="355445379" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="118.0008" gYpos="590756045483.189" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="118.0008" YPOS="776.0016" OwnPage="2" ItemID="355445379" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="118.0008" gYpos="592691096893.774" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
                 <trail ALIGN="1"/>
             </StoryText>
         </MASTEROBJECT>
-        <MASTEROBJECT XPOS="154.0008" YPOS="776.0016" OwnPage="3" ItemID="355436419" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="7814184454.0008" gYpos="590755116139.189" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="154.0008" YPOS="776.0016" OwnPage="3" ItemID="355436419" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="7835750722.0008" gYpos="592690167549.774" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
@@ -20368,7 +20368,9 @@
                 <para PARENT="Latin"/>
                 <ITEXT CH="[26]      Cum autem frātrēs obdormīssent, vīdit sānctus Brendānus opus diabolī, īnfantem Aethiopum"/>
                 <ITEXT FEATURES="inherit superscript" CH="5"/>
-                <ITEXT CH=", habentem frēnum in manū et iocantem ante frātrem praedictum. Statim sānctus Brendānus surrēxit et coepit ōrāre, pernoctāns usque ad diem. [27] Iam vērō manē, cum frātrēs ad opus Deī festīnāssent6, ut—post hoc—iter ēgissent ad nāvim, ecce appāruit mēnsa parāta sīcut et prīdiē. Ita per trēs diēs et trēs noctēs praeparāvit Deus prandium servīs suīs."/>
+                <ITEXT CH=", habentem frēnum in manū et iocantem ante frātrem praedictum. Statim sānctus Brendānus surrēxit et coepit ōrāre, pernoctāns usque ad diem. [27] Iam vērō manē, cum frātrēs ad opus Deī festīnāssent"/>
+                <ITEXT FEATURES="inherit superscript" CH="6"/>
+                <ITEXT CH=", ut—post hoc—iter ēgissent ad nāvim, ecce appāruit mēnsa parāta sīcut et prīdiē. Ita per trēs diēs et trēs noctēs praeparāvit Deus prandium servīs suīs."/>
                 <para PARENT="Latin"/>
             </StoryText>
         </PAGEOBJECT>
@@ -25285,13 +25287,13 @@
             <StoryText>
                 <DefaultStyle/>
                 <ITEXT FEATURES="inherit superscript" CH="1"/>
-                <ITEXT FONT="DejaVu Serif Italic" CH="Then Saint Brendan set out, and those who were with him, a fast of forty days, always by three days (i.e. in three-day intervals) and afterwards to set out."/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="Then Saint Brendan planned, and those who were with him, a fast of forty days, always by three days (i.e. in three-day intervals) and afterwards to set out."/>
                 <ITEXT CH=" proficīscī is the present infinitive (it's a deponent verb)"/>
                 <para PARENT="footnotes"/>
                 <ITEXT FEATURES="inherit superscript" CH="2"/>
                 <ITEXT FONT="DejaVu Serif Italic" CH="Having then spent forty days, and saluting the brothers, and having commended everything of his monastery to the prior, who was afterwards his successor in the same place, he set out from the "/>
-                <ITEXT FONT="DejaVu Serif Italic" FEATURES="inherit superscript" CH="west coast with fourteen brother for the insland of a certain holy father named Aende"/>
-                <ITEXT FEATURES="inherit superscript" CH="."/>
+                <ITEXT FONT="DejaVu Serif Italic" FEATURES="inherit" CH="west coast with fourteen brother for the insland of a certain holy father named Aende"/>
+                <ITEXT FEATURES="inherit" CH="."/>
                 <para PARENT="footnotes"/>
                 <ITEXT FEATURES="inherit superscript" CH="3"/>
                 <ITEXT FONT="DejaVu Serif Italic" CH="And there he dwelled three days and three nights."/>
@@ -26485,7 +26487,7 @@
             <StoryText>
                 <DefaultStyle/>
                 <ITEXT FEATURES="inherit superscript" CH="1"/>
-                <ITEXT FONT="DejaVu Serif Italic" CH="And everyone having ascended out of the ship and having stood outside on the land, Saint Brendan command that nothing of the equipment be taken outside of the ship."/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="And everyone having ascended out of the ship and having stood outside on the land, Saint Brendan commanded that nothing of the equipment be taken outside of the ship."/>
                 <para PARENT="footnotes"/>
                 <ITEXT FEATURES="inherit superscript" CH="2"/>
                 <ITEXT FONT="DejaVu Serif Italic" CH="As dogs are accustomed to follow the feet of their masters."/>
@@ -26501,7 +26503,7 @@
                 <para PARENT="footnotes"/>
                 <ITEXT FEATURES="inherit superscript" CH="6"/>
                 <ITEXT FONT="DejaVu Serif Italic" CH="The house, in which they were residing, was like it was introduced through walls, all around, of hanging vessels of diverse types of metals, and bridles and horns gilded with silver."/>
-                <ITEXT CH=" A bridle could mean an ornamental necklace in this context (which helps explain why someone might want to steal one). The meaning of īnserta here is a unclear to me, perhaps the decorations act as a sort of heraldry that &quot;introduces&quot; the room to guests."/>
+                <ITEXT CH=" A bridle could mean an ornamental necklace in this context (which helps explain why someone might want to steal one). The meaning of īnserta here is unclear to me, perhaps the decorations act as a sort of heraldry that &quot;introduces&quot; the room to guests."/>
                 <trail PARENT="footnotes"/>
             </StoryText>
         </PAGEOBJECT>
@@ -26525,8 +26527,8 @@
                 <ITEXT FONT="DejaVu Serif Italic" CH="Rest, behold a bed for each one and (the bed is) well spread out."/>
                 <para PARENT="footnotes"/>
                 <ITEXT FEATURES="inherit superscript" CH="5"/>
-                <ITEXT FONT="DejaVu Serif Italic" CH="However with the brothers having fallen asleep, Saint Brendan saw the work of the Devil, an Ethiopian baby, having a bridle (or ornamented necklace) in his hand and jesting in front of the aforesaid brother."/>
-                <ITEXT CH=" The idea of portraying a demon as a black-colored boy has precedent in the Vita Antonii. There's no reason to think that there's a racial component to this; its merely a way to communicate the color of the boy (much in the same way that the knight in Gawain and the Green Knight is green)."/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="However with the brothers having fallen asleep, Saint Brendan saw the work of the Devil, an Ethiopian infant, having a bridle (or ornamented necklace) in his hand and jesting in front of the aforesaid brother."/>
+                <ITEXT CH=" The idea of portraying a demon as a black-colored boy has precedent in the Vīta Antōniī. There's no reason to think that there's a racial component to this; its merely a way to communicate the color of the boy (much in the same way that the knight in Gawain and the Green Knight is green)."/>
                 <para PARENT="footnotes"/>
                 <ITEXT FEATURES="inherit superscript" CH="6"/>
                 <ITEXT FONT="DejaVu Serif Italic" CH="And in the morning, with the brothers having hastened to the work of God, so that, afterwards, they might have journeyed to the ship."/>
@@ -26544,7 +26546,7 @@
                 <ITEXT FONT="DejaVu Serif Italic" CH="Far be it from us, Father, that anything of theft would violate our journey."/>
                 <para PARENT="footnotes"/>
                 <ITEXT FEATURES="inherit superscript" CH="3"/>
-                <ITEXT FONT="DejaVu Serif Italic" CH="Behold, our brother, whom I foretold to you yesterday, has a silver bridal in his pocket (or in the fold of his garment), which the devil gave to him this night."/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="Behold, our brother, whom I foretold to you yesterday, has a silver bridle in his pocket (or in the fold of his garment), which the devil gave to him this night."/>
                 <trail PARENT="footnotes"/>
             </StoryText>
         </PAGEOBJECT>
@@ -26569,7 +26571,7 @@
                 <ITEXT CH=". The third monk, who will do well, is not here mentioned. It's a little odd that the present tense was chosen for habet. One manuscript put it in the future with habēbit. Perhaps the present was chosen to emphasize that one's future destiny is already present in the choices one is making in the here-and-now."/>
                 <para PARENT="footnotes"/>
                 <ITEXT FEATURES="inherit superscript" CH="5"/>
-                <ITEXT CH="Therefore his body was buried in the same place by the aforesaid holy father."/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="Therefore his body was buried in the same place by the aforesaid holy father."/>
                 <trail PARENT="footnotes"/>
             </StoryText>
         </PAGEOBJECT>
