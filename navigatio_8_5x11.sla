@@ -371,14 +371,14 @@
         <PAGE PAGEXPOS="712.0008" PAGEYPOS="108180.4176" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="18" BORDERTOP="36" BORDERBOTTOM="18" NUM="260" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="100.0008" PAGEYPOS="109012.4208" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="18" BORDERTOP="36" BORDERBOTTOM="18" NUM="261" NAM="" MNAM="Latin left" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="712.0008" PAGEYPOS="109012.4208" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="18" BORDERTOP="36" BORDERBOTTOM="18" NUM="262" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
-        <MASTEROBJECT XPOS="118.0008" YPOS="776.0016" OwnPage="2" ItemID="355445379" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="118.0008" gYpos="592691096893.774" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="118.0008" YPOS="776.0016" OwnPage="2" ItemID="355445379" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="118.0008" gYpos="597273356182.037" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
                 <trail ALIGN="1"/>
             </StoryText>
         </MASTEROBJECT>
-        <MASTEROBJECT XPOS="154.0008" YPOS="776.0016" OwnPage="3" ItemID="355436419" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="7835750722.0008" gYpos="592690167549.774" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="154.0008" YPOS="776.0016" OwnPage="3" ItemID="355436419" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="7886820286.0008" gYpos="597272426838.037" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
@@ -940,11 +940,11 @@
             <StoryText>
                 <DefaultStyle/>
                 <ITEXT FEATURES="inherit superscript" CH="1"/>
-                <ITEXT FONT="DejaVu Serif Italic" CH="of marvelous width,"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="Of marvelous width,"/>
                 <ITEXT CH=" a genitive of description."/>
                 <para PARENT="footnotes"/>
                 <ITEXT FEATURES="inherit superscript" CH="2"/>
-                <ITEXT FONT="DejaVu Serif Italic" CH="covered by (very) white birds"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="Covered by (very) white birds"/>
                 <para PARENT="footnotes"/>
                 <ITEXT FEATURES="inherit superscript" CH="3"/>
                 <ITEXT FONT="DejaVu Serif Italic" CH="They so covered it."/>
@@ -955,30 +955,30 @@
                 <para PARENT="footnotes"/>
                 <ITEXT FEATURES="inherit superscript" CH="5"/>
                 <ITEXT FONT="DejaVu Serif Italic" CH="The man of God having seen these things"/>
-                <ITEXT CH=". The subjunctive is used because this is a cum circumstantial clause. Haec is neuter accusative in this instance."/>
+                <ITEXT CH=". The subjunctive is used because this is a cum circumstantial clause. Haec is plural neuter accusative in this instance."/>
                 <para PARENT="footnotes"/>
                 <ITEXT FEATURES="inherit superscript" CH="6,7"/>
-                <ITEXT FONT="DejaVu Serif Italic" CH="He began to think to himself and determine what is was, or of what cause it was, that such a multitude of birds could be in one collection"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="He began to think to himself and determine what it was, or of what cause it was, that such a multitude of birds could be in one collection"/>
                 <ITEXT CH=". The subjunctive is used because Brendan is musing what it "/>
                 <ITEXT FONT="DejaVu Serif Italic" CH="might be"/>
                 <ITEXT CH="."/>
                 <para PARENT="footnotes"/>
                 <ITEXT FEATURES="inherit superscript" CH="8"/>
-                <ITEXT CH="The subjunctive is used her because this is a result clause."/>
+                <ITEXT CH="The subjunctive is used here because this is a result clause."/>
                 <para PARENT="footnotes"/>
                 <ITEXT FEATURES="inherit superscript" CH="9"/>
                 <ITEXT FONT="DejaVu Serif Italic" CH="It was so tedious to him that he had cried tears."/>
                 <para PARENT="footnotes"/>
                 <ITEXT FEATURES="inherit superscript" CH="10"/>
-                <ITEXT CH="The subjunctive is used her because this is a result clause."/>
+                <ITEXT CH="The subjunctive is used here because this is a result clause."/>
                 <para PARENT="footnotes"/>
                 <ITEXT FEATURES="inherit superscript" CH="11"/>
                 <ITEXT FONT="DejaVu Serif Italic" CH="Falling on his knees"/>
-                <ITEXT CH=". This is an ablative absolute"/>
+                <ITEXT CH=". This is an ablative absolute."/>
                 <para PARENT="footnotes"/>
                 <ITEXT FEATURES="inherit superscript" CH="12"/>
                 <ITEXT FONT="DejaVu Serif Italic" CH="And praying to God"/>
-                <ITEXT CH=". The subjunctive is used because this is a circumstantial clause (even though cum is omitted). When translating tthis, it's most idiomatic to translation the accusative (Deum) as dative (to God)."/>
+                <ITEXT CH=". The subjunctive is used because this is a circumstantial clause (even though cum is omitted). When translating this, it's most idiomatic to translate the accusative (Deum) as dative (to God)."/>
                 <para PARENT="footnotes"/>
                 <ITEXT FEATURES="inherit superscript" CH="13"/>
                 <ITEXT FONT="DejaVu Serif Italic" CH="God, knower of the unknown and revealer of all things hidden, you know the burden/boxed-in-ness of my heart."/>
@@ -1540,7 +1540,7 @@
                 <para PARENT="footnotes"/>
                 <ITEXT FEATURES="inherit superscript" CH="2"/>
                 <ITEXT FONT="DejaVu Serif Italic" CH="Having said these things"/>
-                <ITEXT CH=". Here haec is the plural neuter accusative. The subjunctive is used because its a cum circumstantial clause."/>
+                <ITEXT CH=". Here haec is plural neuter accusative. The subjunctive is used because its a cum circumstantial clause."/>
                 <para PARENT="footnotes"/>
                 <ITEXT FEATURES="inherit superscript" CH="3"/>
                 <ITEXT FONT="DejaVu Serif Italic" CH="With the evening hour having approached"/>
@@ -1552,7 +1552,7 @@
                 <para PARENT="footnotes"/>
                 <ITEXT FEATURES="inherit superscript" CH="5"/>
                 <ITEXT FONT="DejaVu Serif Italic" CH="The melody and the sound of the wings appeared to the man of God and to those who were with him like a song of lamentation, because of its sweetness"/>
-                <ITEXT CH=". The author may have included this detail to reinforce the point that birds have been exiled out of the fellowship of the spirits that stood in heaven; the verse they sing includes geographical references, but they are in exile. It's also interesting to note that the sound of the wings is mentioned. Recall that earlier the sound was described &quot;like a bell&quot; so it appears that their wings function musically."/>
+                <ITEXT CH=". The author may have included this detail to reinforce the point that the birds have been exiled out of the fellowship of the spirits that stood in heaven; the verse they sing includes geographical references, but they are in exile. It's also interesting to note that the sound of the wings is mentioned. Recall that earlier the sound was described &quot;like a bell&quot; so it appears that their wings function musically."/>
                 <trail PARENT="footnotes"/>
             </StoryText>
         </PAGEOBJECT>
@@ -1798,7 +1798,7 @@
                 <para PARENT="footnotes"/>
                 <ITEXT FEATURES="inherit superscript" CH="3"/>
                 <ITEXT FONT="DejaVu Serif Italic" CH="Having finished everything, the man of God and those who were with him gave their bodies to rest until the third watch of the night"/>
-                <ITEXT CH=". Hīs omnibus fīnīttīs is an ablative absolute."/>
+                <ITEXT CH=". Hīs omnibus fīnītīs is an ablative absolute."/>
                 <para PARENT="footnotes"/>
                 <ITEXT FEATURES="inherit superscript" CH="4"/>
                 <ITEXT CH="Psalm 50:17"/>
@@ -2328,7 +2328,9 @@
                 <ITEXT FEATURES="inherit superscript" CH="4"/>
                 <ITEXT CH=", locūtus est illīs īdem vir, dīcēns: “Restat vōbīs magnum iter. [47] Accipite dē istō fonte vestra vāscula plēna et pānēs siccōs, quōs potestis observāre in alium annum. Ego vōbīs tribuam quantum vestra nāvis potest portāre.” [48] Cum autem haec perfīnīta essent"/>
                 <ITEXT FEATURES="inherit superscript" CH="5"/>
-                <ITEXT CH=", acceptā benedictiōne, reversus est in locum suum."/>
+                <ITEXT CH=", acceptā benedictiōne, reversus"/>
+                <ITEXT FEATURES="inherit superscript" CH="6"/>
+                <ITEXT CH=" est in locum suum."/>
                 <para PARENT="Latin"/>
             </StoryText>
         </PAGEOBJECT>
@@ -2353,10 +2355,10 @@
                 <para PARENT="footnotes"/>
                 <ITEXT FEATURES="inherit superscript" CH="5"/>
                 <ITEXT FONT="DejaVu Serif Italic" CH="These things having been finished."/>
-                <ITEXT CH=" Haec is pluarl neuter nominative. perfīnitā + essent is a past passive participle + conjugation of esse construction. The usage of the subjunctive here is stylistic."/>
+                <ITEXT CH=" Haec is plural neuter nominative. perfīnitā + essent is a past passive participle + conjugation of esse construction. The usage of the subjunctive here is stylistic."/>
                 <para PARENT="footnotes"/>
                 <ITEXT FEATURES="inherit superscript" CH="6"/>
-                <ITEXT FONT="DejaVu Serif Italic" CH="He returned ino his place"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="He returned into his place"/>
                 <ITEXT CH=". revertor is deponent, so reversus + est is a past passive participle + conjugation of esse construction, yet it has an active meaning."/>
                 <trail PARENT="footnotes"/>
             </StoryText>
@@ -2643,7 +2645,7 @@
                 <para PARENT="footnotes"/>
                 <ITEXT FEATURES="inherit superscript" CH="7"/>
                 <ITEXT FONT="DejaVu Serif Italic" CH="Hear us, God our redemption, the hope of all the ends of the earth and in the sea afar off"/>
-                <ITEXT CH=". Psalm 64.6"/>
+                <ITEXT CH=". Psalm 64:6."/>
                 <trail PARENT="footnotes"/>
             </StoryText>
         </PAGEOBJECT>
@@ -2945,7 +2947,7 @@
                 <ITEXT CH=". Here partem (from pars) takes on the meaning of &quot;side&quot;."/>
                 <para PARENT="footnotes"/>
                 <ITEXT FEATURES="inherit superscript" CH="4"/>
-                <ITEXT FONT="DejaVu Serif Italic" FEATURES="inherit" CH="And the brother who were in the boat began to implore God with tears that he would give them help."/>
+                <ITEXT FONT="DejaVu Serif Italic" FEATURES="inherit" CH="And the brothers who were in the boat began to implore God with tears that he would give them help."/>
                 <ITEXT CH=" This usage of praestōlāsset is not well attested, but the meaning can easily be inferred based on context. The subjunctive is used because this is a purpose clause."/>
                 <para PARENT="footnotes"/>
                 <ITEXT FEATURES="inherit superscript" CH="5"/>
@@ -2961,7 +2963,7 @@
                 <ITEXT CH=". Intuēns is a present participle of intueor, to look at."/>
                 <para PARENT="footnotes"/>
                 <ITEXT FEATURES="inherit superscript" CH="8"/>
-                <ITEXT FONT="DejaVu Serif Italic" CH="Children, don' continue this illicit thing without license of the seniors who dwell in this island"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="Children, don't continue this illicit thing without license of the seniors who dwell in this island"/>
                 <ITEXT CH=". Fīliolī is a diminuative used to express affection. The senēs they need to get permission from are elder monks at the monastery."/>
                 <trail PARENT="footnotes"/>
             </StoryText>
@@ -3235,7 +3237,7 @@
             <StoryText>
                 <DefaultStyle/>
                 <ITEXT FEATURES="inherit superscript" CH="1"/>
-                <ITEXT FONT="DejaVu Serif Italic" CH="Therefore ascending out of the ship and consider into which part they might go. "/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="Therefore ascending out of the ship and considering into which part they might go. "/>
                 <ITEXT CH="A future participle itūrī is combined with essent (an imperfect subjunctive) here to render a future subjunctive."/>
                 <para PARENT="footnotes"/>
                 <ITEXT FEATURES="inherit superscript" CH="2"/>
@@ -3256,7 +3258,7 @@
                 <para PARENT="footnotes"/>
                 <ITEXT FEATURES="inherit superscript" CH="6"/>
                 <ITEXT FONT="DejaVu Serif Italic" CH="But so much, with incredible gentleness, he insinuated/implied/communicated silence with his hands (or with hand signals)"/>
-                <ITEXT CH=". The ablative of means is used here. As will be discussed later in this chapter, most of the monks on the island have a vow of silence, so that monk is trying to use hand signals to communicate that to Brendan."/>
+                <ITEXT CH=". The ablative of means is used here. As will be discussed later in this chapter, most of the monks on the island have a vow of silence, so the monk is trying to use hand signals to communicate that to Brendan."/>
                 <para PARENT="footnotes"/>
                 <ITEXT FEATURES="inherit superscript" CH="7"/>
                 <ITEXT FONT="DejaVu Serif Italic" CH="Immediately, when the holy father recognized the decree (of silence) of this place, he was warning his brothers, saying: &quot;Guard your mouths from speaking, so that these brothers may not be polluted by our buffoonery.&quot;"/>
@@ -3544,10 +3546,10 @@
                 <DefaultStyle/>
                 <ITEXT FEATURES="inherit superscript" CH="1"/>
                 <ITEXT FONT="DejaVu Serif Italic" CH="Having prohibited words to these, behold, eleven brothers ran in the path with book-containers and crosses and hymnals, saying this verse: &quot;Rise up, holy ones of God, from your rooms and set out in the path of truth. Sanctify the place, bless the common men, and deign to guard your companions in peace."/>
-                <ITEXT CH="&quot; This is probably a quotation from a liturgical text; it is not found in the Bible. dignēminī is subjunctive because it is iussive i.e. it is encouraging or commanding someone to do something. Also not that hīs in the beginning of the sentence could be ablative and match verbīs, or it could be dative and be referring to Brendan's monks."/>
+                <ITEXT CH="&quot; This is probably a quotation from a liturgical text; it is not found in the Bible. dignēminī is subjunctive because it is iussive i.e. it is encouraging or commanding someone to do something. Also note that hīs in the beginning of the sentence could be ablative and match verbīs, or it could be dative and be referring to Brendan's monks."/>
                 <para PARENT="footnotes"/>
                 <ITEXT FEATURES="inherit superscript" CH="2"/>
-                <ITEXT FONT="DejaVu Serif Italic" CH="Having finished the aforesaid verse, the father of the monastery kissed Brendan and his companioins in order; and similarly his monks kissed the family of the holy man"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="Having finished the aforesaid verse, the father of the monastery kissed Brendan and his companions in order; and similarly his monks kissed the family of the holy man"/>
                 <ITEXT CH=". ōsculātus est means &quot;he kissed&quot; because the verb is deponent."/>
                 <para PARENT="footnotes"/>
                 <ITEXT FEATURES="inherit superscript" CH="3"/>
@@ -4106,7 +4108,7 @@
                 <para PARENT="footnotes"/>
                 <ITEXT FEATURES="inherit superscript" CH="2"/>
                 <ITEXT FONT="DejaVu Serif Italic" CH="According to divine predestination."/>
-                <ITEXT CH=" It appears that the act of brining the laterns with them was divinely fore-ordained."/>
+                <ITEXT CH=" It appears that the act of bringing the laterns with them was divinely fore-ordained."/>
                 <para PARENT="footnotes"/>
                 <ITEXT FEATURES="inherit superscript" CH="3"/>
                 <ITEXT FONT="DejaVu Serif Italic" CH="Having therefore entered the church."/>
@@ -4400,7 +4402,7 @@
                 <ITEXT CH="."/>
                 <para PARENT="footnotes"/>
                 <ITEXT FEATURES="inherit superscript" CH="3"/>
-                <ITEXT FONT="DejaVu Serif Italic" CH="An their vessels (were) similarly of crystal, that is, a shallow dish, and cups, and small pitches, and other vessels which pertaini to the Divine Cult."/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="And their vessels (were) similarly of crystal, that is, a shallow dish, and cups, and small pitches, and other vessels which pertain to the Divine Cult."/>
                 <ITEXT CH=" Here cultum dīvīnum means the Eucharist (or Mass, or Lord's Supper, depending on what terminology you want to use)."/>
                 <para PARENT="footnotes"/>
                 <ITEXT FEATURES="inherit superscript" CH="4"/>
@@ -5277,7 +5279,7 @@
             <StoryText>
                 <DefaultStyle/>
                 <ITEXT FEATURES="inherit superscript" CH="1"/>
-                <ITEXT FONT="DejaVu Serif Italic" CH="Blessed Brendan, (was) interrogating the holy father abouth their silence and way of life, how it could be (done) in human flesh."/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="Blessed Brendan, (was) interrogating the holy father about their silence and way of life, how it could be (done) in human flesh."/>
                 <ITEXT CH=" "/>
                 <para PARENT="footnotes"/>
                 <ITEXT FEATURES="inherit superscript" CH="2"/>
@@ -5285,7 +5287,7 @@
                 <ITEXT CH="n. Only the older monks were allowed to make hand and eye signals."/>
                 <para PARENT="footnotes"/>
                 <ITEXT FEATURES="inherit superscript" CH="3"/>
-                <ITEXT FONT="DejaVu Serif Italic" CH="Has not Good revealed to you the things that you must do before you came here to us?"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="Has not God revealed to you the things that you must do before you came here to us?"/>
                 <ITEXT CH=" "/>
                 <ITEXT FONT="DejaVu Serif Italic" CH="te oportet"/>
                 <ITEXT CH=" is a construction used to say "/>
@@ -5884,7 +5886,7 @@
                 <para PARENT="footnotes"/>
                 <ITEXT FEATURES="inherit superscript" CH="4"/>
                 <ITEXT FONT="DejaVu Serif Italic" CH="However on a certain day."/>
-                <ITEXT CH=" This is an ablative absolute"/>
+                <ITEXT CH=" This is an ablative absolute."/>
                 <para PARENT="footnotes"/>
                 <ITEXT FEATURES="inherit superscript" CH="5"/>
                 <ITEXT FONT="DejaVu Serif Italic" CH="With the brothers having seen it."/>
@@ -26597,10 +26599,10 @@
                 <DefaultStyle/>
                 <ITEXT FEATURES="inherit superscript" CH="1"/>
                 <ITEXT FONT="DejaVu Serif Italic" CH="A properous wind came to their aid, so that they might not labor more than their strength could sustain."/>
-                <ITEXT CH=" Note vīrēs is from vīs, not vir."/>
+                <ITEXT CH=" Note that vīrēs is from vīs, not vir."/>
                 <para PARENT="footnotes"/>
                 <ITEXT FEATURES="inherit superscript" CH="2"/>
-                <ITEXT FONT="DejaVu Serif Italic" CH="A with the ship anchored in port, the man of God (Brendan) ordered everyone to go outside; however he himself got out after them."/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="And with the ship anchored in port, the man of God (Brendan) ordered everyone to go outside; however he himself got out after them."/>
                 <para PARENT="footnotes"/>
                 <ITEXT FEATURES="inherit superscript" CH="3"/>
                 <ITEXT CH="It appears that they are going to cook a lamb for Easter, though not all commentators agree. For example, the Dickinson commentary suggests that &quot;it is unclear whether we are to understand that the monks literally sacrificed an animal victim; in the later Middle Ages an actual lamb could be blessed at the Easter service. But it seems more likely that the language here is figurative.&quot;"/>
@@ -26616,7 +26618,7 @@
             <StoryText>
                 <DefaultStyle/>
                 <ITEXT FEATURES="inherit superscript" CH="1"/>
-                <ITEXT FONT="DejaVu Serif Italic" CH="Having have tied it by the horns, it (the sheep) followed (like a pet) the one who was holding the rope in his hand, up to the place where the man of God sat."/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="Having tied it by the horns, it (the sheep) followed (like a pet) the one who was holding the rope in his hand, up to the place where the man of God sat."/>
                 <para PARENT="footnotes"/>
                 <ITEXT FEATURES="inherit superscript" CH="2"/>
                 <ITEXT FONT="DejaVu Serif Italic" CH="Who hastened and did (it) just as he had been commanded."/>
@@ -28500,7 +28502,7 @@
                 <para PARENT="footnotes"/>
                 <ITEXT FEATURES="inherit superscript" CH="6"/>
                 <ITEXT FONT="DejaVu Serif Italic" CH="He is always seeking to join together his head and tail, and he cannot because of his size."/>
-                <ITEXT CH=" This most curious details implies that Iascōnius is like an uroboros, they self-eating snake. Yet Iascōnius is unable to accomplish this because of his size; I have yet been unable to determine what the symbolic meaning of this could be. Iascōnius is an interesting character in that he is a neutral/good character in this story; for example in chapter 27 he gives carries their boat to the Paradise of Birds."/>
+                <ITEXT CH=" This most curious details implies that Iascōnius is like an ouroboros, a self-eating snake. Yet Iascōnius is unable to accomplish this because of his size; I have yet been unable to determine what the symbolic meaning of this could be. Iascōnius is an interesting character in that he is a neutral/good character in this story; for example in chapter 27 he carries their boat to the Paradise of Birds."/>
                 <trail PARENT="footnotes"/>
             </StoryText>
         </PAGEOBJECT>
