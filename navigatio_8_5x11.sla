@@ -371,14 +371,14 @@
         <PAGE PAGEXPOS="712.0008" PAGEYPOS="108180.4176" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="18" BORDERTOP="36" BORDERBOTTOM="18" NUM="260" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="100.0008" PAGEYPOS="109012.4208" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="18" BORDERTOP="36" BORDERBOTTOM="18" NUM="261" NAM="" MNAM="Latin left" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="712.0008" PAGEYPOS="109012.4208" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="18" BORDERTOP="36" BORDERBOTTOM="18" NUM="262" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
-        <MASTEROBJECT XPOS="118.0008" YPOS="776.0016" OwnPage="2" ItemID="1725123312" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="118.0008" gYpos="611221552037.518" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="118.0008" YPOS="776.0016" OwnPage="2" ItemID="1725123312" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="118.0008" gYpos="613358021438.796" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
                 <trail ALIGN="1"/>
             </StoryText>
         </MASTEROBJECT>
-        <MASTEROBJECT XPOS="154.0008" YPOS="776.0016" OwnPage="3" ItemID="1729673936" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="8042273794.0008" gYpos="611220622693.518" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="154.0008" YPOS="776.0016" OwnPage="3" ItemID="1729673936" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="8066084878.0008" gYpos="613357092094.796" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
@@ -23599,13 +23599,14 @@
                 <tab/>
                 <ITEXT CH="Sānctus Brendānus ascendit in nāvem. Extendērunt vēlum et nāvigābant. Habēbant prōsperum ventum. Post quīndecim diēs ventus cessāvit et coepērunt rēmigāre."/>
                 <para PARENT="Latin"/>
+                <tab/>
                 <ITEXT CH="Sānctus Brendānus cōnfortāvit frātrēs et dīxit: “Deus est gubernātor noster.” Et ventus movēbat nāvem per mare. Post quadrāgintā diēs, monachī nōn habuērunt cibum sed vīdērunt īnsulam. Haec īnsula erat saxōsa et alta."/>
                 <para PARENT="Latin"/>
                 <tab/>
-                <ITEXT CH="Nāvīs appropinquāvit lītus. Vīdērunt rīpam altissimam sīcut mūrum. Rīvulī fluēbant dē summitāte īnsulae ad mare. Sed monachī nōn poterant invenīre portum. Monachī sitiēbant et volēbant capere aquam ex rīvulīs. Tunc Sānctus Brendānus dīxit: “Nōn dēbētīs capere aquam ex rīvulīs. Est stultus quia Deus nōn nōbīs ostendit portam. Dominus Iēsus Chrīstus, post trēs diēs, ostendet portum servīs suīs.” Et post trēs diēs, invēnērunt portum."/>
+                <ITEXT CH="Nāvīs appropinquāvit lītus. Vīdērunt rīpam altissimam sīcut mūrum. Rīvulī fluēbant dē summitāte īnsulae ad mare. Sed monachī nōn poterant invenīre portum. Monachī sitiēbant et volēbant capere aquam ex rīvulīs. Tunc Sānctus Brendānus dīxit: “Nōn dēbētīs capere aquam ex rīvulīs. Est stultus quia Deus nōn nōbīs ostendit portum. Dominus Iēsus Chrīstus, post trēs diēs, ostendet portum servīs suīs.” Et post trēs diēs, invēnērunt portum."/>
                 <para PARENT="Latin"/>
                 <tab/>
-                <ITEXT CH="Monachī ambulābant per lītus et invēnit canem. Canis vēnit ad pedēs Sānctī Brendānī. Sānctus Brendānus dīxit “Dēbēmus īre cum cane.” Et monachī et canis iērunt ad oppidum."/>
+                <ITEXT CH="Monachī ambulābant per lītus et invēnērunt canem. Canis vēnit ad pedēs Sānctī Brendānī. Sānctus Brendānus dīxit “Dēbēmus īre cum cane.” Et monachī et canis iērunt ad oppidum."/>
                 <trail PARENT="Latin"/>
             </StoryText>
             <PageItemAttributes>
@@ -23703,11 +23704,11 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="īnsulam: island; singular feminine accusative from īnsula, īnsulae"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="invēnērunt: they found; 3rd person plural perfect active from invenio, invenire, inveni, inventus"/>
+                <ITEXT CH="invēnērunt: they found; 3rd person plural perfect active from inveniō, invenīre, invēnī, inventus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="invenīre: to find;"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="invenit: he finds, he found; 3rd person singular present active from invenio, invenire, inveni, inventus"/>
+                <ITEXT CH="invēnērunt: they found; 3rd person plural perfect from inveniō, invenīre, invēnī, inventus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="īre: to go; present infinitive from eō, īre, iī, itus (irregular)"/>
                 <para PARENT="Vocab"/>
@@ -23827,7 +23828,7 @@
                 <ITEXT CH=" argentea. Sānctus Brendānus dīxit “Deus dēdit cibum nōbīs. Accipite cibum.” Monachī ēdērunt pānēs et piscēs."/>
                 <para PARENT="Latin"/>
                 <tab/>
-                <ITEXT CH="Tunc, monachī invēnērunt lectula in aulā et dormiēbant. Sānctus Brendānus vīdit daemonem. Daemon temptābat praedictum frātrem cum frēnō argenteō. Et Sānctus Brendānus ōrābat pernoctāns usque ad diem. In māne, monachī  ēdērunt pānēs et piscēs iterum. Per trēs diēs et trēs noctēs Due praeparāvit cēnam servīs suīs."/>
+                <ITEXT CH="Tunc, monachī invēnērunt lectula in aulā et dormiēbant. Sānctus Brendānus vīdit daemonem. Daemon temptābat praedictum frātrem cum frēnō argenteō. Et Sānctus Brendānus ōrābat pernoctāns usque ad diem. In māne, monachī  ēdērunt pānēs et piscēs iterum. Per trēs diēs et trēs noctēs Deus praeparāvit cēnam servīs suīs."/>
                 <para PARENT="Latin"/>
             </StoryText>
         </PAGEOBJECT>
@@ -23850,7 +23851,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="Brendānus: Brendan of Clonfert (c. AD 484 – c. 577), an Irish abbot who sailed the Atlantic"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="carō: meat, flesh; singular masculine dative from carus, cara -um, carior -or -us, carissimus -a -um"/>
+                <ITEXT CH="carō: flesh; singular feminine nominative from carō, carnis"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="cavēte: Beware!; 2nd person plural present active imperative from caveō, cavēre, cāvī, cautus"/>
                 <para PARENT="Vocab"/>
@@ -23860,13 +23861,11 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="cum: with"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="d: diem, abb. d; in calendar expression a. d. = ante diem = before the day;  common  from d., abb."/>
-                <para PARENT="Vocab"/>
                 <ITEXT CH="daemōn: demon; singular masculine nominative from daemōn, daemōnis"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="daemōnem: demon; singular masculine accusative from daemōn, daemōnis"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="dedit: he gave; 3rd person singular perfect active from do, dare, dedi, datus"/>
+                <ITEXT CH="dedit: he gave; 3rd person singular perfect active from dō, dare, dedī, datus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="deus: god; singular masculine nominative from Deus, Dei"/>
                 <para PARENT="Vocab"/>
@@ -23908,7 +23907,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="intrāvērunt: they entered; 3rd person plural perfect active from intrō, intrāre, intrāvī, intrātus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="invēnērunt: they found; 3rd person plural perfect active from invenio, invenire, inveni, inventus"/>
+                <ITEXT CH="invēnērunt: they found; 3rd person plural perfect active from inveniō, invenīre, invenī, inventus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="iterum: again"/>
                 <para PARENT="Vocab"/>
@@ -23920,11 +23919,11 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="manē: morning"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="monachī: monk; singular masculine genitive from monachus, monachī"/>
+                <ITEXT CH="monachī: monks; plural masculine nominative from monachus, monachī"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="nōbīs: us; singular dative or ablative from ego"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="noctēs: nights; plural feminine nominative from nox, noctis"/>
+                <ITEXT CH="noctēs: nights; plural feminine accusative from nox, noctis"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="oppidum: town; singular neuter nominative from oppidum, oppidī"/>
                 <para PARENT="Vocab"/>
@@ -23954,17 +23953,17 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="sānctus: holy, saint"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="satanae: Satan, adversary; singular masculine genitive from Satanas, Satanae"/>
+                <ITEXT CH="Satanae: Satan, adversary; singular masculine genitive from Satanas, Satanae"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="satanās: Satan, adversary; singular masculine nominative from Satanas, Satanae"/>
+                <ITEXT CH="Satanās: Satan, adversary; singular masculine nominative from Satanas, Satanae"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="sēdērunt: they sat; 3rd person plural perfect active from sedeō, sedēre, sēdī, sessus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="sēdibus: seats; plural feminine  from sēdēs, sēdis"/>
+                <ITEXT CH="sēdibus: seats; plural feminine ablative from sēdēs, sēdis"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="servīs: slaves, servants; plural masculine  from servus, servī"/>
+                <ITEXT CH="servīs: slaves, servants; plural masculine dative from servus, servī"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="suis: their; plural dative or ablative of suus"/>
+                <ITEXT CH="suīs: their; plural dative or ablative of suus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="temptābat: he was tempting; 3rd person singular imperfect active from temptō, temptāre, temptāvī, temptātus"/>
                 <para PARENT="Vocab"/>
