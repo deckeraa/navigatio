@@ -371,14 +371,14 @@
         <PAGE PAGEXPOS="712.0008" PAGEYPOS="108180.4176" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="18" BORDERTOP="36" BORDERBOTTOM="18" NUM="260" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="100.0008" PAGEYPOS="109012.4208" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="18" BORDERTOP="36" BORDERBOTTOM="18" NUM="261" NAM="" MNAM="Latin left" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="712.0008" PAGEYPOS="109012.4208" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="18" BORDERTOP="36" BORDERBOTTOM="18" NUM="262" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
-        <MASTEROBJECT XPOS="118.0008" YPOS="776.0016" OwnPage="2" ItemID="1725123312" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="118.0008" gYpos="617573412244.011" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="118.0008" YPOS="776.0016" OwnPage="2" ItemID="1725123312" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="118.0008" gYpos="618307149210.107" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
                 <trail ALIGN="1"/>
             </StoryText>
         </MASTEROBJECT>
-        <MASTEROBJECT XPOS="154.0008" YPOS="776.0016" OwnPage="3" ItemID="1729673936" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="8113065670.0008" gYpos="617572482900.011" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="154.0008" YPOS="776.0016" OwnPage="3" ItemID="1729673936" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="8121243214.0008" gYpos="618306219866.107" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
@@ -24535,7 +24535,9 @@
                 <ITEXT CH="Monachī iērunt ex nāvem ad īnsulam. Sed Sānctus Brendānus mānsit in nāve. Monachī cēpērunt carnēs crūdās ex nāvē. Monachī volēbant coquināre carnēs. Igitur, monachī creāvērunt ignem."/>
                 <para PARENT="Latin"/>
                 <tab/>
-                <ITEXT CH="Ignī ārdente, īnsula coepit movēre sīcut unda! Monachī erant perterritī! Cucurrērunt ad nāvem, et Brendānus iūvit eōs intrāre nāvem. Et īnsula natāvit ab nāve! Nōn erat īnsula sed mōnstrum maris."/>
+                <ITEXT CH="Ignī ārdente"/>
+                <ITEXT FEATURES="inherit superscript" CH="1"/>
+                <ITEXT CH=", īnsula coepit movēre sīcut unda! Monachī erant perterritī! Cucurrērunt ad nāvem, et Brendānus iūvit eōs intrāre nāvem. Et īnsula natāvit ab nāve! Nōn erat īnsula sed mōnstrum maris."/>
                 <para PARENT="Latin"/>
                 <tab/>
                 <ITEXT CH="Brendānus dīxit: “Deus mē revēlāvit nōmen huius mōnstrum. Nōmen eius est Iascōnius.”"/>
@@ -24559,13 +24561,13 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="ad: to, towards, at, according to"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="arbōrēs: trees; plural feminine nominative from arbor, arboris"/>
+                <ITEXT CH="arbōrēs: trees; plural feminine accusative from arbor, arboris"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="ārdente: burning; singular ablative present participle from ārdeō, ārdēre, ārsī, ārsus"/>
+                <ITEXT CH="ārdente: burning; singular masculine ablative present participle from ārdeō, ārdēre, ārsī, ārsus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="Brendānus: Brendan of Clonfert (c. AD 484 – c. 577), an Irish abbot who sailed the Atlantic"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="carnēs: meat, flesh; plural feminine nominative from carō, carnis"/>
+                <ITEXT CH="carnēs: meat, flesh; plural feminine accusative from carō, carnis"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="cēpērunt: they took; 3rd person plural perfect active from capiō, capere, cēpī, captus"/>
                 <para PARENT="Vocab"/>
@@ -24579,7 +24581,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="cucurrērunt: they ran; 3rd person plural perfect active from currō, currere, cucurrī, cursus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="deus: god; singular masculine nominative from Deus, Dei"/>
+                <ITEXT CH="Deus: god; singular masculine nominative from Deus, Dei"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="dīxit: he said; 3rd person singular perfect active from dīcō, dīcere, dīxī, dictus"/>
                 <para PARENT="Vocab"/>
@@ -24613,7 +24615,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="īgnem: fire; singular masculine accusative from īgnis, īgnis"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="īgnī: fire; singular masculine  from īgnis, īgnis"/>
+                <ITEXT CH="īgnī: fire; singular masculine ablative from īgnis, īgnis"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="in: into (with accusative), in (with ablative)"/>
                 <para PARENT="Vocab"/>
@@ -24623,7 +24625,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="intrāre: to enter;"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="iūvit: he helped; 3rd person singular perfect active from juvo, juvare, juvi, jutus"/>
+                <ITEXT CH="iūvit: he helped; 3rd person singular perfect active from iuvō, iuvāre, iuvī, iutus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="mānsit: he remained; 3rd person singular perfect active from maneō, manēre, mānsī, mānsus"/>
                 <para PARENT="Vocab"/>
@@ -24639,7 +24641,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="natāvit: he swam; 3rd person singular perfect active from natō, natāre, natāvī, natātus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="nāve: boat; singular feminine  from nāvis, nāvis"/>
+                <ITEXT CH="nāve: boat; singular feminine ablative from nāvis, nāvis"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="nāvem: boat; singular feminine accusative from nāvis, nāvis"/>
                 <para PARENT="Vocab"/>
@@ -24657,13 +24659,13 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="sānctus: holy, saint"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="saxa: rocks; plural neuter nominative from saxum, saxī"/>
+                <ITEXT CH="saxa: rocks; plural neuter accusative from saxum, saxī"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="sed: but"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="sīcut: as, same as, like"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="unda: waves; singular feminine nominative from unda, undae"/>
+                <ITEXT CH="unda: wave; singular feminine nominative from unda, undae"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="volēbant: they were wanting; 3rd person plural imperfect active from volō, velle, voluī, -"/>
                 <trail PARENT="Vocab"/>
@@ -31973,6 +31975,15 @@
                 <ITEXT FEATURES="inherit superscript" CH="2"/>
                 <ITEXT FONT="DejaVu Serif Italic" CH="Let us sacrifice an immaculate lamb, because today is the Feast of the Lord"/>
                 <ITEXT CH=". 'Sacrificēmus', which is subjunctive, is used instead of the indicative 'sacrificāmus'; the iussive subjunctive translates as 'let us sacrifice' instead of 'we sacrifice'."/>
+                <trail PARENT="footnotes"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="118.0008" YPOS="10490.04" OwnPage="23" ItemID="553281729" PTYPE="4" WIDTH="540" HEIGHT="140.737070063697" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 140.737 L0 140.737 L0 0 Z" copath="M0 0 L540 0 L540 140.737 L0 140.737 L0 0 Z" gXpos="118.0008" gYpos="10490.04" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FEATURES="inherit superscript" CH="1"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="With the fire burning"/>
+                <ITEXT CH=". 'Ignī ārdente' is an example of an ablative absolute, which is a short phrase with words in the ablative case that provide context for the conditions under which the sentence is taking place."/>
                 <trail PARENT="footnotes"/>
             </StoryText>
         </PAGEOBJECT>
