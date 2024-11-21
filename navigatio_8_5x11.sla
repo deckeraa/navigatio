@@ -371,14 +371,14 @@
         <PAGE PAGEXPOS="712.0008" PAGEYPOS="108180.4176" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="18" BORDERTOP="36" BORDERBOTTOM="18" NUM="260" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="100.0008" PAGEYPOS="109012.4208" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="18" BORDERTOP="36" BORDERBOTTOM="18" NUM="261" NAM="" MNAM="Latin left" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="712.0008" PAGEYPOS="109012.4208" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="18" BORDERTOP="36" BORDERBOTTOM="18" NUM="262" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
-        <MASTEROBJECT XPOS="118.0008" YPOS="776.0016" OwnPage="2" ItemID="1725123312" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="118.0008" gYpos="625133780394.661" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="118.0008" YPOS="776.0016" OwnPage="2" ItemID="1725123312" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="118.0008" gYpos="625975419855.771" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
                 <trail ALIGN="1"/>
             </StoryText>
         </MASTEROBJECT>
-        <MASTEROBJECT XPOS="154.0008" YPOS="776.0016" OwnPage="3" ItemID="1729673936" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="8197326442.0008" gYpos="625132851050.661" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="154.0008" YPOS="776.0016" OwnPage="3" ItemID="1729673936" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="8206706566.0008" gYpos="625974490511.771" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
@@ -25587,13 +25587,13 @@
                 <ITEXT CH="Tunc Brendānus et monachī eius intrāvērunt ecclēsiam et cantāvērunt psalmōs. Ecclēsia erat quadrāta et habēbat septem lūmināria et vīgintī quattuor sēdēs."/>
                 <para PARENT="Latin"/>
                 <tab/>
-                <ITEXT CH="Brendānus interrogāvit abbātem dē silentiō monachōrum. Abbās respondit: “Audīvimus nūllam vōcem hūmānam sed quandō cantāmus laudēs Deō. Brendānus dīxit: “Possumus vīvere hīc?” Abbās respondit: “Nōn potestis vīvere hīc quia nōn est voluntās Deī. [63] Deus revēlāvit mē quod dēbēs īre ad Terrā Reprōmissiōnis Sānctōrum cum quattuordecim frātribus tuīs. [64] Habēs duōs aliōs: ūnus ībit ad īnsulam nōmine Anachorītārum, sed alter ībit ad īnferōs."/>
+                <ITEXT CH="Brendānus interrogāvit abbātem dē silentiō monachōrum. Abbās respondit: “Audīvimus nūllam vōcem hūmānam sed quandō cantāmus laudēs Deō. Brendānus dīxit: “Possumusne vīvere hīc?” Abbās respondit: “Nōn potestis vīvere hīc quia nōn est voluntās Deī. Deus revēlāvit mē quod dēbēs īre ad Terram Reprōmissiōnis Sānctōrum cum quattuordecim frātribus tuīs. Habēs duōs aliōs: ūnus ībit ad īnsulam nōmine Anachorītārum, sed alter ībit ad īnferōs."/>
                 <para PARENT="Latin"/>
                 <tab/>
                 <ITEXT CH="Tunc sagitta ignea volāvit per fenestram et incendit omnēs lampadēs Abbās dīxit: “Hoc lūmen est spīritāle.”"/>
                 <para PARENT="Latin"/>
                 <tab/>
-                <ITEXT CH="In māne, Brendānus interrogāvit: “Possumus exīre et facere iter nostrum?” [73] Senex respondit: “Nōn dēbētis exīre sed dēbēs remanēre et celebrāre nātīvitātem Dominī. Brendānus et monachī remānsērunt in īnsulā nōmine Īnsula Familiae Ailbēī."/>
+                <ITEXT CH="In māne, Brendānus interrogāvit: “Possumus exīre et facere iter nostrum?” Senex respondit: “Nōn dēbētis exīre sed dēbētis remanēre et celebrāre nātīvitātem Dominī. Brendānus et monachī remānsērunt in īnsulā nōmine Īnsula Familiae Ailbēī."/>
                 <para PARENT="Latin"/>
             </StoryText>
         </PAGEOBJECT>
@@ -25632,11 +25632,11 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="dēbētis: you should; 2nd person plural present active from dēbeō, dēbēre, dēbuī, dēbitus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="deī: god, diety; singular masculine genitive from Deus, Dei"/>
+                <ITEXT CH="Deī: god, diety; singular masculine genitive from Deus, Dei"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="deō: god; singular masculine dative from Deus, Dei"/>
+                <ITEXT CH="Deō: god; singular masculine dative from Deus, Dei"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="deus: god; singular masculine nominative from Deus, Dei"/>
+                <ITEXT CH="Deus: god; singular masculine nominative from Deus, Dei"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="dīxit: he said; 3rd person singular perfect active from dīcō, dīcere, dīxī, dictus"/>
                 <para PARENT="Vocab"/>
@@ -25664,7 +25664,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="fenestram: window; singular feminine accusative from fenestra, fenestrae"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="frātribus: brothers; plural masculine  from frāter, frātris"/>
+                <ITEXT CH="frātribus: brothers; plural masculine dative or ablative from frāter, frātris"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="habēbat: he had; 3rd person singular imperfect active from habeō, habēre, habuī, habitus"/>
                 <para PARENT="Vocab"/>
@@ -25676,13 +25676,13 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="hūmānam: human, cultured, refined; singular feminine accusative from hūmānus, hūmāna -um, hūmānior -or -us, hūmānissimus -a -um"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="ībit: he will go; 3rd person singular future active from eo, ire, ivi(ii), itus"/>
+                <ITEXT CH="ībit: he will go; 3rd person singular future active from eō, īre, ivī, itus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="ignea: fiery; singular feminine nominative from igneus, ignea, igneum"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="in: into (with accusative), in (with ablative)"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="incendit: it burns, it burnt; 3rd person singular present active from incendō, incendere, incendī, incēnsus"/>
+                <ITEXT CH="incendit: it burnt; 3rd person singular perfect active from incendō, incendere, incendī, incēnsus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="inferōs: Hades, plural masculine accusative from īnferus, īnfera, īnferum"/>
                 <para PARENT="Vocab"/>
@@ -25696,15 +25696,15 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="īre: to go; present infinitive from eō, īre, iī, itus (irregular)"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="iter: journey, trip; singular neuter nominative from iter, itineris"/>
+                <ITEXT CH="iter: journey, trip; singular neuter accusative from iter, itineris"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="lampadēs: lamps; plural feminine nominative from lampad.es"/>
+                <ITEXT CH="lampadēs: lamps; plural feminine accusative from lampas, lampadis"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="laudēs: praises; 2nd person singular present active subjunctive from laudō, laudāre, laudāvī, laudātus"/>
+                <ITEXT CH="laudēs: praises; plural feminine accusative from laus, laudis"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="lūmen: light; singular neuter nominative from lūmen, lūminis"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="lūminaria: windows; plural neuter nominative from lūminare, lūminaris"/>
+                <ITEXT CH="lūminaria: windows; plural neuter accusative from lūminare, lūminaris"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="manē: morning"/>
                 <para PARENT="Vocab"/>
@@ -25716,7 +25716,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="nātīvitātem: birth, nativity; singular feminine accusative from nātīvitās, nātīvitātis"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="nōmine: name; singular neuter  from nōmen, nōminis"/>
+                <ITEXT CH="nōmine: name; singular neuter ablative from nōmen, nōminis"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="nōn: not"/>
                 <para PARENT="Vocab"/>
@@ -25734,7 +25734,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="psalmōs: psalm; plural masculine accusative from psalmus, psalmī"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="quadrāta: squares; singular feminine nominative perfect passive participle from quadro, quadrare, quadravi, quadratus"/>
+                <ITEXT CH="quadrāta: squares; singular feminine nominative from quadrātus, quadrāta, quadrātum"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="quandō: when, because"/>
                 <para PARENT="Vocab"/>
@@ -25768,11 +25768,11 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="septem: seven"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="silentiō: silence; singular neuter dative from silentium, silenti(i)"/>
+                <ITEXT CH="silentiō: silence; singular neuter ablative from silentium, silenti(i)"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="spīritāle: spiritual; singular neuter nominative from spīritālis, spīritālis, spīritāle"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="terra: land; singular feminine nominative from terra, terrae"/>
+                <ITEXT CH="terram: land; singular feminine accusative from terra, terrae"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="tuīs: yours; plural  dative from tuus, tua, tuum"/>
                 <para PARENT="Vocab"/>
@@ -25784,7 +25784,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="vīvere: to live;"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="vōcem: voice; 1st person singular present active subjunctive from vocō, vocāre, vocāvī, vocātus"/>
+                <ITEXT CH="vōcem: voice; singular feminine accusative from vōx, vōcis"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="volāvit: he flew; 3rd person singular perfect active from volō, volāre, volāvī, volātus"/>
                 <para PARENT="Vocab"/>
