@@ -371,14 +371,14 @@
         <PAGE PAGEXPOS="712.0008" PAGEYPOS="108180.4176" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="18" BORDERTOP="36" BORDERBOTTOM="18" NUM="260" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="100.0008" PAGEYPOS="109012.4208" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="18" BORDERTOP="36" BORDERBOTTOM="18" NUM="261" NAM="" MNAM="Latin left" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="712.0008" PAGEYPOS="109012.4208" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="18" BORDERTOP="36" BORDERBOTTOM="18" NUM="262" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
-        <MASTEROBJECT XPOS="118.0008" YPOS="776.0016" OwnPage="2" ItemID="1725123312" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="118.0008" gYpos="621501063062.522" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="118.0008" YPOS="776.0016" OwnPage="2" ItemID="1725123312" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="118.0008" gYpos="624896394905.631" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
                 <trail ALIGN="1"/>
             </StoryText>
         </MASTEROBJECT>
-        <MASTEROBJECT XPOS="154.0008" YPOS="776.0016" OwnPage="3" ItemID="1729673936" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="8156839582.0008" gYpos="621500133718.522" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="154.0008" YPOS="776.0016" OwnPage="3" ItemID="1729673936" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="8194680766.0008" gYpos="624895465561.631" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
@@ -24700,7 +24700,10 @@
                 <DefaultStyle/>
                 <para/>
                 <tab/>
-                <ITEXT CH="Avis dīxit: “Nōs sumus dē illā magnā ruīnā antīquī hostis Satanae, sed nōn peccāvērunt. Deus noster est iūstus: mīsit nōs in hōc locum. Nōn sustinēmus poenās et possumus vidēre praesentiam Deī; sed aliēnāvit nōs ā cōnsortiō aliōrum spīrituum in caelō. Movent per mundum sīcut aliī spīritūs, sed in sānctīs diēbus et Dominicīs accipimus corpora avium et laudāmus nostrum creātōrem. Tū cum tuīs frātribus habēs ūnum annum in tuō itinere; sex annī remanent. Celebrābis Pascha hīc omnī annō, et posteā inveniēs Terram Reprōmissiōnis Sānctōrum. Et avis revertit ad aliās avēs."/>
+                <ITEXT CH="Avis dīxit: “Nōs sumus dē illā magnā ruīnā antīquī hostis Satanae, sed nōn peccā"/>
+                <ITEXT FEATURES="inherit" CH="vimus"/>
+                <ITEXT FEATURES="inherit superscript" CH="1"/>
+                <ITEXT CH=". Deus noster est iūstus: mīsit nōs in hōc locum. Nōn sustinēmus poenās et possumus vidēre praesentiam Deī; sed aliēnāvit nōs ā cōnsortiō aliōrum spīrituum in caelō. Movēmus per mundum sīcut aliī spīritūs, sed in sānctīs diēbus et Dominicīs accipimus corpora avium et laudāmus nostrum creātōrem. Tū cum tuīs frātribus habēs ūnum annum in tuō itinere; sex annī remanent. Celebrābis Pascha hīc omnī annō, et posteā inveniēs Terram Reprōmissiōnis Sānctōrum.&quot; Et avis revertit ad aliās avēs."/>
                 <para PARENT="Latin"/>
                 <tab/>
                 <ITEXT CH="In vesperā, avēs cantāvērunt hymnum per spatium ūnīus hōrae. Et ad tertiam vigiliam noctis, frātrēs cantāvērunt hymnum. Et avēs cantābant quoque. Diē et nocte laudābant Dominum, usque octāvum diem."/>
@@ -24864,13 +24867,13 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="aliēnāvit: he alienated; 3rd person singular perfect active from aliēnō, aliēnāre, aliēnāvī, aliēnātus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="aliī: others; singular  dative from alius, alia, aliud"/>
+                <ITEXT CH="aliī: others; plural masculine nominative from alius, alia, aliud"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="aliōrum: of others; plural masculine genitive from alius, alia, aliud"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="annī: year; singular masculine genitive from annus, annī"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="annō: year; singular masculine dative from annus, annī"/>
+                <ITEXT CH="annō: year; singular masculine ablative from annus, annī"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="annum: year; singular masculine accusative from annus, annī"/>
                 <para PARENT="Vocab"/>
@@ -24878,11 +24881,11 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="avēs: birds; plural feminine nominative or accusative from avis, avis"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="avis: bird; plural masculine  from av.is"/>
+                <ITEXT CH="avis: bird; plural masculine nominative from avis, avis"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="avium: of birds; plural feminine genitive from avis, avis"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="caelō: heaven, sky; singular masculine dative from caelus, caelī"/>
+                <ITEXT CH="caelō: heaven, sky; singular masculine ablative from caelus, caelī"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="cantābant: they were singing; 3rd person plural imperfect active from cantō, cantāre, cantāvī, cantātus"/>
                 <para PARENT="Vocab"/>
@@ -24902,23 +24905,23 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="de: of, from, away from, down from"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="deī: god, diety; singular masculine genitive from Deus, Dei"/>
+                <ITEXT CH="Deī: god, diety; singular masculine genitive from Deus, Dei"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="deus: god; singular masculine nominative from Deus, Dei"/>
+                <ITEXT CH="Deus: god; singular masculine nominative from Deus, Dei"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="diē: day; singular common genitive from diēs, diēī"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="diēbus: days; plural common dative from diēs, diēī"/>
+                <ITEXT CH="diēbus: days; plural common ablative from diēs, diēī"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="diem: day; singular common accusative from diēs, diēī"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="dīxit: he said; 3rd person singular perfect active from dīcō, dīcere, dīxī, dictus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="dominī: of the lord; singular masculine genitive from dominus, dominī"/>
+                <ITEXT CH="Dominī: of the lord; singular masculine genitive from dominus, dominī"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="dominicīs: Sundays; plural feminine  from Dominica, Dominicae"/>
+                <ITEXT CH="Dominicīs: Sundays; plural feminine ablative from Dominica, Dominicae"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="dominum: lord; singular masculine accusative from dominus, dominī"/>
+                <ITEXT CH="Dominum: lord; singular masculine accusative from dominus, dominī"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="est: he is;"/>
                 <para PARENT="Vocab"/>
@@ -24932,7 +24935,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="frātribus: brothers; plural masculine  from frāter, frātris"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="futūrō: future; singular masculine dative from futūrus, futūra, futūrum"/>
+                <ITEXT CH="futūrō: future; singular masculine ablative from futūrus, futūra, futūrum"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="habēs: you have; 2nd person singular present active from habeō, habēre, habuī, habitus"/>
                 <para PARENT="Vocab"/>
@@ -24954,25 +24957,27 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="īnsula: island; singular feminine nominative from īnsula, īnsulae"/>
                 <para PARENT="Vocab"/>
+                <ITEXT CH="īnsulā: island; singular feminine ablative from īnsula, īnsulae"/>
+                <para PARENT="Vocab"/>
                 <ITEXT CH="īnsulam: island; singular feminine accusative from īnsula, īnsulae"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="inveniēs: you will find; 2nd person singular future active from invenio, invenire, inveni, inventus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="invenietis: finding; 2nd person plural future active from invenio, invenire, inveni, inventus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="itinere: journey, trip; singular neuter  from iter, itineris"/>
+                <ITEXT CH="itinere: journey, trip; singular neuter ablative from iter, itineris"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="iūstus: just; singular masculine nominative from jūstus, jūsta -um, jūstior -or -us, jūstissimus -a -um"/>
+                <ITEXT CH="iūstus: just; singular masculine nominative from iūstus, iūsta -um, iūstior -or -us, iūstissimus -a -um"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="laudābant: they were praising; 3rd person plural imperfect active from laudō, laudāre, laudāvī, laudātus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="laudāmus: we praise; 1st person plural present active from laudō, laudāre, laudāvī, laudātus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="locum: place; singular masculine accusative from locus, locī"/>
+                <ITEXT CH="locum: place; singular neuter accusative from locum, locī"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="māgna: large; singular feminine nominative from māgnus, māgna -um, major -or -us, maximus -a -um"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="mēnsēs: months; plural masculine nominative from mēnsis, mēnsis"/>
+                <ITEXT CH="mēnsēs: months; plural masculine accusative from mēnsis, mēnsis"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="mīsit: he sent; 3rd person singular perfect active from mittō, mittere, mīsī, missus"/>
                 <para PARENT="Vocab"/>
@@ -24988,11 +24993,11 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="nōbīs: us; singular dative or ablative from ego"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="nocte: night; singular feminine  from nox, noctis"/>
+                <ITEXT CH="nocte: night; singular feminine ablative from nox, noctis"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="noctīs: nights; singular feminine genitive from nox, noctis"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="nōmine: name; singular neuter  from nōmen, nōminis"/>
+                <ITEXT CH="nōmine: name; singular neuter ablative from nōmen, nōminis"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="nōn: not"/>
                 <para PARENT="Vocab"/>
@@ -25008,11 +25013,11 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="omnī: all, every; singular  dative from omnis, omnis, omne"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="pascha: Passover, Easter; singular feminine nominative from Pascha, Paschae"/>
+                <ITEXT CH="Pascha: Passover, Easter; singular feminine nominative from Pascha, Paschae"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="paschae: Passover, Easter; singular feminine genitive from Pascha, Paschae"/>
+                <ITEXT CH="Paschae: Passover, Easter; singular feminine genitive from Pascha, Paschae"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="peccāvērunt: they sinned; 3rd person plural perfect active from peccō, peccāre, peccāvī, peccātus"/>
+                <ITEXT CH="peccāvimus: we sinned; 1st person plural perfect active from peccō, peccāre, peccāvī, peccātus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="per: through"/>
                 <para PARENT="Vocab"/>
@@ -25036,7 +25041,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="revertit: he returned; 3rd person singular present active from reverto, revertere, reverti, -"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="ruīna: collapse, ruin, destruction; singular feminine nominative from ruīna, ruīnae"/>
+                <ITEXT CH="ruīnā: collapse, ruin, destruction; singular feminine ablative from ruīna, ruīnae"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="sānctīs: holy"/>
                 <para PARENT="Vocab"/>
@@ -25044,7 +25049,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="sānctum: holy, saint"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="satanae: Satan, adversary; singular masculine genitive from Satanas, Satanae"/>
+                <ITEXT CH="Satanae: Satan, adversary; singular masculine genitive from Satanas, Satanae"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="sed: but"/>
                 <para PARENT="Vocab"/>
@@ -25054,9 +25059,9 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="sīcut: as, same as, like"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="spatium: space; singular neuter nominative from spatium, spati(i)"/>
+                <ITEXT CH="spatium: space; singular neuter nominative from spatium, spatiī"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="spīritus: spirit, breath; sing. masc. nom. from spīritus, spīritūs"/>
+                <ITEXT CH="spīritūs: spirit, breath; plural masc. nom. from spīritus, spīritūs"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="spīrituum: of spirits; pl. masc. gen. from spīritus, spīritūs"/>
                 <para PARENT="Vocab"/>
@@ -25088,7 +25093,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="vēla: sail, cloth; plural neuter nominative from vēlum, vēlī"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="vesperā: evening; singular feminine nominative from vespera, vesperae"/>
+                <ITEXT CH="vesperā: evening; singular feminine ablative from vespera, vesperae"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="vidēre: to see;"/>
                 <para PARENT="Vocab"/>
@@ -31986,6 +31991,15 @@
                 <ITEXT FEATURES="inherit superscript" CH="1"/>
                 <ITEXT FONT="DejaVu Serif Italic" CH="With the fire burning"/>
                 <ITEXT CH=". 'Ignī ārdente' is an example of an ablative absolute, which is a short phrase with words in the ablative case that provide context for the conditions under which the sentence is taking place."/>
+                <trail PARENT="footnotes"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="118.0008" YPOS="12164.3312101911" OwnPage="27" ItemID="561681985" PTYPE="4" WIDTH="540" HEIGHT="136.968152866242" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 136.968 L0 136.968 L0 0 Z" copath="M0 0 L540 0 L540 136.968 L0 136.968 L0 0 Z" gXpos="118.0008" gYpos="12164.3312101911" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FEATURES="inherit superscript" CH="1"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="We are from the great ruin of the ancient enemy (i.e. the Devil), but we did not sin."/>
+                <ITEXT CH=" The idea is that these spirits did not participate in Satan's rebellion yet were somehow involved in it and are therefore banished to the earth, where they can take on the form of birds on the Paradise of Birds on holidays and Sundays."/>
                 <trail PARENT="footnotes"/>
             </StoryText>
         </PAGEOBJECT>
