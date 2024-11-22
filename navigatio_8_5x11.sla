@@ -371,14 +371,14 @@
         <PAGE PAGEXPOS="712.0008" PAGEYPOS="108180.4176" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="18" BORDERTOP="36" BORDERBOTTOM="18" NUM="260" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="100.0008" PAGEYPOS="109012.4208" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="18" BORDERTOP="36" BORDERBOTTOM="18" NUM="261" NAM="" MNAM="Latin left" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="712.0008" PAGEYPOS="109012.4208" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="18" BORDERTOP="36" BORDERBOTTOM="18" NUM="262" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
-        <MASTEROBJECT XPOS="118.0008" YPOS="776.0016" OwnPage="2" ItemID="389450610" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="118.0008" gYpos="653814263569.393" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="118.0008" YPOS="776.0016" OwnPage="2" ItemID="389450610" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="118.0008" gYpos="655008384514.215" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
                 <trail ALIGN="1"/>
             </StoryText>
         </MASTEROBJECT>
-        <MASTEROBJECT XPOS="154.0008" YPOS="776.0016" OwnPage="3" ItemID="389364466" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="8516972206.0008" gYpos="653813334225.393" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="154.0008" YPOS="776.0016" OwnPage="3" ItemID="389364466" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="8530280758.0008" gYpos="655007455170.215" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
@@ -27573,7 +27573,9 @@
                 <ITEXT CH="Post duodecim diēs, Sānctus Brendānus iēiūnāvit. Post trēs diēs, avis grandissima volāvit super nāvem.  Avis habuit rāmum ūvārum. Avis mīsit rāmum dē ōre suō in sinum sānctī virī. Tunc Sānctus Brendānus vocāvit frātrēs suōs ad sē et dīxit: “Vidēte et sūmite prandium quod Deus mīsit vōbīs. Erant ūvae sīcut pōma, et habēbant vīctum usque ad duodecimum diem."/>
                 <para PARENT="Latin"/>
                 <tab/>
-                <ITEXT CH="Iterum vir Deī coepit ieiūnāre cum frātribus suīs. Tertiā diē vīdērunt īnsulam, tōtam coopertam cum arboribus dēnsissimīs. Arbōrēs habēbant frūctum praedictum ūvārum incrēdibilī fertilitāte. Nōn erant arbōrēs sterilī et nōn erant arbōrēs alterōrum generum. Invēnērunt portam et Brendānus ascendit dē nāvī et ambulābat per īnsulam. Erat odor suāvissimum."/>
+                <ITEXT CH="Iterum vir Deī coepit ieiūnāre cum frātribus suīs. Tertiā diē vīdērunt īnsulam, tōtam coopertam cum arboribus dēnsissimīs. Arbōrēs habēbant frūctum praedictum ūvārum incrēdibilī fertilitāte"/>
+                <ITEXT FEATURES="inherit superscript" CH="1"/>
+                <ITEXT CH=". Nōn erant arbōrēs sterilī et nōn erant arbōrēs alterōrum generum. Invēnērunt portam et Brendānus ascendit dē nāvī et ambulābat per īnsulam. Erat odor suāvissimum."/>
                 <para PARENT="Latin"/>
                 <tab/>
                 <ITEXT CH="Brendānus invēnit sex fontēs et herbās. Dīxit: “Ascendite dē nāve et fīgite tentōrium et cōnfortāminī dē optimīs frūctibus terrae. Per quadrāgintā diēs reficiēbant dē ūvīs et herbīs. Posteā, portāvērunt multum frūctum ad nāvem."/>
@@ -27601,13 +27603,13 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="arbōrēs: trees; plural feminine nominative from arbor, arboris"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="arbōribus: trees; plural feminine  from arbor, arboris"/>
+                <ITEXT CH="arbōribus: trees; plural feminine ablative from arbor, arboris"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="ascendit: he ascends, he ascended; 3rd person singular present active from ascendō, ascendere, ascendī, ascēnsus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="ascendite: ascend!; 2nd person plural present active imperative from ascendō, ascendere, ascendī, ascēnsus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="avis: bird; plural masculine  from av.is"/>
+                <ITEXT CH="avis: bird; singular masculine nominative from avis, avis"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="Brendānus: Brendan of Clonfert (c. AD 484 – c. 577), an Irish abbot who sailed the Atlantic"/>
                 <para PARENT="Vocab"/>
@@ -27625,13 +27627,13 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="dēnsissimīs: very dense; plural  dative from dēnsus, dēnsa -um, dēnsior -or -us, dēnsissimus -a -um"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="deus: god; singular masculine nominative from Deus, Dei"/>
+                <ITEXT CH="Deus: god; singular masculine nominative from Deus, Dei"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="diē: day; singular common genitive from diēs, diēī"/>
+                <ITEXT CH="diē: day; singular common ablative from diēs, diēī"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="diem: day; singular common accusative from diēs, diēī"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="diēs: day; singular common nominative from diēs, diēī"/>
+                <ITEXT CH="diēs: day; singular common accusative from diēs, diēī"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="dīxit: he said; 3rd person singular perfect active from dīcō, dīcere, dīxī, dictus"/>
                 <para PARENT="Vocab"/>
@@ -27645,7 +27647,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="et: and"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="fertilitāte: fruitfulness, fertility; singular feminine  from fertilitās, fertilitātis"/>
+                <ITEXT CH="fertilitāte: fruitfulness, fertility; singular feminine ablative from fertilitās, fertilitātis"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="fīgite: fasten! fix!; 2nd person plural present active imperative from fīgō, fīgere, fīxī, fīxus"/>
                 <para PARENT="Vocab"/>
@@ -27655,11 +27657,11 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="frātribus: brothers; plural masculine  from frāter, frātris"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="frūctibus: fruits; plural masculine dative from frūctus, frūctūs"/>
+                <ITEXT CH="frūctibus: fruits; plural masculine ablative from frūctus, frūctūs"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="frūctum: fruit; singular neuter nominative perfect participle from fruct.um"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="generum: of births, families, types, offspring; singular masculine accusative from gener, generi"/>
+                <ITEXT CH="generum: types; singular masculine accusative from gener, generi"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="grandissima: great, grand, imposing; singular feminine nominative from grandis, grandis, grande"/>
                 <para PARENT="Vocab"/>
@@ -27677,7 +27679,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="in: into (with accusative), in (with ablative)"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="incrēdibilī: incredible; singular  dative from incrēdibilis, incrēdibilis, incrēdibile"/>
+                <ITEXT CH="incrēdibilī: incredible; singular feminine ablative from incrēdibilis, incrēdibilis, incrēdibile"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="īnsula: island; singular feminine nominative from īnsula, īnsulae"/>
                 <para PARENT="Vocab"/>
@@ -27693,7 +27695,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="multum: many; singular neuter nominative from multus, multa -um, -, plūrimus -a -um"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="nāve: boat; singular feminine  from nāvis, nāvis"/>
+                <ITEXT CH="nāve: boat; singular feminine ablative from nāvis, nāvis"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="nāvem: boat; singular feminine accusative from nāvis, nāvis"/>
                 <para PARENT="Vocab"/>
@@ -27709,7 +27711,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="per: through"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="pōma: fruit, grapes; plural neuter nominative from pōmum, pōmī"/>
+                <ITEXT CH="pōma: apples; plural neuter nominative from pōmum, pōmī"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="portam: gate; singular feminine accusative from porta, portae"/>
                 <para PARENT="Vocab"/>
@@ -27719,9 +27721,9 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="posteā: thereafter, later"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="praedictum: the aforesaid; singular neuter nominative perfect passive participle from praedict.um"/>
+                <ITEXT CH="praedictum: the aforesaid; singular neuter accusative from praedictum, praedictī"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="prandium: breakfast, meal; singular neuter nominative from prandi.um"/>
+                <ITEXT CH="prandium: late breakfast, meal; singular neuter accusative from prandium, prandiī"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="quadrāgintā: 40"/>
                 <para PARENT="Vocab"/>
@@ -27729,13 +27731,13 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="rāmum: branch; singular masculine accusative from rāmus, rāmī"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="reficiēbant: they were rebuilding/repairing/restoring; 3rd person plural imperfect active from reficiō, reficere, refēcī, refectus"/>
+                <ITEXT CH="reficiēbant: they were refreshing; 3rd person plural imperfect active from reficiō, reficere, refēcī, refectus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="sānctī: holy"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="sānctus: holy, saint"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="se: himself"/>
+                <ITEXT CH="sē: himself"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="sex: six"/>
                 <para PARENT="Vocab"/>
@@ -27743,7 +27745,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="sinum: pocket, fold; singular masculine accusative from sinus, sinūs"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="sterilī: sterile; singular  dative from sterilis, sterilis, sterile"/>
+                <ITEXT CH="sterilī: sterile; pluarl feminine nominative from sterilis, sterilis, sterile"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="suāvissimum: very sweet; singular neuter nominative from suāvis, suāve, suāvior -or -us, suāvissimus -a -um"/>
                 <para PARENT="Vocab"/>
@@ -27757,11 +27759,11 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="super: above, on top of"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="tentōrium: tent; singular neuter nominative from tentorium, tentori(i)"/>
+                <ITEXT CH="tentōrium: tent; singular neuter accusative from tentorium, tentoriī"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="terrae: land; singular feminine genitive from terra, terrae"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="tertia: third; singular feminine nominative from trēs -es -ia, tertius -a -um, terni -ae -a, ter"/>
+                <ITEXT CH="tertiā: third; singular feminine ablative from trēs -es -ia, tertius -a -um, terni -ae -a, ter"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="tōtam: whole, total; singular feminine accusative from tōtus, tōta, tōtum (gen -ius)"/>
                 <para PARENT="Vocab"/>
@@ -27771,11 +27773,11 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="ūsque: until, all the way, up until"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="ūvae: grape; singular feminine genitive from ūva, ūvae"/>
+                <ITEXT CH="ūvae: grape; plural feminine nominative from ūva, ūvae"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="ūvārum: of grapes; plural feminine genitive from ūva, ūvae"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="ūvīs: grapes; plural feminine  from ūva, ūvae"/>
+                <ITEXT CH="ūvīs: grapes; plural feminine ablative from ūva, ūvae"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="vīctum: food; singular masculine accussative from victus, victūs"/>
                 <para PARENT="Vocab"/>
@@ -32100,6 +32102,14 @@
                 <para PARENT="footnotes"/>
                 <ITEXT FEATURES="inherit superscript" CH="2"/>
                 <ITEXT FONT="DejaVu Serif Italic" CH="Kiss your brothers and go with the ones which call you."/>
+                <trail PARENT="footnotes"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="118.0008" YPOS="20532.8407643312" OwnPage="47" ItemID="940497314" PTYPE="4" WIDTH="540" HEIGHT="96" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 96 L0 96 L0 0 Z" copath="M0 0 L540 0 L540 96 L0 96 L0 0 Z" gXpos="118.0008" gYpos="20532.8407643312" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FEATURES="inherit superscript" CH="1"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="The trees had the aforesaid fruit of grapes with incredible fertility."/>
                 <trail PARENT="footnotes"/>
             </StoryText>
         </PAGEOBJECT>
