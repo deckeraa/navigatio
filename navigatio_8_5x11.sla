@@ -371,14 +371,14 @@
         <PAGE PAGEXPOS="712.0008" PAGEYPOS="108180.4176" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="18" BORDERTOP="36" BORDERBOTTOM="18" NUM="260" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="100.0008" PAGEYPOS="109012.4208" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="18" BORDERTOP="36" BORDERBOTTOM="18" NUM="261" NAM="" MNAM="Latin left" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="712.0008" PAGEYPOS="109012.4208" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="18" BORDERTOP="36" BORDERBOTTOM="18" NUM="262" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
-        <MASTEROBJECT XPOS="118.0008" YPOS="776.0016" OwnPage="2" ItemID="389450610" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="118.0008" gYpos="638930912757.123" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="118.0008" YPOS="776.0016" OwnPage="2" ItemID="389450610" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="118.0008" gYpos="653814263569.393" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
                 <trail ALIGN="1"/>
             </StoryText>
         </MASTEROBJECT>
-        <MASTEROBJECT XPOS="154.0008" YPOS="776.0016" OwnPage="3" ItemID="389364466" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="8351096338.0008" gYpos="638929983413.123" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="154.0008" YPOS="776.0016" OwnPage="3" ItemID="389364466" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="8516972206.0008" gYpos="653813334225.393" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
@@ -9025,7 +9025,7 @@
         <PAGEOBJECT XPOS="118.0008" YPOS="79928.3088000001" OwnPage="191" ItemID="559018674" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" gXpos="118.0008" gYpos="74936.3087999996" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
-                <ITEXT CH="Caput XVII Īnsulae Virōrum Fortium (Orīgnālis)"/>
+                <ITEXT CH="Caput XVII Īnsula Virōrum Fortium (Orīgnālis)"/>
                 <trail PARENT="Default Paragraph Style" ALIGN="1"/>
             </StoryText>
         </PAGEOBJECT>
@@ -9037,7 +9037,7 @@
                 <ITEXT CH="Caput XVII "/>
                 <para PARENT="Chapter Heading"/>
                 <para PARENT="Chapter Heading"/>
-                <ITEXT CH="Īnsulae Virōrum Fortium"/>
+                <ITEXT CH="Īnsula Virōrum Fortium"/>
                 <para PARENT="Chapter Heading"/>
                 <para/>
                 <ITEXT CH="[1]     Quādam vērō diē vīdērunt īnsulam longē ab illīs. Dīxit sānctus Brendānus: “Vidētis illam īnsulam?” Aiunt illī: “Vidēmus.” [2] Dīcit illīs: “Trēs populī sunt in illā īnsulā: populus puerōrum, et populus iuvenum, tertius vērō populus seniōrum. Porrō ūnus ex frātribus vestrīs illīc peregrīnābitur.” [3] Frātrēs interrogābant quisnam esset"/>
@@ -9095,7 +9095,7 @@
         <PAGEOBJECT XPOS="118.0008" YPOS="80760.3120000001" OwnPage="193" ItemID="564704914" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" gXpos="118.0008" gYpos="75768.3119999997" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
-                <ITEXT CH="Caput XVII Īnsulae Virōrum Fortium (Orīgnālis)"/>
+                <ITEXT CH="Caput XVII Īnsula Virōrum Fortium (Orīgnālis)"/>
                 <trail PARENT="Default Paragraph Style" ALIGN="1"/>
             </StoryText>
         </PAGEOBJECT>
@@ -9603,14 +9603,14 @@
         <PAGEOBJECT XPOS="118.0008" YPOS="81592.3152000001" OwnPage="195" ItemID="571041010" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" gXpos="118.0008" gYpos="76600.3151999997" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
-                <ITEXT CH="Caput XVII Īnsulae Virōrum Fortium (Orīgnālis)"/>
+                <ITEXT CH="Caput XVII Īnsula Virōrum Fortium (Orīgnālis)"/>
                 <trail PARENT="Default Paragraph Style" ALIGN="1"/>
             </StoryText>
         </PAGEOBJECT>
         <PAGEOBJECT XPOS="118.0008" YPOS="82424.3184000001" OwnPage="197" ItemID="571073698" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" gXpos="118.0008" gYpos="77432.3183999997" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
-                <ITEXT CH="Caput XVII Īnsulae Virōrum Fortium (Orīgnālis)"/>
+                <ITEXT CH="Caput XVII Īnsula Virōrum Fortium (Orīgnālis)"/>
                 <trail PARENT="Default Paragraph Style" ALIGN="1"/>
             </StoryText>
         </PAGEOBJECT>
@@ -27165,7 +27165,7 @@
         <PAGEOBJECT XPOS="118.0008" YPOS="18360.072" OwnPage="43" ItemID="925762082" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" gXpos="118.0008" gYpos="49976.0719999974" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
-                <ITEXT CH="Caput XVII Īnsulae Virōrum Fortium (Simplicissimus)"/>
+                <ITEXT CH="Caput XVII Īnsula Virōrum Fortium (Simplicissimus)"/>
                 <trail PARENT="Default Paragraph Style" ALIGN="1"/>
             </StoryText>
         </PAGEOBJECT>
@@ -27177,7 +27177,7 @@
                 <ITEXT CH="Caput XVII"/>
                 <para PARENT="Chapter Heading"/>
                 <para PARENT="Chapter Heading"/>
-                <ITEXT CH="Īnsulae Virōrum Fortium"/>
+                <ITEXT CH="Īnsula Virōrum Fortium"/>
                 <para PARENT="Chapter Heading"/>
                 <para/>
                 <tab/>
@@ -27194,7 +27194,7 @@
                 <ItemAttribute Name="TOC" Type="none" Value="Caput XVII Īnsulae Virōrum Fortium" Parameter="" Relationship="none" RelationshipTo="" AutoAddTo="none"/>
             </PageItemAttributes>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="118.0008" YPOS="19210.9414420382" OwnPage="45" ItemID="930998066" PTYPE="4" WIDTH="540" HEIGHT="408.133757961781" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 408.134 L0 408.134 L0 0 Z" copath="M0 0 L540 0 L540 408.134 L0 408.134 L0 0 Z" gXpos="118.0008" gYpos="19210.9414420382" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="118.0008" YPOS="19210.9414420382" OwnPage="45" ItemID="930998066" PTYPE="4" WIDTH="540" HEIGHT="416.931169426767" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 416.931 L0 416.931 L0 0 Z" copath="M0 0 L540 0 L540 416.931 L0 416.931 L0 0 Z" gXpos="118.0008" gYpos="19210.9414420382" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <para/>
@@ -27202,17 +27202,21 @@
                 <ITEXT CH="Turmae cantābant multōs hymnōs, et nūbēs mīrae clāritātis cooperuērunt īnsulam. Turmae cantābant usque māne, quandō īnsula discooperta est dē nūbe. Deinde immolābant agnum immaculātum et omnēs veniēbant ad commūniōnem. Dīxērunt: “Hoc sacrum corpus Dominī, et Salvātōris sanguinem, sūmite vōbīs in vītam aeternam.”"/>
                 <para PARENT="Latin"/>
                 <tab/>
-                <ITEXT CH="Deinde duo ex turmā iuvenum portāvērunt cophinum plēnum dē scaltīs purpureīs et mīsērunt in nāvim, et dīxērunt: “Sūmite dē frūctū Īnsulae Virōrum Fortium et reddite nōbīs frātrem nostrum.” Tunc Sānctus Brendānus vocāvit praedictum frātrem ad sē et dīxit: “Ōsculā frātrēs tuōs et vāde cum illīs quī tē invocant.” Et praedictus frāter manēbat in īnsulā."/>
+                <ITEXT CH="Deinde duo ex turmā iuvenum portāvērunt cophinum plēnum dē scaltīs purpureīs et mīsērunt in nāvim, et dīxērunt: “Sūmite dē frūctū Īnsulae Virōrum Fortium et reddite nōbīs frātrem"/>
+                <ITEXT FEATURES="inherit superscript" CH="1"/>
+                <ITEXT CH=" nostrum.” Tunc Sānctus Brendānus vocāvit praedictum frātrem ad sē et dīxit: “Ōsculāre"/>
+                <ITEXT FEATURES="inherit superscript" CH="2"/>
+                <ITEXT CH=" frātrēs tuōs et vāde cum illīs quī tē invocant.” Et praedictus frāter manēbat in īnsulā."/>
                 <para PARENT="Latin"/>
                 <tab/>
-                <ITEXT CH="Frātrēs nāvigāvērunt ab īnsulā. Frātrēs coepit reficere corpora dē scaltīs Īnsulae Virōrum Fortium. Brendānus accēpit ūnam dē illīs. Vīdit magnitūdinem illīus et dīxit: “Numquam vīdī nec lēgī dē scaltās tantae magnitūdinis.” Et per duodecim diēs frātrēs reficiēbant dē scaltīs, et semper tenuērunt in ōre sapōrem mellis."/>
+                <ITEXT CH="Frātrēs nāvigāvērunt ab īnsulā. Frātrēs coepērunt edere dē scaltīs Īnsulae Virōrum Fortium. Brendānus accēpit ūnam dē illīs. Vīdit magnitūdinem illīus et dīxit: “Numquam vīdī nec lēgī dē scaltās tantae magnitūdinis.” Et per duodecim diēs frātrēs reficiēbant dē scaltīs, et semper tenuērunt in ōre sapōrem mellis."/>
                 <para PARENT="Latin"/>
             </StoryText>
         </PAGEOBJECT>
         <PAGEOBJECT XPOS="118.0008" YPOS="19192.0752" OwnPage="45" ItemID="930971522" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" gXpos="118.0008" gYpos="50808.075199997" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
-                <ITEXT CH="Caput XVII Īnsulae Virōrum Fortium (Simplicissimus)"/>
+                <ITEXT CH="Caput XVII Īnsula Virōrum Fortium (Simplicissimus)"/>
                 <trail PARENT="Default Paragraph Style" ALIGN="1"/>
             </StoryText>
         </PAGEOBJECT>
@@ -27366,7 +27370,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="clāritātis: clarity, brightness; singular feminine genitive from clāritās, clāritātis"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="coepit: he started; 3rd person singular present active from coepio, coepere, coepi, coeptus"/>
+                <ITEXT CH="coepērunt: he started; 3rd person plural present active from coepio, coepere, coepi, coeptus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="commūniōnem: communion; singular feminine accusative from commūniō, commūniōnis"/>
                 <para PARENT="Vocab"/>
@@ -27374,9 +27378,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="cophinum: basket; singular masculine accusative from cophinus, cophinī"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="corpora: bodies, flesh; plural neuter nominative from corpus, corporis"/>
-                <para PARENT="Vocab"/>
-                <ITEXT CH="corpus: body, flesh; singular neuter nominative from corpus, corporis"/>
+                <ITEXT CH="corpus: body, flesh; singular neuter accusative from corpus, corporis"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="cum: with"/>
                 <para PARENT="Vocab"/>
@@ -27384,7 +27386,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="deinde: after"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="diēs: day; singular common nominative from diēs, diēī"/>
+                <ITEXT CH="diēs: day; singular common accusative from diēs, diēī"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="discooperta: having been uncovered; singular feminine nominative perfect passive participle from "/>
                 <para PARENT="Vocab"/>
@@ -27392,7 +27394,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="dīxit: he said; 3rd person singular perfect active from dīcō, dīcere, dīxī, dictus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="dominī: of the lord; singular masculine genitive from dominus, dominī"/>
+                <ITEXT CH="Dominī: of the lord; singular masculine genitive from dominus, dominī"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="duo: two"/>
                 <para PARENT="Vocab"/>
@@ -27420,13 +27422,15 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="illīus: of that; singular genitive from ille, illa, illud"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="immaculātum: unblemished, immaculate; singular neuter nominative from immaculātus, immaculāta, immaculātum"/>
+                <ITEXT CH="immaculātum: unblemished, immaculate; singular neuter accusative from immaculātus, immaculāta, immaculātum"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="immolābant: they were burning; 3rd person plural imperfect active from immolō, immolāre, immolāvī, immolātus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="in: into (with accusative), in (with ablative)"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="īnsula: island; singular feminine nominative from īnsula, īnsulae"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="īnsulā: island, singular feminine ablative from īnsula, īnsulae"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="īnsulae: island; singular feminine genitive from īnsula, īnsulae"/>
                 <para PARENT="Vocab"/>
@@ -27464,9 +27468,9 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="nostrum: our; plural genitive of ego"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="nūbe: cloud; 2nd person singular present active imperative from nubo, nubere, nupsi, nuptus"/>
+                <ITEXT CH="nūbe: cloud; singular feminine ablative from nūbēs, nūbis"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="nūbēs: cloud; 2nd person singular future active from nubo, nubere, nupsi, nuptus"/>
+                <ITEXT CH="nūbēs: cloud; singular feminine nominative from nūbēs, nūbis"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="numquam: never"/>
                 <para PARENT="Vocab"/>
@@ -27474,11 +27478,11 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="ōre: mouth; singular neuter  from ōs, ōris"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="ōscula: kisses; plural neuter nominative from ōsculum, ōsculī"/>
+                <ITEXT CH="ōsculāre: kiss!; singular imperative from ōsculor, ōsculārī, ōsculātum"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="per: through"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="plēnum: full; singular neuter nominative from plēnus, plēna -um, plēnior -or -us, plēnissimus -a -um"/>
+                <ITEXT CH="plēnum: full; singular neuter accusative from plēnus, plēna -um, plēnior -or -us, plēnissimus -a -um"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="portāvērunt: they carried; 3rd person plural perfect active from porto, portare, portavi, portatus"/>
                 <para PARENT="Vocab"/>
@@ -27486,7 +27490,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="praedictus: the aforesaid; singular masculine nominative perfect passive participle from praedīcō, praedīcere, praedīxī, praedictus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="purpūreīs: purple; plural  dative from purpūreus, purpūrea, purpūreum"/>
+                <ITEXT CH="purpūreīs: purple; plural feminine ablative from purpūreus, purpūrea, purpūreum"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="quandō: when, because"/>
                 <para PARENT="Vocab"/>
@@ -27498,9 +27502,9 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="reficiēbant: they were rebuilding/repairing/restoring; 3rd person plural imperfect active from reficiō, reficere, refēcī, refectus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="sacrum: sacred thing; singular neuter nominative from sacer, sacra, sacrum"/>
+                <ITEXT CH="sacrum: sacred thing; singular neuter accusative from sacer, sacra, sacrum"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="salvatoris: savior; singular masculine genitive from salvātor, salvātōris"/>
+                <ITEXT CH="Salvatoris: savior; singular masculine genitive from salvātor, salvātōris"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="sānctus: holy, saint"/>
                 <para PARENT="Vocab"/>
@@ -27530,7 +27534,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="turma: troop, group, crowd; singular feminine nominative from turma, turmae"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="turmae: troop, group, crowd; singular feminine genitive from turma, turmae"/>
+                <ITEXT CH="turmae: troop, group, crowd; plural feminine nominative from turma, turmae"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="ūnam: one; singular feminine accusative from ūnus -a -um, prīmus -a -um, singulī -ae -a, semel"/>
                 <para PARENT="Vocab"/>
@@ -31418,7 +31422,7 @@
                 <tab/>
                 <ITEXT CH="40"/>
                 <para PARENT="TOC"/>
-                <ITEXT CH="Caput XVII Īnsulae Virōrum Fortium"/>
+                <ITEXT CH="Caput XVII Īnsula Virōrum Fortium"/>
                 <tab/>
                 <ITEXT CH="44"/>
                 <para PARENT="TOC"/>
@@ -31528,7 +31532,7 @@
                 <tab/>
                 <ITEXT CH="184"/>
                 <para PARENT="TOC"/>
-                <ITEXT CH="Caput XVII Īnsulae Virōrum Fortium"/>
+                <ITEXT CH="Caput XVII Īnsula Virōrum Fortium"/>
                 <tab/>
                 <ITEXT CH="192"/>
                 <para PARENT="TOC"/>
@@ -32084,6 +32088,18 @@
                 <ITEXT FEATURES="inherit superscript" CH="2"/>
                 <ITEXT FONT="DejaVu Serif Italic" FEATURES="inherit" CH="The first group of boys was in white vestments, the second group was in violet-colored vestments, and the third group was in purple dalmatics."/>
                 <ITEXT CH=" The dalmatics are a particular style of vestments worn by deacons."/>
+                <trail PARENT="footnotes"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="118.0008" YPOS="19627.872611465" OwnPage="45" ItemID="1391474226" PTYPE="4" WIDTH="540" HEIGHT="132.687898089174" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 132.688 L0 132.688 L0 0 Z" copath="M0 0 L540 0 L540 132.688 L0 132.688 L0 0 Z" gXpos="118.0008" gYpos="19627.872611465" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FEATURES="inherit superscript" CH="1"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="Take of the fruit of the Island of Strong Men and return to us our brother."/>
+                <ITEXT CH=" Apparently the monk had been on the Island of Strong Men before."/>
+                <para PARENT="footnotes"/>
+                <ITEXT FEATURES="inherit superscript" CH="2"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="Kiss your brothers and go with the ones which call you."/>
                 <trail PARENT="footnotes"/>
             </StoryText>
         </PAGEOBJECT>
