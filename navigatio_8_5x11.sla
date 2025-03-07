@@ -21414,7 +21414,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="cōnsōlātiōnem: consolation; singular feminine accusative from cōnsōlātiō, cōnsōlātiōnis"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="contigit: to come to, to touch; 3rd person singular perfect active from contingō, contingere, contigī, contāctus"/>
+                <ITEXT CH="contigit: it happened, it came to pass; 3rd person singular perfect active from contingō, contingere, contigī, contāctus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="cum: with"/>
                 <para PARENT="Vocab"/>
@@ -21424,7 +21424,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="dēbēs: you should; 2nd person singular present active from dēbeō, dēbēre, dēbuī, dēbitus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="deī: god, diety; singular masculine genitive from Deus, Dei"/>
+                <ITEXT CH="Deī: god, diety; singular masculine genitive from Deus, Dei"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="dīcēns: saying; singular nominative present participle from dīcō, dīcere, dīxī, dictus"/>
                 <para PARENT="Vocab"/>
@@ -21432,7 +21432,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="diūtius: for a longer time"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="dīversīs: diverse; plural  dative from dīversus, dīversa, dīversum"/>
+                <ITEXT CH="dīversīs: diverse; plural neuter ablative from dīversus, dīversa, dīversum"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="erat: he was; 3rd person singular imperfect active from sum, esse, fuī, futūrus"/>
                 <para PARENT="Vocab"/>
@@ -21450,7 +21450,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="fīlius: son; singular masculine nominative from fīlius, fīlī"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="frātribus: brothers; plural masculine  from frāter, frātris"/>
+                <ITEXT CH="frātribus: brothers; plural masculine dative from frāter, frātris"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="fuit: he was; 3rd person singular perfect active from sum, esse, fuī, futūrus"/>
                 <para PARENT="Vocab"/>
@@ -21476,7 +21476,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="māgnae: large; singular feminine genitive from māgnus, māgna -um, major -or -us, maximus -a -um"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="milium: millet; singular neuter nominative from milium, miliī"/>
+                <ITEXT CH="mīlium: of thousands; plural neuter genitive from mīlle, mīlle"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="mīrāculīs: miracles; plural neuter  from mīrāculum, mīrāculī"/>
                 <para PARENT="Vocab"/>
@@ -21488,7 +21488,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="nepōtis: grandson; singular common genitive from nepōs, nepōtis"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="nōbīs: us; singular dative or ablative from ego"/>
+                <ITEXT CH="nōbīs: us; singular dative from ego"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="nōmine: name; singular neuter  from nōmen, nōminis"/>
                 <para PARENT="Vocab"/>
@@ -21498,9 +21498,9 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="nostrās: our; plural feminine accusative from noster, nostra, nostrum"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="ōceanō: ocean; singular masculine dative from Oceanus, Oceani"/>
+                <ITEXT CH="ōceanō: ocean; singular masculine ablative from Oceanus, Oceani"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="ōrātiōne: oration, speech, discourse; singular feminine  from ōrātiō, ōrātiōnis"/>
+                <ITEXT CH="ōrātiōne: oration, speech, discourse; singular feminine ablative from ōrātiō, ōrātiōnis"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="ortus: rising, beginning; singular masculine nominative perfect participle from orior, oriri, ortus sum"/>
                 <para PARENT="Vocab"/>
@@ -21520,9 +21520,11 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="prostrāvēre: they prostrated; 3rd person plural perfect active from prosternō, prosternere, prostrāvī, prostrātus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="quae: who; plural female nom. or neuter nom. or acc. of quis"/>
+                <ITEXT CH="quae: who; plural neuter accusative of quis"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="quī: who; plural masculine nominative of quis"/>
+                <para PARENT="Vocab"/>
+		<ITEXT CH="quōdam: a certain; singular masculine ablative"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="refice: restore!; 2nd person singular present active imperative from reficiō, reficere, refēcī, refectus"/>
                 <para PARENT="Vocab"/>
@@ -21552,7 +21554,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="tu: you;(pronoun)"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="tuō: your; singular masculine dative from tuus, tua, tuum"/>
+                <ITEXT CH="tuō: your; singular masculine ablative from tuus, tua, tuum"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="ut: so that"/>
                 <para PARENT="Vocab"/>
@@ -21562,13 +21564,13 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="verbum: word; singular neuter nominative from verbum, verbī"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="vespere: evening; singular masculine  from vesper, vesperis"/>
+                <ITEXT CH="vespere: evening; singular masculine ablative from vesper, vesperis"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="vīdistī: you saw; 2nd person singular perfect active from videō, vidēre, vīdī, vīsus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="vir: man; singular masculine nominative from vir, virī"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="virtūtibus: virtues, manliness, power; plural feminine  from virtūs, virtūtis"/>
+                <ITEXT CH="virtūtibus: virtues, manliness, power; plural feminine ablative from virtūs, virtūtis"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="virtutum: of virtues, manliness, power; plural feminine genitive from virtūs, virtūtis"/>
                 <trail PARENT="Vocab"/>
