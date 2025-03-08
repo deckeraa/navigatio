@@ -21590,7 +21590,7 @@
                 <DefaultStyle/>
                 <ITEXT CH="ā: from, out of, by, since"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="adventum: arrival, approach; singular neuter nominative perfect passive participle from advent.um"/>
+                <ITEXT CH="adventum: arrival, approach; singular masculine accusative from adventus, adventūs"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="appropinquāvissem: I (might) have had approached; 1st person singular pluperfect active subjunctive from appropinquō, appropinquāre, appropinquāvī, appropinquātus"/>
                 <para PARENT="Vocab"/>
@@ -21606,7 +21606,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="coepit: he started; 3rd person singular present active from coepio, coepere, coepi, coeptus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="cōnfugit: he flees; 3rd person singular present active from confugio, confugere, confugi, confugitus"/>
+                <ITEXT CH="cōnfūgit: he fled; 3rd person singular present perfect from confugio, confugere, confugi, confugitus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="cum: with"/>
                 <para PARENT="Vocab"/>
@@ -21634,9 +21634,9 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="exāmen: crowd, exam; singular neuter nominative from exāmen, exāminis"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="explētis: You fill; 2nd person plural present from expleō, explēre, explēvī, explētus"/>
+                <ITEXT CH="explētīs: having beeen filled, having been completed; masculine plural ablative past passive participle from expleō, explēre, explēvī, explētus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="faciē: shape, figure, appearance, look; singular feminine genitive from faciēs, faciēī"/>
+                <ITEXT CH="faciē: face, shape, figure, appearance, look; singular feminine ablative from faciēs, faciēī"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="festīnāvit: he hastened, he hurried; 3rd person singular perfect active from festīnō, festīnāre, festīnāvī, festīnātus"/>
                 <para PARENT="Vocab"/>
@@ -21702,11 +21702,11 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="occurrērunt: they ran; 3rd person plural perfect active from occurrō, occurrere, occurrī, occursus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="occursum: meeting; singular neuter nominative perfect passive participle from occurs.um"/>
+                <ITEXT CH="occursum: meeting; singular masculine accusative from occursus, occursūs"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="ostendit: he shows, he showed; 3rd person singular present active from ostend.it"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="pauperum: poor; plural  genitive from pauper, pauperis (gen.), pauperior -or -us, pauperrimus -a -um"/>
+                <ITEXT CH="pauperum: poor; plural genitive from pauper, pauperis (gen.), pauperior -or -us, pauperrimus -a -um"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="per: through"/>
                 <para PARENT="Vocab"/>
@@ -21722,6 +21722,8 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="quā: what; singular female ablative of qui"/>
                 <para PARENT="Vocab"/>
+		<ITEXT CH="quādam: a certain; singular feminieablative from quīdam"/>
+                <para PARENT="Vocab"/>
                 <ITEXT CH="quod: what; singular neuter nom. or acc. of qui"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="revēlāvīt: he revealed; 3rd person singular perfect active from revēlō, revēlāre, revēlāvī, revēlātus"/>
@@ -21732,7 +21734,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="sēcum: with oneself"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="sermōnibus: conversation, speech; plural masculine  from sermō, sermōnis"/>
+                <ITEXT CH="sermōnibus: conversation, speech; plural masculine ablative from sermō, sermōnis"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="sibi: to himself; singular dative of se"/>
                 <para PARENT="Vocab"/>
@@ -21766,13 +21768,13 @@
                 <ITEXT FEATURES="inherit superscript" CH="1"/>
                 <ITEXT CH=" sānctī Brendānī, coepit nārrāre dē quādam īnsulā, dīcēns: [7] “Fīliolus meus Mernoc atque prōcūrātor"/>
                 <ITEXT FEATURES="inherit superscript" CH="2"/>
-                <ITEXT CH=" pauperum Chrīstī cōnfugit ā faciē meā et voluit esse sōlitārius.  Invenitque īnsulam iuxtā Montem Lapidis, nōmine Dēliciōsa. [8] Post multum vērō tempus nūntiātum"/>
+                <ITEXT CH=" pauperum Chrīstī cōnfūgit ā faciē meā et voluit esse sōlitārius.  Invenitque īnsulam iuxtā Montem Lapidis, nōmine Dēliciōsa. [8] Post multum vērō tempus nūntiātum"/>
                 <ITEXT FEATURES="inherit superscript" CH="3"/>
                 <ITEXT CH=" est mihi quod plūrēs monachōs sēcum habuisset"/>
                 <ITEXT FEATURES="inherit superscript" CH="4"/>
                 <ITEXT CH=", et Deus multa mīrābilia per illum ostendit.  Itaque perrēxī illūc, ut vīsitāssem"/>
                 <ITEXT FEATURES="inherit superscript" CH="5"/>
-                <ITEXT CH=" fīliolum meum."/>
+                <ITEXT CH=" fīliolum meum.”"/>
                 <para PARENT="Latin"/>
                 <ITEXT CH="[9]      “Cumque appropinquāssem"/>
                 <ITEXT FEATURES="inherit superscript" CH="6"/>
