@@ -21842,7 +21842,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="campānae: bells; sing. fem. gen. from campāna, campānae"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="cantus: song; singular masculine nominative perfect passive participle from canō, canere, cecinī, cantus"/>
+                <ITEXT CH="cantūs: song; plural masculine accusative from cantus, cantūs"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="cāritāte: charity; sing. fem.  from cāritās, cāritātis"/>
                 <para PARENT="Vocab"/>
@@ -21880,7 +21880,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="dīxit: he said; 3rd person sing. perfect active from dīcō, dīcere, dīxī, dictus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="dūxit: he lead;"/>
+                <ITEXT CH="dūxit: he led; 3rd person sing. perfect from dūcō, dūcere, dūxī, ductus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="ecclēsia: church; sing. fem. nom. from ecclēsia, ecclēsiae"/>
                 <para PARENT="Vocab"/>
@@ -21900,7 +21900,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="frātrēs: brothers; pl. masc. nom. from frāter, frātris"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="gallōrum: of chickens, of roosters; pl. masc. gen. from Gallus, Galli"/>
+                <ITEXT CH="gallōrum: of chickens, of roosters; pl. masc. gen. from gallus, gallī"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="genera: births, families, types, offspring; singular feminine ablative from genus, generis"/>
                 <para PARENT="Vocab"/>
@@ -21966,13 +21966,11 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="nostrīs: our"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="novissimō: very new, very inexperienced; sing. masc. dat. from novus, nova -um, novior -or -us, novissimus -a -um"/>
+                <ITEXT CH="novissimō: very new, very inexperienced; sing. masc. abl. from novus, nova -um, novior -or -us, novissimus -a -um"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="nucēs: nuts; pl. fem. nom. from nux, nucis"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="occidentālem: western; sing. common acc. from occidentālis, occidentālis, occidentāle"/>
-                <para PARENT="Vocab"/>
-                <ITEXT CH="occīdō, occīdere, occīdī, occīsus: to kill;     from occīdō, occīdere, occīdī, occīsus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="opus: work, deed; sing. neut. nom. from opus, operis"/>
                 <para PARENT="Vocab"/>
@@ -21988,11 +21986,13 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="permansērunt: they remained; 3rd person pl. perfect active from permaneō, permanēre, permansī, permansus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="pernoctantibus: spending the night; plural dative present participle from pernoctō, pernoctāre, pernoctāvī, pernoctātus"/>
+                <ITEXT CH="pernoctantibus: spending the night; plural ablative present participle from pernoctō, pernoctāre, pernoctāvī, pernoctātus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="plāgam: coast; sing. fem. acc. from plāga, plāgae"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="pōma: fruit, grapes; pl. neut. nom. from pōmum, pōmī"/>
+                <para PARENT="Vocab"/>
+		<ITEXT CH="pomiferōsa: fruit-bearing; sing. fem. nom. related to pōmifer -a -um"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="post: behind, after, since"/>
                 <para PARENT="Vocab"/>
@@ -22016,7 +22016,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="rādīcēs: roots; pl. fem. nom. from rādīx, rādīcis"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="refectiō: refreshing, restoring, repairing; sing. fem. nom. from refectiō, refectiōnis"/>
+                <ITEXT CH="refectiō: dining hall, refectory; sing. fem. nom. from refectiō, refectiōnis"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="reprōmissiōnis: promise; sing. fem. gen. from reprōmissiō, reprōmissiōnis"/>
                 <para PARENT="Vocab"/>
@@ -22028,7 +22028,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="sparsa: having been scattered; singular feminine nominative perfect passive participle from spargō, spargere, sparsī, sparsus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="spatiō: space; sing. neut. dat. from spatium, spati(i)"/>
+                <ITEXT CH="spatiō: space; sing. neut. abl. from spatium, spatiī"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="spatiōsa: spacious; sing. fem. nom. from spatiōsus, spatiōsa, spatiōsum"/>
                 <para PARENT="Vocab"/>
@@ -22052,7 +22052,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="tōtam: whole, total; sing. fem. acc. from tōtus, tōta, tōtum (gen -ius)"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="trānsactō: having been accomplished; singular masculine dative perfect passive participle from transigo, transigere, transegi, transactus"/>
+                <ITEXT CH="trānsactō: having spent; singular masculine ablative perfect passive participle from transigo, transigere, transegi, transactus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="ubī: where, when if"/>
                 <para PARENT="Vocab"/>
@@ -22070,7 +22070,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="valdē: very"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="vērō: truly, even so, still"/>
+                <ITEXT CH="vērō: thus, truly, even so, still"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="vidēre: to see;"/>
                 <para PARENT="Vocab"/>
@@ -25174,7 +25174,7 @@
                 <para PARENT="footnotes"/>
                 <ITEXT FEATURES="inherit superscript" CH="8"/>
                 <ITEXT FONT="DejaVu Serif Italic" CH="To such an extent that we could hardly see the stern or prow of the ship"/>
-                <ITEXT CH=". The subjunctive is used because is a result clause."/>
+                <ITEXT CH=". The subjunctive is used because it is a result clause."/>
                 <para PARENT="footnotes"/>
                 <ITEXT FEATURES="inherit superscript" CH="9"/>
                 <ITEXT FONT="DejaVu Serif Italic" CH="The ship having anchored (literally 'stood') at land."/>
