@@ -22108,17 +22108,19 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="cōnsīderāvissēmus: we (might) have had considered; 1st person plural pluperfect active subjunctive from cōnsīderō, cōnsīderāre, cōnsīderāvī, cōnsīderātus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="cōnsilium: plan, advice, council; singular neuter nominative from consilium, consili(i)"/>
+                <ITEXT CH="cōnsilium: plan, advice, council; singular neuter nominative from consilium, consiliī"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="cōram: in the presence of"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="cum: with"/>
                 <para PARENT="Vocab"/>
+		<ITEXT CH="cumque: and with"/>
+                <para PARENT="Vocab"/>
                 <ITEXT CH="datūrus: will be given; singular masculine nominative future participle from "/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="dēbuissēmus: we (might) have had owed; 1st person plural pluperfect active subjunctive from dēbeō, dēbēre, dēbuī, dēbitus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="deī: god, diety; singular masculine genitive from Deus, Dei"/>
+                <ITEXT CH="Deī: god, diety; singular masculine genitive from Deus, Dei"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="dīcēns: saying; singular nominative present participle from dīcō, dīcere, dīxī, dictus"/>
                 <para PARENT="Vocab"/>
@@ -22204,7 +22206,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="nōs: us; plural nominative or accusative of ego"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="occāsum: setting, end; singular neuter nominative perfect passive participle from occas.um"/>
+                <ITEXT CH="occāsum: western; this comes from occāsus sōlis, meaning the setting of the Sun, which occurs in the west. Sing. masc. acc. from occāsus, occāsūs"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="omnēs: all, every; plural common nominative from omnis, omnis, omne"/>
                 <para PARENT="Vocab"/>
@@ -22246,7 +22248,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="splendōre: splendor, brightness; singular masculine  from splendor, splendōris"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="statim: immediately"/>
+                <ITEXT CH="statim: immediately, at once"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="subitō: suddenly"/>
                 <para PARENT="Vocab"/>
@@ -25209,7 +25211,7 @@
                 <ITEXT CH="Presumably the man is an angel. See also line 32."/>
                 <para PARENT="footnotes"/>
                 <ITEXT FEATURES="inherit superscript" CH="7"/>
-                <ITEXT FONT="DejaVu Serif Italic" CH="Having had said these things, we immediately asked him from where he was or by what name he was called."/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="Having had said these things, I immediately asked him from where he was or by what name he was called."/>
                 <ITEXT CH=" The subjunctive is used because it is an indirect question."/>
                 <trail PARENT="footnotes"/>
             </StoryText>
