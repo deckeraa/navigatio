@@ -22621,7 +22621,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="aliquid: someone"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="angelī: angel; singular masculine genitive from angelus, angelī"/>
+                <ITEXT CH="angelī: angel; plural masculine nominative from angelus, angelī"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="ante: before, in front, forwards"/>
                 <para PARENT="Vocab"/>
@@ -22673,7 +22673,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="haec: this, these; singular feminine nominative or plural neuter nom. or acc. of hic, haec, hoc"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="hic: this; singuglar masculine nominative of hic, haec, hoc"/>
+                <ITEXT CH="hīc: here;"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="īgnōrāmus: we ignore, we do not know; 1st person plural present active from īgnōrō, īgnōrāre, īgnōrāvī, īgnōrātus"/>
                 <para PARENT="Vocab"/>
@@ -22713,19 +22713,19 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="nox: night; singular feminine nominative from nox, noctis"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="odōre: odor, scent; singular masculine  from odor, odōris"/>
+                <ITEXT CH="odōre: odor, scent; singular masculine ablative from odor, odōris"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="paene: almost"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="paradīsī: paradise; singular masculine genitive from paradīsus, paradīsī"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="paradīsō: paradise; singular masculine dative from paradīsus, paradīsī"/>
+                <ITEXT CH="paradīsō: paradise; singular masculine ablative from paradīsus, paradīsī"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="paradīsus: paradise; singular masculine nominative from paradīsus, paradīsī"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="portam: gate; singular feminine accusative from porta, portae"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="probāvimus: we approved, we commended; 1st person plural perfect active from probō, probāre, probāvī, probātus"/>
+                <ITEXT CH="probāvimus: we examined (by smell), we approved, we commended; 1st person plural perfect active from probō, probāre, probāvī, probātus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="procul: without, far"/>
                 <para PARENT="Vocab"/>
@@ -22749,7 +22749,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="sānctōrum: of the saints; plural masculine gentive from sānctus, sānctī"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="spatium: space; singular neuter nominative from spatium, spati(i)"/>
+                <ITEXT CH="spatium: space; singular neuter accusative from spatium, spatiī"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="tenēbantur: they were held; 3rd person plural imperfect passive from teneō, tenēre, tenuī, tentus"/>
                 <para PARENT="Vocab"/>
@@ -25251,7 +25251,7 @@
             <StoryText>
                 <DefaultStyle/>
                 <ITEXT FEATURES="inherit superscript" CH="1"/>
-                <ITEXT FONT="DejaVu Serif Italic" CH="When I had heard these things, I began to comfort them, saying to them."/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="When I had heard these things, he began to comfort them, saying to them."/>
                 <para PARENT="footnotes"/>
                 <ITEXT FEATURES="inherit superscript" CH="2"/>
                 <ITEXT FONT="DejaVu Serif Italic" CH="Do not, brothers, think anything except good."/>
