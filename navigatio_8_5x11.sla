@@ -1070,7 +1070,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="haec: this, these; singular feminine nominative or plural neuter nom. or acc. of hic, haec, hoc"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="hic: this; singuglar masculine nominative of hic, haec, hoc"/>
+                <ITEXT CH="hic: this; singular masculine nominative of hic, haec, hoc"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="hostis: enemy; singular common nominative from hostis, hostis"/>
                 <para PARENT="Vocab"/>
@@ -1358,7 +1358,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="haec: this, these; singular feminine nominative or plural neuter nom. or acc. of hic, haec, hoc"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="hic: this; singuglar masculine nominative of hic, haec, hoc"/>
+                <ITEXT CH="hic: this; singular masculine nominative of hic, haec, hoc"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="hierusalem: Jerusalem"/>
                 <para PARENT="Vocab"/>
@@ -2167,7 +2167,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="haec: this, these; singular feminine nominative or plural neuter nom. or acc. of hic, haec, hoc"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="hic: this; singuglar masculine nominative of hic, haec, hoc"/>
+                <ITEXT CH="hic: this; singular masculine nominative of hic, haec, hoc"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="hōc: this; sing. masc. or neut. abl. of hic, haec, hoc"/>
                 <para PARENT="Vocab"/>
@@ -2468,7 +2468,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="invenietis: finding; 2nd person plural future from invenio, invenire, inveni, inventus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="istud: that; singuglar neuter nominative and accusative from iste, ista, istud"/>
+                <ITEXT CH="istud: that; singular neuter nominative and accusative from iste, ista, istud"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="lītus: beach, shore; singular masculine nominative perfect passive participle from lino, linere, levi, litus"/>
                 <para PARENT="Vocab"/>
@@ -2876,7 +2876,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="vāsculīs: small vessels; plural neuter from vāsculum, vāsculī"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="ventus: wind; singular masculine nominative perfect passive participle from veniō, venīre, vēnī, ventus"/>
+                <ITEXT CH="ventus: wind; singular masculine nominative from ventus, ventī"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="vērō: truly, even so, still"/>
                 <para PARENT="Vocab"/>
@@ -3070,7 +3070,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="istī: to this, those; singular dative or plural nominative masculine from iste"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="istud: that; singuglar neuter nominative and accusative from iste, ista, istud"/>
+                <ITEXT CH="istud: that; singular neuter nominative and accusative from iste, ista, istud"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="ita: thus"/>
                 <para PARENT="Vocab"/>
@@ -3364,7 +3364,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="interdīctīs: having been forbidden; plural dative perfect passive participle from interdīcō, interdīcere, interdīxī, interdīctus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="istud: that; singuglar neuter nominative and accusative from iste, ista, istud"/>
+                <ITEXT CH="istud: that; singular neuter nominative and accusative from iste, ista, istud"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="iterum: again"/>
                 <para PARENT="Vocab"/>
@@ -3658,7 +3658,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="habēmus: we have; 1st person plural present from habeō, habēre, habuī, habitus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="hic: this; singuglar masculine nominative of hic, haec, hoc"/>
+                <ITEXT CH="hic: this; singular masculine nominative of hic, haec, hoc"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="hilaritāte: good humor; singular feminine from hilaritās, hilaritātis"/>
                 <para PARENT="Vocab"/>
@@ -4779,7 +4779,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="hanc: this; singular feminine accusative of hic, haec, hoc"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="hic: this; singuglar masculine nominative of hic, haec, hoc"/>
+                <ITEXT CH="hic: this; singular masculine nominative of hic, haec, hoc"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="hūc: toward here"/>
                 <para PARENT="Vocab"/>
@@ -6090,7 +6090,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="ventum: wind; singular neuter nominative perfect passive participle from vent.um"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="ventus: wind; singular masculine nominative perfect passive participle from veniō, venīre, vēnī, ventus"/>
+                <ITEXT CH="ventus: wind; singular masculine nominative from ventus, ventī"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="vīgintī: 20"/>
                 <para PARENT="Vocab"/>
@@ -6758,7 +6758,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="frātribus: brothers; plural masculine from frāter, frātris"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="hic: this; singuglar masculine nominative of hic, haec, hoc"/>
+                <ITEXT CH="hic: this; singular masculine nominative of hic, haec, hoc"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="hōc: this; sing. masc. or neut. abl. of hic, haec, hoc"/>
                 <para PARENT="Vocab"/>
@@ -8256,7 +8256,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="herbās: herbs; plural feminine accusative from herba, herbae"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="hic: this; singuglar masculine nominative of hic, haec, hoc"/>
+                <ITEXT CH="hic: this; singular masculine nominative of hic, haec, hoc"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="ibī: there, then"/>
                 <para PARENT="Vocab"/>
@@ -8374,7 +8374,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="ūtēnsilia: utensils; plural neuter nominative from utensilis, utensilis, utensile"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="ventus: wind; singular masculine nominative perfect passive participle from veniō, venīre, vēnī, ventus"/>
+                <ITEXT CH="ventus: wind; singular masculine nominative from ventus, ventī"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="vērō: truly, even so, still"/>
                 <para PARENT="Vocab"/>
@@ -10304,7 +10304,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="venerābilis: venerable; singular common nominative from venerābilis, venerābilis, venerābile"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="ventus: wind; singular masculine nominative perfect passive participle from veniō, venīre, vēnī, ventus"/>
+                <ITEXT CH="ventus: wind; singular masculine nominative from ventus, ventī"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="vērō: truly, even so, still"/>
                 <para PARENT="Vocab"/>
@@ -10515,7 +10515,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="vēnit: he came; 3rd person singular present from veniō, venīre, vēnī, ventus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="ventus: wind; singular masculine nominative perfect passive participle from veniō, venīre, vēnī, ventus"/>
+                <ITEXT CH="ventus: wind; singular masculine nominative from ventus, ventī"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="vērō: truly, even so, still"/>
                 <para PARENT="Vocab"/>
@@ -11471,7 +11471,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="vēlīs: sails; 2nd person singular present subjunctive from volō, velle, voluī, -"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="ventus: wind; singular masculine nominative perfect passive participle from veniō, venīre, vēnī, ventus"/>
+                <ITEXT CH="ventus: wind; singular masculine nominative from ventus, ventī"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="vērō: truly, even so, still"/>
                 <para PARENT="Vocab"/>
@@ -12140,7 +12140,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="venerābilis: venerable; singular common nominative from venerābilis, venerābilis, venerābile"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="ventus: wind; singular masculine nominative perfect passive participle from veniō, venīre, vēnī, ventus"/>
+                <ITEXT CH="ventus: wind; singular masculine nominative from ventus, ventī"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="vere: true, real, genuine, actual; properly named; well founded; right, fair, proper; singular masculine vocative from vērus, vēra -um, vērior -or -us, vērissimus -a -um"/>
                 <para PARENT="Vocab"/>
@@ -12903,7 +12903,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="venīre: to come;"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="ventus: wind; singular masculine nominative perfect passive participle from veniō, venīre, vēnī, ventus"/>
+                <ITEXT CH="ventus: wind; singular masculine nominative from ventus, ventī"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="vērō: truly, even so, still"/>
                 <para PARENT="Vocab"/>
@@ -13062,7 +13062,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="venerābilis: venerable; singular common nominative from venerābilis, venerābilis, venerābile"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="ventus: wind; singular masculine nominative perfect passive participle from veniō, venīre, vēnī, ventus"/>
+                <ITEXT CH="ventus: wind; singular masculine nominative from ventus, ventī"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="vērō: truly, even so, still"/>
                 <para PARENT="Vocab"/>
@@ -13349,7 +13349,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="vēlum: sail, cloth; singular neuter nominative from vēlum, vēlī"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="ventus: wind; singular masculine nominative perfect passive participle from veniō, venīre, vēnī, ventus"/>
+                <ITEXT CH="ventus: wind; singular masculine nominative from ventus, ventī"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="vērō: truly, even so, still"/>
                 <para PARENT="Vocab"/>
@@ -13501,7 +13501,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="habuit: he had; 3rd person singular perfect from habeō, habēre, habuī, habitus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="hic: this; singuglar masculine nominative of hic, haec, hoc"/>
+                <ITEXT CH="hic: this; singular masculine nominative of hic, haec, hoc"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="hōc: this; sing. masc. or neut. abl. of hic, haec, hoc"/>
                 <para PARENT="Vocab"/>
@@ -13752,7 +13752,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="hērōde: Ablative of Herod, the Roman-installed king of Israel"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="hic: this; singuglar masculine nominative of hic, haec, hoc"/>
+                <ITEXT CH="hic: this; singular masculine nominative of hic, haec, hoc"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="idcircō: for that reason"/>
                 <para PARENT="Vocab"/>
@@ -14019,7 +14019,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="hāc: this; singular feminine ablative of hic, haec, hoc"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="hic: this; singuglar masculine nominative of hic, haec, hoc"/>
+                <ITEXT CH="hic: this; singular masculine nominative of hic, haec, hoc"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="hōra: hour, time; singular feminine nominative from hōra, hōrae"/>
                 <para PARENT="Vocab"/>
@@ -15141,7 +15141,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="haec: this, these; singular feminine nominative or plural neuter nom. or acc. of hic, haec, hoc"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="hic: this; singuglar masculine nominative of hic, haec, hoc"/>
+                <ITEXT CH="hic: this; singular masculine nominative of hic, haec, hoc"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="hōc: this; sing. masc. or neut. abl. of hic, haec, hoc"/>
                 <para PARENT="Vocab"/>
@@ -15705,7 +15705,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="herī: yesterday"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="hic: this; singuglar masculine nominative of hic, haec, hoc"/>
+                <ITEXT CH="hic: this; singular masculine nominative of hic, haec, hoc"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="hodiē: today"/>
                 <para PARENT="Vocab"/>
@@ -15887,7 +15887,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="vēnerat: he had come; 3rd person sing. pluperfect active from veniō, venīre, vēnī, ventus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="ventus: wind; singular masculine nominative perfect passive participle from veniō, venīre, vēnī, ventus"/>
+                <ITEXT CH="ventus: wind; singular masculine nominative from ventus, ventī"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="vērō: truly, even so, still"/>
                 <para PARENT="Vocab"/>
@@ -16207,7 +16207,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="haec: this, these; singular feminine nominative or plural neuter nom. or acc. of hic, haec, hoc"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="hic: this; singuglar masculine nominative of hic, haec, hoc"/>
+                <ITEXT CH="hic: this; singular masculine nominative of hic, haec, hoc"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="hōc: this; sing. masc. or neut. abl. of hic, haec, hoc"/>
                 <para PARENT="Vocab"/>
@@ -17110,7 +17110,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="invenīre: to find;"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="istud: that; singuglar neuter nominative and accusative from iste, ista, istud"/>
+                <ITEXT CH="istud: that; singular neuter nominative and accusative from iste, ista, istud"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="ita: yes"/>
                 <para PARENT="Vocab"/>
@@ -17325,7 +17325,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="istīus: of this; singular genitive from iste, ista, istud"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="istud: that; singuglar neuter nominative and accusative from iste, ista, istud"/>
+                <ITEXT CH="istud: that; singular neuter nominative and accusative from iste, ista, istud"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="ita: yes"/>
                 <para PARENT="Vocab"/>
@@ -18077,7 +18077,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="hāc: this; singular feminine ablative of hic, haec, hoc"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="hic: this; singuglar masculine nominative of hic, haec, hoc"/>
+                <ITEXT CH="hic: this; singular masculine nominative of hic, haec, hoc"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="hiemps: winter; singular feminine nominative from hiemps, hiemis"/>
                 <para PARENT="Vocab"/>
@@ -18330,7 +18330,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="haec: this, these; singular feminine nominative or plural neuter nom. or acc. of hic, haec, hoc"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="hic: this; singuglar masculine nominative of hic, haec, hoc"/>
+                <ITEXT CH="hic: this; singular masculine nominative of hic, haec, hoc"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="iēsūs: Jesus; sing. masc. nom. from Jēsūs, Jēsū"/>
                 <para PARENT="Vocab"/>
@@ -18354,7 +18354,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="istīs: those; plural dative or ablative from iste, ista, istud"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="istud: that; singuglar neuter nominative and accusative from iste, ista, istud"/>
+                <ITEXT CH="istud: that; singular neuter nominative and accusative from iste, ista, istud"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="iterum: again"/>
                 <para PARENT="Vocab"/>
@@ -18585,7 +18585,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="gregēs: flocks; plural common nominative from grex, gregis"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="hic: this; singuglar masculine nominative of hic, haec, hoc"/>
+                <ITEXT CH="hic: this; singular masculine nominative of hic, haec, hoc"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="hodiē: today"/>
                 <para PARENT="Vocab"/>
@@ -18711,7 +18711,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="ut: so that"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="ventus: wind; singular masculine nominative perfect passive participle from veniō, venīre, vēnī, ventus"/>
+                <ITEXT CH="ventus: wind; singular masculine nominative from ventus, ventī"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="vērō: truly, even so, still"/>
                 <para PARENT="Vocab"/>
@@ -19258,7 +19258,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="hērēditāte: inheritance;     from heredit.ate"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="hic: this; singuglar masculine nominative of hic, haec, hoc"/>
+                <ITEXT CH="hic: this; singular masculine nominative of hic, haec, hoc"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="hominem: person; singular masculine accusative from homō, hominis"/>
                 <para PARENT="Vocab"/>
@@ -20318,7 +20318,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="ventum: wind; singular neuter nominative perfect passive participle from vent.um"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="ventus: wind; singular masculine nominative perfect passive participle from veniō, venīre, vēnī, ventus"/>
+                <ITEXT CH="ventus: wind; singular masculine nominative from ventus, ventī"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="vērō: truly, even so, still"/>
                 <para PARENT="Vocab"/>
@@ -22191,7 +22191,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="istīus: of this; singular genitive from iste, ista, istud"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="istud: that; singuglar neuter nominative and accusative from iste, ista, istud"/>
+                <ITEXT CH="istud: that; singular neuter nominative and accusative from iste, ista, istud"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="lapidēs: stones; plural masculine nominative from lapis, lapidis"/>
                 <para PARENT="Vocab"/>
@@ -22406,7 +22406,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="hāc: this; singular feminine ablative of hic, haec, hoc"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="hic: this; singuglar masculine nominative of hic, haec, hoc"/>
+                <ITEXT CH="hic: this; singular masculine nominative of hic, haec, hoc"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="ibīdem: in the same place"/>
                 <para PARENT="Vocab"/>
@@ -23483,7 +23483,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="frātribus: brothers; plural masculine dative or ablative from frāter, frātris"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="hic: this; singuglar masculine nominative of hic, haec, hoc"/>
+                <ITEXT CH="hic: this; singular masculine nominative of hic, haec, hoc"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="ībit: he will go; 3rd person singular future active from eō, īre, ivī, itus"/>
                 <para PARENT="Vocab"/>
@@ -23817,7 +23817,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="ventum: wind; singular neuter nominative perfect passive participle from vent.um"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="ventus: wind; singular masculine nominative perfect passive participle from veniō, venīre, vēnī, ventus"/>
+                <ITEXT CH="ventus: wind; singular masculine nominative from ventus, ventī"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="vīdērunt: they saw"/>
                 <para PARENT="Vocab"/>
@@ -24956,7 +24956,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="habēs: you have; 2nd person singular present active from habeō, habēre, habuī, habitus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="hic: this; singuglar masculine nominative of hic, haec, hoc"/>
+                <ITEXT CH="hic: this; singular masculine nominative of hic, haec, hoc"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="hōc: this; sing. masc. or neut. abl. of hic, haec, hoc"/>
                 <para PARENT="Vocab"/>
@@ -25505,7 +25505,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="invenīre: to find;"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="istud: that; singuglar neuter nominative and accusative from iste, ista, istud"/>
+                <ITEXT CH="istud: that; singular neuter nominative and accusative from iste, ista, istud"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="manum: hand; singular feminine accusative from manus, manūs"/>
                 <para PARENT="Vocab"/>
@@ -25687,7 +25687,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="habēs: you have; 2nd person singular present active from habeō, habēre, habuī, habitus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="hic: this; singuglar masculine nominative of hic, haec, hoc"/>
+                <ITEXT CH="hic: this; singular masculine nominative of hic, haec, hoc"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="hōc: this; sing. masc. or neut. abl. of hic, haec, hoc"/>
                 <para PARENT="Vocab"/>
@@ -27041,7 +27041,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="herbās: herbs; plural feminine accusative from herba, herbae"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="hic: this; singuglar masculine nominative of hic, haec, hoc"/>
+                <ITEXT CH="hic: this; singular masculine nominative of hic, haec, hoc"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="hodiē: today"/>
                 <para PARENT="Vocab"/>
@@ -28789,7 +28789,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="vel: or"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="ventus: wind; singular masculine nominative perfect passive participle from veniō, venīre, vēnī, ventus"/>
+                <ITEXT CH="ventus: wind; singular masculine nominative from ventus, ventī"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="vīdērunt: they saw"/>
                 <para PARENT="Vocab"/>
@@ -29154,7 +29154,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="venīre: to come;"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="ventus: wind; singular masculine nominative perfect passive participle from veniō, venīre, vēnī, ventus"/>
+                <ITEXT CH="ventus: wind; singular masculine nominative from ventus, ventī"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="vidēre: to see;"/>
                 <para PARENT="Vocab"/>
@@ -29191,7 +29191,7 @@
                 <para PARENT="Chapter Heading"/>
                 <para/>
                 <tab/>
-                <ITEXT CH="Nāvigāvērunt per septem diēs. Appāruit vir, et vir sedēbat super petram. Pannus quasi mēnsūrā ūnīus sagī pendēbat inter duās forcellās ferreās"/>
+                <ITEXT CH="Nāvigāvērunt per septem diēs. Appāruit vir, et vir sedēbat super petram. Pannus quasi mēnsūra ūnīus sagī pendēbat inter duās forcellās ferreās"/>
                 <ITEXT FEATURES="inherit superscript" CH="1"/>
                 <ITEXT CH="."/>
                 <para PARENT="Latin"/>
@@ -29285,11 +29285,11 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="cum: with"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="daemōnibus: demons; plural masculine  from daemōn, daemōnis"/>
+                <ITEXT CH="daemōnibus: demons; plural masculine ablative from daemōn, daemōnis"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="dēfōrmis: deformed; singular common nominative from deformis, deforme, deformior -or -us, deformissimus -a -um"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="dēglutīvit: I swallowed; 3rd person singular perfect active from dēglutiō, dēglutīre, dēglutīvī, dēglutītus"/>
+                <ITEXT CH="dēglutīvit: he swallowed; 3rd person singular perfect active from dēglutiō, dēglutīre, dēglutīvī, dēglutītus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="dēvorat: he devours; 3rd person singular present active from dēvorō, dēvorāre, dēvorāvī, dēvorātus"/>
                 <para PARENT="Vocab"/>
@@ -29297,9 +29297,9 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="diēs: day; singular common nominative from diēs, diēī"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="dominicae: Sunday; singular feminine genitive from Dominica, Dominicae"/>
+                <ITEXT CH="Dominicae: Sunday; singular feminine genitive from Dominica, Dominicae"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="dominicus: Sunday; singular masculine nominative from dominicus, dominica, dominicum"/>
+                <ITEXT CH="Dominicus: Sunday; singular masculine nominative from dominicus, dominica, dominicum"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="duās: two; plural feminine accusative from duo -ae o, secundus -a -um, bīnī -ae -a, bis"/>
                 <para PARENT="Vocab"/>
@@ -29329,7 +29329,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="frātrem: brother; singular masculine accusative from frāter, frātris"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="hic: this; singuglar masculine nominative of hic, haec, hoc"/>
+                <ITEXT CH="hic: this; singular masculine nominative of hic, haec, hoc"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="hispidus: rough, shaggy; singular masculine nominative from hispidus, hispida, hispidum"/>
                 <para PARENT="Vocab"/>
@@ -29357,9 +29357,9 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="interrogāvit: he asked; 3rd person singular perfect active from interrogō, interrogāre, interrogāvī, interrogātus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="iudas: Judas Iscariot"/>
+                <ITEXT CH="Iūdās: Judas Iscariot"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="leviathan: Leviathan, a sea monster mentioned in Job 40:25."/>
+                <ITEXT CH="Leviathan: Leviathan, a sea monster mentioned in Job 40:25. Here it is used as a name for the devil."/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="liquefacta: being melted; singular feminine nominative perfect passive participle from liquefaciō, liquefacere, liquefēcī, liquefactus"/>
                 <para PARENT="Vocab"/>
@@ -29367,9 +29367,9 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="māssa: mass, bulk; singular feminine nominative from māssa, māssae"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="mediō: middle; singular masculine dative from medius, media, medium"/>
+                <ITEXT CH="mediō: middle; singular masculine ablative from medius, media, medium"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="mēnsūra: measure; singular feminine nominative future participle from metior, metiri, mensus sum"/>
+                <ITEXT CH="mēnsūra: measure; singular feminine nominative from mēnsūra, mēnsūrae"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="meum: my; singular neuter nominative from meus, mea, meum"/>
                 <para PARENT="Vocab"/>
@@ -29423,7 +29423,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="revertam: I will return; 1st person singular present active subjunctive from reverto, revertere, reverti, -"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="sagī: sage; singular neuter genitive from sagum, sagi"/>
+		<ITEXT CH="sagī: military cloak; singular neuter genitive from sagum, sagi"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="sed: but"/>
                 <para PARENT="Vocab"/>
@@ -29441,7 +29441,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="ūniūs: of one (genitive of ūnus)"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="ventus: wind; singular masculine nominative perfect passive participle from veniō, venīre, vēnī, ventus"/>
+                <ITEXT CH="ventus: wind; singular masculine nominative from ventus, ventī"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="vespere: evening; singular masculine  from vesper, vesperis"/>
                 <para PARENT="Vocab"/>
@@ -29530,7 +29530,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="hērōde: Ablative of Herod, the Roman-installed king of Israel involved with the crucifixion of Christ."/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="hic: this; singuglar masculine nominative of hic, haec, hoc"/>
+                <ITEXT CH="hic: this; singular masculine nominative of hic, haec, hoc"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="iēsūm: Jesus, accusative singular of Iēsūs"/>
                 <para PARENT="Vocab"/>
@@ -30211,7 +30211,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="heremita: hermit; singular masculine nominative from heremita, heremitae"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="hic: this; singuglar masculine nominative of hic, haec, hoc"/>
+                <ITEXT CH="hic: this; singular masculine nominative of hic, haec, hoc"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="hōc: this; sing. masc. or neut. abl. of hic, haec, hoc"/>
                 <para PARENT="Vocab"/>
@@ -30396,7 +30396,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="herī: yesterday"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="hic: this; singuglar masculine nominative of hic, haec, hoc"/>
+                <ITEXT CH="hic: this; singular masculine nominative of hic, haec, hoc"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="hodiē: today"/>
                 <para PARENT="Vocab"/>
@@ -30502,7 +30502,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="ūsque: until, all the way, up until"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="ventus: wind; singular masculine nominative perfect passive participle from veniō, venīre, vēnī, ventus"/>
+                <ITEXT CH="ventus: wind; singular masculine nominative from ventus, ventī"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="vītam: life; singular feminine accusative from vīta, vītae"/>
                 <trail PARENT="Vocab"/>
@@ -30577,7 +30577,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="haec: this, these; singular feminine nominative or plural neuter nom. or acc. of hic, haec, hoc"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="hic: this; singuglar masculine nominative of hic, haec, hoc"/>
+                <ITEXT CH="hic: this; singular masculine nominative of hic, haec, hoc"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="ibī: there, then"/>
                 <para PARENT="Vocab"/>
@@ -31193,7 +31193,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="istīus: of this; singular genitive from iste, ista, istud"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="istud: that; singuglar neuter nominative and accusative from iste, ista, istud"/>
+                <ITEXT CH="istud: that; singular neuter nominative and accusative from iste, ista, istud"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="iuvenis: young man; singular common nominative from juvenis, juvenis, juvene"/>
                 <para PARENT="Vocab"/>
