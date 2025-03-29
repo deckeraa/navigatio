@@ -2658,7 +2658,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="adiūtōrium: help, support; plural masculine genitive from adjutor, adjutoris"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="aequōra: level surfaces; plural neuter nominative from aequor, aequōris"/>
+                <ITEXT CH="aequōra: level (calm) sea, possibly just a synonym for sea; plural neuter accusative from aequor, aequōris"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="agitābātur: to be stirred up; 3rd person singular imperfect passive from agitō, agitāre, agitāvī, agitātus"/>
                 <para PARENT="Vocab"/>
@@ -2702,11 +2702,11 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="cum: with"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="dēficiō, dēficere, dēfēcī, dēfectus: to run short, to lack;  from dēficiō, dēficere, dēfēcī, dēfectus"/>
+                <ITEXT CH="dēfēcērunt: they were exhausted; 3rd person plural perfect from dēficiō, dēficere, dēfēcī, dēfectus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="deī: god, diety; singular masculine genitive from Deus, Dei"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="dēprecārī: avert by prayer; entreat/pray/beg; intercede/beg pardon/mercy/relief/exemption; present passive infinitive from dēpreco, dēprecāre, dēprecāvī, dēprecātus"/>
+                <ITEXT CH="dēprecārī: to pray to; present active infinitive from dēprecor, dēprecārī, dēprecātus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="diē: day; singular common genitive from diēs, diēī"/>
                 <para PARENT="Vocab"/>
@@ -2768,9 +2768,9 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="invenīre: to find;"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="ita: yes"/>
+                <ITEXT CH="ita: thus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="lassitūdine: faintness, weariness, exhaustion; singular feminine from lassitūdō, lassitūdinis"/>
+                <ITEXT CH="lassitūdine: faintness, weariness, exhaustion; singular feminine ablative from lassitūdō, lassitūdinis"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="licentia: license, liberty; plural neuter nominative present participle from licet, licere, licuit, licitus est"/>
                 <para PARENT="Vocab"/>
@@ -2782,7 +2782,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="mēnsēs: months; plural masculine nominative from mēnsis, mēnsis"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="modō: mode, manner, way, measure, size; singular masculine dative from modus, modī"/>
+                <ITEXT CH="modo: recently. Alternative reading of modō: in this way"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="namque: for and in fact, on the other hand"/>
                 <para PARENT="Vocab"/>
@@ -2840,7 +2840,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="receptiō: reception; singular feminine nominative from receptiō, receptiōnis"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="reficiēbant: they were rebuilding/repairing/restoring; 3rd person plural imperfect from reficiō, reficere, refēcī, refectus"/>
+                <ITEXT CH="reficiēbant: they were eating/refreshing themselves; 3rd person plural imperfect from reficiō, reficere, refēcī, refectus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="rem: thing; singular feminine accusative from rēs, reī"/>
                 <para PARENT="Vocab"/>
@@ -2947,7 +2947,7 @@
                 <ITEXT CH=". Here partem (from pars) takes on the meaning of &quot;side&quot;."/>
                 <para PARENT="footnotes"/>
                 <ITEXT FEATURES="inherit superscript" CH="4"/>
-                <ITEXT FONT="DejaVu Serif Italic" FEATURES="inherit" CH="And the brothers who were in the boat began to implore God with tears that he would give them help."/>
+                <ITEXT FONT="DejaVu Serif Italic" FEATURES="inherit" CH="And the brothers, who were in the boat began to implore God with tears that he would give them help."/>
                 <ITEXT CH=" This usage of praestōlāsset is not well attested, but the meaning can easily be inferred based on context. The subjunctive is used because this is a purpose clause."/>
                 <para PARENT="footnotes"/>
                 <ITEXT FEATURES="inherit superscript" CH="5"/>
