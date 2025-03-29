@@ -371,14 +371,14 @@
         <PAGE PAGEXPOS="712.0008" PAGEYPOS="108180.4176" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="18" BORDERTOP="36" BORDERBOTTOM="18" NUM="260" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="100.0008" PAGEYPOS="109012.4208" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="18" BORDERTOP="36" BORDERBOTTOM="18" NUM="261" NAM="" MNAM="Latin left" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="712.0008" PAGEYPOS="109012.4208" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="18" BORDERTOP="36" BORDERBOTTOM="18" NUM="262" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
-        <MASTEROBJECT XPOS="118.0008" YPOS="776.0016" OwnPage="2" ItemID="760125449" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="118.0008" gYpos="671049888772.969" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="118.0008" YPOS="776.0016" OwnPage="2" ItemID="760125449" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="118.0008" gYpos="671999430729.092" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
                 <trail ALIGN="1"/>
             </StoryText>
         </MASTEROBJECT>
-        <MASTEROBJECT XPOS="154.0008" YPOS="776.0016" OwnPage="3" ItemID="760101337" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="8709064318.0008" gYpos="671048959428.969" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="154.0008" YPOS="776.0016" OwnPage="3" ItemID="760101337" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="8719647022.0008" gYpos="671998501385.092" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
@@ -30058,7 +30058,9 @@
                 <para PARENT="Chapter Heading"/>
                 <para/>
                 <tab/>
-                <ITEXT CH="Sānctus Brendānus et frātrēs eius nāvigāvērunt contrā merīdiānam plāgam et glōrificābant Deum in omnibus. Tertiā diē appāruit īnsula parva. [3] Frātrēs coepit nāvigāre ācrius, sed Sānctus Brendānus dīxit: “Frātrēs, nōn dēbētis fatīgāre corpora vestra: habētis satis labōrem.”"/>
+                <ITEXT CH="Sānctus Brendānus et frātrēs eius nāvigāvērunt contrā merīdiānam plāgam et glōrificābant Deum in omnibus. Tertiā diē appāruit īnsula parva. Frātrēs coepit nāvigāre"/>
+                <ITEXT FEATURES="inherit superscript" CH="1"/>
+                <ITEXT CH=" ācrius, sed Sānctus Brendānus dīxit: “Frātrēs, nōn dēbētis fatīgāre corpora vestra: habētis satis labōrem.”"/>
                 <para PARENT="Latin"/>
                 <tab/>
                 <ITEXT CH="Appropinquāvērunt ad lītus, sed nōn vīdērunt portum, prae altitūdine rīpae. Circuīvit īnsulam et invēnērunt portum parvam."/>
@@ -30067,7 +30069,11 @@
                 <ITEXT CH="Sānctus Brendānus dīxit frātribus suīs: “Expectāte hīc. Nōn dēbēmus intrāre sine licentiā virī Deī quī vīvit in hōc locō.” Brendānus ambulāvit ad summitātem illīus īnsulae et vīdit duās spēluncās et fontem parvum."/>
                 <para PARENT="Latin"/>
                 <tab/>
-                <ITEXT CH="Tunc senex iit ab spēluncā et dīxit: “Ecce, quam bonum et quam iocundum habitāre frātrēs in ūnum.” Ergō Brendānus praecēpit omnēs frātrēs suōs venīre dē nāvī. Senex appellābat frātrēs singulōs propriīs nōminibus. Et senex erat coopertus tōtus cum capillīs suīs. Capillī erant candidī sīcut nix, prae nimiā senectūte."/>
+                <ITEXT CH="Tunc senex iit ab spēluncā et dīxit: “Ecce, quam bonum et quam iocundum habitāre frātrēs in ūnum"/>
+                <ITEXT FEATURES="inherit superscript" CH="2"/>
+                <ITEXT CH=".” Ergō Brendānus praecēpit omnēs frātrēs suōs venīre dē nāvī. Senex appellābat frātrēs singulōs propriīs nōminibus"/>
+                <ITEXT FEATURES="inherit superscript" CH="3"/>
+                <ITEXT CH=". Et senex erat coopertus tōtus cum capillīs suīs. Capillī erant candidī sīcut nix, prae nimiā senectūte."/>
                 <para PARENT="Latin"/>
             </StoryText>
             <PageItemAttributes>
@@ -32180,6 +32186,23 @@
                 <para PARENT="footnotes"/>
                 <ITEXT FEATURES="inherit superscript" CH="3"/>
                 <ITEXT FONT="DejaVu Serif Italic" CH="Do not punish (Judas) more with tortures than before."/>
+                <trail PARENT="footnotes"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="118.0008" YPOS="29682.8025477707" OwnPage="69" ItemID="1804561849" PTYPE="4" WIDTH="540" HEIGHT="122.445859872612" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 122.446 L0 122.446 L0 0 Z" copath="M0 0 L540 0 L540 122.446 L0 122.446 L0 0 Z" gXpos="118.0008" gYpos="29682.8025477707" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FEATURES="inherit superscript" CH="1"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="The brothers began to row harder. "/>
+                <ITEXT CH="We know nāvigāre means to row, not just to sail, based on context."/>
+                <para PARENT="footnotes"/>
+                <ITEXT FEATURES="inherit superscript" CH="2"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="Behold, how good and how pleasant it is for brothers to dwell in unity."/>
+                <ITEXT CH=" This quote from the Psalms was a common greeting for monks."/>
+                <para PARENT="footnotes"/>
+                <ITEXT FEATURES="inherit superscript" CH="3"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="The old man was calling the brothers one-by-one according to their own names."/>
+                <ITEXT CH=" The old man was given foreknowledge of their names."/>
                 <trail PARENT="footnotes"/>
             </StoryText>
         </PAGEOBJECT>
