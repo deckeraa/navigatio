@@ -3586,7 +3586,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="aliquam: anyone"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="annonam: yearly income; singular feminine accusative from annōna, annōnae"/>
+                <ITEXT CH="annōnam: ration, daily allotment (in context); singular feminine accusative from annōna, annōnae"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="annōs: years; plural masculine accusative from annus, annī"/>
                 <para PARENT="Vocab"/>
@@ -3614,9 +3614,9 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="dīcēns: saying; singular nominative present participle from dīcō, dīcere, dīxī, dictus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="diē: day; singular common genitive from diēs, diēī"/>
+                <ITEXT CH="diē: day; singular common ablative from diēs, diēī"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="diēbus: days; plural common dative from diēs, diēī"/>
+                <ITEXT CH="diēbus: days; plural common ablative from diēs, diēī"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="dominī: of the lord; singular masculine genitive from dominus, dominī"/>
                 <para PARENT="Vocab"/>
@@ -3630,7 +3630,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="elemosina: alms; singular feminine nominative from elemosina, elemosinae"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="eō: I go; 1st person singular present from eo, ire, ivi(ii), itus"/>
+                <ITEXT CH="eō: I go; 1st person singular present from eo, ire, iī, itus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="est: he is; 3rd person singular present from sum, esse, fuī, futūrus"/>
                 <para PARENT="Vocab"/>
@@ -3640,7 +3640,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="facite: make! do!; 2nd person plural present from faciō, facere, fēcī, factus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="fēstīvitātibus: festivity; plural feminine from fēstīvitās, fēstīvitātis"/>
+                <ITEXT CH="fēstīvitātibus: festivity; plural feminine ablative from fēstīvitās, fēstīvitātis"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="fonte: fountain; singular masculine from fōns, fontis"/>
                 <para PARENT="Vocab"/>
@@ -3686,7 +3686,9 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="ministrantur: being ministered to; 3rd person plural present passive from ministrō, ministrāre, ministrāvī, ministrātus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="modō: mode, manner, way, measure, size; singular masculine dative from modus, modī"/>
+		<ITEXT CH="modo: presently"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="modō: mode, manner, way; singular masculine ablative from modus, modī"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="nōbīs: us; singular dative or ablative from ego"/>
                 <para PARENT="Vocab"/>
@@ -3734,7 +3736,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="quōs: who; plural masculine accusative of quis"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="refectiōnem: refreshing, restoring, repairing; singular feminine accusative from refectiō, refectiōnis"/>
+                <ITEXT CH="refectiōnem: dining, refreshing; singular feminine accusative from refectiō, refectiōnis"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="sānctī: holy"/>
                 <para PARENT="Vocab"/>
@@ -3754,7 +3756,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="tamen: however"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="tempore: time, period; singular neuter from tempus, temporis"/>
+                <ITEXT CH="tempore: time, period; singular neuter ablative from tempus, temporis"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="timōre: fear; singular masculine from timor, timōris"/>
                 <para PARENT="Vocab"/>
@@ -3793,7 +3795,7 @@
                 <para/>
                 <ITEXT CH="[25]     Abbās quoque hortābātur"/>
                 <ITEXT FEATURES="inherit superscript" CH="1"/>
-                <ITEXT CH=" cum magnā hilaritāte frātrēs, dīcēns: [26] “Ex hōc fonte quem hodiē fūrtim bibere voluistis, ex eō modo facite cāritātem, cum iocunditāte et timōre Dominī. [27] Ex aliō fonte turbidō quem vīdistis lavantur"/>
+                <ITEXT CH=" cum magnā hilaritāte frātrēs, dīcēns: [26] “Ex hōc fonte quem hodiē fūrtim bibere voluistis, ex eō modō facite cāritātem, cum iocunditāte et timōre Dominī. [27] Ex aliō fonte turbidō quem vīdistis lavantur"/>
                 <ITEXT FEATURES="inherit superscript" CH="2"/>
                 <ITEXT CH=" pedēs frātrum omnī diē, quia omnī tempore calidus est. [28] Pānēs vērō quōs vidētis, nōbīs ignōtum est"/>
                 <ITEXT FEATURES="inherit superscript" CH="3"/>
