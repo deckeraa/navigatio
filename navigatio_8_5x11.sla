@@ -3822,7 +3822,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="āit: he said; 3rd person singular present from aio, -, -"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="alacritāte: cheerfulness, liveliness; singular feminine from alacritās, alacritātis"/>
+                <ITEXT CH="alacritāte: cheerfulness, liveliness; singular feminine ablative from alacritās, alacritātis"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="aliī: others; singular dative from alius, alia, aliud"/>
                 <para PARENT="Vocab"/>
@@ -3846,7 +3846,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="cantāre: to sing;"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="capere: to seize, to take hold;"/>
+                <ITEXT CH="capere: to hold;"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="comedendum: eating; singular accusative gerund from comedo, comedere, comedi, comesus"/>
                 <para PARENT="Vocab"/>
@@ -3868,7 +3868,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="duodecim: two"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="dūximus: we lead;  from dux.imus"/>
+                <ITEXT CH="dūximus: we lead; 1st person plural perfect from dūcō, dūcere, dūxī, ductus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="ecce: Look! Behold!"/>
                 <para PARENT="Vocab"/>
@@ -3882,7 +3882,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="ex: out of, from"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="exivērunt: they came out, they went out; 3rd person plural perfect from exeō, exīre, exivī(iī), exitus"/>
+                <ITEXT CH="exivērunt: they came out, they went out; 3rd person plural perfect from exeō, exīre, exiviī, exitus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="flectentēs: bending; plural common nominative present participle from flecto, flectere, flexi, flexus"/>
                 <para PARENT="Vocab"/>
@@ -3892,7 +3892,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="genua: knees; plural neuter nominative from genu, genūs"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="gradiēbantur: they were walking;  imperfect from gradior, gradi, gressus sum"/>
+                <ITEXT CH="gradiēbantur: they were walking; 3rd person plural imperfect from gradior, gradi, gressus sum"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="gravitāte: gravity, weight, importance; singular feminine ablative from gravitās, gravitātis"/>
                 <para PARENT="Vocab"/>
@@ -3926,7 +3926,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="lūminaribus: windows; plural neuter from lūminare, lūminaris"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="māgnō: large; singular masculine dative from māgnus, māgna -um, major -or -us, maximus -a -um"/>
+                <ITEXT CH="māgnō: large; singular masculine ablative from māgnus, māgna -um, major -or -us, maximus -a -um"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="membrīs: limbs, members; plural neuter from membrum, membrī"/>
                 <para PARENT="Vocab"/>
@@ -3938,7 +3938,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="missārum: of Masses; plural feminine genitive perfect passive participle from mittō, mittere, mīsī, missus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="modō: mode, manner, way, measure, size; singular masculine dative from modus, modī"/>
+                <ITEXT CH="modō: mode, manner, way; singular masculine ablative from modus, modī"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="monastēriī: monastery; singular neuter genitive from monastērium, monastēriī"/>
                 <para PARENT="Vocab"/>
@@ -3996,7 +3996,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="quod: what; singular neuter nom. or acc. of qui"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="refēcērunt: they refreshed; 3rd person plural perfect from reficiō, reficere, refēcī, refectus"/>
+                <ITEXT CH="refēcērunt: they dined; 3rd person plural perfect from reficiō, reficere, refēcī, refectus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="reficient: they will refresh, they will rebuild; 3rd person plural future from reficiō, reficere, refēcī, refectus"/>
                 <para PARENT="Vocab"/>
@@ -4018,7 +4018,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="simul: at the same time as"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="solitō: being accustomed; singular masculine dative perfect passive participle from soleō, solēre, solitus sum"/>
+                <ITEXT CH="solitō: being accustomed; singular masculine ablative perfect passive participle from soleō, solēre, solitus sum"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="superat: he overcomes; 3rd person singular present from superō, superāre, superāvī, superātus"/>
                 <para PARENT="Vocab"/>
@@ -4077,7 +4077,7 @@
                 <ITEXT FEATURES="inherit superscript" CH="3"/>
                 <ITEXT CH=", ecce: aliī duodecim frātrēs exiērunt obviam illīs, flectentēs genua cum alacritāte. [38] Sānctus quoque Brendānus, cum illōs vīdisset"/>
                 <ITEXT FEATURES="inherit superscript" CH="4"/>
-                <ITEXT CH=", dīxit: “Abbā, cūr istī nōn refēcērunt nōbīscum simul?” [39] Cui ait pater: “Propter vōs, quia nōn potuit nostra mēnsa nōs omnēs capere in ūnum. Modo reficient, et nihil illīs dēerit. [40] Nōs autem intrāmus ecclēsiam et cantāmus vesperās, ut frātrēs nostrī, quī modo reficiunt, possint ad tempus cantāre vesperās post nōs.”"/>
+                <ITEXT CH=", dīxit: “Abbā, cūr istī nōn refēcērunt nōbīscum simul?” [39] Cui ait pater: “Propter vōs, quia nōn potuit nostra mēnsa nōs omnēs capere in ūnum. Modō reficient, et nihil illīs dēerit. [40] Nōs autem intrāmus ecclēsiam et cantāmus vesperās, ut frātrēs nostrī, quī modō reficiunt, possint ad tempus cantāre vesperās post nōs.”"/>
                 <para PARENT="Latin"/>
             </StoryText>
         </PAGEOBJECT>
@@ -4112,7 +4112,7 @@
                 <para PARENT="footnotes"/>
                 <ITEXT FEATURES="inherit superscript" CH="2"/>
                 <ITEXT FONT="DejaVu Serif Italic" CH="According to divine predestination."/>
-                <ITEXT CH=" It appears that the act of bringing the laterns with them was divinely fore-ordained."/>
+                <ITEXT CH=" It appears that the act of bringing the lanterns with them was divinely fore-ordained."/>
                 <para PARENT="footnotes"/>
                 <ITEXT FEATURES="inherit superscript" CH="3"/>
                 <ITEXT FONT="DejaVu Serif Italic" CH="Having therefore entered the church."/>
