@@ -4173,13 +4173,13 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="cōnsīderāre: to consider;"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="cōnsilium: plan, advice, council; singular neuter nominative from consilium, consili(i)"/>
+                <ITEXT CH="cōnsilium: plan, advice, council; singular neuter nominative from consilium, consiliī"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="cōram: in the presence of"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="corde: heart; singular neuter from cor, cordis"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="crystallō: crystal; singular feminine dative from crystallus, crystallī"/>
+                <ITEXT CH="crystallō: crystal; singular feminine ablative from crystallus, crystallī"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="cultum: cult, civilization; singular masculine accusative from cultus, cultūs"/>
                 <para PARENT="Vocab"/>
@@ -4187,9 +4187,9 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="de: of, from, away from, down from"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="dēbitum: debt, due, duty; singular neuter nominative perfect passive participle from debit.um"/>
+                <ITEXT CH="dēbitum: debt, due, duty; singular neuter nominative perfect passive participle from dēbeō, dēbēre, dēbuī, dēbitus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="deī: god, diety; singular masculine genitive from Deus, Dei"/>
+                <ITEXT CH="Deī: god, diety; singular masculine genitive from Deus, Dei"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="dīvīnum: divine; singular neuter nominative from dīvīnus, dīvīna -um, dīvīnior -or -us, dīvīnissimus -a -um"/>
                 <para PARENT="Vocab"/>
@@ -4231,11 +4231,11 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="genū: knee; singular neuter nominative from genu, genūs"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="graphiō: stylus; singular neuter dative from graphium, graphi(i)"/>
+                <ITEXT CH="grafiō: stylus; singular neuter ablative from graphium, graphiī"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="habēbat: he had; 3rd person singular imperfect from habeō, habēre, habuī, habitus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="ībat: he was going; 3rd person singular imperfect from eo, ire, ivi(ii), itus"/>
+                <ITEXT CH="ībat: he was going; 3rd person singular imperfect from eo, ire, iī, itus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="id: it"/>
                 <para PARENT="Vocab"/>
@@ -4275,7 +4275,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="opus: work, deed; singular neuter nominative from opus, operis"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="parte: part; singular masculine vocative perfect passive participle from pario, parere, peperi, partus"/>
+                <ITEXT CH="parte: part; singular feminine ablative from pars, partis"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="pater: father; singular masculine nominative from pater, patris"/>
                 <para PARENT="Vocab"/>
@@ -4297,7 +4297,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="quadrāta: squares; singular feminine nominative perfect passive participle from quadro, quadrare, quadravi, quadratus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="quadrātō: square; 2nd person singular future from quadr.ato"/>
+                <ITEXT CH="quadrātō: square; singular neuter ablative from quadrātum, quadrātī"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="quae: who; plural female nom. or neuter nom. or acc. of quis"/>
                 <para PARENT="Vocab"/>
@@ -4353,11 +4353,11 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="utra: either; singular feminine nominative from uter, utra, utrum"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="vāsa: vessel; plural neuter nominative from vas.a"/>
+                <ITEXT CH="vāsa: vessel; plural neuter nominative from vās, vāsis"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="vāscula: small vessel; plural neuter nominative from vāsculum, vāsculī"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="versum: verse, poetic line; singular neuter nominative perfect passive participle from vers.um"/>
+                <ITEXT CH="versum: verse, poetic line; singular masculine accusative versus, versūs"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="vespertīnāle: Vespers. This word isn't in any of my dictionaries but the meaning is clear."/>
                 <para PARENT="Vocab"/>
@@ -4406,7 +4406,7 @@
                 <ITEXT CH="."/>
                 <para PARENT="footnotes"/>
                 <ITEXT FEATURES="inherit superscript" CH="3"/>
-                <ITEXT FONT="DejaVu Serif Italic" CH="And their vessels (were) similarly of crystal, that is, a shallow dish, and cups, and small pitches, and other vessels which pertain to the Divine Cult."/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="And their vessels (were) similarly of crystal, that is, a shallow dish, and cups, and small pitchers, and other vessels which pertain to the Divine Cult."/>
                 <ITEXT CH=" Here cultum dīvīnum means the Eucharist (or Mass, or Lord's Supper, depending on what terminology you want to use)."/>
                 <para PARENT="footnotes"/>
                 <ITEXT FEATURES="inherit superscript" CH="4"/>
