@@ -4443,7 +4443,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="cantāre: to sing;"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="cellulās: small room, cell; plural feminine accusative from cellula, cellulae"/>
+                <ITEXT CH="cellulās: small rooms, cells; plural feminine accusative from cellula, cellulae"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="complētōrium: compline, service of prayers at close of day; plural masculine genitive from completor, completoris"/>
                 <para PARENT="Vocab"/>
@@ -4457,7 +4457,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="cursūs: of the course; singular genitive from cursus, cursūs, datus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="deus: god; singular masculine nominative from Deus, Dei"/>
+                <ITEXT CH="Deus: god; singular masculine nominative from Deus, Dei"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="dīcentēs: saying; plural common nominative present participle from dīcō, dīcere, dīxī, dictus"/>
                 <para PARENT="Vocab"/>
@@ -4473,7 +4473,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="ēgimus: we conducted, we acted; 1st person plural perfect from agō, agere, ēgī, āctus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="egrediebantur: they went out;  imperfect from egredior, egredi, egressus sum"/>
+                <ITEXT CH="ēgrediēbantur: they went out; 3rd person plural indicative imperfect from ēgredior, ēgredī, ēgressus sum"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="eī: to him, her, or it; singular dative from is, ea, id"/>
                 <para PARENT="Vocab"/>
@@ -4535,7 +4535,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="istum: that; singular masculine accusative from iste, ista, istud"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="ita: yes"/>
+                <ITEXT CH="ita: thus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="lūce: light; singular masculine vocative from lucus, luci"/>
                 <para PARENT="Vocab"/>
@@ -4551,7 +4551,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="nōbīs: us; singular dative or ablative from ego"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="officium: duty, service, favor; singular neuter nominative from officium, offici(i)"/>
+                <ITEXT CH="officium: duty, service, favor; singular neuter nominative from officium, officiī"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="omnēs: all, every; plural common nominative from omnis, omnis, omne"/>
                 <para PARENT="Vocab"/>
@@ -4585,7 +4585,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="quoniam: after"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="refectiōnem: refreshing, restoring, repairing; singular feminine accusative from refectiō, refectiōnis"/>
+                <ITEXT CH="refectiōnem: dining, refreshing; singular feminine accusative from refectiō, refectiōnis"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="refectōrium: dining room, refectory; singular neuter nominative from refectōrium, refectōriī"/>
                 <para PARENT="Vocab"/>
@@ -4653,7 +4653,7 @@
                 <ITEXT CH=".” [52] “In pāce in id ipsum dormiam et requiēscam, quoniam tū, Domine, singulāriter in spē cōnstituistī mē"/>
                 <ITEXT FEATURES="inherit superscript" CH="5"/>
                 <ITEXT CH=".” [53] Post haec cantābant officium"/>
-                <ITEXT FEATURES="inherit superscript" CH="7"/>
+                <ITEXT FEATURES="inherit superscript" CH="6"/>
                 <ITEXT CH=" quod pertinet ad hanc hōram. [54] Iam cōnsummātō ōrdine psallendī, omnēs ēgrediēbantur forās frātrēs ad illōrum singulās cellulās, accipientēs hospitēs sēcum."/>
                 <para PARENT="Latin"/>
                 <ITEXT CH="[55]      Abbās vērō cum sānctō Brendānō residēbat in ecclēsiā, expectantēs adventum lūminis."/>
@@ -4665,7 +4665,7 @@
                 <DefaultStyle/>
                 <ITEXT FEATURES="inherit superscript" CH="1"/>
                 <ITEXT FONT="DejaVu Serif Italic" CH="Then Saint Brendan, having all these things in himself considered, said to the abbot: &quot;Father, now it is time to return to the refectory (dining room), so that all may be done with light.&quot;"/>
-                <ITEXT CH=" cōnsīderāsset is subjunctive because it's in a cum circumstantial clause; revertāmur and fīant are subjunctive because that are in ut clauses expressinig conditionality."/>
+                <ITEXT CH=" cōnsīderāsset is subjunctive because it's in a cum circumstantial clause; revertāmur and fīant are subjunctive because that are in ut clauses expressing conditionality."/>
                 <para PARENT="footnotes"/>
                 <ITEXT FEATURES="inherit superscript" CH="2"/>
                 <ITEXT FONT="DejaVu Serif Italic" CH="Having finished everything following the order of the course of the day."/>
