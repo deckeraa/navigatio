@@ -4729,7 +4729,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="carnis: meat, flesh; singular feminine genitive from carō, carnis"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="Chrīstō: Christ"/>
+                <ITEXT CH="Chrīstō: Christ (ablative case)"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="circā: around, about, concerning"/>
                 <para PARENT="Vocab"/>
@@ -4737,7 +4737,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="conversātiōne: intimacy, acquaintance, way of life, monastic life; singular feminine from conversātiō, conversātiōnis"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="cōram: in the presence of"/>
+                <ITEXT CH="cōram: in the presence of (adverb that takes the ablative)"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="cum: with"/>
                 <para PARENT="Vocab"/>
@@ -4747,7 +4747,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="deī: god, diety; singular masculine genitive from Deus, Dei"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="deō: god; singular masculine dative from Deus, Dei"/>
+                <ITEXT CH="Deō: god; singular masculine dative from Deus, Dei"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="deus: god; singular masculine nominative from Deus, Dei"/>
                 <para PARENT="Vocab"/>
@@ -4789,7 +4789,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="hūmānum: human, cultured, refined; singular neuter nominative from hūmānus, hūmāna -um, hūmānior -or -us, hūmānissimus -a -um"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="humilitāte: humility, insignificance, commonplaceness; singular feminine from humilitās, humilitātis"/>
+                <ITEXT CH="humilitāte: humility, insignificance, commonplaceness; singular feminine ablative from humilitās, humilitātis"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="illōrum: of those; plural masculine or neuter genitive from ille, illa, illud"/>
                 <para PARENT="Vocab"/>
@@ -4811,7 +4811,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="interrogās: asking; 2nd person singular present from interrogō, interrogāre, interrogāvī, interrogātus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="istum: that; singular masculine accusative from iste, ista, istud"/>
+                <ITEXT CH="istum: this; singular masculine accusative from iste, ista, istud"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="laudēs: praises; 2nd person singular present subjunctive from laudō, laudāre, laudāvī, laudātus"/>
                 <para PARENT="Vocab"/>
@@ -4823,7 +4823,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="mē: to me, accusative from ego"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="meō: my; singular masculine or neuter dative or ablative from meus"/>
+                <ITEXT CH="meō: my; singular masculine ablative from meus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="morte: death; singular feminine from mors, mortis"/>
                 <para PARENT="Vocab"/>
@@ -4857,7 +4857,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="per: through"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="peregrīnābitur: he will make a pilgrimage, he will sojourn;  future from peregrinor, peregrinari, peregrinatus sum"/>
+                <ITEXT CH="peregrīnābitur: he will sojourn; he will make a pilgrimage; 3rd person singular future from peregrinor, peregrinari, peregrinatus sum"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="porrō: farther, further, also"/>
                 <para PARENT="Vocab"/>
@@ -4899,7 +4899,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="signum: sign; singular neuter nominative from signum, signī"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="silentiō: silence; singular neuter dative from silentium, silenti(i)"/>
+                <ITEXT CH="silentiō: silence; singular neuter dative from silentium, silentiī"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="spīrituum: of spirits; plural masculine genitive from spīritus, spīritūs"/>
                 <para PARENT="Vocab"/>
@@ -4925,7 +4925,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="ūnus: one"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="vagantur: they wander;  present from vagor, vagari, vagatus sum"/>
+                <ITEXT CH="vagantur: they wander; 3rd person plural present from vagor, vagari, vagatus sum"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="venīmus: we come, we came; 1st person plural present from veniō, venīre, vēnī, ventus"/>
                 <para PARENT="Vocab"/>
@@ -5290,8 +5290,8 @@
                 <ITEXT CH=" "/>
                 <para PARENT="footnotes"/>
                 <ITEXT FEATURES="inherit superscript" CH="2"/>
-                <ITEXT FONT="DejaVu Serif Italic" CH="Only by the elder bor"/>
-                <ITEXT CH="n. Only the older monks were allowed to make hand and eye signals."/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="Only by the elder born."/>
+                <ITEXT CH="Only the older monks were allowed to make hand and eye signals."/>
                 <para PARENT="footnotes"/>
                 <ITEXT FEATURES="inherit superscript" CH="3"/>
                 <ITEXT FONT="DejaVu Serif Italic" CH="Has not God revealed to you the things that you must do before you came here to us?"/>
