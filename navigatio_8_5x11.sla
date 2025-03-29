@@ -2988,7 +2988,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="antequam: before"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="ascendentibus: ascending; plural dative present participle from ascendō, ascendere, ascendī, ascēnsus"/>
+                <ITEXT CH="ascendentibus: ascending; plural ablative present participle from ascendō, ascendere, ascendī, ascēnsus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="at: and"/>
                 <para PARENT="Vocab"/>
@@ -3004,7 +3004,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="commorantur: they dwell, 3rd person present of commoror, commorārī, commorātum (dep.)"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="cōnsīderantibus: considering; plural dative present participle from cōnsīderō, cōnsīderāre, cōnsīderāvī, cōnsīderātus"/>
+                <ITEXT CH="cōnsīderantibus: considering; plural ablative present participle from cōnsīderō, cōnsīderāre, cōnsīderāvī, cōnsīderātus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="cuius: whose; singular genitive from quis"/>
                 <para PARENT="Vocab"/>
@@ -3038,15 +3038,15 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="eum: to him; singular masculine accusative from is, ea, id"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="faciē: shape, figure, appearance, look; singular feminine genitive from faciēs, faciēī"/>
+                <ITEXT CH="faciē: face, figure, appearance; singular feminine ablative from faciēs, faciēī"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="frātrēs: brothers; plural masculine nominative from frāter, frātris"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="frātribus: brothers; plural masculine from frāter, frātris"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="gravitātis: gravity, weight, importance; singular feminine genitive from gravitās, gravitātis"/>
+                <ITEXT CH="gravitātis: importance, gravity, weight; singular feminine genitive from gravitās, gravitātis"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="ībat: he was going; 3rd person singular imperfect from eo, ire, ivi(ii), itus"/>
+                <ITEXT CH="ībat: he was going; 3rd person singular imperfect from eo, ire, iī, itus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="ibī: there, then"/>
                 <para PARENT="Vocab"/>
@@ -3072,15 +3072,15 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="istud: that; singuglar neuter nominative and accusative from iste, ista, istud"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="ita: yes"/>
+                <ITEXT CH="ita: thus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="itūrī: to be gone to. future active participle from eō, īre, iī, itum"/>
+                <ITEXT CH="itūrī: to be gone to; future active participle from eō, īre, iī, itum"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="locī: place; singular masculine genitive from locus, locī"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="locūtiōnibus: speeches, discourse; plural feminine from locūtiō, locūtiōnis"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="mansuētūdine: tameness; singular feminine from mansuētūdō, mansuētūdinis"/>
+                <ITEXT CH="mansuētūdine: tameness; singular feminine ablative from mansuētūdō, mansuētūdinis"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="manū: hand; singular feminine ablative from manus, manūs"/>
                 <para PARENT="Vocab"/>
@@ -3102,13 +3102,13 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="numquam: never"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="occurrit: he ran;  from occurr.it"/>
+                <ITEXT CH="occurrit: he ran; 3rd person singular perfect from occurrō, occurrere, occurrī, occursus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="ōsculantibus: kissing; plural dative present participle from ōsculor, ōsculārī, ōsculātus sum"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="ōsculārētur: he (might) have been kissing;  imperfect from ōsculor, ōsculārī, ōsculātus sum"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="ōstia: doors; plural neuter nominative from ōstium, ōsti(ī)"/>
+                <ITEXT CH="ōstia: doors; plural neuter accusative from ōstium, ōstiī"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="partem: part; singular feminine accusative from pars, partis"/>
                 <para PARENT="Vocab"/>
@@ -3138,7 +3138,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="respōnsum: response; singular neuter nominative perfect passive participle from respons.um"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="restitit: he resisted; 3rd person singular perfect from resistō, resistere, restitī, -"/>
+                <ITEXT CH="restitit: he stood; 3rd person singular perfect from resistō, resistere, restitī, -"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="sānctī: holy"/>
                 <para PARENT="Vocab"/>
@@ -3158,11 +3158,11 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="sermōnibus: conversation, speech; plural masculine from sermō, sermōnis"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="silentium: silence; singular neuter nominative from silentium, silenti(i)"/>
+                <ITEXT CH="silentium: silence; singular neuter nominative from silentium, silentiī"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="spatium: space; singular neuter nominative from spatium, spati(i)"/>
+                <ITEXT CH="spatium: space; singular neuter nominative from spatium, spatiī"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="stadiī: stadium (around 660 feet); singular neuter genitive from stadium, stadi(ī)"/>
+                <ITEXT CH="stadiī: stadium (around 660 feet); singular neuter genitive from stadium, stadiī"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="statim: immediately"/>
                 <para PARENT="Vocab"/>
@@ -3223,7 +3223,7 @@
                 <ITEXT FEATURES="inherit superscript" CH="4"/>
                 <ITEXT CH=", tenuit manum sānctī patris īdem senex, et ībat cum illō per spatium quasi ūnīus stadiī ad monastērium."/>
                 <para PARENT="Latin"/>
-                <ITEXT CH="[13]     Tunc sānctus Brendānus, cum frātribus suīs, restitit ante portam monastēriī et dīxit senī: [14] “Cuius est istud monastērium? Et quis praeest ibi? Aut unde sunt quī commorantur illīc?” [15] Ita sānctus pater dīversīs sermōnibus"/>
+                <ITEXT CH="[13]     Tunc sānctus Brendānus, cum frātribus suīs, restitit ante portam monastēriī et dīxit senī: [14] “Cuius est istud monastērium? Et quis praeest ibī? Aut unde sunt quī commorantur illīc?” [15] Ita sānctus pater dīversīs sermōnibus"/>
                 <ITEXT FEATURES="inherit superscript" CH="5"/>
                 <ITEXT CH=" senem interrogābat et numquam poterat ab illō ūllum respōnsum accipere, sed tantum, incrēdibilī mānsuētūdine, manū silentium īnsinuābat"/>
                 <ITEXT FEATURES="inherit superscript" CH="6"/>
