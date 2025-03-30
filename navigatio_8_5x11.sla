@@ -13728,7 +13728,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="fīat: may it be; 3rd person sing. presentactivesubjunctive from fīō, fierī, factus sum"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="fossam: ditch, moat; singular feminine accusative perfect passive participle from fodio, fodere, fodi, fossus"/>
+                <ITEXT CH="fossam: ditch, moat; singular feminine accusative from fossa, fossae"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="frātrum: of brothers; pl. masc. gen. from frāter, frātris"/>
                 <para PARENT="Vocab"/>
@@ -15697,7 +15697,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="faciēs: shape, figure, appearance, look; 2nd person sing. future active from faciō, facere, fēcī, factus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="fossam: ditch, moat; singular feminine accusative perfect passive participle from fodio, fodere, fodi, fossus"/>
+                <ITEXT CH="fossam: ditch, moat; singular feminine accusative from fossa, fossae"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="frāter: brother; sing. masc. nom. from frāter, frātris"/>
                 <para PARENT="Vocab"/>
@@ -30364,7 +30364,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="Brendānus: Brendan of Clonfert (c. AD 484 – c. 577), an Irish abbot who sailed the Atlantic"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="cīmītērium: cemetery; singular neuter nominative from cīmītērium, cīmītēriī"/>
+                <ITEXT CH="cīmītērium: cemetery; singular neuter accusative from cīmītērium, cīmītēriī"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="crās: tomorrow"/>
                 <para PARENT="Vocab"/>
@@ -30374,7 +30374,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="dēbēs: you should; 2nd person singular present active from dēbeō, dēbēre, dēbuī, dēbitus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="diē: day; singular common genitive from diēs, diēī"/>
+                <ITEXT CH="diē: day; singular common ablative from diēs, diēī"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="diem: day; singular common accusative from diēs, diēī"/>
                 <para PARENT="Vocab"/>
@@ -30402,7 +30402,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="faciēbam: I was doing; 1st person singular imperfect active from faciō, facere, fēcī, factus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="fossam: ditch, moat; singular feminine accusative perfect passive participle from fodio, fodere, fodi, fossus"/>
+                <ITEXT CH="fossam: ditch, moat; singular feminine accusative from fossa, fossae"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="habēs: you have; 2nd person singular present active from habeō, habēre, habuī, habitus"/>
                 <para PARENT="Vocab"/>
@@ -30414,7 +30414,11 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="hodiē: today"/>
                 <para PARENT="Vocab"/>
+		<ITEXT CH="ī: go!; imperative of eō, īre, iī, itus (irregular)"/>
+                <para PARENT="Vocab"/>
                 <ITEXT CH="ibī: there, then"/>
+                <para PARENT="Vocab"/>
+		<ITEXT CH="iī: I went; singular 1st person perfect of eō, īre, iī, itus (irregular)"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="impulit: he impelled, he urged on; 3rd person singular perfect active from impellō, impellere, impulī, impulsus"/>
                 <para PARENT="Vocab"/>
@@ -30434,7 +30438,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="locus: place; singular masculine nominative from locus, locī"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="manē: morning"/>
+                <ITEXT CH="manē: morning (ablative case)"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="manēbam: I was remaining; 1st person singular imperfect active from maneō, manēre, mānsī, mānsus"/>
                 <para PARENT="Vocab"/>
@@ -30448,7 +30452,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="monachus: monk; singular masculine nominative from monachus, monachī"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="monastēriō: monastery; singular neuter dative from monastērium, monastēriī"/>
+                <ITEXT CH="monastēriō: monastery; singular neuter ablative from monastērium, monastēriī"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="mortis: death; singular feminine genitive from mors, mortis"/>
                 <para PARENT="Vocab"/>
@@ -30464,11 +30468,13 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="pater: father; singular masculine nominative from pater, patris"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="patriciī: patrician; singular masculine genitive from patricius, patriciī"/>
+                <ITEXT CH="Patriciī: of Saint Patrick"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="per: through"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="quā: what; singular female ablative of qui"/>
+                <para PARENT="Vocab"/>
+		<ITEXT CH="quādam: on a certain; singular female ablative of quidam"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="quia: because"/>
                 <para PARENT="Vocab"/>
@@ -30480,7 +30486,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="respondit: he responded; 3rd person singular perfect active from respondeō, respondēre, respondī, respōnsus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="saeculō: age, generation; singular neuter dative from saeculum, saeculī"/>
+                <ITEXT CH="saeculō: age, generation; singular neuter ablative from saeculum, saeculī"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="sānctī: holy"/>
                 <para PARENT="Vocab"/>
