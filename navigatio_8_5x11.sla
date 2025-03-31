@@ -5000,7 +5000,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="cōnfestim: immediately"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="corporālī: physical, corporeal; singular dative from corporālis, corporālis, corporāle"/>
+                <ITEXT CH="corporālī: physical, corporeal; singular ablative from corporālis, corporālis, corporāle"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="corporāliter: bodily, physically, corporeally"/>
                 <para PARENT="Vocab"/>
@@ -5076,13 +5076,13 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="iterum: again"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="lampadēs: lamps; plural feminine nominative from lampad.es"/>
+                <ITEXT CH="lampadēs: lamps; plural feminine nominative from lampas, lampadis"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="lampadibus: lamps; plural feminine from lampad.ibus"/>
+                <ITEXT CH="lampadibus: lamps; plural feminine ablative from lampas, lampadis"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="lēgistī: you read; 2nd person singular perfect from legō, legere, lēgī, lēctus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="licentiam: license; singular feminine accusative from licentia, licentiae"/>
+                <ITEXT CH="licentiam: license, permission; singular feminine accusative from licentia, licentiae"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="loquerentur: they (might) have had said;  imperfect from loquor, loqui, locutus sum"/>
                 <para PARENT="Vocab"/>
@@ -5094,7 +5094,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="mānsit: he remained; 3rd person singular perfect from maneō, manēre, mānsī, mānsus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="mediō: middle; singular masculine dative from medius, media, medium"/>
+                <ITEXT CH="mediō: middle; singular masculine ablative from medius, media, medium"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="minus: less"/>
                 <para PARENT="Vocab"/>
@@ -5144,7 +5144,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="quia: because"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="quō: what; singular ablative of quis"/>
+                <ITEXT CH="quō: who; singular ablative of quis"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="quōmodo: how, by which means"/>
                 <para PARENT="Vocab"/>
@@ -5162,7 +5162,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="rubus: thorn bush; singular masculine nominative from rubus, rubī"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="sacrāmentum: sacrament; singular neuter nominative from sacrāmentum, sacrāmentī"/>
+                <ITEXT CH="sacrāmentum: mystery, sacrament; singular neuter nominative from sacrāmentum, sacrāmentī"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="sagitta: arrow; singular feminine nominative from sagitta, sagittae"/>
                 <para PARENT="Vocab"/>
@@ -5204,7 +5204,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="vidē: look!; 2nd person singular present imperative from videō, vidēre, vīdī, vīsus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="videntibus: looking; plural dative present participle from videō, vidēre, vīdī, vīsus"/>
+                <ITEXT CH="videntibus: looking; plural ablative present participle from videō, vidēre, vīdī, vīsus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="vidēs: you see; 2nd person singular present from videō, vidēre, vīdī, vīsus"/>
                 <para PARENT="Vocab"/>
