@@ -5313,8 +5313,10 @@
             <StoryText>
                 <DefaultStyle/>
                 <ITEXT FEATURES="inherit superscript" CH="1"/>
-                <ITEXT FONT="DejaVu Serif Italic" CH="Having said these things amonst themselves, behold, appearing to them, a flaming arrow, sent through the window, lit all the lamps which were placed before the altar"/>
-                <ITEXT CH=". loquerentur is subjunctive because it is in a cum circumstantial clause. illīs videntibus is an ablative absolute."/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="Having said these things amonst themselves, behold, appearing to them, a flaming arrow, sent through the window, lit all the lamps which were placed before the altar. loquerentur"/>
+		<ITEXT CH=" is subjunctive because it is in a cum circumstantial clause. "/>
+		<ITEXT FONT="DejaVu Serif Italic" CH="illīs videntibus"/>
+		<ITEXT CH=" is an ablative absolute."/>
                 <para PARENT="footnotes"/>
                 <ITEXT FEATURES="inherit superscript" CH="2"/>
                 <ITEXT FONT="DejaVu Serif Italic" CH="Come and see the mystery of the thing"/>
