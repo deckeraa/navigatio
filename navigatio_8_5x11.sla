@@ -5513,7 +5513,7 @@
         <PAGEOBJECT XPOS="766.0008" YPOS="69112.2672" OwnPage="166" ItemID="1290601899" PTYPE="4" WIDTH="540" HEIGHT="718.929936305762" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="2" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 718.93 L0 718.93 L0 0 Z" copath="M0 0 L540 0 L540 718.93 L0 718.93 L0 0 Z" gXpos="766.0008" gYpos="69112.2672" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
-                <ITEXT CH="accipite: accept! receive!; 2nd person plural present imperative from accipiō, accipere, accēpī, acceptus"/>
+                <ITEXT CH="accipite: take! accept!; 2nd person plural present imperative from accipiō, accipere, accēpī, acceptus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="ad: to, towards, at, according to"/>
                 <para PARENT="Vocab"/>
@@ -5527,7 +5527,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="aquās: water; plural feminine accusative from aqua, aquae"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="assāte: Roast! Bake! Broil! Plural imperative from assō, assāre, assāvī, assātus"/>
+                <ITEXT CH="assāte: roast! bake! broil! Plural imperative from assō, assāre, assāvī, assātus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="at: and"/>
                 <para PARENT="Vocab"/>
@@ -5565,17 +5565,17 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="dedit: he gave; 3rd person singular perfect from do, dare, dedi, datus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="deī: god, diety; singular masculine genitive from Deus, Dei"/>
+                <ITEXT CH="Deī: god, diety; singular masculine genitive from Deus, Dei"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="dēprecābātur: they were praying; 3rd person singular imperfect passive from dēpreco, dēprecāre, dēprecāvī, dēprecātus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="deus: god; singular masculine nominative from Deus, Dei"/>
+                <ITEXT CH="Deus: god; singular masculine nominative from Deus, Dei"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="diēī: day; singular common genitive from diēs, diēī"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="diērum: days; plural common genitive from diēs, diēī"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="diffinitionem: definition, precise description; specification; fixing/marking a boundary; classification; pronouncement, ruling; singular feminine accusative from diffinitio, diffinitionis"/>
+                <ITEXT CH="diffinitionem: specification; definition, precise description; fixing/marking a boundary; classification; pronouncement, ruling; singular feminine accusative from diffinitio, diffinitionis"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="dīxit: he said; 3rd person singular perfect from dīcō, dīcere, dīxī, dictus"/>
                 <para PARENT="Vocab"/>
@@ -5603,7 +5603,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="herbās: herbs; plural feminine accusative from herba, herbae"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="īgnī: fire; singular masculine from īgnis, īgnis"/>
+                <ITEXT CH="īgnī: fire; singular masculine ablative from īgnis, īgnis"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="īgnōrantiam: ignorance; singular feminine accusative from īgnōrantia, īgnōrantiae"/>
                 <para PARENT="Vocab"/>
@@ -5617,7 +5617,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="irruit: it rushes, it rushed; 3rd person singular present from irruō, irruere, irruī, irrutus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="ita: yes"/>
+                <ITEXT CH="ita: thus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="labōrem: labor; singular masculine accusative from labor, labōris"/>
                 <para PARENT="Vocab"/>
@@ -5908,8 +5908,8 @@
             <StoryText>
                 <DefaultStyle/>
                 <ITEXT FEATURES="inherit superscript" CH="1"/>
-                <ITEXT FONT="DejaVu Serif Italic" CH="Having poured out water for drinking"/>
-                <ITEXT CH=". effūdissent is subjunctive because this is a cum circumstantial clause. "/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="Having poured out water for drinking. effūdissent"/>
+                <ITEXT CH=" is subjunctive because this is a cum circumstantial clause. "/>
                 <ITEXT FONT="DejaVu Serif Italic" CH="ad bibendum"/>
                 <ITEXT CH=" is a gerund construction that means "/>
                 <ITEXT FONT="DejaVu Serif Italic" CH="for drinking"/>
