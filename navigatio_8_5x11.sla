@@ -5274,7 +5274,7 @@
                 <ITEXT FEATURES="inherit superscript" CH="4"/>
                 <ITEXT CH=" vīdērunt īnsulam ē regiōne, nōn longē ab illīs. Cum frātrēs illam vīdissent"/>
                 <ITEXT FEATURES="inherit superscript" CH="5"/>
-                <ITEXT CH=", coepērunt ācriter nāvigāre, quia iam valdē vexātī erant famē et sitī: ante trīduānum enim dēficit vīctus et pōtus. [4] At vērō, cum sānctus pater benedīxisset portum, et omnēs exīssent forās dē nāvī, invēnērunt fontem lūcidissimum, et herbās dīversās, ac rādīcēs in circuitū fontis, dīversaque genera piscium discurrentēs per alveum rīvulī mānantis dē fonte in mare."/>
+                <ITEXT CH=", coepērunt ācriter nāvigāre, quia iam valdē vexātī erant famē et sitī: ante trīduānum enim dēficit victūs et pōtūs. [4] At vērō, cum sānctus pater benedīxisset portum, et omnēs exīssent forās dē nāvī, invēnērunt fontem lūcidissimum, et herbās dīversās, ac rādīcēs in circuitū fontis, dīversaque genera piscium discurrentēs per alveum rīvulī mānantis dē fonte in mare."/>
                 <para PARENT="Latin"/>
             </StoryText>
             <PageItemAttributes>
@@ -5358,7 +5358,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="Brendānus: Brendan of Clonfert (c. AD 484 – c. 577), an Irish abbot who sailed the Atlantic"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="circuitū: circuit, outer shore; singular neuter ablative from circueo, circuire, circuivi(ii), circuitus"/>
+                <ITEXT CH="circuitū: circuit, outer shore; singular neuter ablative from circueo, circuire, circuiviī, circuitus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="coepērunt: they started; from coepī, coepisse, coepī, coeptum"/>
                 <para PARENT="Vocab"/>
@@ -5382,7 +5382,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="et: and"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="exivissent: come/go/sail/march/move out/forth/away, leave; pass (away), expire/perish/die; discharge (fluid); rise (river); become visible; issue/emerge/escape; sprout; 3rd person plural pluperfect subjunctive from exeō, exīre, exivī(iī), exitus"/>
+                <ITEXT CH="exivissent: having gone outside; 3rd person plural pluperfect subjunctive from exeō, exīre, exiviī, exitus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="famē: hunger; singular feminine from famēs, famis"/>
                 <para PARENT="Vocab"/>
@@ -5400,7 +5400,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="frātrēs: brothers; plural masculine nominative from frāter, frātris"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="genera: births, families, types, offspring; 2nd person singular present imperative from genero, generare, generavi, generatus"/>
+                <ITEXT CH="genera: types; plural neuter accusative from genus, generis"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="herbās: herbs; plural feminine accusative from herba, herbae"/>
                 <para PARENT="Vocab"/>
@@ -5414,7 +5414,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="in: into (with accusative), in (with ablative)"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="initium: beginning, entrance; singular neuter nominative from initium, initi(i)"/>
+                <ITEXT CH="initium: beginning, entrance; singular neuter nominative from initium, initiī"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="īnsulam: island; singular feminine accusative from īnsula, īnsulae"/>
                 <para PARENT="Vocab"/>
@@ -5422,7 +5422,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="loca: places; 2nd person singular present imperative from loco, locare, locavi, locatus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="longē: long; singular masculine vocative from longus, longa -um, longior -or -us, longissimus -a -um"/>
+                <ITEXT CH="longē: long, far; adverb"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="lūcidissimum: very bright, very clear; singular neuter nominative from lūcidus, lūcida, lūcidum"/>
                 <para PARENT="Vocab"/>
@@ -5436,7 +5436,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="nāvigāre: to sail;"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="nāvigium: vessel, ship, sailing, navigation; singular neuter nominative from nāvigium, nāvigi(ī)"/>
+                <ITEXT CH="nāvigium: rowing (in context), vessel, ship, sailing, navigation; singular neuter accusative from nāvigium, nāvigiī"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="nāvis: boat; singular feminine nominative from nāvis, nāvis"/>
                 <para PARENT="Vocab"/>
@@ -5454,11 +5454,11 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="portum: harbor, port; singular masculine accusative from portus, portūs"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="pōtūs: drink, drinking; singular masculine nominative perfect passive participle from poto, potare, potavi, potus"/>
+                <ITEXT CH="pōtūs: drink, drinking; plural masculine accusative from pōtus, pōtūs"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="quādam: on a certain; singular feminine ablative from quidam"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="quadrāgesimae: Lent, Christian fast of 40 days; singular feminine genitive from quadraginta, quadragesimus -a -um, quadrageni -ae -a, quadragie (n)s"/>
+                <ITEXT CH="Quadrāgesimae: Lent, Christian fast of 40 days; singular feminine genitive from quadraginta, quadragesimus -a -um, quadrageni -ae -a, quadragie (n)s"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="quantōcius: the sooner the better (adverb)"/>
                 <para PARENT="Vocab"/>
@@ -5474,7 +5474,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="sānctus: holy, saint"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="sequācibus: followers; plural dative from sequax, sequacis (gen.), sequacior -or -us, sequacissimus -a -um"/>
+                <ITEXT CH="sequācibus: followers; plural ablative from sequax, sequacis (gen.), sequacior -or -us, sequacissimus -a -um"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="sitī: thirst; singular masculine genitive perfect passive participle from sino, sinere, sivi, situs"/>
                 <para PARENT="Vocab"/>
@@ -5500,7 +5500,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="vexātī: vexātī + erant: they had been vexed"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="victus: victuals, nourishment, necessaries of life; singular masculine nominative perfect passive participle from vinco, vincere, vici, victus"/>
+                <ITEXT CH="victūs: victuals, nourishment, necessaries of life; plural masculine accusative from victus, victūs"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="vīdērunt: they saw"/>
                 <para PARENT="Vocab"/>
