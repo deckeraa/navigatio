@@ -20949,17 +20949,19 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="contrā: against, away from, facing"/>
                 <para PARENT="Vocab"/>
+		<ITEXT CH="cuiusdam: of a certain one; singular genitive from quidam"/>
+                <para PARENT="Vocab"/>
                 <ITEXT CH="cum: with"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="dēfīnīvit: he defined, he limited; 3rd person singular perfect active from dēfīniō, dēfīnīre, dēfīnīvī, dēfīnītus"/>
+                <ITEXT CH="dēfīnīvit: he planned, he decided; 3rd person singular perfect active from dēfīniō, dēfīnīre, dēfīnīvī, dēfīnītus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="dēmorātus: dwelling, detaining; singular masculine nominative perfect participle from "/>
+                <ITEXT CH="dēmorātus: dwelling, detaining; singular masculine nominative perfect participle from dēmoror, dēmorārī, dēmorātus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="diēbus: days; plural common dative from diēs, diēī"/>
+                <ITEXT CH="diēbus: days; plural common ablative from diēs, diēī"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="diērum: days; plural common genitive from diēs, diēī"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="eō: I go; 1st person singular present active from eo, ire, ivi(ii), itus"/>
+                <ITEXT CH="eō: I go; 1st person singular present active from eo, ire, iī, itus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="eōdem: the same;(pronoun)"/>
                 <para PARENT="Vocab"/>
@@ -20967,9 +20969,9 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="et: and"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="eunt: they go; 3rd person plural present active from eo, ire, ivi(ii), itus"/>
+                <ITEXT CH="eunt: they go; 3rd person plural present active from eo, ire, iī, itus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="frātribus: brothers; plural masculine  from frāter, frātris"/>
+                <ITEXT CH="frātribus: brothers; plural masculine ablative from frāter, frātris"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="fuit: he was; 3rd person singular perfect active from sum, esse, fuī, futūrus"/>
                 <para PARENT="Vocab"/>
@@ -20987,19 +20989,19 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="īnsulam: island; singular feminine accusative from īnsula, īnsulae"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="locō: place; singular masculine dative from locus, locī"/>
+                <ITEXT CH="locō: place; singular masculine ablative from locus, locī"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="monachī: monk; singular masculine genitive from monachus, monachī"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="monastēriī: monastery; singular neuter genitive from monastērium, monastēriī"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="noctibus: nights; plural feminine  from nox, noctis"/>
+                <ITEXT CH="noctibus: nights; plural feminine ablative from nox, noctis"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="nōmine: name; singular neuter  from nōmen, nōminis"/>
+                <ITEXT CH="nōmine: name; singular neuter ablative from nōmen, nōminis"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="occidentālem: western; singular common accusative from occidentālis, occidentālis, occidentāle"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="omnibus: all; plural  dative from omnis, omnis, omne"/>
+                <ITEXT CH="omnibus: all; plural ablative from omnis, omnis, omne"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="patris: father; singular masculine genitive from pater, patris"/>
                 <para PARENT="Vocab"/>
@@ -21013,7 +21015,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="profectus: profectus sum = I set out; singular masculine nominative perfect participle from "/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="proficīscī: to set out;   present  from proficīscor, proficīscī, profectus sum"/>
+                <ITEXT CH="proficīscī: to set out; present infinitive from proficīscor, proficīscī, profectus sum"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="quadrāgintā: 40"/>
                 <para PARENT="Vocab"/>
@@ -21035,9 +21037,9 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="suus: his; singular masculine nominative from suus, sui"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="trānsactīs: having been accomplished; plural dative perfect passive participle from transigo, transigere, transegi, transactus"/>
+                <ITEXT CH="trānsactīs: having been accomplished; plural ablative perfect passive participle from transigo, transigere, transegi, transactus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="tribus: three; plural dative from trēs -es -ia, tertius -a -um, terni -ae -a, ter"/>
+                <ITEXT CH="tribus: three; plural ablative from trēs -es -ia, tertius -a -um, terni -ae -a, ter"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="triduānās: three days; plural feminine accusative from triduāna, triduānae"/>
                 <trail PARENT="Vocab"/>
@@ -25342,9 +25344,7 @@
                 <ITEXT CH=" proficīscī is the present infinitive (it's a deponent verb)"/>
                 <para PARENT="footnotes"/>
                 <ITEXT FEATURES="inherit superscript" CH="2"/>
-                <ITEXT FONT="DejaVu Serif Italic" CH="Having then spent forty days, and saluting the brothers, and having commended everything of his monastery to the prior, who was afterwards his successor in the same place, he set out from the "/>
-                <ITEXT FONT="DejaVu Serif Italic" FEATURES="inherit" CH="west coast with fourteen brother for the insland of a certain holy father named Aende"/>
-                <ITEXT FEATURES="inherit" CH="."/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="Having then spent forty days, and saluting the brothers, and having commended everything of his monastery to the prior, who was afterwards his successor in the same place, he set out from the west coast with fourteen brother for the insland of a certain holy father named Aende."/>
                 <para PARENT="footnotes"/>
                 <ITEXT FEATURES="inherit superscript" CH="3"/>
                 <ITEXT FONT="DejaVu Serif Italic" CH="And there he dwelled three days and three nights."/>
