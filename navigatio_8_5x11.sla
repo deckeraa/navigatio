@@ -20472,7 +20472,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="aliōquīn: also"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="angustiam: small space, narrow passage, being boxed in; singular feminine accusative from angustia, angustiae"/>
+                <ITEXT CH="angustiam: tight situation, small space, narrow passage, being boxed in; singular feminine accusative from angustia, angustiae"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="ante: before, in front, forwards"/>
                 <para PARENT="Vocab"/>
@@ -20502,9 +20502,9 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="dīcentēs: saying; plural common nominative present participle from dīcō, dīcere, dīxī, dictus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="diēbus: days; plural common dative from diēs, diēī"/>
+                <ITEXT CH="diēbus: days; plural common ablative from diēs, diēī"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="dīmitte: dismiss! send away!; 2nd person singular present active imperative from dīmittō, dīmittere, dīmīsī, dīmissus"/>
+                <ITEXT CH="dīmitte: permit!; 2nd person singular present active imperative from dīmittō, dīmittere, dīmīsī, dīmissus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="ecce: Look! Behold!"/>
                 <para PARENT="Vocab"/>
@@ -20512,7 +20512,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="et: and"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="famē: hunger; singular feminine  from famēs, famis"/>
+                <ITEXT CH="famē: hunger; singular feminine ablative from famēs, famis"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="fīat: may it be; 3rd person singular present active subjunctive from fīō, fierī, factus sum"/>
                 <para PARENT="Vocab"/>
@@ -20526,7 +20526,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="illīs: those; plural dative or ablative from ille, illa, illud"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="illōrum: of those; plural masculine or neuter genitive from ille, illa, illud"/>
+                <ITEXT CH="illōrum: of them; plural masculine or neuter genitive from ille, illa, illud"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="illum: that; singular feminine accusative from ille, illa, illud"/>
                 <para PARENT="Vocab"/>
@@ -20544,15 +20544,15 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="iūdicium: judgement; plural masculine genitive from judex, judicis"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="lītore: beach, shore; singular neuter  from lītus, lītoris"/>
+                <ITEXT CH="lītore: beach, shore; singular neuter ablative from lītus, lītoris"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="locō: place; singular masculine dative from locus, locī"/>
+                <ITEXT CH="locō: place; singular masculine ablative from locus, locī"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="locum: place; singular masculine accusative from locus, locī"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="monachī: monk; singular masculine genitive from monachus, monachī"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="monastēriō: monastery; singular neuter dative from monastērium, monastēriī"/>
+                <ITEXT CH="monastēriō: monastery; singular neuter ablative from monastērium, monastēriī"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="moriēmur: we will die; 2nd person plural future active from morior, morī, mortuus sum"/>
                 <para PARENT="Vocab"/>
@@ -20594,7 +20594,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="sciō: I know; 1st person singular present active from sciō, scīre, scīvī, scītus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="sitī: thirst; singular masculine genitive perfect passive participle from sinō, sinere, sīvī, situs"/>
+                <ITEXT CH="sitī: thirst; singular feminine ablative from sitis, sitis"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="sōlus: alone; singular masculine nominative from sōlus, sōla, sōlum (gen -ius)"/>
                 <para PARENT="Vocab"/>
