@@ -5989,7 +5989,7 @@
                 <DefaultStyle/>
                 <ITEXT CH="ab: from, out of, by, since"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="altum: height; singular neuter nominative perfect passive participle from alt.um"/>
+                <ITEXT CH="altum: high; singular neuter accusative from altus, alta, altum"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="cessāvit: it ceased; 3rd person singular perfect from cessō, cessāre, cessāvī, cessātus"/>
                 <para PARENT="Vocab"/>
@@ -6003,7 +6003,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="contrā: against, away from, facing"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="deus: god; singular masculine nominative from Deus, Dei"/>
+                <ITEXT CH="Deus: god; singular masculine nominative from Deus, Dei"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="diēs: day; singular common nominative from diēs, diēī"/>
                 <para PARENT="Vocab"/>
@@ -6035,11 +6035,11 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="iuxtā: near, nearly"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="laxāte: loosen! relax!;  from lax.ate"/>
+                <ITEXT CH="laxāte: loosen! relax!; plural imperative from laxō, laxāre, laxāvī, laxātus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="mare: sea; singular neuter nominative from mare, maris"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="mittite: send! put!; 2nd person plural present imperative from mittō, mittere, mīsī, missus"/>
+                <ITEXT CH="mittite: put!; 2nd person plural present imperative from mittō, mittere, mīsī, missus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="nāvigāre: to sail;"/>
                 <para PARENT="Vocab"/>
@@ -6049,9 +6049,9 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="nimia: too much"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="noctēs: nights; plural feminine nominative from nox, noctis"/>
+                <ITEXT CH="noctēs: nights; plural feminine accusative from nox, noctis"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="occīdō, occīdere, occīdī, occīsus: to kill;  from occīdō, occīdere, occīdī, occīsus"/>
+                <ITEXT CH="occidente: east; singular masculine ablative from occidēns, occidentis"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="orientem: daybreak, dawn, East; singular common accusative present participle from orior, oriri, ortus sum"/>
                 <para PARENT="Vocab"/>
@@ -6069,7 +6069,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="quasi: as if, like, as much as"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="reficiēbant: they were rebuilding/repairing/restoring; 3rd person plural imperfect from reficiō, reficere, refēcī, refectus"/>
+                <ITEXT CH="reficiēbant: eating, restoring (themselves); 3rd person plural imperfect from reficiō, reficere, refēcī, refectus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="rēmigēs: oars, oarmen; plural masculine nominative or accusative from rēmex, rēmigēs"/>
                 <para PARENT="Vocab"/>
@@ -6083,7 +6083,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="tendere: to stretch, to extend;"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="tranquillitāte: tranquility; singular feminine from tranquillitās, tranquillitātis"/>
+                <ITEXT CH="tranquillitāte: tranquility; singular feminine ablative from tranquillitās, tranquillitātis"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="trēs: three; plural common nominative from trēs -es -ia, tertius -a -um, terni -ae -a, ter"/>
                 <para PARENT="Vocab"/>
