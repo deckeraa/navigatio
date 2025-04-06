@@ -402,13 +402,13 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="anteā: before"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="ascendentibus: ascending; plural dative present participle from ascendō, ascendere, ascendī, ascēnsus"/>
+                <ITEXT CH="ascendentibus: ascending; plural ablative present participle from ascendō, ascendere, ascendī, ascēnsus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="autem: but, however, moreover"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="avium: of birds; plural feminine genitive from avis, avis"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="chrīstus: annointed one, Christ; singular masculine nominative from Chrīstus, Chrīstī"/>
+                <ITEXT CH="Chrīstus: annointed one, Christ; singular masculine nominative from Chrīstus, Chrīstī"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="circuitum: circuit, outer shore; singular masculine accusative from circuitus, circuitūs"/>
                 <para PARENT="Vocab"/>
@@ -424,7 +424,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="dedit: he gave; 3rd person singular perfect from do, dare, dedi, datus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="dispendia: pay, nourishment; plural neuter nominative from dispendium, dispendi(i)"/>
+                <ITEXT CH="dispendia: pay, nourishment; plural neuter nominative from dispendium, dispendiī"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="dīxit: he said; 3rd person singular perfect from dīcō, dīcere, dīxī, dictus"/>
                 <para PARENT="Vocab"/>
@@ -436,6 +436,8 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="eius: his/her/its"/>
                 <para PARENT="Vocab"/>
+		<ITEXT CH="eiusdem: of the same; singular genitive from īdem"/>
+                <para PARENT="Vocab"/>
                 <ITEXT CH="erant: they were; 3rd person plural imperfect from sum, esse, fuī, futūrus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="erat: he was; 3rd person singular imperfect from sum, esse, fuī, futūrus"/>
@@ -446,7 +448,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="fēcērunt: they did, they made; 3rd person plural perfect from faciō, facere, fēcī, factus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="flōribus: flowers; plural masculine from flōs, flōris"/>
+                <ITEXT CH="flōribus: flowers; plural masculine ablative from flōs, flōris"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="flūmen: river; singular neuter nominative from flūmen, flūminis"/>
                 <para PARENT="Vocab"/>
@@ -456,9 +458,9 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="fontem: fountain; singular masculine accusative from fōns, fontis"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="fretō: strait, channel; singular neuter dative from fretum, fretī"/>
+                <ITEXT CH="fretō: strait, channel; singular neuter ablative from fretum, fretī"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="fūnēs: ropes; plural masculine nominative from fūnis, fūnis"/>
+                <ITEXT CH="fūnēs: ropes; plural masculine accusative from fūnis, fūnis"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="habuissēmus: we (might) have had; 1st person plural pluperfect subjunctive from habeō, habēre, habuī, habitus"/>
                 <para PARENT="Vocab"/>
@@ -466,7 +468,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="ibī: there, then"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="iēsūs: Jesus; singular masculine nominative from Jēsūs, Jēsū"/>
+                <ITEXT CH="Iēsūs: Jesus; singular masculine nominative from Iēsūs, Iēsū"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="illam: that; singular feminine accusative from ille, illa, illud"/>
                 <para PARENT="Vocab"/>
@@ -510,13 +512,13 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="merīdiānam: noon, southern; singular feminine accusative from meridianus, meridiana, meridianum"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="mīliāriī: milestone; singular neuter genitive from miliarium, miliari(i)"/>
+                <ITEXT CH="mīliāriī: milestone; singular neuter genitive from miliarium, miliariī"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="mīsērunt: they sent; 3rd person plural perfect from mittō, mittere, mīsī, missus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="nāvī: boat; singular feminine from nāvis, nāvis"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="nāvigantibus: navigating; plural dative present participle from nāvigō, nāvigāre, nāvigāvī, nāvigātus"/>
+                <ITEXT CH="nāvigantibus: navigating; plural ablative present participle from nāvigō, nāvigāre, nāvigāvī, nāvigātus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="navigavissent: they (might) have navigated; 3rd person plural pluperfect subjunctive from nāvigō, nāvigāre, nāvigāvī, nāvigātus"/>
                 <para PARENT="Vocab"/>
@@ -532,7 +534,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="noster: our; singular masculine nominative from noster, nostra, nostrum"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="occīdō, occīdere, occīdī, occīsus: to kill;  from occīdō, occīdere, occīdī, occīsus"/>
+                <ITEXT CH="occidentem: west; singular masculine accusative from occidēns, occidentis"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="paradīsus: paradise; singular masculine nominative from paradīsus, paradīsī"/>
                 <para PARENT="Vocab"/>
@@ -580,7 +582,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="sīcut: as, same as, like"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="spatium: space; singular neuter nominative from spatium, spati(i)"/>
+                <ITEXT CH="spatium: space; singular neuter nominative from spatium, spatiī"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="sua: her/its; sing. fem. nom. or abl. or neuter nom. or acc. from suus"/>
                 <para PARENT="Vocab"/>
@@ -666,7 +668,7 @@
                 <ITEXT CH=". The subjunctive is used because this is also part of the cum circumstantial clause."/>
                 <para PARENT="footnotes"/>
                 <ITEXT FEATURES="inherit superscript" CH="3"/>
-                <ITEXT FONT="DejaVu Serif Italic" CH="with a strait, not large, intervening"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="With a strait, not large, intervening"/>
                 <ITEXT CH=" or "/>
                 <ITEXT FONT="DejaVu Serif Italic" CH="with a small channel lying between"/>
                 <ITEXT CH=". This is an ablative absolute construction."/>
@@ -680,7 +682,7 @@
                 <ITEXT CH=" The subjunctive trāxissent and potuissent are used here because it is a purpose clause using ut."/>
                 <para PARENT="footnotes"/>
                 <ITEXT FEATURES="inherit superscript" CH="6"/>
-                <ITEXT FONT="DejaVu Serif Italic" CH="Our Lord Jesus Christ gave us this place for staying during (the holidy of) his holy resurrection"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="Our Lord Jesus Christ gave us this place for staying during (the holiday of) his holy resurrection"/>
                 <ITEXT CH=". Manendum is a gerund in the accusative because it goes with ad, which takes the accusative. Ad + a gerund in the accusative can be used to express purpose or a reason (e.g. for staying)."/>
                 <para PARENT="footnotes"/>
                 <ITEXT FEATURES="inherit superscript" CH="7"/>
