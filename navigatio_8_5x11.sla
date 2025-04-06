@@ -694,7 +694,7 @@
         <PAGEOBJECT XPOS="766.0008" YPOS="54968.2128" OwnPage="132" ItemID="1469582788" PTYPE="4" WIDTH="540" HEIGHT="720.000000000044" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="2" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 720 L0 720 L0 0 Z" copath="M0 0 L540 0 L540 720 L0 720 L0 0 Z" gXpos="766.0008" gYpos="54968.2128" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
-                <ITEXT CH="absconditōrum: of things hidden; plural masculine genitive perfect passive participle from abscondit.orum"/>
+                <ITEXT CH="absconditōrum: of things hidden; plural masculine genitive from absconditum, absconditī"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="altitūdinis: height, depth; singular feminine genitive from altitūdō, altitūdinis"/>
                 <para PARENT="Vocab"/>
@@ -708,11 +708,11 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="autem: but, however, moreover"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="avibus: birds; plural feminine from avis, avis"/>
+                <ITEXT CH="avibus: birds; plural feminine ablative from avis, avis"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="avium: of birds; plural feminine genitive from avis, avis"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="candidissimīs: most bright/white, very bright/white; plural dative from candidus, candida -um, candidior -or -us, candidissimus -a -um"/>
+                <ITEXT CH="candidissimīs: most bright/white, very bright/white; plural ablative from candidus, candida -um, candidior -or -us, candidissimus -a -um"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="causa: cause, reason; singular feminine nominative from causa, causae"/>
                 <para PARENT="Vocab"/>
@@ -722,9 +722,9 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="cōgitāre: to think;"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="cōgnitor: advocate, attorney, witness; singular masculine nominative from cōgnitor, cōgnitōris"/>
+                <ITEXT CH="cōgnitor: knower, witness; singular masculine nominative from cōgnitor, cōgnitōris"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="collēctiōne: collection; singular feminine from collēctiō, collēctiōnis"/>
+                <ITEXT CH="collēctiōne: collection; singular feminine ablative from collēctiō, collēctiōnis"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="cooperta: covered; singular feminine nominative perfect passive participle from cooperiō, cooperīre, cooperuī, coopertus"/>
                 <para PARENT="Vocab"/>
@@ -734,15 +734,15 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="cum: with"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="deī: god, diety; singular masculine genitive from Deus, Dei"/>
+                <ITEXT CH="Deī: god, diety; singular masculine genitive from Deus, Dei"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="dēprecāsset: they (might) have had prayed; 3rd person singular pluperfect subjunctive from dēpreco, dēprecāre, dēprecāvī, dēprecātus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="dēprecor: I prayed; 1st person singular present passive from dēpreco, dēprecāre, dēprecāvī, dēprecātus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="deum: god; singular masculine accusative from Deus, Dei"/>
+                <ITEXT CH="Deum: god; singular masculine accusative from Deus, Dei"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="deus: god; singular masculine nominative from Deus, Dei"/>
+                <ITEXT CH="Deus: god; singular masculine nominative from Deus, Dei"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="dīcēns: saying; singular nominative present participle from dīcō, dīcere, dīxī, dictus"/>
                 <para PARENT="Vocab"/>
@@ -762,13 +762,13 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="et: and"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="folia: leaves; plural neuter nominative from folium, foli(i)"/>
+                <ITEXT CH="folia: leaves; plural neuter nominative from folium, foliī"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="fontem: fountain; singular masculine accusative from fōns, fontis"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="fuisset: he (might) have had been; 3rd person singular pluperfect subjunctive from sum, esse, fuī, futūrus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="genibus: knee; plural neuter dative from genu, genūs"/>
+                <ITEXT CH="genibus: knee; plural neuter ablative from genu, genūs"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="gīrum: circle, ring, circuit, course; singular masculine accusative from gȳrus, gȳrī"/>
                 <para PARENT="Vocab"/>
@@ -796,7 +796,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="meīs: my; plural dative from meus, mea, meum"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="meritī: merited; singular masculine genitive perfect passive participle from mereō, merēre, meruī, meritus"/>
+                <ITEXT CH="meritī: of merit; singular neuter genitive meritum, meritī"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="mihī: to me;(pronoun)"/>
                 <para PARENT="Vocab"/>
@@ -806,7 +806,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="misericordiam: pity, compassion, mercy; singular feminine accusative from misericordia, misericordiae"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="modō: mode, manner, way, measure, size; singular masculine dative from modus, modī"/>
+                <ITEXT CH="modō: mode, manner, way, measure, size; singular masculine ablative from modus, modī"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="multitūdō: multitude, great number; singular feminine nominative from multitūdō, multitūdinis"/>
                 <para PARENT="Vocab"/>
@@ -818,7 +818,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="omnium: of all; plural genitive from omnis, omnis, omne"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="peccātōrī: sinner; singular masculine from peccātor, peccātōris"/>
+                <ITEXT CH="peccātōrī: sinner; singular masculine dative from peccātor, peccātōris"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="per: through"/>
                 <para PARENT="Vocab"/>
@@ -828,7 +828,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="praesūmō: to presume, to anticipate; 1st person singular present from praesūmō, praesūmere, praesūmpsī, praesūmptus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="prōvolūtīs: fallen, rolled; plural dative perfect passive participle from prōvolvō, prōvolvere, prōvolvī, prōvolūtus"/>
+                <ITEXT CH="prōvolūtīs: fallen, rolled; plural ablative perfect passive participle from prōvolvō, prōvolvere, prōvolvī, prōvolūtus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="quae: who; plural female nom. or neuter nom. or acc. of quis"/>
                 <para PARENT="Vocab"/>
@@ -854,7 +854,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="super: above, on top of"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="taedium: weariness, tedium; singular neuter nominative from taedium, taedi(i)"/>
+                <ITEXT CH="taedium: weariness, tedium; singular neuter nominative from taedium, taediī"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="tanta: so much, so great, this many; singular feminine nominative from tantus, tanta, tantum"/>
                 <para PARENT="Vocab"/>
@@ -946,7 +946,7 @@
                 <ITEXT CH=" a genitive of description."/>
                 <para PARENT="footnotes"/>
                 <ITEXT FEATURES="inherit superscript" CH="2"/>
-                <ITEXT FONT="DejaVu Serif Italic" CH="Covered by (very) white birds"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="Covered by (very) white birds."/>
                 <para PARENT="footnotes"/>
                 <ITEXT FEATURES="inherit superscript" CH="3"/>
                 <ITEXT FONT="DejaVu Serif Italic" CH="They so covered it."/>
