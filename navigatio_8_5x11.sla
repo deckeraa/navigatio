@@ -371,14 +371,14 @@
         <PAGE PAGEXPOS="712.0008" PAGEYPOS="108180.4176" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="18" BORDERTOP="36" BORDERBOTTOM="18" NUM="260" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="100.0008" PAGEYPOS="109012.4208" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="18" BORDERTOP="36" BORDERBOTTOM="18" NUM="261" NAM="" MNAM="Latin left" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="712.0008" PAGEYPOS="109012.4208" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="18" BORDERTOP="36" BORDERBOTTOM="18" NUM="262" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
-        <MASTEROBJECT XPOS="118.0008" YPOS="776.0016" OwnPage="2" ItemID="805677220" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="118.0008" gYpos="711347873910.878" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="118.0008" YPOS="776.0016" OwnPage="2" ItemID="805677220" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="118.0008" gYpos="713728922300.854" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
                 <trail ALIGN="1"/>
             </StoryText>
         </MASTEROBJECT>
-        <MASTEROBJECT XPOS="154.0008" YPOS="776.0016" OwnPage="3" ItemID="805670836" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="9158187862.0008" gYpos="711346944566.878" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="154.0008" YPOS="776.0016" OwnPage="3" ItemID="805670836" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="9184724794.0008" gYpos="713727992956.854" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
@@ -9124,8 +9124,26 @@
                 <para PARENT="Latin"/>
                 <ITEXT CH="[11]     Erat hōra quārta quandō tenuērunt portum īnsulae. Cum autem sexta vēnerat, coepērunt cantāre turmae simul, dīcentēs: [12] “Deus misereātur nostrī"/>
                 <ITEXT FEATURES="inherit superscript" CH="1"/>
-                <ITEXT CH="” usque in fīnem, et “Deus, in adiūtōrium meum intende”; similiter et tertium psalmum “Crēdidī propter,” et ōrātiōnem suprā; [13] similiter ad hōram nōnam aliōs trēs psalmōs: “Dē profundīs,” et “Ecce, quam bonum,” “Lauda Hierusalem”; [14] cantābant ad vesperās: “Tē decet hymnus, Deus, in Syon,” “Benedic, anima mea, Dominō,” “Domine, Deus meus,” et tertium psalmum: “Laudāte, puerī, Dominum,” et Quīndecim Gradūs"/>
+                <ITEXT CH="” usque in fīnem, et “Deus, in adiūtōrium meum intende"/>
                 <ITEXT FEATURES="inherit superscript" CH="2"/>
+                <ITEXT CH="”; similiter et tertium psalmum “Crēdidī propter"/>
+                <ITEXT FEATURES="inherit superscript" CH="3"/>
+                <ITEXT CH=",” et ōrātiōnem suprā; [13] similiter ad hōram nōnam aliōs trēs psalmōs: “Dē profundīs"/>
+                <ITEXT FEATURES="inherit superscript" CH="4"/>
+                <ITEXT CH=",” et “Ecce, quam bonum"/>
+                <ITEXT FEATURES="inherit superscript" CH="5"/>
+                <ITEXT CH=",” “Lauda Hierusalem"/>
+                <ITEXT FEATURES="inherit superscript" CH="6"/>
+                <ITEXT CH="”; [14] cantābant ad vesperās: “Tē decet hymnus, Deus, in Syon"/>
+                <ITEXT FEATURES="inherit superscript" CH="7"/>
+                <ITEXT CH=",” “Benedic, anima mea, Dominō"/>
+                <ITEXT FEATURES="inherit superscript" CH="8"/>
+                <ITEXT CH=",” “Domine, Deus meus"/>
+                <ITEXT FEATURES="inherit superscript" CH="9"/>
+                <ITEXT CH=",” et tertium psalmum: “Laudāte, puerī, Dominum"/>
+                <ITEXT FEATURES="inherit superscript" CH="10"/>
+                <ITEXT CH=",” et Quīndecim Gradūs"/>
+                <ITEXT FEATURES="inherit superscript" CH="11"/>
                 <ITEXT CH=" cantābant sedendō."/>
                 <para PARENT="Latin"/>
                 <ITEXT CH="[15]     Cum autem perfīnīssent illum cantum, statim obumbrāvit illam īnsulam nūbēs mīrae clāritātis, sed nōn poterant vidēre quae anteā vīderant, prae spissitūdine nūbis. [16] Attamen audiēbant vōcēs canentium praedictum carmen sine intermissiōne usque ad vigiliās mātūtīnās. "/>
@@ -9372,13 +9390,50 @@
                 <trail PARENT="Vocab"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="118.0008" YPOS="81286.1909808918" OwnPage="193" ItemID="982437828" PTYPE="4" WIDTH="540" HEIGHT="111.4714394904" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 111.471 L0 111.471 L0 0 Z" copath="M0 0 L540 0 L540 111.471 L0 111.471 L0 0 Z" gXpos="118.0008" gYpos="81286.1909808918" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="118.0008" YPOS="81286.1909808918" OwnPage="193" ItemID="982437828" PTYPE="4" WIDTH="540" HEIGHT="182.496917197379" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 182.497 L0 182.497 L0 0 Z" copath="M0 0 L540 0 L540 182.497 L0 182.497 L0 0 Z" gXpos="118.0008" gYpos="81286.1909808918" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <ITEXT FEATURES="inherit superscript" CH="1"/>
-                <ITEXT CH="The verses referenced are, respectively: Vulgate Psalm 66:2, 69:2, 115:1, 129:1, 132:1, 147:1, 64:2, 102:1, 7:2, 112:1."/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="Lord, have mercy on us."/>
+                <ITEXT CH=" Vulgate Psalm 66:2"/>
                 <para PARENT="footnotes"/>
                 <ITEXT FEATURES="inherit superscript" CH="2"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="God, come to my aid."/>
+                <ITEXT CH=" Vulgate Psalm 69:2"/>
+                <para PARENT="footnotes"/>
+                <ITEXT FEATURES="inherit superscript" CH="3"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="I believed because."/>
+                <ITEXT CH=" Vulgate Psalm 115:1"/>
+                <para PARENT="footnotes"/>
+                <ITEXT FEATURES="inherit superscript" CH="4"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="From the depths (I called to you, Lord)"/>
+                <ITEXT CH=". Vulgate Psalm 129:1"/>
+                <para PARENT="footnotes"/>
+                <ITEXT FEATURES="inherit superscript" CH="5"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="Behold, how good (and how pleasant it is for brothers to dwell in unity)."/>
+                <ITEXT CH=" Vulgate Psalm 132:1"/>
+                <para PARENT="footnotes"/>
+                <ITEXT FEATURES="inherit superscript" CH="6"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="Praise Jerusalem."/>
+                <ITEXT CH=" Vulgate Psalm 147:1"/>
+                <para PARENT="footnotes"/>
+                <ITEXT FEATURES="inherit superscript" CH="7"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="A hymn befits you, Lord, in Zion"/>
+                <ITEXT CH=". Vulgate Psalm 64:2"/>
+                <para PARENT="footnotes"/>
+                <ITEXT FEATURES="inherit superscript" CH="8"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="Bless, my sould, the Lord."/>
+                <ITEXT CH=" Vulgate Psalm 102:1. Dominō is in the dative because benedīcere can use the dative instead of the accusative."/>
+                <para PARENT="footnotes"/>
+                <ITEXT FEATURES="inherit superscript" CH="9"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="O Lord my God."/>
+                <ITEXT CH=" Vulgate Psalm 7:2"/>
+                <para PARENT="footnotes"/>
+                <ITEXT FEATURES="inherit superscript" CH="10"/>
+                <ITEXT FONT="DejaVu Serif Italic" FEATURES="inherit" CH="Children, praise the Lord."/>
+                <ITEXT CH=" Vulgate Psalm 112:1"/>
+                <para PARENT="footnotes"/>
+                <ITEXT FEATURES="inherit superscript" CH="11"/>
                 <ITEXT CH="The Quīndecim Gradūs are Vulgate Psalms 119-133."/>
                 <trail PARENT="footnotes"/>
             </StoryText>
