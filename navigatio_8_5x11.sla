@@ -10727,7 +10727,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="Ailbēī: The name of a group of monks living on an island."/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="benedictiōne: benediction, blessing; singular feminine from benedictiō, benedictiōnis"/>
+                <ITEXT CH="benedictiōne: benediction, blessing; singular feminine ablative from benedictiō, benedictiōnis"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="Brendānus: Brendan of Clonfert (c. AD 484 – c. 577), an Irish abbot who sailed the Atlantic"/>
                 <para PARENT="Vocab"/>
@@ -10751,11 +10751,11 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="famulōrum: of servants, of companions; plural masculine genitive from famulus, famulī"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="fēstīs: festive; plural dative from fēstus, fēsta, fēstum"/>
+                <ITEXT CH="fēstīs: festive; plural ablative from fēstus, fēsta, fēstum"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="fēstīvitātibus: festivity; plural feminine from fēstīvitās, fēstīvitātis"/>
+                <ITEXT CH="fēstīvitātibus: festivity; plural feminine ablative from fēstīvitās, fēstīvitātis"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="frātribus: brothers; plural masculine from frāter, frātris"/>
+                <ITEXT CH="frātribus: brothers; plural masculine ablative from frāter, frātris"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="habēbat: he had; 3rd person singular imperfect from habeō, habēre, habuī, habitus"/>
                 <para PARENT="Vocab"/>
@@ -10771,7 +10771,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="īnsulam: island; singular feminine accusative from īnsula, īnsulae"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="locīs: places; plural masculine from locus, locī"/>
+                <ITEXT CH="locīs: places; plural masculine ablative from locus, locī"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="multōs: many; plural masculine accusative from multus, multa -um, -, plūrimus -a -um"/>
                 <para PARENT="Vocab"/>
@@ -10791,19 +10791,19 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="ōceanum: ocean; singular masculine accusative from Oceanus, Oceani"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="paschae: Passover, Easter; singular feminine genitive from Pascha, Paschae"/>
+                <ITEXT CH="Pascha: Passover, Easter; singular feminine nominative from Pascha, Paschae"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="pater: father; singular masculine nominative from pater, patris"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="per: through"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="perfīnītis: You finished; 2nd person plural present from perfīnīre"/>
+                <ITEXT CH="perfīnītis: having been finished; masculine plural ablative past passive participle from perfīniō, perfīnīre, perfīnīvī, perfīnītus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="post: behind, after, since"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="praedictam: the aforesaid; singular feminine accusative perfect passive participle from praedīcō, praedīcere, praedīxī, praedictus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="praedictīs: the aforesaid; plural dative perfect passive participle from praedīcō, praedīcere, praedīxī, praedictus"/>
+                <ITEXT CH="praedictīs: the aforesaid; plural ablative perfect passive participle from praedīcō, praedīcere, praedīxī, praedictus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="regressus: return; singular masculine nominative from regressus, regressūs."/>
                 <para PARENT="Vocab"/>
@@ -10845,7 +10845,7 @@
                 <ITEXT FEATURES="inherit superscript" CH="1"/>
                 <ITEXT CH=" celebrāvit cum suīs frātribus. [2] Hīs perfīnītīs diēbus fēstīs, venerābilis pater, acceptā benedictiōne abbātis et famulōrum suōrum, circuībat ōceanum per multum tempus, nisi"/>
                 <ITEXT FEATURES="inherit superscript" CH="2"/>
-                <ITEXT CH=" in praedictīs fēstīvitātibus, id est Paschae et Nātālis Dominī. [3] Nam in illīs habēbat requiem in praedictīs locīs."/>
+                <ITEXT CH=" in praedictīs fēstīvitātibus, id est Pascha et Nātālis Dominī. [3] Nam in illīs habēbat requiem in praedictīs locīs."/>
                 <para PARENT="Latin"/>
             </StoryText>
             <PageItemAttributes>
