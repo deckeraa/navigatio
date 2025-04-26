@@ -66,7 +66,6 @@
         <Printer firstUse="1" toFile="0" useAltPrintCommand="0" outputSeparations="0" useSpotColors="1" useColor="1" mirrorH="0" mirrorV="0" useICC="0" doGCR="0" doClip="0" setDevParam="0" useDocBleeds="1" cropMarks="0" bleedMarks="0" registrationMarks="0" colorMarks="0" includePDFMarks="1" PSLevel="3" PrintEngine="3" markLength="20.0016" markOffset="0" BleedTop="0" BleedLeft="0" BleedRight="0" BleedBottom="0" printer="File" filename="" separationName="All" printerCommand=""/>
         <PDF firstUse="0" Thumbnails="0" Articles="0" Bookmarks="0" Compress="0" CMethod="0" Quality="0" EmbedPDF="0" MirrorH="0" MirrorV="0" Clip="0" rangeSel="0" rangeTxt="" RotateDeg="0" PresentMode="0" RecalcPic="0" FontEmbedding="0" Grayscale="0" RGBMode="1" UseProfiles="0" UseProfiles2="0" Binding="0" PicRes="300" Resolution="300" Version="14" Intent="1" Intent2="0" SolidP="sRGB display profile (ICC v2.2)" ImageP="sRGB display profile (ICC v2.2)" PrintP="ISO Coated v2 300% (basICColor)" InfoString="" BTop="0" BLeft="0" BRight="0" BBottom="0" useDocBleeds="0" cropMarks="0" bleedMarks="0" registrationMarks="0" colorMarks="0" docInfoMarks="0" markLength="20.0016" markOffset="0" ImagePr="0" PassOwner="" PassUser="" Permissions="-4" Encrypt="0" UseLayers="0" UseLpi="0" UseSpotColors="1" doMultiFile="0" displayBookmarks="0" displayFullscreen="0" displayLayers="0" displayThumbs="0" hideMenuBar="0" hideToolBar="0" fitWindow="0" openAfterExport="0" PageLayout="0" openAction="">
             <Subset Name="DejaVu Serif Book"/>
-            <Subset Name="DejaVu Serif Condensed Italic"/>
             <Subset Name="DejaVu Serif Italic"/>
             <LPI Color="" Frequency="133" Angle="45" SpotFunction="3"/>
             <LPI Color="Black" Frequency="133" Angle="45" SpotFunction="3"/>
@@ -371,14 +370,14 @@
         <PAGE PAGEXPOS="712.0008" PAGEYPOS="108180.4176" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="18" BORDERTOP="36" BORDERBOTTOM="18" NUM="260" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="100.0008" PAGEYPOS="109012.4208" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="18" BORDERTOP="36" BORDERBOTTOM="18" NUM="261" NAM="" MNAM="Latin left" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="712.0008" PAGEYPOS="109012.4208" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="18" BORDERTOP="36" BORDERBOTTOM="18" NUM="262" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
-        <MASTEROBJECT XPOS="118.0008" YPOS="776.0016" OwnPage="2" ItemID="481710271" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="118.0008" gYpos="729194946586.2" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="118.0008" YPOS="776.0016" OwnPage="2" ItemID="481710271" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="118.0008" gYpos="730935773505.76" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
                 <trail ALIGN="1"/>
             </StoryText>
         </MASTEROBJECT>
-        <MASTEROBJECT XPOS="154.0008" YPOS="776.0016" OwnPage="3" ItemID="481697039" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="9357094594.0008" gYpos="729194017242.2" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="154.0008" YPOS="776.0016" OwnPage="3" ItemID="481697039" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="9376496218.0008" gYpos="730934844161.76" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
@@ -9718,14 +9717,16 @@
             <StoryText>
                 <DefaultStyle/>
                 <para/>
-                <ITEXT CH=" [25] Tunc sānctus Brendānus vocāvit praedictum frātrem ad sē et ait: “Ōsculā frātrēs tuōs et vāde cum illīs quī tē invocant. [26] Bonā hōrā concēpit tē māter tua, in quā meruistī habitāre cum tālī congregātiōne.” Ōsculātīsque"/>
+                <ITEXT CH=" [25] Tunc sānctus Brendānus vocāvit praedictum frātrem ad sē et ait: “Ōsculā frātrēs tuōs et vāde cum illīs quī tē invocant. [26] Bonā hōrā concēpit tē māter tua"/>
                 <ITEXT FEATURES="inherit superscript" CH="1"/>
-                <ITEXT CH=" omnibus et sānctō patre, ait illī sānctus Brendānus: [27] “Fīlī, recordāre quanta beneficia prōposuit tibi Deus in hōc saeculō. Vāde et ōra prō nōbīs.” Prōtinus secūtus"/>
+                <ITEXT CH=", in quā meruistī habitāre cum tālī congregātiōne.” Ōsculātīsque"/>
                 <ITEXT FEATURES="inherit superscript" CH="2"/>
+                <ITEXT CH=" omnibus et sānctō patre, ait illī sānctus Brendānus: [27] “Fīlī, recordāre quanta beneficia prōposuit tibi Deus in hōc saeculō. Vāde et ōra prō nōbīs.” Prōtinus secūtus"/>
+                <ITEXT FEATURES="inherit superscript" CH="3"/>
                 <ITEXT CH=" est duōs iuvenēs ad eōrum scolam."/>
                 <para PARENT="Latin"/>
                 <ITEXT CH="[28]     Venerābilis pater cum suīs sodālibus coepit nāvigāre. Cum autem hōra nōna vēnerat, praecēpit suīs frātribus reficere corpora dē scaltīs Īnsulae Virōrum Fortium. [29] Cum haec dīxisset, vir Deī accēpit ūnam dē illīs. Ut autem vīdit magnitūdinem illīus et illam plēnam esse"/>
-                <ITEXT FEATURES="inherit superscript" CH="3"/>
+                <ITEXT FEATURES="inherit superscript" CH="4"/>
                 <ITEXT CH=" sūcō, admīrātus est et ait: [30] “Numquam vīdī nec lēgī dē scaltās tantae magnitūdinis.” Erant enim aequālis statūrae in modum pilae magnae. [31] Tunc praecēpit vir Deī vāsculum sibi afferrī, exprēmitque ūnam ex illīs, et attulit dē sūcō lībram ūnam, quam sānctus pater dīvīsit in duodecim unciās, dāns ūnīcuique singulam unciam. [32] Ita per duodecim diēs frātrēs reficiēbant dē singulīs scaltīs, tenentēs semper in ōre sapōrem mellis."/>
                 <para PARENT="Latin"/>
             </StoryText>
@@ -14843,12 +14844,16 @@
             <StoryText>
                 <DefaultStyle/>
                 <ITEXT FEATURES="inherit superscript" CH="1"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="Your mother conceived you in a good hour."/>
+                <ITEXT CH=" Brendan is telling the man that he has good fortune."/>
+                <para PARENT="footnotes"/>
+                <ITEXT FONT="DejaVu Serif Italic" FEATURES="inherit superscript" CH="2"/>
                 <ITEXT FONT="DejaVu Serif Italic" CH="And having kissed everyone and the holy father, Saint Brendan said to that one (the monk re-joining the monks on the island)."/>
                 <para PARENT="footnotes"/>
-                <ITEXT FEATURES="inherit superscript" CH="2"/>
+                <ITEXT FONT="DejaVu Serif Italic" FEATURES="inherit superscript" CH="3"/>
                 <ITEXT FONT="DejaVu Serif Italic" CH="Onward he followed two young men to their school."/>
                 <para PARENT="footnotes"/>
-                <ITEXT FEATURES="inherit superscript" CH="3"/>
+                <ITEXT FONT="DejaVu Serif Italic" FEATURES="inherit superscript" CH="4"/>
                 <ITEXT FONT="DejaVu Serif Italic" CH="When, however, he saw the size of them and saw that one to be full of juice, he marveled and said."/>
                 <para PARENT="footnotes"/>
             </StoryText>
