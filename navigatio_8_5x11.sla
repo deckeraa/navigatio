@@ -7660,7 +7660,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="cēterīs: the others; plural dative from cēterus, cētera, cēterum"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="cētī: large sea animal, whale, shark, dolphin; singular masculine genitive from cet.i"/>
+                <ITEXT CH="cētī: large sea animal, whale, shark, dolphin; singular masculine genitive from cētus, cētī"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="clāmābant: they were shouting out; 3rd person plural imperfect from clāmō, clāmāre, clāmāvī, clāmātus"/>
                 <para PARENT="Vocab"/>
@@ -7672,11 +7672,11 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="David: David, the king of Israel that slew Goliath."/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="de: of, from, away from, down from"/>
+                <ITEXT CH="dē: of, from, away from, down from"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="dēfēnsor: defender, protector; singular masculine nominative from dēfēnsor, dēfēnsōris"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="deus: god; singular masculine nominative from Deus, Dei"/>
+                <ITEXT CH="Deus: god; singular masculine nominative from Deus, Dei"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="dēvorandōs: devouring; plural masculine accusative future passive participle from dēvorō, dēvorāre, dēvorāvī, dēvorātus"/>
                 <para PARENT="Vocab"/>
@@ -7692,9 +7692,9 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="dīxit: he said; 3rd person singular perfect from dīcō, dīcere, dīxī, dictus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="domine: lord, master; singular masculine vocative from dominus, dominī"/>
+                <ITEXT CH="Domine: lord, master; singular masculine vocative from dominus, dominī"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="dominum: lord; singular masculine accusative from dominus, dominī"/>
+                <ITEXT CH="Dominum: lord; singular masculine accusative from dominus, dominī"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="dumtaxat: at least, only"/>
                 <para PARENT="Vocab"/>
@@ -7704,7 +7704,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="expavēscere: to become frightened;"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="extēnsīs: have been extended; plural dative perfect passive participle from extendo, extendere, extendi, extensus"/>
+                <ITEXT CH="extēnsīs: have been extended; plural ablative perfect passive participle from extendo, extendere, extendi, extensus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="ferēbātur: it was brought; 3rd person singular imperfect passive from ferō, ferre, tulī, lātus"/>
                 <para PARENT="Vocab"/>
@@ -7752,7 +7752,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="magnitūdinis: magnitude, greatness; singular feminine genitive from magnitūdō, magnitūdinis"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="manibus: hands; plural feminine dative from manus, manūs"/>
+                <ITEXT CH="manibus: hands; plural feminine ablative from manus, manūs"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="manū: hand; singular feminine ablative from manus, manūs"/>
                 <para PARENT="Vocab"/>
@@ -7778,7 +7778,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="ōceanum: ocean; singular masculine accusative from Oceanus, Oceani"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="ōre: mouth; singular neuter from ōs, ōris"/>
+                <ITEXT CH="ōre: mouth; singular neuter ablative from ōs, ōris"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="pater: father; singular masculine nominative from pater, patris"/>
                 <para PARENT="Vocab"/>
@@ -7787,6 +7787,8 @@
                 <ITEXT CH="perīculīs: dangers; plural neuter from perīculum, perīculī"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="post: behind, after, since"/>
+		<para PARENT="Vocab"/>
+                <ITEXT CH="quadām: on a certain; singular feminine ablative from quīdam"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="quadrāgintā: 40"/>
                 <para PARENT="Vocab"/>
@@ -7808,7 +7810,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="sīcut: as, same as, like"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="sodālibus: companions; plural common from sodālis, sodālis"/>
+                <ITEXT CH="sodālibus: companions; plural common ablative from sodālis, sodālis"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="spūmās: foam; plural feminine accusative from spūma, spūmae"/>
                 <para PARENT="Vocab"/>
@@ -7826,11 +7828,11 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="ūsque: until, all the way, up until"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="vēlōcissimō: very quickly; singular masculine dative from vēlōx, vēlōcis (gen.), vēlōcior -or -us, vēlōcissimus -a -um"/>
+                <ITEXT CH="vēlōcissimō: very quickly; singular masculine ablative from vēlōx, vēlōcis (gen.), vēlōcior -or -us, vēlōcissimus -a -um"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="venerābilis: venerable; singular common nominative from venerābilis, venerābilis, venerābile"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="ventre: belly, abdomen; singular masculine from venter, ventris"/>
+                <ITEXT CH="ventre: belly, abdomen; singular masculine ablative from venter, ventris"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="vērō: truly, even so, still"/>
                 <para PARENT="Vocab"/>
