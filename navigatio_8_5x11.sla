@@ -9458,7 +9458,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="autem: but, however, moreover"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="beneficia: beneficence, kindness; plural neuter nominative from beneficium, benefici(i)"/>
+                <ITEXT CH="beneficia: beneficence, kindness; plural neuter nominative from beneficium, beneficiī"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="bona: good; plural neuter nominative from bonum, boni"/>
                 <para PARENT="Vocab"/>
@@ -9468,7 +9468,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="concēpit: she conceived; 3rd person singular perfect from concipiō, concipere, concēpī, conceptus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="congregātiōne: congregation; singular feminine from congregātiō, congregātiōnis"/>
+                <ITEXT CH="congregātiōne: congregation; singular feminine ablative from congregātiō, congregātiōnis"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="corpora: bodies, flesh; plural neuter nominative from corpus, corporis"/>
                 <para PARENT="Vocab"/>
@@ -9478,9 +9478,9 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="de: of, from, away from, down from"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="deī: god, diety; singular masculine genitive from Deus, Dei"/>
+                <ITEXT CH="Deī: god, diety; singular masculine genitive from Deus, Dei"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="deus: god; singular masculine nominative from Deus, Dei"/>
+                <ITEXT CH="Deus: god; singular masculine nominative from Deus, Dei"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="diēs: day; singular common nominative from diēs, diēī"/>
                 <para PARENT="Vocab"/>
@@ -9503,6 +9503,8 @@
                 <ITEXT CH="et: and"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="ex: out of, from"/>
+                <para PARENT="Vocab"/>
+		<ITEXT CH="exprēmit: he squeezed out. Uncommon spelling of 3rd person singular perfect from exprimō, exprimere, expressī, expressus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="fīlī: son; singular masculine vocative from fīlius, fīlī"/>
                 <para PARENT="Vocab"/>
@@ -9576,7 +9578,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="ōscula: kisses; plural neuter nominative from ōsculum, ōsculī"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="ōsculātīs: having been kissed; plural dative perfect participle from ōsculor, ōsculārī, ōsculātus sum"/>
+                <ITEXT CH="ōsculātīs: having been kissed; plural ablative perfect participle from ōsculor, ōsculārī, ōsculātus sum"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="pater: father; singular masculine nominative from pater, patris"/>
                 <para PARENT="Vocab"/>
@@ -9614,7 +9616,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="reficiēbant: they were rebuilding/repairing/restoring; 3rd person plural imperfect from reficiō, reficere, refēcī, refectus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="saeculō: age, generation; singular neuter dative from saeculum, saeculī"/>
+                <ITEXT CH="saeculō: age, generation; singular neuter ablative from saeculum, saeculī"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="sānctō: holy"/>
                 <para PARENT="Vocab"/>
@@ -9626,7 +9628,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="scaltīs: an unknown type of plant. Ablative plural from scalta, scaltae."/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="scolam: school, corporation, leisure; singular feminine accusative from scola, scolae"/>
+                <ITEXT CH="scolam: school; singular feminine accusative from scola, scolae"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="se: himself"/>
                 <para PARENT="Vocab"/>
@@ -9640,11 +9642,11 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="singulīs: one each; plural dative from singulus, singula, singulum"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="sodālibus: companions; plural common from sodālis, sodālis"/>
+                <ITEXT CH="sodālibus: companions; plural common ablative from sodālis, sodālis"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="statūrae: stature; singular feminine genitive future participle from stō, stāre, stetī, status"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="sūcō: juice; singular masculine dative from sūcus, sūcī"/>
+                <ITEXT CH="sūcō: juice; singular masculine ablative from sūcus, sūcī"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="suis: their; plural dative or ablative of suus"/>
                 <para PARENT="Vocab"/>
