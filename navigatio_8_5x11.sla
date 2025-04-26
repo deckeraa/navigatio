@@ -10253,7 +10253,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="diēs: day; singular common nominative from diēs, diēī"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="dīversīs: diverse; plural dative from dīversus, dīversa, dīversum"/>
+                <ITEXT CH="dīversīs: diverse; plural ablative from dīversus, dīversa, dīversum"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="dominus: lord, master; singular masculine nominative from dominus, dominī"/>
                 <para PARENT="Vocab"/>
@@ -10283,13 +10283,13 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="frātrēs: brothers; plural masculine nominative from frāter, frātris"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="frūctibus: fruits; plural masculine dative from frūctus, frūctūs"/>
+                <ITEXT CH="frūctibus: fruits; plural masculine ablative from frūctus, frūctūs"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="generis: birth, family, type, offspring; plural masculine from gener, generi"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="haec: this, these; singular feminine nominative or plural neuter nom. or acc. of hic, haec, hoc"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="herbīs: herbs, grass; plural feminine from herba, herbae"/>
+                <ITEXT CH="herbīs: herbs, grass; plural feminine ablative from herba, herbae"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="iēiūnium: fast, fasting"/>
                 <para PARENT="Vocab"/>
@@ -10304,6 +10304,8 @@
                 <ITEXT CH="in: into (with accusative), in (with ablative)"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="īnsula: island; singular feminine nominative from īnsula, īnsulae"/>
+		<para PARENT="Vocab"/>
+                <ITEXT CH="īnsulā: island; singular feminine ablative from īnsula, īnsulae"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="īnsulae: island; singular feminine genitive from īnsula, īnsulae"/>
                 <para PARENT="Vocab"/>
@@ -10317,9 +10319,9 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="istīus: of this; singular genitive from iste, ista, istud"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="ita: yes"/>
+                <ITEXT CH="ita: thus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="malīs: evil"/>
+                <ITEXT CH="malīs: apples, plural neuter ablative from mālum, mālī"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="nāvī: boat; singular feminine from nāvis, nāvis"/>
                 <para PARENT="Vocab"/>
@@ -10359,11 +10361,11 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="poterat: he was able to; 3rd person singular imperfect from possum, posse, potuī, -"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="praedictum: the aforesaid; singular neuter nominative perfect passive participle from praedict.um"/>
+                <ITEXT CH="praedictum: the aforesaid; singular neuter nominative perfect passive participle from praedīcō, praedīcere, praedīxī, praedictus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="prīmitiīs: first fruits; plural feminine from primitia, primitiae"/>
+                <ITEXT CH="prīmitiīs: first fruits; plural feminine ablative from primitia, primitiae"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="pūnicīs: Carthaginian; plural dative from Pūnicus, Pūnica, Pūnicum"/>
+                <ITEXT CH="pūnicīs: Carthaginian; plural ablative from Pūnicus, Pūnica, Pūnicum"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="quadrāgintā: 40"/>
                 <para PARENT="Vocab"/>
@@ -10371,11 +10373,11 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="quantum: how much?"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="rādīcibus: roots; plural feminine from rādīx, rādīcis"/>
+                <ITEXT CH="rādīcibus: roots; plural feminine ablative from rādīx, rādīcis"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="redīret: heh (might) have been returning; 3rd person singular imperfect subjunctive from redeo, redire, redivi(ii), reditus"/>
+                <ITEXT CH="redīret: he was returning; 3rd person singular imperfect subjunctive from redeo, redire, rediviī, reditus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="reficiēbant: they were rebuilding/repairing/restoring; 3rd person plural imperfect from reficiō, reficere, refēcī, refectus"/>
+                <ITEXT CH="reficiēbant: they were dining; 3rd person plural imperfect from reficiō, reficere, refēcī, refectus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="reversus: reversus + est = he returned"/>
                 <para PARENT="Vocab"/>
@@ -10391,9 +10393,9 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="suōs: their; plural accusative of suus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="tempus: time, period; singular neuter nominative from tempus, temporis"/>
+                <ITEXT CH="tempus: time, period; singular neuter accusative from tempus, temporis"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="tentōrium: tent; singular neuter nominative from tentorium, tentori(i)"/>
+                <ITEXT CH="tentōrium: tent; singular neuter accusative from tentorium, tentoriī"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="tenuērunt: they held; 3rd person plural perfect from teneō, tenēre, tenuī, tentus"/>
                 <para PARENT="Vocab"/>
@@ -10403,7 +10405,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="ut: so that"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="ūvīs: grapes; plural feminine from ūva, ūvae"/>
+                <ITEXT CH="ūvīs: grapes; plural feminine ablative from ūva, ūvae"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="venerābilis: venerable; singular common nominative from venerābilis, venerābilis, venerābile"/>
                 <para PARENT="Vocab"/>
@@ -10413,7 +10415,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="vir: man; singular masculine nominative from vir, virī"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="virentibus: green; plural dative present participle from vireō, virēre, viruī, -"/>
+                <ITEXT CH="virentibus: green; plural ablative from virēns"/>
                 <trail PARENT="Vocab"/>
             </StoryText>
         </PAGEOBJECT>
