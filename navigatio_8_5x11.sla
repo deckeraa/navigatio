@@ -6922,11 +6922,11 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="alimōnia: food, nourishment; singular feminine nominative from alimoni.a"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="ālīs: wings; plural feminine from al.is"/>
+                <ITEXT CH="ālīs: wings; plural feminine ablative from āla, ālae"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="altāre, altāris: alter; from altāre, altāris"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="appropinquantibus: approaching; plural ablative participal from appropinquāre"/>
+                <ITEXT CH="appropinquantibus: approaching; plural ablative participle from appropinquāre"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="appropinquō, appropinquāre, appropinquāvī, appropinquātus: to approach;  from appropinquō, appropinquāre, appropinquāvī, appropinquātus"/>
                 <para PARENT="Vocab"/>
@@ -6936,25 +6936,27 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="cantābant: they were singing; 3rd person plural imperfect from cantō, cantāre, cantāvī, cantātus"/>
                 <para PARENT="Vocab"/>
+		<ITEXT CH="celebrāvit: he celebrated; 3rd person singular perfect from celebrō, celebrāre, celebrāvī, celebrātus"/>
+                <para PARENT="Vocab"/>
                 <ITEXT CH="condēnsīs: dense, thick, packed together; plural dative from condēnsus, condēnsa, condēnsum"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="cōnstituite: Plan! Arrange! Decide!; 2nd person plural present imperative from cōnstituō, cōnstituere, cōnstituī, cōnstitūtus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="cornu: horn; singular neuter nominative from cornu, cornūs"/>
+                <ITEXT CH="cornū: horn; singular neuter accusative from cornu, cornūs"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="cum: with"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="dēlātīs: having been transferred, having been brought down; plural dative perfect passive participle from dēferō, dēferre, dētulī, dēlātus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="deō: god; singular masculine dative from Deus, Dei"/>
+                <ITEXT CH="Deō: god; singular masculine dative from Deus, Dei"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="dēstinātum: target, purpose, destination; singular neuter nominative perfect passive participle from destinat.um"/>
+                <ITEXT CH="dēstinātum: target, purpose, destination; singular neuter nominative perfect passive participle from dēstinātum, dēstinātī"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="deus: god; singular masculine nominative from Deus, Dei"/>
+                <ITEXT CH="Deus: god; singular masculine nominative from Deus, Dei"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="dīcentēs: saying; plural common nominative present participle from dīcō, dīcere, dīxī, dictus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="diē: day; singular common genitive from diēs, diēī"/>
+                <ITEXT CH="diē: day; singular common ablative from diēs, diēī"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="diem: day; singular common accusative from diēs, diēī"/>
                 <para PARENT="Vocab"/>
@@ -6962,7 +6964,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="diū: for a long time"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="dominicō: Sunday; singular masculine dative from dominicus, dominica, dominicum"/>
+                <ITEXT CH="Dominicō: Sunday; singular masculine ablative from dominicus, dominica, dominicum"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="dominus: lord, master; singular masculine nominative from dominus, dominī"/>
                 <para PARENT="Vocab"/>
@@ -6974,7 +6976,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="familia: family; singular feminine nominative from familia, familiae"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="famulīs: servants, companions; plural masculine from famulus, famulī"/>
+                <ITEXT CH="famulīs: servants, companions; plural masculine ablative from famulus, famulī"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="fēsta: festivals; singular feminine nominative from fēstus, fēsta, fēstum"/>
                 <para PARENT="Vocab"/>
@@ -6998,7 +7000,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="namque: for and in fact, on the other hand"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="nāvī: boat; singular feminine from nāvis, nāvis"/>
+                <ITEXT CH="nāvī: boat; singular feminine ablative from nāvis, nāvis"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="nōbīs: us; singular dative or ablative from ego"/>
                 <para PARENT="Vocab"/>
@@ -7012,9 +7014,9 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="omnia: all, every; plural neuter nominative from omnis, omnis, omne"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="omnibus: all; plural dative from omnis, omnis, omne"/>
+                <ITEXT CH="omnibus: all; plural ablative from omnis, omnis, omne"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="paschae: Passover, Easter; singular feminine genitive from Pascha, Paschae"/>
+                <ITEXT CH="Paschae: Passover, Easter; singular feminine genitive from Pascha, Paschae"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="paschālia: Paschal; plural neuter nominative from paschālis, paschālis, paschāle"/>
                 <para PARENT="Vocab"/>
@@ -7070,7 +7072,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="tam: as much, as much as"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="tentōriō: tent; singular neuter dative from tentorium, tentori(i)"/>
+                <ITEXT CH="tentōriō: tent; singular neuter ablative from tentorium, tentoriī"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="thronum: throne; singular masculine accusative from thronus, thronī"/>
                 <para PARENT="Vocab"/>
@@ -7078,15 +7080,15 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="ūsque: until, all the way, up until"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="ūsum: have been being used, singular neuter nominative perfect participle from ūtor, ūtī, ūsum (dep.)"/>
+                <ITEXT CH="ūsum: use, singular masculine accusative from ūsus, ūsūs"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="vēnit: he came; 3rd person singular present from veniō, venīre, vēnī, ventus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="vītae: life; singular feminine genitive from vīta, vītae"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="vōce: voice; singular feminine from vōx, vōcis"/>
+                <ITEXT CH="vōce: voice; singular feminine ablative from vōx, vōcis"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="vōcibus: voices; plural feminine from vōx, vōcis"/>
+                <ITEXT CH="vōcibus: voices; plural feminine ablative from vōx, vōcis"/>
                 <trail PARENT="Vocab"/>
             </StoryText>
         </PAGEOBJECT>
@@ -7109,7 +7111,7 @@
                 <ITEXT FEATURES="inherit superscript" CH="3"/>
                 <ITEXT CH=" resonābant diū, quasi dīmidium hōrae, usque dum sānctus pater cum suā sānctā familiā, et omnibus quae erant in nāvī dēlātīs"/>
                 <ITEXT FEATURES="inherit superscript" CH="4"/>
-                <ITEXT CH=", resēdit in tentōriō suō. [27] Ibi quoque cum suīs famulīs celabrāvit fēsta Paschālia usque ad octāvās Pentēcostēn. [28] Praedictus namque prōcūrātor vēnit ad illōs, sīcut praedīxerat, in diē Dominicō octāvīs Paschae, portāns sēcum omnia alimōnia quae ad ūsum vītae hūmānae pertinēbant."/>
+                <ITEXT CH=", resēdit in tentōriō suō. [27] Ibi quoque cum suīs famulīs celebrāvit fēsta Paschālia usque ad octāvās Pentēcostēn. [28] Praedictus namque prōcūrātor vēnit ad illōs, sīcut praedīxerat, in diē Dominicō octāvīs Paschae, portāns sēcum omnia alimōnia quae ad ūsum vītae hūmānae pertinēbant."/>
                 <para PARENT="Latin"/>
             </StoryText>
         </PAGEOBJECT>
