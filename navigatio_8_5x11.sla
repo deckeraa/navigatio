@@ -8506,7 +8506,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="colligere: to collect, to assemble;"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="condita: building, founding; singular feminine nominative perfect passive participle from condō, condere, condidī, conditus"/>
+                <ITEXT CH="conditā: seasoned; singular feminine ablative from condītus, condīta, condītum"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="cōnfestim: immediately"/>
                 <para PARENT="Vocab"/>
@@ -8514,7 +8514,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="crās: tomorrow"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="cuius: whose; singular genitive from quis"/>
+                <ITEXT CH="cuiusdam: of a certain; singular genitive from quidam"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="cum: with"/>
                 <para PARENT="Vocab"/>
@@ -8528,7 +8528,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="diē: day; singular common genitive from diēs, diēī"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="diēbus: days; plural common dative from diēs, diēī"/>
+                <ITEXT CH="diēbus: days; plural common ablative from diēs, diēī"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="dīligenter: diligently"/>
                 <para PARENT="Vocab"/>
@@ -8550,9 +8550,9 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="et: and"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="exivērunt: they came out, they went out; 3rd person plural perfect from exeō, exīre, exivī(iī), exitus"/>
+                <ITEXT CH="exivērunt: they came out, they went out; 3rd person plural perfect from exeō, exīre, exivīī, exitus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="extēnsīs: have been extended; plural dative perfect passive participle from extendo, extendere, extendi, extensus"/>
+                <ITEXT CH="extēnsīs: have been extended; plural ablative perfect passive participle from extendo, extendere, extendi, extensus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="faciet: it will make; 3rd person singular future from faciō, facere, fēcī, factus"/>
                 <para PARENT="Vocab"/>
@@ -8600,7 +8600,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="istō: that; singular masc. or neuter abl. from iste, ista, istud"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="ita: yes"/>
+                <ITEXT CH="ita: thus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="locō: place; singular masculine dative from locus, locī"/>
                 <para PARENT="Vocab"/>
@@ -8620,17 +8620,17 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="nocte: night; singular feminine from nox, noctis"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="observāte: watch!;  from observ.ate"/>
+                <ITEXT CH="observāte: watch!; plural imperative from observō, observāre, observāvī, observātus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="omnibus: all; plural dative from omnis, omnis, omne"/>
+                <ITEXT CH="omnibus: all; plural ablative from omnis, omnis, omne"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="onerāre: to load, to burden;"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="onerātis: you load, you burden;  from oner.atis"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="opus: work, deed; singular neuter nominative from opus, operis"/>
+                <ITEXT CH="opus: need, necessity; singular neuter nominative from opus, operis"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="ossa: bones; plural neuter nominative from oss.a"/>
+                <ITEXT CH="ossa: bones; plural neuter nominative from os, ossis"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="pater: father; singular masculine nominative from pater, patris"/>
                 <para PARENT="Vocab"/>
@@ -8682,7 +8682,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="sacerdōs: priest; singular common nominative from sacerdōs, sacerdōtis"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="sale: salt; singular masculine from sāl, salis"/>
+                <ITEXT CH="sale: salt; singular masculine ablative from sāl, salis"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="sānctus: holy, saint"/>
                 <para PARENT="Vocab"/>
@@ -8708,7 +8708,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="tantum: only"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="tempus: time, period; singular neuter nominative from tempus, temporis"/>
+                <ITEXT CH="tempus: weather, time, period; singular neuter nominative from tempus, temporis"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="trānsactīs: having been accomplished; plural dative perfect passive participle from transigo, transigere, transegi, transactus"/>
                 <para PARENT="Vocab"/>
@@ -8718,7 +8718,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="vāscula: small vessel; plural neuter nominative from vāsculum, vāsculī"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="vēlīs: sails; 2nd person sing. present subj. from vēlum, vēlī"/>
+                <ITEXT CH="vēlīs: sails; plural neuter ablative from vēlum, vēlī"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="venerābilis: venerable; singular common nominative from venerābilis, venerābilis, venerābile"/>
                 <para PARENT="Vocab"/>
