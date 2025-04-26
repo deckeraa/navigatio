@@ -27996,7 +27996,7 @@
                 <ITEXT CH="Nāvigābant et grȳphus appāruit. Frātrēs dīxērunt: “Ille grȳphus dēvorābit nōs!” Brendānus respondit: “Nōlīte timēre. Deus nōs dēfendet.” Grȳphus extendit ungulās et voluit capere servōs Deī. Et, ecce! Subitō avis, quae prius portāvit rāmum illīs cum frūctibus, volāvit ad grȳphum. Avis pulsāvit oculōs grȳphī et interfēcit grȳphum. Et cadāver grȳphī cecidit in mare cōram frātribus. Avis revertit ad locum suum."/>
                 <para PARENT="Latin"/>
                 <tab/>
-                <ITEXT CH="Posteā, Sānctus Brendānus et frātrēs eius vīdērunt Īnsulam praedictam familiae Ailbēī. Ibi celebrāvit Nātālem Dominī. Tunc nāvigāvērunt in ōceanō per multum tempus, nisi in praedictīs fēstīvitātibus, id est Paschae et Nātālis Dominī. In illīs habēbat requiem in praedictīs locīs."/>
+                <ITEXT CH="Posteā, Sānctus Brendānus et frātrēs eius vīdērunt Īnsulam praedictam Familiae Ailbēī. Ibi celebrāvit Nātālem Dominī. Tunc nāvigāvērunt in ōceanō per multum tempus, nisi in praedictīs fēstīvitātibus, id est Pascha et Nātālis Dominī. In illīs habēbat requiem in praedictīs locīs."/>
                 <para PARENT="Latin"/>
             </StoryText>
             <PageItemAttributes>
@@ -28012,7 +28012,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="appāruit: he appeared; 3rd person singular perfect active from appāreō, appārēre, appāruī, appāritus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="avis: bird; plural masculine  from av.is"/>
+                <ITEXT CH="avis: bird; singular feminine nominative from avis, avis "/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="Brendānus: Brendan of Clonfert (c. AD 484 – c. 577), an Irish abbot who sailed the Atlantic"/>
                 <para PARENT="Vocab"/>
@@ -28030,15 +28030,15 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="defendet: he will defend; 3rd person singular future active from dēfendō, dēfendere, dēfendī, dēfēnsus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="deī: god, diety; singular masculine genitive from Deus, Dei"/>
+                <ITEXT CH="Deī: god, diety; singular masculine genitive from Deus, Dei"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="deus: god; singular masculine nominative from Deus, Dei"/>
+                <ITEXT CH="Deus: god; singular masculine nominative from Deus, Dei"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="dēvorābit: he will devour; 3rd person singular future active from dēvorō, dēvorāre, dēvorāvī, dēvorātus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="dīxērunt: they said; 3rd person plural perfect active from dīcō, dīcere, dīxī, dictus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="dominī: of the lord; singular masculine genitive from dominus, dominī"/>
+                <ITEXT CH="Dominī: of the lord; singular masculine genitive from dominus, dominī"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="ecce: Look! Behold!"/>
                 <para PARENT="Vocab"/>
@@ -28052,13 +28052,13 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="familiae: family; singular feminine genitive from familia, familiae"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="fēstīvitātibus: festivity; plural feminine  from fēstīvitās, fēstīvitātis"/>
+                <ITEXT CH="fēstīvitātibus: festivity; plural feminine ablative from fēstīvitās, fēstīvitātis"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="frātrēs: brothers; plural masculine nominative from frāter, frātris"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="frātribus: brothers; plural masculine  from frāter, frātris"/>
+                <ITEXT CH="frātribus: brothers; plural masculine ablative from frāter, frātris"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="frūctibus: fruits; plural masculine dative from frūctus, frūctūs"/>
+                <ITEXT CH="frūctibus: fruits; plural masculine ablative from frūctus, frūctūs"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="grȳphī: griffin (genitive case), a lion-eagle hybrid; from grȳphus, grȳphī"/>
                 <para PARENT="Vocab"/>
@@ -28066,13 +28066,15 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="grȳphus: griffin, a lion-eagle hybrid; from grȳphus, grȳphīd; singular feminine accusative from īnsula, īnsulae"/>
                 <para PARENT="Vocab"/>
+		<ITEXT CH="illīs: those; plural masculine dative or ablative from ille, illa, illud"/>
+                <para PARENT="Vocab"/>
                 <ITEXT CH="interfēcit: he killed; 3rd person singular perfect active from interficiō, interficere, interfēcī, interfectus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="locīs: places; plural masculine  from locus, locī"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="locum: place; singular masculine accusative from locus, locī"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="mare: sea; singular neuter nominative from mare, maris"/>
+                <ITEXT CH="mare: sea; singular neuter accusative from mare, maris"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="multum: many; singular neuter nominative from multus, multa -um, -, plūrimus -a -um"/>
                 <para PARENT="Vocab"/>
@@ -28086,7 +28088,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="nisī: if not, unless"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="nōlīte: be unwilling! imperative plural of nōlō, nōlle, nōluī (irr.)"/>
+                <ITEXT CH="nōlīte: don't! Be unwilling! imperative plural of nōlō, nōlle, nōluī (irr.)"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="nōs: us; plural nominative or accusative of ego"/>
                 <para PARENT="Vocab"/>
@@ -28094,7 +28096,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="oculōs: eyes; plural masculine accusative from oculus, oculī"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="paschae: Passover, Easter; singular feminine genitive from Pascha, Paschae"/>
+                <ITEXT CH="Pascha: Passover, Easter; singular feminine nominative from Pascha, Paschae"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="per: through"/>
                 <para PARENT="Vocab"/>
@@ -28104,7 +28106,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="praedictam: the aforesaid; singular feminine accusative perfect passive participle from praedīcō, praedīcere, praedīxī, praedictus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="praedictīs: the aforesaid; plural dative perfect passive participle from praedīcō, praedīcere, praedīxī, praedictus"/>
+                <ITEXT CH="praedictīs: the aforesaid; plural ablative perfect passive participle from praedīcō, praedīcere, praedīxī, praedictus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="prius: before"/>
                 <para PARENT="Vocab"/>
