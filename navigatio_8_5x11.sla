@@ -370,14 +370,14 @@
         <PAGE PAGEXPOS="712.0008" PAGEYPOS="108180.4176" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="18" BORDERTOP="36" BORDERBOTTOM="18" NUM="260" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="100.0008" PAGEYPOS="109012.4208" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="18" BORDERTOP="36" BORDERBOTTOM="18" NUM="261" NAM="" MNAM="Latin left" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="712.0008" PAGEYPOS="109012.4208" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="18" BORDERTOP="36" BORDERBOTTOM="18" NUM="262" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
-        <MASTEROBJECT XPOS="118.0008" YPOS="776.0016" OwnPage="2" ItemID="1946742164" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="118.0008" gYpos="733640529380.779" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="118.0008" YPOS="776.0016" OwnPage="2" ItemID="1946742164" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="118.0008" gYpos="737438697205.273" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
                 <trail ALIGN="1"/>
             </StoryText>
         </MASTEROBJECT>
-        <MASTEROBJECT XPOS="154.0008" YPOS="776.0016" OwnPage="3" ItemID="1946732692" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="9406640890.0008" gYpos="733639600036.779" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="154.0008" YPOS="776.0016" OwnPage="3" ItemID="1946732692" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="9448971706.0008" gYpos="737437767861.273" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
@@ -31988,7 +31988,7 @@
                 <ITEXT CH="Crystal Column and Island of Smiths: these seem to represent Heaven and Hell, respectively. The Crystal Column reaches all the way to Heaven but the Island of Smiths does not, it is merely tall. The smiths throwing the heated masses is similar to Polyphemus the Cyclops throwing rocks at Odysseus."/>
                 <para PARENT="Reverse indent"/>
                 <para/>
-                <ITEXT CH="Griffin and Sea Serpeant: the griffin and the sea monster are basically the same story but with different elements, in which a bad creature is destroyed by a good creature. There's a Jewish legend about Leviathan where Leviathan is an enormous evil sea creature that will be killed and eaten by God's people as dainties at the end of days; the story here closely parallels that. The reader may find it a fruitful exercise to compare and contrast the griffin and the sea monster accounts."/>
+                <ITEXT CH="Griffin and Sea Serpeant: the griffin and the sea monster are basically the same story but with different elements, in which a bad creature is destroyed by a good creature."/>
                 <para PARENT="Reverse indent"/>
                 <para/>
                 <ITEXT CH="Iascōnius: Iascōnius is perhaps the most fascinating character in the book. He has a name and seems &quot;bad&quot; at first, but never actually does anything wrong. Towards the end of the book he even helps the monks get to the Paradise of Birds. What could be a simple throw-away trope for a sea-voyage story (an island that's actually a creature) instead gets turned into an actual character complete with a character arc. It's also fascinating that they choose to disembark to have Mass on Iascōnius. This occurs:"/>
@@ -32000,7 +32000,7 @@
                 <ITEXT CH="   - in chapter 15 they are told they will celebrate Easter on him."/>
                 <para PARENT="Reverse indent"/>
                 <tab/>
-                <ITEXT CH="   - in chapter 21 when the monks are worried about the beasts under the sea, Brendan reminds them that they sang hymns on top of Iascōnius and ate the sea monster."/>
+                <ITEXT CH="   - in chapter 21 when the monks are worried about the beasts under the sea, Brendan reminds them that they sang hymns on top of Iascōnius, whom he calls the 'master and devourer of all beasts of the sea&quot;."/>
                 <para PARENT="Reverse indent"/>
                 <tab/>
                 <ITEXT CH="   - in chapter 27 they celebrate Mass on top of Iascōnius, who then carries them to the Paradise of Birds."/>
@@ -32064,6 +32064,7 @@
                 <ITEXT CH="Example: Cum haec audīssem, coepī illōs cōnfortāre = Having heard these things, I began to comfort them."/>
                 <para/>
                 <ITEXT CH="Here the subjunctive is employed with audīssem, not to express doubt but simply because it's part of a circumstantial clause. You can translate these in the indicative mood. The author's choice of the pluperfect seems mostly stylistic; it doesn't seem necessary to burden yourself with translating the aspect precisely. (As a quick reminder: &quot;I swam&quot; = perfect, &quot;I had swum&quot; = pluperfect)."/>
+                <para/>
                 <para/>
                 <para/>
                 <ITEXT FEATURES="inherit underline" CH="Common transition words"/>
