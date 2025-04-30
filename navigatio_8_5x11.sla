@@ -2199,7 +2199,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="mānsit: he remained; 3rd person singular perfect from maneō, manēre, mānsī, mānsus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="missam: Mass; singular feminine accusative perfect passive participle from mittō, mittere, mīsī, missus"/>
+                <ITEXT CH="missam: Mass; singular feminine accusative from missa, missae"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="namque: for and in fact, on the other hand"/>
                 <para PARENT="Vocab"/>
@@ -10983,7 +10983,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="miror: I am amazed; from miror, mirari, miratus sum (deponent)"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="missam: Mass; singular feminine accusative perfect passive participle from mittō, mittere, mīsī, missus"/>
+                <ITEXT CH="missam: Mass; singular feminine accusative from missa, missae"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="multīs: many; plural ablative or dative from multus, multa -um, -, plūrimus -a -um"/>
                 <para PARENT="Vocab"/>
@@ -28210,7 +28210,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="bēluam: beast, monster; singular feminine accusative from bēlua, bēluae"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="bēstiae: beast; singular feminine genitive from bēstia, bēstiae"/>
+                <ITEXT CH="bēstiae: beast; plural feminine nominative from bēstia, bēstiae"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="bēstiārum: of beasts; plural feminine genitive from bēstia, bēstiae"/>
                 <para PARENT="Vocab"/>
@@ -28228,7 +28228,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="celebrāre: to celebrate;"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="chrīstus: annointed one, Christ; singular masculine nominative from Chrīstus, Chrīstī"/>
+                <ITEXT CH="Chrīstus: annointed one, Christ; singular masculine nominative from Chrīstus, Chrīstī"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="clārum: clear, bright, famous; singular neuter nominative from clārus, clāra -um, clārior -or -us, clārissimus -a -um"/>
                 <para PARENT="Vocab"/>
@@ -28238,9 +28238,9 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="cūr: why"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="deī: god, diety; singular masculine genitive from Deus, Dei"/>
+                <ITEXT CH="Deī: god, diety; singular masculine genitive from Deus, Dei"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="deus: god; singular masculine nominative from Deus, Dei"/>
+                <ITEXT CH="Deus: god; singular masculine nominative from Deus, Dei"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="dēvorāvērunt: they devoured; 3rd person plural perfect active from dēvorō, dēvorāre, dēvorāvī, dēvorātus"/>
                 <para PARENT="Vocab"/>
@@ -28252,7 +28252,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="dīxit: he said; 3rd person singular perfect active from dīcō, dīcere, dīxī, dictus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="dominus: lord, master; singular masculine nominative from dominus, dominī"/>
+                <ITEXT CH="Dominus: lord, master; singular masculine nominative from dominus, dominī"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="dorsum: back; singular neuter nominative from dorsum, dorsī"/>
                 <para PARENT="Vocab"/>
@@ -28268,7 +28268,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="et: and"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="faciē: shape, figure, appearance, look; singular feminine genitive from faciēs, faciēī"/>
+                <ITEXT CH="faciē: shape, figure, appearance, look; singular feminine ablative from faciēs, faciēī"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="fēstīvitātem: festivity; singular feminine accusative from fēstīvitās, fēstīvitātis"/>
                 <para PARENT="Vocab"/>
@@ -28284,7 +28284,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="hymnōs: hymns; plural masculine accusative from hymnus, hymnī"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="iacentēs: laying; plural common nominative present participle from jaceo, jacere, jacui, jacitus"/>
+                <ITEXT CH="iacentēs: laying; plural common nominative present participle from iaceō, iacēre, iacuī, iacitūs"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="Iascōnium: Jascōnius, a sea beast"/>
                 <para PARENT="Vocab"/>
@@ -28302,11 +28302,11 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="maris: sea; singular neuter genitive from mare, maris"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="missam: Mass; singular feminine accusative perfect passive participle from mittō, mittere, mīsī, missus"/>
+                <ITEXT CH="missam: Mass; singular feminine accusative from missa, missae"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="natābant: they were swimming; 3rd person plural imperfect active from natō, natāre, natāvī, natātus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="nāve: boat; singular feminine  from nāvis, nāvis"/>
+                <ITEXT CH="nāve: boat; singular feminine ablative from nāvis, nāvis"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="nāvem: boat; singular feminine accusative from nāvis, nāvis"/>
                 <para PARENT="Vocab"/>
@@ -28350,11 +28350,11 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="sīcut: as, same as, like"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="silentiō: silence; singular neuter dative from silentium, silenti(i)"/>
+                <ITEXT CH="silentiō: silence; singular neuter ablative from silentium, silentiī"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="sua: her/its; sing. fem. nom. or abl. or neuter nom. or acc. from suus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="suam: her; singular feminine acc. from suus"/>
+                <ITEXT CH="suam: his; singular feminine acc. from suus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="sub: below, under"/>
                 <para PARENT="Vocab"/>
