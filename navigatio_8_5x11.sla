@@ -28399,7 +28399,7 @@
                 <para PARENT="Chapter Heading"/>
                 <para/>
                 <tab/>
-                <ITEXT CH="Quādam diē, celebrābant missās et appāruit columna in marī. Columna nōn vidēbātur longē ab illīs, sed nōn poterant appropinquāre ante trēs diēs. Brendānus aspiciēbat summitātem sed nōn potuit prae altitūdine illīus: columna erat altior quam āēr. Columna habēbat cōnōpēum rārum. Cōnōpēum erat tantum rārum ut nāvis posset trānsīre per forāmina illīus. Cōnōpēum habēbat colōrem argentī, sed erat dūrior quam marmor; columna erat dē crystāllō clārissimō."/>
+                <ITEXT CH="Quādam diē, celebrābant missās et columna appāruit in mare. Columna nōn vidēbātur longē ab illīs, sed nōn poterant appropinquāre ante trēs diēs. Brendānus aspiciēbat summitātem sed nōn potuit prae altitūdine illīus: columna erat altior quam āēr. Columna habēbat cōnōpēum rārum. Cōnōpēum erat tantum rārum ut nāvis posset trānsīre per forāmina illīus. Cōnōpēum habēbat colōrem argentī, sed erat dūrior quam marmor; columna erat dē crystāllō clārissimō."/>
                 <para PARENT="Latin"/>
             </StoryText>
             <PageItemAttributes>
@@ -28418,7 +28418,7 @@
                 <DefaultStyle/>
                 <para/>
                 <tab/>
-                <ITEXT CH="Sānctus Brendānus dīxit frātribus suīs: “Nāvigāte inter fībulās cōnōpēī.” Intrāvit columnam et mare appāruit sīcut vitreum prae clāritāte, et potuērunt vidēre omnēs sub mare. Et potuērunt vidēre basēs columnae in terrā. Lūx sōlis nōn minor erat intus quam forīs."/>
+                <ITEXT CH="Sānctus Brendānus dīxit frātribus suīs: “Nāvigāte inter fībulās cōnōpēī.” Intrāvērunt columnam et mare appāruit sīcut vitreum prae clāritāte, et potuērunt vidēre omnēs sub mare. Et potuērunt vidēre basēs columnae in terrā. Lūx sōlis nōn minor erat intus quam forīs."/>
                 <para PARENT="Latin"/>
                 <tab/>
                 <ITEXT CH="Tunc Sānctus Brendānus mēnsūrābat ūnam forāmen inter quattuor cōnōpēōs et erat quattuor cubitīs in omnen partem. Et nāvigābant per tōtum diem iuxtā latus ūnum columnae, et erat mīlle quadringentīs cubitīs. Per quattuor diēs nāvigābant inter quattuor angulōs praedictae columnae."/>
@@ -28456,7 +28456,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="celebrābant: they were celebrating; 3rd person plural imperfect active from celebrō, celebrāre, celebrāvī, celebrātus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="clārissimō: very clear, very bright, very famous; singular masculine dative from clārus, clāra -um, clārior -or -us, clārissimus -a -um"/>
+                <ITEXT CH="clārissimō: very clear, very bright, very famous; singular masculine ablative from clārus, clāra -um, clārior -or -us, clārissimus -a -um"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="colōrem: color; singular masculine accusative from color, colōris"/>
                 <para PARENT="Vocab"/>
@@ -28464,7 +28464,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="columnae: column; singular feminine genitive from columna, columnae"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="cōnōpēum: canopy; singular neuter nominative from cōnōpēum, cōnōpēī"/>
+                <ITEXT CH="cōnōpēum: canopy; singular neuter nominative or accusative from cōnōpēum, cōnōpēī"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="crystallī: crystal; singular feminine genitive from crystallus, crystallī"/>
                 <para PARENT="Vocab"/>
@@ -28482,7 +28482,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="et: and"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="forāmina: openings, holes; plural neuter nominative from forāmen, forāminis"/>
+                <ITEXT CH="forāmina: openings, holes; plural neuter accusative from forāmen, forāminis"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="habēbat: he had; 3rd person singular imperfect active from habeō, habēre, habuī, habitus"/>
                 <para PARENT="Vocab"/>
@@ -28492,9 +28492,9 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="in: into (with accusative), in (with ablative)"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="longē: long; singular masculine vocative from longus, longa -um, longior -or -us, longissimus -a -um"/>
+                <ITEXT CH="longē: far, adverb from longus -a -um"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="marī: sea; singular neuter  from mare, maris"/>
+                <ITEXT CH="mare: sea; singular neuter ablative from mare, maris"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="marmor: marble; singular neuter nominative from marmor, marmoris"/>
                 <para PARENT="Vocab"/>
@@ -28518,11 +28518,11 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="quam: how? how much?"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="rārum: thin, far apart, rare; singular neuter nominative from rārus, rāra -um, rārior -or -us, rārissimus -a -um"/>
+                <ITEXT CH="rārum: thin, far apart, rare; singular neuter accusative from rārus, rāra -um, rārior -or -us, rārissimus -a -um"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="sed: but"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="summitātem: summit, top"/>
+                <ITEXT CH="summitātem: summit, top; singular feminine accusative from summitās, summitātis"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="tantum: so much, so great, this many; singular neuter nominative from tantus, tanta, tantum"/>
                 <para PARENT="Vocab"/>
@@ -28553,9 +28553,9 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="calicem: cup, chalice; singular masculine accusative from calix, calicis"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="chrīstus: annointed one, Christ; singular masculine nominative from Chrīstus, Chrīstī"/>
+                <ITEXT CH="Chrīstus: annointed one, Christ; singular masculine nominative from Chrīstus, Chrīstī"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="clāritāte: clarity, brightness; singular feminine  from clāritās, clāritātis"/>
+                <ITEXT CH="clāritāte: clarity, brightness; singular feminine ablative from clāritās, clāritātis"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="columna: column; singular feminine nominative from columna, columnae"/>
                 <para PARENT="Vocab"/>
@@ -28565,11 +28565,13 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="cōnōpēī: canopy; singular neuter genitive from cōnōpēum, cōnōpēī"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="cubitīs: cubits; plural masculine  from cubit.is"/>
+		<ITEXT CH="cōnōpēōs: canopy; plural masculine accusative from cōnōpēus, cōnōpēī (a variant spelling of cōnōpēum used in the Nāvigātiō)"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="cubitīs: cubits; plural masculine ablative from cubitus, cubitī"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="de: of, from, away from, down from"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="diē: day; singular common genitive from diēs, diēī"/>
+                <ITEXT CH="diē: day; singular common ablative from diēs, diēī"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="diem: day; singular common accusative from diēs, diēī"/>
                 <para PARENT="Vocab"/>
@@ -28585,25 +28587,25 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="et: and"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="fībulās: brace, brooch, clasp; plural feminine accusative from fībula, fībulae"/>
+                <ITEXT CH="fībulās: ribs; plural feminine accusative from fībula, fībulae"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="forāmen: opening, hole; singular neuter nominative from forāmen, forāminis"/>
+                <ITEXT CH="forāmen: opening, hole; singular neuter accusative from forāmen, forāminis"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="forīs: outside (adverb)"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="frātribus: brothers; plural masculine  from frāter, frātris"/>
+                <ITEXT CH="frātribus: brothers; plural masculine ablative from frāter, frātris"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="genere: type; singular neuter ablative genus, generis"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="hōc: this; sing. masc. or neut. abl. of hic, haec, hoc"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="iēsūs: Jesus; singular masculine nominative from Jēsūs, Jēsū"/>
+                <ITEXT CH="Iēsūs: Jesus; singular masculine nominative from Iēsūs, Iēsū"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="in: into (with accusative), in (with ablative)"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="inter: between, among, during"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="intrāvit: he entered; 3rd person singular perfect active from intrō, intrāre, intrāvī, intrātus"/>
+                <ITEXT CH="intrāvērunt: they entered; 3rd person singular perfect active from intrō, intrāre, intrāvī, intrātus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="intus: inside"/>
                 <para PARENT="Vocab"/>
@@ -28623,7 +28625,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="minor: smaller; singular common nominative from parvus, parva -um, minor -or -us, minimus -a -um"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="mīrāculum: miracle; singular neuter nominative from mīrāculum, mīrāculī"/>
+                <ITEXT CH="mīrāculum: miracle; singular neuter accusative from mīrāculum, mīrāculī"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="nāvigābant: they were sailing; 3rd person plural imperfect active from nāvigō, nāvigāre, nāvigāvī, nāvigātus"/>
                 <para PARENT="Vocab"/>
@@ -28641,9 +28643,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="omnēs: all, every; plural common nominative from omnis, omnis, omne"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="opeos: power, might; help; influence; resources/wealth (pl.); plural masculine accusative from ops, opis"/>
-                <para PARENT="Vocab"/>
-                <ITEXT CH="ostendit: he shows, he showed; 3rd person singular present active from ostend.it"/>
+                <ITEXT CH="ostendit: He showed; 3rd person singular present active from ostendō, ostendere, ostendī, ostentus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="partem: part; singular feminine accusative from pars, partis"/>
                 <para PARENT="Vocab"/>
@@ -28655,7 +28655,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="potuērunt: they were able; 3rd person plural perfect active from possum, posse, potuī, -"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="prae: before, in front, because of"/>
+                <ITEXT CH="prae: because of"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="praedictae: the aforesaid; singular feminine genitive perfect passive participle from praedīcō, praedīcere, praedīxī, praedictus"/>
                 <para PARENT="Vocab"/>
@@ -28663,7 +28663,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="quam: how? how much?"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="quartō: fourth; singular masculine dative from quattuor, quartus -a -um, quaterni -ae -a, -"/>
+                <ITEXT CH="quartō: fourth; singular masculine ablative from quattuor, quartus -a -um, quaterni -ae -a, -"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="quattuor: 4"/>
                 <para PARENT="Vocab"/>
@@ -28677,7 +28677,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="suis: their; plural dative or ablative of suus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="terra: land; singular feminine nominative from terra, terrae"/>
+                <ITEXT CH="terrā: land; singular feminine ablative from terra, terrae"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="tōtum: whole, total; singular neuter nominative from tōtus, tōta, tōtum (gen -ius)"/>
                 <para PARENT="Vocab"/>
