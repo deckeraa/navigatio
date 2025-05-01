@@ -29019,17 +29019,17 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="audiēbant: they were hearing; 3rd person plural imperfect active from audio, audire, audivi, auditus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="barbarī: barbarian; singular masculine genitive from barbarus, barbara -um, barbarior -or -us, barbarissimus -a -um"/>
+                <ITEXT CH="barbarī: barbarians; plural masculine nominative from barbarus, barbara -um, barbarior -or -us, barbarissimus -a -um"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="barbarus: barbarous; singular masculine nominative from barbarus, barbara -um, barbarior -or -us, barbarissimus -a -um"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="cācabus: cooking pot; singular masculine nominative from cācabus, cācabī"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="carnibus: meat, flesh; plural feminine  from carō, carnis"/>
+                <ITEXT CH="carnibus: meat, flesh; plural feminine ablative from carō, carnis"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="cecidit: he fell; 3rd person singular perfect active from cadō, cadere, cecidī, cāsus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="chrīstī: annointed one, Christ; singular masculine genitive from Chrīstus, Chrīstī"/>
+                <ITEXT CH="Chrīstī: annointed one, Christ; singular masculine genitive from Chrīstus, Chrīstī"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="coepit: he started; 3rd person singular present active from coepio, coepere, coepi, coeptus"/>
                 <para PARENT="Vocab"/>
@@ -29074,6 +29074,8 @@
                 <ITEXT CH="īnfernōrum: Hell; plural masculine genitive from infernus, inferna, infernum"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="īnsula: island; singular feminine nominative from īnsula, īnsulae"/>
+		<para PARENT="Vocab"/>
+                <ITEXT CH="īnsulā: island; singular feminine ablative from īnsula, īnsulae"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="lītus: beach, shore; singular neuter nominative or accusative from lītus, lītoris"/>
                 <para PARENT="Vocab"/>
@@ -29099,7 +29101,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="occurrērunt: they ran; 3rd person plural perfect active from occurrō, occurrere, occurrī, occursus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="occurrit: he ran;     from occurr.it"/>
+                <ITEXT CH="occurrit: he ran; 3rd person singular perfect from occurrō, occurrere, occurrī, occursus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="pater: father; singular masculine nominative from pater, patris"/>
                 <para PARENT="Vocab"/>
@@ -29125,7 +29127,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="sed: but"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="sī: if"/>
+                <ITEXT CH="sīcut: like"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="sumus: we are; 1st person plural present active from sum, esse, fuī, futūrus"/>
                 <para PARENT="Vocab"/>
