@@ -29193,7 +29193,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="altitūdinis: height, depth; singular feminine genitive from altitūdō, altitūdinis"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="altus: high; singular masculine nominative perfect passive participle from alo, alere, alui, altus"/>
+                <ITEXT CH="altus: high; singular masculilne nominative from altus, alta, altum"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="ambulāre: to walk;"/>
                 <para PARENT="Vocab"/>
@@ -29215,7 +29215,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="daemōnēs: demons; plural masculine nominative from daemōn, daemōnis"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="de: of, from, away from, down from"/>
+                <ITEXT CH="dē: of, from, away from, down from"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="diē: day; singular common genitive from diēs, diēī"/>
                 <para PARENT="Vocab"/>
@@ -29225,7 +29225,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="dīxit: he said; 3rd person singular perfect active from dīcō, dīcere, dīxī, dictus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="domine: lord, master; singular masculine vocative from dominus, dominī"/>
+                <ITEXT CH="Domine: lord, master; singular masculine vocative from dominus, dominī"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="dūcēbant: they were leading; 3rd person plural imperfect active from dūcō, dūcere, dūxī, ductus"/>
                 <para PARENT="Vocab"/>
@@ -29247,9 +29247,9 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="frātrēs: brothers; plural masculine nominative from frāter, frātris"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="frātribus: brothers; plural masculine  from frāter, frātris"/>
+                <ITEXT CH="frātribus: brothers; plural masculine ablative from frāter, frātris"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="fūmō: smoke; singular masculine dative from fūmus, fūmī"/>
+                <ITEXT CH="fūmō: smoke; singular masculine ablative from fūmus, fūmī"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="fūmōsus: smoky; singular masculine nominative from fūmōsus, fūmōsa, fūmōsum"/>
                 <para PARENT="Vocab"/>
@@ -29271,8 +29271,6 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="īnsulam: island; singular feminine accusative from īnsula, īnsulae"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="īvit: he went; 3rd person singular perfect active from eo, ire, ivi(ii), itus"/>
-                <para PARENT="Vocab"/>
                 <ITEXT CH="lītus: beach, shore; singular neuter nominative or accusative from lītus, lītoris"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="māgnae: large; singular feminine genitive from māgnus, māgna -um, major -or -us, maximus -a -um"/>
@@ -29281,7 +29279,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="mihī: to me;(pronoun)"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="mīrae: wonderful, marvelous; singular feminine genitive from mīrus, mīra, mīrum"/>
+                <ITEXT CH="mīrae: marvelous; singular feminine genitive from mīrus, mīra, mīrum"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="miserēre: to pity, to have compassion;"/>
                 <para PARENT="Vocab"/>
@@ -29293,7 +29291,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="mūrus: city wall; singular masculine nominative from mūrus, mūrī"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="nāve: boat; singular feminine  from nāvis, nāvis"/>
+                <ITEXT CH="nāve: boat; singular feminine ablative from nāvis, nāvis"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="nāvem: boat; singular feminine accusative from nāvis, nāvis"/>
                 <para PARENT="Vocab"/>
@@ -29303,7 +29301,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="nōn: not"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="ōceanō: ocean; singular masculine dative from Oceanus, Oceani"/>
+                <ITEXT CH="ōceanō: ocean; singular masculine ablative from Oceanus, Oceani"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="pater: father; singular masculine nominative from pater, patris"/>
                 <para PARENT="Vocab"/>
@@ -29339,9 +29337,9 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="tormenta: torments; plural neuter nominative from tormentum, tormentī"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="trāxit: he hauled, he discussed; 3rd person singular perfect active from trahō, trahere, trāxī, tractus"/>
+                <ITEXT CH="trāxit: it hauled; 3rd person singular perfect active from trahō, trahere, trāxī, tractus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="tribus: three; plural dative from trēs -es -ia, tertius -a -um, terni -ae -a, ter"/>
+                <ITEXT CH="tribus: three; plural ablative from trēs -es -ia, tertius -a -um, terni -ae -a, ter"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="tua: you; singular feminine nominative from tuus, tua, tuum"/>
                 <para PARENT="Vocab"/>
