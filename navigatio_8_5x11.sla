@@ -28921,6 +28921,8 @@
                 <ITEXT CH="in: into (with accusative), in (with ablative)"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="īnsula: island; singular feminine nominative from īnsula, īnsulae"/>
+		<para PARENT="Vocab"/>
+                <ITEXT CH="īnsulā: island; singular feminine ablative from īnsula, īnsulae"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="īnsulae: island; singular feminine genitive from īnsula, īnsulae"/>
                 <para PARENT="Vocab"/>
