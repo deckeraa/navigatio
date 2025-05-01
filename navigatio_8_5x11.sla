@@ -370,14 +370,14 @@
         <PAGE PAGEXPOS="712.0008" PAGEYPOS="108180.4176" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="18" BORDERTOP="36" BORDERBOTTOM="18" NUM="260" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="100.0008" PAGEYPOS="109012.4208" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="18" BORDERTOP="36" BORDERBOTTOM="18" NUM="261" NAM="" MNAM="Latin left" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="712.0008" PAGEYPOS="109012.4208" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="18" BORDERTOP="36" BORDERBOTTOM="18" NUM="262" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
-        <MASTEROBJECT XPOS="118.0008" YPOS="776.0016" OwnPage="2" ItemID="2132381286" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="118.0008" gYpos="765090509927.537" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="118.0008" YPOS="776.0016" OwnPage="2" ItemID="2132381286" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="118.0008" gYpos="766881691344.77" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
                 <trail ALIGN="1"/>
             </StoryText>
         </MASTEROBJECT>
-        <MASTEROBJECT XPOS="154.0008" YPOS="776.0016" OwnPage="3" ItemID="2132376326" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="9757152874.0008" gYpos="765089580583.537" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="154.0008" YPOS="776.0016" OwnPage="3" ItemID="2132376326" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="9777115702.0008" gYpos="766880762000.77" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
@@ -18968,12 +18968,14 @@
                 <para/>
                 <ITEXT CH="[16]     Fīnītīs omnibus et allātīs"/>
                 <ITEXT FEATURES="inherit superscript" CH="1"/>
-                <ITEXT CH=" nāvī, dīxit ad sānctum Brendānum praedictus vir: [17] “Vestra nāvicula nōn potest amplius portāre. Ego vōbīs trānsmittam post octo diēs quae vōbīs necessāria sunt dē cibō et dē pōtū usque in Pentēcostēn.” [18] Sānctus Brendānus dīxit: “Unde tū nōstī ubi erimus post octo diēs?” [19] Cuī ait: “Hāc nocte eritis in illā īnsulā quam vōs vidētis prope, et crās usque in sextam hōram. [20] Posteā nāvigābitis ad aliam īnsulam, quae est nōn longē ab istā īnsulā contrā occidentālem plāgam, quae vocātur Paradīsus Avium, ibique manēbitis usque in octāvās Pentēcostēn.”"/>
+                <ITEXT CH=" nāvī, dīxit ad sānctum Brendānum praedictus vir: [17] “Vestra nāvicula nōn potest amplius portāre. Ego vōbīs trānsmittam post octo diēs quae vōbīs necessāria sunt dē cibō et dē pōtū usque in Pentēcostēn.” [18] Sānctus Brendānus dīxit: “Unde"/>
+                <ITEXT FEATURES="inherit superscript" CH="2"/>
+                <ITEXT CH=" tū nōstī ubi erimus post octo diēs?” [19] Cuī ait: “Hāc nocte eritis in illā īnsulā quam vōs vidētis prope, et crās usque in sextam hōram. [20] Posteā nāvigābitis ad aliam īnsulam, quae est nōn longē ab istā īnsulā contrā occidentālem plāgam, quae vocātur Paradīsus Avium, ibique manēbitis usque in octāvās Pentēcostēn.”"/>
                 <para PARENT="Latin"/>
                 <ITEXT CH="[21] Interrogābat quoque sānctus Brendānus illum, quōmodo potuissent"/>
-                <ITEXT FEATURES="inherit superscript" CH="2"/>
-                <ITEXT CH=" ovēs esse tam magnae, sīcut ibi vīsae sunt: erant enim maiōrēs quam bovēs. [22] Cui ille dīxit: “Nēmō colligit lac dē ovibus in hāc īnsulā, nec hiemps distringit illās, sed in pāscuīs semper commorantur diē noctūque: ideōque maiōrēs sunt hīc quam in vestrīs regiōnibus.” [23] Profectīque sunt ad nāvim et coepērunt nāvigāre, datā"/>
                 <ITEXT FEATURES="inherit superscript" CH="3"/>
+                <ITEXT CH=" ovēs esse tam magnae, sīcut ibi vīsae sunt: erant enim maiōrēs quam bovēs. [22] Cui ille dīxit: “Nēmō colligit lac dē ovibus in hāc īnsulā, nec hiemps distringit illās, sed in pāscuīs semper commorantur diē noctūque: ideōque maiōrēs sunt hīc quam in vestrīs regiōnibus.” [23] Profectīque sunt ad nāvim et coepērunt nāvigāre, datā"/>
+                <ITEXT FEATURES="inherit superscript" CH="4"/>
                 <ITEXT CH=" benedictiōne vicissim."/>
                 <para PARENT="Latin"/>
             </StoryText>
@@ -28751,9 +28753,12 @@
                 <ITEXT FONT="DejaVu Serif Italic" CH="Everything having been finished and loaded into the ship, the aforesaid man said to Saint Brendan."/>
                 <para PARENT="footnotes"/>
                 <ITEXT FEATURES="inherit superscript" CH="2"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="From where did you learn where we will be after eight days?"/>
+                <para PARENT="footnotes"/>
+                <ITEXT FONT="DejaVu Serif Italic" FEATURES="inherit superscript" CH="3"/>
                 <ITEXT FONT="DejaVu Serif Italic" CH="How the sheep could be of such size, as they appeared there: for they were larger than cows."/>
                 <para PARENT="footnotes"/>
-                <ITEXT FEATURES="inherit superscript" CH="3"/>
+                <ITEXT FONT="DejaVu Serif Italic" FEATURES="inherit superscript" CH="4"/>
                 <ITEXT FONT="DejaVu Serif Italic" CH="And they set out to the ship and began to sail, the benediction having been given in turn."/>
                 <trail PARENT="footnotes"/>
             </StoryText>
