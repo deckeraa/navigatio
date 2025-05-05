@@ -20113,7 +20113,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="ad: to, towards, at, according to"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="aditus: approach, entrance; singular masculine nominative perfect passive participle from adeo, adire, adivi(ii), aditus"/>
+                <ITEXT CH="aditus: entrance; singular masculine nominative perfect passive participle from adeo, adire, adivī, aditus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="agitis: you act, you conduct; 2nd person plural present active from agō, agere, ēgī, āctus"/>
                 <para PARENT="Vocab"/>
@@ -20137,9 +20137,9 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="circā: around, about, concerning"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="circuīrent: they (might) have gone round; 3rd person plural imperfect active subjunctive from circueō, circuīre, circuivi(iī), circuitus"/>
+                <ITEXT CH="circuīrent: they (might) have gone round; 3rd person plural imperfect active subjunctive from circueō, circuīre, circuivī, circuitus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="corpora: bodies, flesh; plural neuter nominative from corpus, corporis"/>
+                <ITEXT CH="corpora: bodies, flesh; plural neuter accusative from corpus, corporis"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="cum: with"/>
                 <para PARENT="Vocab"/>
@@ -20153,7 +20153,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="diēs: day; singular common nominative from diēs, diēī"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="dīversōs: diverse; plural masculine accusative from dīversus, dīversa, dīversum"/>
+                <ITEXT CH="dīversōs: various, diverse; plural masculine accusative from dīversus, dīversa, dīversum"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="dīxit: he said; 3rd person singular perfect active from dīcō, dīcere, dīxī, dictus"/>
                 <para PARENT="Vocab"/>
@@ -20171,7 +20171,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="facere: to make, to do;"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="famē: hunger; singular feminine  from famēs, famis"/>
+                <ITEXT CH="famē: hunger; singular feminine ablative from famēs, famis"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="fluentēs: flowing; plural common nominative present participle from fluō, fluere, flūxī, flūxus"/>
                 <para PARENT="Vocab"/>
@@ -20207,11 +20207,11 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="locum: place; singular masculine accusative from locus, locī"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="manendī: remaining; singular masculine genitive future passive participle from maneō, manēre, mānsī, mānsus"/>
+                <ITEXT CH="manendī: remaining; singular masculine genitive gerund from maneō, manēre, mānsī, mānsus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="mare: sea; singular neuter nominative from mare, maris"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="minimē: barely, no, not"/>
+                <ITEXT CH="minimē: not"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="mīrae: wonderful, marvelous; singular feminine genitive from mīrus, mīra, mīrum"/>
                 <para PARENT="Vocab"/>
@@ -20269,11 +20269,11 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="singulī: one each; singular masculine genitive from singulus, singula, singulum"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="sitī: thirst; singular masculine genitive perfect passive participle from sinō, sinere, sīvī, situs"/>
+                <ITEXT CH="sitī: thirst; singular feminine ablative with sitis, sitis"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="statim: immediately"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="stetisset: he (might) have had stood; 3rd person singular pluperfect active subjunctive from stō, stāre, stetī, status"/>
+                <ITEXT CH="stetisset: it (the ship) might anchor; 3rd person singular pluperfect active subjunctive from stō, stāre, stetī, status"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="stultum: foolish, stupid; singular neuter nominative from stultus, stulta, stultum"/>
                 <para PARENT="Vocab"/>
@@ -20283,7 +20283,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="summitāte: summit, top; singular feminine  from summitās, summitātis"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="surrēxit: he raised up; 3rd person singular perfect active from surgō, surgere, surrēxī, surrēctus"/>
+                <ITEXT CH="surrēxit: he stood up; 3rd person singular perfect active from surgō, surgere, surrēxī, surrēctus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="tamen: however"/>
                 <para PARENT="Vocab"/>
