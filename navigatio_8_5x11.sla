@@ -13082,9 +13082,9 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="appāruisset: he (might) have had appeared; 3rd person singular pluperfect subjunctive from appāreō, appārēre, appāruī, appāritus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="arripuit: he took hold of, he snatched; 3rd person singular perfect from arripiō, arripere, arripuī, arreptus"/>
+                <ITEXT CH="arripuit: it took hold of, it snatched; 3rd person singular perfect from arripiō, arripere, arripuī, arreptus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="aspēxissent: they (might) have had looked at; 3rd person plural pluperfect subjunctive from aspiciō, aspicere, aspēxī, aspectus"/>
+                <ITEXT CH="aspēxissent: they had looked at; 3rd person plural pluperfect subjunctive from aspiciō, aspicere, aspēxī, aspectus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="aspiciēbat: he was looking at; 3rd person singular imperfect from aspiciō, aspicere, aspēxī, aspectus"/>
                 <para PARENT="Vocab"/>
@@ -13108,11 +13108,11 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="dīcentēs: saying; plural common nominative present participle from dīcō, dīcere, dīxī, dictus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="discoopertum: having been uncovered; singular neuter nominative perfect passive participle from discoopert.um"/>
+                <ITEXT CH="discoopertum: having been uncovered; singular neuter nominative perfect passive participle from discooperiō, discooperīre, discooperuī, discoopertus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="domine: lord, master; singular masculine vocative from dominus, dominī"/>
+                <ITEXT CH="Domine: lord, master; singular masculine vocative from dominus, dominī"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="dominum: lord; singular masculine accusative from dominus, dominī"/>
+                <ITEXT CH="Dominum: lord; singular masculine accusative from dominus, dominī"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="dūcēbant: they were leading; 3rd person plural imperfect from dūcō, dūcere, dūxī, ductus"/>
                 <para PARENT="Vocab"/>
@@ -13130,7 +13130,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="frātrēs: brothers; plural masculine nominative from frāter, frātris"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="fūmō: smoke; singular masculine dative from fūmus, fūmī"/>
+                <ITEXT CH="fūmō: smoke; singular masculine ablative from fūmus, fūmī"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="illam: that; singular feminine accusative from ille, illa, illud"/>
                 <para PARENT="Vocab"/>
@@ -13156,13 +13156,13 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="meritī: merited; singular masculine genitive perfect passive participle from mereō, merēre, meruī, meritus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="miserēre: to pity, to have compassion;"/>
+                <ITEXT CH="miserēre: pity!; singular imperative from misereor, miserērī, miseritus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="mōns: mountain; singular masculine nominative from mōns, montis"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="montem: mountain; singular masculine accusative from mōns, montis"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="multitūdine: multitude, great number; singular feminine from multitūdō, multitūdinis"/>
+                <ITEXT CH="multitūdine: multitude, great number; singular feminine ablative from multitūdō, multitūdinis"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="nāvim: boat; singular feminine accusative from nāvis, nāvis"/>
                 <para PARENT="Vocab"/>
@@ -13188,7 +13188,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="se: himself"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="sociīs: associates, companions; plural masculine from socius, soci(ī)"/>
+                <ITEXT CH="sociīs: associates, companions; plural masculine ablative from socius, sociī"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="spūmantem: foaming; singular common accusative present participle from spūmō, spūmāre, spūmāvī, spūmātus"/>
                 <para PARENT="Vocab"/>
@@ -13196,11 +13196,11 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="tālem: such; singular common accusative from tālis, tālis, tāle"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="terra: land; singular feminine nominative from terra, terrae"/>
+                <ITEXT CH="terrā: land; singular feminine ablative from terra, terrae"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="tibi: to you, singular dative of tu"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="tormenta: torments; plural neuter nominative from tormentum, tormentī"/>
+                <ITEXT CH="tormenta: torments; plural neuter accusative from tormentum, tormentī"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="tōtus: whole, total; singular masculine nominative from tōtus, tōta, tōtum (gen -ius)"/>
                 <para PARENT="Vocab"/>
@@ -13222,7 +13222,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="vīdērunt: they saw"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="vīta: life; singular feminine nominative from vīta, vītae"/>
+                <ITEXT CH="vītā: life; singular feminine ablative from vīta, vītae"/>
                 <trail PARENT="Vocab"/>
             </StoryText>
         </PAGEOBJECT>
