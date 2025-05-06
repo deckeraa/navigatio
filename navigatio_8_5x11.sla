@@ -12897,7 +12897,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="altitūdinis: height, depth; singular feminine genitive from altitūdō, altitūdinis"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="altus: high; singular masculine nominative perfect passive participle from alo, alere, alui, altus"/>
+                <ITEXT CH="altus: high; singular masculine nominative from altus, alta, altum"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="ambulāre: to walk;"/>
                 <para PARENT="Vocab"/>
@@ -12937,7 +12937,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="forās: outside (adverb)"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="frātribus: brothers; plural masculine from frāter, frātris"/>
+                <ITEXT CH="frātribus: brothers; plural masculine ablative from frāter, frātris"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="fūmōsus: smoky; singular masculine nominative from fūmōsus, fūmōsa, fūmōsum"/>
                 <para PARENT="Vocab"/>
@@ -12953,13 +12953,13 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="in: into (with accusative), in (with ablative)"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="īnfernum: Hell; singular neuter nominative from infernus, inferna, infernum"/>
+                <ITEXT CH="īnfernum: Hell; singular neuter accusative from infernus, inferna, infernum"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="īnsulae: island; singular feminine genitive from īnsula, īnsulae"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="ita: yes"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="īvit: he went; 3rd person singular perfect from eo, ire, ivi(ii), itus"/>
+                <ITEXT CH="īvit: he went; 3rd person singular perfect from eo, ire, iī, itus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="lītus: beach, shore; singular neuter nominative or accusative from lītus, lītoris"/>
                 <para PARENT="Vocab"/>
@@ -12973,7 +12973,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="monachus: monk; singular masculine nominative from monachus, monachī"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="monastēriō: monastery; singular neuter dative from monastērium, monastēriī"/>
+                <ITEXT CH="monastēriō: monastery; singular neuter ablative from monastērium, monastēriī"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="mōns: mountain; singular masculine nominative from mōns, montis"/>
                 <para PARENT="Vocab"/>
@@ -12989,7 +12989,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="nūbilās: cloudy; plural feminine accusative from nūbilus, nūbila, nūbilum"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="ōceanō: ocean; singular masculine dative from Oceanus, Oceani"/>
+                <ITEXT CH="ōceanō: ocean; singular masculine ablative from Oceanus, Oceani"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="pater: father; singular masculine nominative from pater, patris"/>
                 <para PARENT="Vocab"/>
@@ -13007,7 +13007,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="quī: who; plural masculine nominative of quis"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="rapidissimō: very quick; singular masculine dative from rapidus, rapida -um, rapidior -or -us, rapidissimus -a -um"/>
+                <ITEXT CH="rapidissimō: very quick; singular masculine ablative from rapidus, rapida -um, rapidior -or -us, rapidissimus -a -um"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="rēctitūdinis: straightness, rectitude; singular feminine genitive from rēctitūdō, rēctitūdinis"/>
                 <para PARENT="Vocab"/>
@@ -13031,7 +13031,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="subsecutī: subsecutī + est = was following; from subsequor, subsequī, subsecūtum (dep.)"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="summitāte: summit, top; singular feminine from summitās, summitātis"/>
+                <ITEXT CH="summitāte: summit, top; singular feminine ablative from summitās, summitātis"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="summitātem: summit, top"/>
                 <para PARENT="Vocab"/>
@@ -13039,11 +13039,11 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="tenuēs: thin; plural common nominative from tenuis, tenue, tenuior -or -us, tenuissimus -a -um"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="terra: land; singular feminine nominative from terra, terrae"/>
+                <ITEXT CH="terrā: land; singular feminine ablative from terra, terrae"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="trāxit: he hauled, he discussed; 3rd person singular perfect from traho, trahere, traxi, tractus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="tribus: three; plural dative from trēs -es -ia, tertius -a -um, terni -ae -a, ter"/>
+                <ITEXT CH="tribus: three; plural ablative from trēs -es -ia, tertius -a -um, terni -ae -a, ter"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="ūnus: one"/>
                 <para PARENT="Vocab"/>
