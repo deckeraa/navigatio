@@ -19208,7 +19208,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="aliquis: someone"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="anima: soul, mind, life; singular feminine nominative from anima, animae"/>
+                <ITEXT CH="animā: soul, mind, life; singular feminine ablative from anima, animae"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="ante: before, in front, forwards"/>
                 <para PARENT="Vocab"/>
@@ -19228,11 +19228,11 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="cum: with"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="daemōnum: of demons; plural masculine genitive from daemōn, daemōnis"/>
+                <ITEXT CH="daemōnem: of demons; plural masculine accusative from daemōn, daemōnis"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="de: of, from, away from, down from"/>
+                <ITEXT CH="dē: of, from, away from, down from"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="deī: god, diety; singular masculine genitive from Deus, Dei"/>
+                <ITEXT CH="Deī: god, diety; singular masculine genitive from Deus, Dei"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="dēprecantēs: praying; plural common nominative present participle from dēpreco, dēprecāre, dēprecāvī, dēprecātus"/>
                 <para PARENT="Vocab"/>
@@ -19254,11 +19254,11 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="frāter: brother; singular masculine nominative from frāter, frātris"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="frātribus: brothers; plural masculine  from frāter, frātris"/>
+                <ITEXT CH="frātribus: brothers; plural masculine ablative from frāter, frātris"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="frātrīs: brothers; singular masculine genitive from frāter, frātris"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="frēnum: bridle; ornamental necklace"/>
+                <ITEXT CH="frēnum: bridle, ornamental necklace; singular neuter accusative from frēnum, frēnī"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="fūrtī: theft, stolen article; singular neuter genitive from fūrtum, fūrtī"/>
                 <para PARENT="Vocab"/>
@@ -19336,7 +19336,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="sinū: pocket, fold; singular masculine ablative from sinus, sinūs"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="sociīs: associates, companions; plural masculine  from socius, soci(ī)"/>
+                <ITEXT CH="sociīs: associates, companions; plural masculine  from socius, sociī"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="substantia: substance; singular feminine nominative from substantia, substantiae"/>
                 <para PARENT="Vocab"/>
@@ -19344,7 +19344,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="suō: their; singular dative or ablative of suus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="terram: land"/>
+                <ITEXT CH="terram: land; singular feminine accusative from terra, terrae"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="tollat: they (might) lift up; 3rd person singular present active subjunctive from tollō, tollere, sustulī, sublātus"/>
                 <para PARENT="Vocab"/>
