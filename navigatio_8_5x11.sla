@@ -1386,7 +1386,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="inveniēs: you will find; 2nd person singular future from invenio, invenire, inveni, inventus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="itinere: journey, trip; singular neuter from iter, itineris"/>
+                <ITEXT CH="itinere: journey, trip; singular neuter ablative from iter, itineris"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="latera: side; plural neuter nominative from latus, lateris"/>
                 <para PARENT="Vocab"/>
@@ -1402,7 +1402,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="omnēs: all, every; plural common nominative from omnis, omnis, omne"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="omnī: all, every; singular dative from omnis, omnis, omne"/>
+                <ITEXT CH="omnī: all, every; singular ablative from omnis, omnis, omne"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="partēs: parts; plural feminine nominative from pars, partis"/>
                 <para PARENT="Vocab"/>
