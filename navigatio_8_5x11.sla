@@ -1675,7 +1675,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="omnibus: all; plural ablative from omnis, omnis, omne"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="opus: work, deed; singular neuter nominative from opus, operis"/>
+                <ITEXT CH="opus: work, deed; singular neuter accusative from opus, operis"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="ōre: mouth; singular neuter from ōs, ōris"/>
                 <para PARENT="Vocab"/>
@@ -1729,7 +1729,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="super: above, on top of"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="suscitāre: to encourage, to awaken, to stir up;"/>
+                <ITEXT CH="suscitāre: to awaken, to stir up;"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="tertiam: third; singular feminine accusative from trēs -es -ia, tertius -a -um, terni -ae -a, ter"/>
                 <para PARENT="Vocab"/>
