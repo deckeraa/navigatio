@@ -370,14 +370,14 @@
         <PAGE PAGEXPOS="712.0008" PAGEYPOS="108180.4176" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="18" BORDERTOP="36" BORDERBOTTOM="18" NUM="260" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="100.0008" PAGEYPOS="109012.4208" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="18" BORDERTOP="36" BORDERBOTTOM="18" NUM="261" NAM="" MNAM="Latin left" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="712.0008" PAGEYPOS="109012.4208" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="18" BORDERTOP="36" BORDERBOTTOM="18" NUM="262" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
-        <MASTEROBJECT XPOS="118.0008" YPOS="776.0016" OwnPage="2" ItemID="2049242665" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="118.0008" gYpos="802921124679.459" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="118.0008" YPOS="776.0016" OwnPage="2" ItemID="2049242665" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="118.0008" gYpos="804733886595.695" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
                 <trail ALIGN="1"/>
             </StoryText>
         </MASTEROBJECT>
-        <MASTEROBJECT XPOS="154.0008" YPOS="776.0016" OwnPage="3" ItemID="2049127945" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="10178777422.0008" gYpos="802920195335.459" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="154.0008" YPOS="776.0016" OwnPage="3" ItemID="2049127945" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="10198980766.0008" gYpos="804732957251.695" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
@@ -15684,7 +15684,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="nūdus: naked; sing. masc. nom. from nūdus, nūda, nūdum"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="nūllī: no, none, not any; sing.  dat. from nūllus, nūlla, nūllum (gen -ius)"/>
+                <ITEXT CH="nūllī: none; sing. dative from nūllus, nūlla, nūllum"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="nūtrītus: having been nourished; singular masculine nominative perfect passive participle from nūtriō, nūtrīre, nūtrīvī, nūtrītus"/>
                 <para PARENT="Vocab"/>
@@ -15811,12 +15811,14 @@
                 <para/>
                 <ITEXT CH="[21]     At vērō sānctus Brendānus, cum haec vīdisset, contristātus est, intrā sē dīcēns: “Vae mihi, quī portō habitum"/>
                 <ITEXT FEATURES="inherit superscript" CH="1"/>
-                <ITEXT CH=" monachicum, [22] et sub mē cōnstitūtī sunt multī sub nōmine illīus ōrdinis, cum videō modo in angelicō statū hominem in carne adhūc sedentem"/>
+                <ITEXT CH=" monachicum, [22] et sub mē cōnstitūtī sunt multī sub nōmine illīus ōrdinis, cum videō modō in angelicō statū hominem in carne adhūc sedentem"/>
                 <ITEXT FEATURES="inherit superscript" CH="2"/>
-                <ITEXT CH=" illaesum ā vitiīs corporis.” [23] Cui ait vir Deī: “Ō venerābilis pater, quanta et quālia mīrābilia ostendit Deus tibi, quae nūllī sānctōrum patrum manifestāvit! [24] Et tū dīcis in corde tuō nōn esse"/>
+                <ITEXT CH=" illaesum ā vitiīs corporis.” [23] Cui ait vir Deī: “Ō venerābilis pater, quanta et quālia mīrābilia ostendit Deus tibi, quae"/>
                 <ITEXT FEATURES="inherit superscript" CH="3"/>
-                <ITEXT CH=" tē dignum monachicum portāre habitum, et tū cum sīs"/>
+                <ITEXT CH=" nūllī sānctōrum patrum manifestāvit! [24] Et tū dīcis in corde tuō nōn esse"/>
                 <ITEXT FEATURES="inherit superscript" CH="4"/>
+                <ITEXT CH=" tē dignum monachicum portāre habitum, et tū cum sīs"/>
+                <ITEXT FEATURES="inherit superscript" CH="5"/>
                 <ITEXT CH=" maior quam monachus! Monachus vērō labōre manuum suārum ūtitur et vestītur. [25] Deus autem dē suīs sēcrētīs per septem annōs pāscit tē cum tuā familiā et induit; ego vērō miser sedeō sīcut avis in istā petrā, nūdus, exceptō meō pīlō.”"/>
                 <para PARENT="Latin"/>
                 <ITEXT CH="[26]     Tunc sānctus Brendānus interrogābat illum dē suō adventū aut unde esset aut quantō tempore sustinuisset ibi tālem vītam. [27] Cui ille respondit: “Fuī nūtrītus in monastēriō sānctī Patriciī per quīnquāgintā annōs, et cūstōdiēbam cimitērium frātrum. "/>
@@ -30301,12 +30303,19 @@
                 <ITEXT FONT="DejaVu Serif Italic" CH="I see a man in the manner of the state of an angel, yet still in the flesh, sitting unharmed by the vices of the body."/>
                 <para PARENT="footnotes"/>
                 <ITEXT FEATURES="inherit superscript" CH="3"/>
-                <ITEXT FONT="DejaVu Serif Italic" CH="And you say in your heart that you are not to be worthy to wear a monk's habit"/>
-                <ITEXT CH=". esse is in the infinitive because it is part of an indirect statement."/>
+                <ITEXT FONT="DejaVu Serif Italic" FEATURES="inherit" CH="Which he manifested to none of the holy fathers."/>
                 <para PARENT="footnotes"/>
-                <ITEXT FEATURES="inherit superscript" CH="4"/>
+                <ITEXT FONT="DejaVu Serif Italic" FEATURES="inherit superscript" CH="4"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="And you say in your heart that you are not to be worthy to wear a monk's habit"/>
+                <ITEXT CH=". "/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="esse"/>
+                <ITEXT CH=" is in the infinitive because it is part of an indirect statement."/>
+                <para PARENT="footnotes"/>
+                <ITEXT FONT="DejaVu Serif Italic" FEATURES="inherit superscript" CH="5"/>
                 <ITEXT FONT="DejaVu Serif Italic" CH="Yet you are greater than a monk"/>
-                <ITEXT CH=". sīs is subjunctive because it's a cum circumstantial clause."/>
+                <ITEXT CH=". "/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="sīs"/>
+                <ITEXT CH=" is subjunctive because it's a cum circumstantial clause."/>
                 <para PARENT="footnotes"/>
             </StoryText>
         </PAGEOBJECT>
