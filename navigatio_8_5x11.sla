@@ -370,14 +370,14 @@
         <PAGE PAGEXPOS="712.0008" PAGEYPOS="108180.4176" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="18" BORDERTOP="36" BORDERBOTTOM="18" NUM="260" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="100.0008" PAGEYPOS="109012.4208" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="18" BORDERTOP="36" BORDERBOTTOM="18" NUM="261" NAM="" MNAM="Latin left" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="712.0008" PAGEYPOS="109012.4208" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="18" BORDERTOP="36" BORDERBOTTOM="18" NUM="262" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
-        <MASTEROBJECT XPOS="118.0008" YPOS="776.0016" OwnPage="2" ItemID="2049242665" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="118.0008" gYpos="813186248705.128" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="118.0008" YPOS="776.0016" OwnPage="2" ItemID="2049242665" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="118.0008" gYpos="815624845092.445" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
                 <trail ALIGN="1"/>
             </StoryText>
         </MASTEROBJECT>
-        <MASTEROBJECT XPOS="154.0008" YPOS="776.0016" OwnPage="3" ItemID="2049127945" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="10293182866.0008" gYpos="813185319361.128" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="154.0008" YPOS="776.0016" OwnPage="3" ItemID="2049127945" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="10320361174.0008" gYpos="815623915748.445" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
@@ -13844,7 +13844,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="camerārius: chamberlain; sing. masc. nom. from camerārius, camerāriī"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="comparāvī: I compared; 1st person sing. perfectactivefrom comparō, comparāre, comparāvī, comparātus"/>
+                <ITEXT CH="comparāvī: I purchased; 1st person sing. perfectactivefrom comparō, comparāre, comparāvī, comparātus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="crās: tomorrow"/>
                 <para PARENT="Vocab"/>
@@ -13872,7 +13872,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="discipulus: student; sing. masc. nom. from discipulus, discipulī"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="dominī: of the lord; sing. masc. gen. from dominus, dominī"/>
+                <ITEXT CH="Dominī: of the lord; sing. masc. gen. from dominus, dominī"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="dominicō: Sunday; sing. masc. dat. from dominicus, dominica, dominicum"/>
                 <para PARENT="Vocab"/>
@@ -14101,7 +14101,9 @@
                 <ITEXT FEATURES="inherit superscript" CH="2"/>
                 <ITEXT CH=" malō pretiō.” [16] Cui sānctus Brendānus ait: “Fīat voluntās Dominī: hāc nocte nōn eris morsus daemōnum usque manē.”"/>
                 <para PARENT="Latin"/>
-                <ITEXT CH="[17]     Iterum vir Deī interrogābat illum, dīcēns: “Quid sibi vult iste pannus?” [18] Cui ait: “Istum pannum dedī cuidam leprōsō, quandō fuī camerārius Dominī. [19] Sed tamen nōn fuit meus quem dedī: nam Dominicus et frātrum suōrum erat. Ideō ab illō nōn habeō ūllum refrīgerium sed magis impedīmentum. [20] Nam forcae ferreae, ubi pendet—illās dedī sacerdōtibus templī ad cacabōs sustinendōs. [21] Petram in quā sedeō, illam mīsī"/>
+                <ITEXT CH="[17]     Iterum vir Deī interrogābat illum, dīcēns: “Quid sibi vult"/>
+                <ITEXT FEATURES="inherit superscript" CH="3"/>
+                <ITEXT CH=" iste pannus?” [18] Cui ait: “Istum pannum dedī cuidam leprōsō, quandō fuī camerārius Dominī. [19] Sed tamen nōn fuit meus quem dedī: nam Dominī et frātrum suōrum erat. Ideō ab illō nōn habeō ūllum refrīgerium sed magis impedīmentum. [20] Nam furcae ferreae, ubi pendet—illās dedī sacerdōtibus templī ad cacabōs sustinendōs. [21] Petram in quā sedeō, illam mīsī"/>
                 <ITEXT FEATURES="inherit superscript" CH="3"/>
                 <ITEXT CH=" in fossam in pūblicā viā sub pedibus trānseuntium, antequam fuissem discipulus Dominī.”"/>
                 <para PARENT="Latin"/>
@@ -14786,15 +14788,21 @@
             </StoryText>
         </PAGEOBJECT>
         <PAGEOBJECT XPOS="151.0008" YPOS="97085.5575133738" OwnPage="231" ItemID="170271642" PTYPE="5" WIDTH="450" HEIGHT="1" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR2="Black" PLINEART="1" path="" gXpos="151.0008" gYpos="92925.557513376" gWidth="0" gHeight="0" LAYER="0"/>
-        <PAGEOBJECT XPOS="118.0008" YPOS="97092.9269401276" OwnPage="231" ItemID="170379130" PTYPE="4" WIDTH="540" HEIGHT="84.3660535030067" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 84.3661 L0 84.3661 L0 0 Z" copath="M0 0 L540 0 L540 84.3661 L0 84.3661 L0 0 Z" gXpos="118.0008" gYpos="97092.9269401276" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="118.0008" YPOS="97092.9269401276" OwnPage="231" ItemID="170379130" PTYPE="4" WIDTH="540" HEIGHT="109.824652229101" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 109.825 L0 109.825 L0 0 Z" copath="M0 0 L540 0 L540 109.825 L0 109.825 L0 0 Z" gXpos="118.0008" gYpos="97092.9269401276" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <ITEXT FEATURES="inherit superscript" CH="1"/>
                 <ITEXT CH="The idea being communicated here is that Judas also gets respite from Hell on certain feast days."/>
                 <para PARENT="footnotes"/>
                 <ITEXT FEATURES="inherit superscript" CH="2"/>
-                <ITEXT FONT="DejaVu Serif Italic" CH="That the demons might not torture and lead me, during your coming, to (my) evil inheritance, which I compared to an evil price."/>
-                <ITEXT CH=" It appears that what Judas is referencing here is that he received the evil inheritance of Hell in exchange for the evil price of the thirty pieces of silver he took in payment to betray Christ."/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="For that reason I adjure you, through the Redeemer of the world, that you might deign to intercede (for me) with the Lord Jesus, that I might have power to remain here until the rising of the sun tomorrow, that the demons might not torture and lead me, during your coming, to (my) evil inheritance, which I purchased for an evil price."/>
+                <ITEXT CH=" The evil price is the thirty pieces of silver Judas took in payment to betray Christ."/>
+                <para PARENT="footnotes"/>
+                <ITEXT FEATURES="inherit superscript" CH="3"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="What does this cloth mean?"/>
+                <ITEXT CH=" "/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="sibi vult"/>
+                <ITEXT CH=" is a Latin idiom."/>
                 <para PARENT="footnotes"/>
             </StoryText>
         </PAGEOBJECT>
