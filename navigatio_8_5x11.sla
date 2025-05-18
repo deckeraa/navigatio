@@ -15870,7 +15870,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="āit: he said; 3rd person sing. present active from aio, -, -"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="alterīus: of the other; singular genitive from alius, alia, aliud"/>
+                <ITEXT CH="alterīus: of another; singular genitive from alius, alia, aliud"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="appāruit: he appeared; 3rd person sing. perfect active from appāreō, appārēre, appāruī, appāritus"/>
                 <para PARENT="Vocab"/>
@@ -15908,13 +15908,13 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="dīcās: you might say; 2nd person sing. present active subjunctive from dīcō, dīcere, dīxī, dictus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="diē: day; sing. common gen. from diēs, diēī"/>
+                <ITEXT CH="diē: day; sing. common abl. from diēs, diēī"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="diem: day; sing. common acc. from diēs, diēī"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="diēs: day; sing. common nom. from diēs, diēī"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="dīmīsī: he sent away, he dismissed; 1st person sing. perfect active from dīmittō, dīmittere, dīmīsī, dīmissus"/>
+                <ITEXT CH="dīmīsī: I left; 1st person sing. perfect active from dīmittō, dīmittere, dīmīsī, dīmissus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="dīmissa: having been sent away; singular fem. nom. perf. passive part. from dīmittō, dīmittere, dīmīsī, dīmissus"/>
                 <para PARENT="Vocab"/>
@@ -15944,11 +15944,13 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="frāter: brother; sing. masc. nom. from frāter, frātris"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="frātrīs: brothers; sing. masc. gen. from frāter, frātris"/>
+                <ITEXT CH="frātris: brothers; sing. masc. gen. from frāter, frātris"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="herī: yesterday"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="hic: this; singular masculine nominative of hic, haec, hoc"/>
+		<para PARENT="Vocab"/>
+                <ITEXT CH="hīc: here"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="hodiē: today"/>
                 <para PARENT="Vocab"/>
@@ -16012,7 +16014,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="nāvim: boat; sing. fem. acc. from nāvis, nāvis"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="noctēs: nights; pl. fem. nom. from nox, noctis"/>
+                <ITEXT CH="noctēs: nights; pl. fem. acc. from nox, noctis"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="nōlī: be unwilling! imperative singular of nōlō, nōlle, nōluī (irr.)"/>
                 <para PARENT="Vocab"/>
@@ -16028,11 +16030,11 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="patriam: father; sing. fem. acc. from patria, patriae"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="patricius: patrician; sing. masc. nom. from patricius, patriciī"/>
+                <ITEXT CH="Patricius: Patrick"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="patris: father; sing. masc. gen. from pater, patris"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="pede: foot; sing. masc.  from pēs, pedis"/>
+                <ITEXT CH="pede: foot; sing. masc. abl. from pēs, pedis"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="per: through"/>
                 <para PARENT="Vocab"/>
@@ -16050,7 +16052,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="profectus: profectus sum = I set out; singular masculine nominative perfect participle from "/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="proficīscere: set out!;   present  from proficīscor, proficīscī, profectus sum"/>
+                <ITEXT CH="proficīscere: set out!; singular imperative from proficīscor, proficīscī, profectus sum"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="quā: what; singular female ablative of qui"/>
                 <para PARENT="Vocab"/>
@@ -16072,7 +16074,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="respondit: he responded; 3rd person sing. perfect active from respondeo, respondere, respondi, responsus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="saeculō: age, generation; sing. neut. dat. from saeculum, saeculī"/>
+                <ITEXT CH="saeculō: age, generation; sing. neut. abl. from saeculum, saeculī"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="sānctī: holy"/>
                 <para PARENT="Vocab"/>
@@ -16126,7 +16128,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="ut: so that"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="vēlōcissimō: very quickly; sing. masc. dat. from vēlōx"/>
+                <ITEXT CH="vēlōcissimō: very quickly; sing. masc. abl. from vēlōx"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="vēnerat: he had come; 3rd person sing. pluperfect active from veniō, venīre, vēnī, ventus"/>
                 <para PARENT="Vocab"/>
