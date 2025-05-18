@@ -16851,7 +16851,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="adiūtōrium: help, support; plural masculine genitive from adjutor, adjutoris"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="ascendentibus: ascending; plural dative present participle from ascendō, ascendere, ascendī, ascēnsus"/>
+                <ITEXT CH="ascendentibus: ascending; plural ablative present participle from ascendō, ascendere, ascendī, ascēnsus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="ascendite: ascend!; 2nd person plural present active imperative from ascendō, ascendere, ascendī, ascēnsus"/>
                 <para PARENT="Vocab"/>
@@ -16879,9 +16879,9 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="cursū: course; singular neuter ablative from curro, currere, cucurri, cursus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="dēmorātī: dēmorātī + sunt = they were detained"/>
+                <ITEXT CH="dēmorātī: dēmorātī + sunt = they dwelled"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="deus: god; singular masculine nominative from Deus, Dei"/>
+                <ITEXT CH="Deus: god; singular masculine nominative from Deus, Dei"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="dicēbant: they were saying; 3rd person plural imperfect active from dīcō, dīcere, dīxī, dictus"/>
                 <para PARENT="Vocab"/>
@@ -16891,7 +16891,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="dīxit: he said; 3rd person singular perfect active from dīcō, dīcere, dīxī, dictus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="dominum: lord; singular masculine accusative from dominus, dominī"/>
+                <ITEXT CH="Dominum: lord; singular masculine accusative from dominus, dominī"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="ductor: leader; singular masculine nominative from ductor, ductōris"/>
                 <para PARENT="Vocab"/>
@@ -16915,7 +16915,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="fīnium: boundary, end, limit; plural common genitive from fīnis, fīnis"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="fonte: fountain; singular masculine  from fōns, fontis"/>
+                <ITEXT CH="fonte: fountain; singular masculine ablative from fōns, fontis"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="formidāre: to dread;"/>
                 <para PARENT="Vocab"/>
@@ -16927,7 +16927,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="ibī: there, then"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="illa: that; singular feminine nominative from ille, illa, illud"/>
+                <ITEXT CH="illā: that; singular feminine ablative from ille, illa, illud"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="illīs: those; plural dative or ablative from ille, illa, illud"/>
                 <para PARENT="Vocab"/>
@@ -16937,7 +16937,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="in: into (with accusative), in (with ablative)"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="īnsula: island; singular feminine nominative from īnsula, īnsulae"/>
+                <ITEXT CH="īnsulā: island; singular feminine ablative from īnsula, īnsulae"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="īnsulae: island; singular feminine genitive from īnsula, īnsulae"/>
                 <para PARENT="Vocab"/>
@@ -16955,15 +16955,15 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="lītus: beach, shore; singular neuter nominative or accusative from lītus, lītoris"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="longē: long; singular masculine vocative from longus, longa -um, longior -or -us, longissimus -a -um"/>
+                <ITEXT CH="longē: broad (adverb)"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="malī: evil, bad"/>
+                <ITEXT CH="malī: evil, bad; singular neuter genitive from malum, malī"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="marī: sea; singular neuter  from mare, maris"/>
+                <ITEXT CH="marī: sea; singular neuter ablative from mare, maris"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="mē: to me, accusative from ego"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="missa: Mass; singular feminine nominative perfect passive participle from mittō, mittere, mīsī, missus"/>
+                <ITEXT CH="missa: Mass; singular feminine nominative from missa, missae"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="namque: for and in fact, on the other hand"/>
                 <para PARENT="Vocab"/>
@@ -16989,7 +16989,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="omnium: of all; plural  genitive from omnis, omnis, omne"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="pentēcostēn: Pentecost; singular feminine accusative from Pentecoste, Pentecostes"/>
+                <ITEXT CH="Pentēcostēn: Pentecost; singular feminine accusative from Pentecoste, Pentecostes"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="pervenit: he arrives; 3rd person singular present active from perveniō, pervenīre, pervēnī, perventus"/>
                 <para PARENT="Vocab"/>
@@ -17005,13 +17005,13 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="quī: who; plural masculine nominative of quis"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="rēctō: straight, proper, correct; singular masculine dative from rēctus, rēcta -um, rēctior -or -us, rēctissimus -a -um"/>
+                <ITEXT CH="rēctō: straight, proper, correct; singular masculine ablative from rēctus, rēcta -um, rēctior -or -us, rēctissimus -a -um"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="reprōmissiōnis: promise; singular feminine genitive from reprōmissiō, reprōmissiōnis"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="salūtāris: salutary, redeeming; 2nd person singular present passive from saluto, salutare, salutavi, salutatus"/>
+                <ITEXT CH="salūtāris: savior; singular neuter genitive from salūtāre, salūtāris"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="salūtārium: salutary, redeeming; plural  genitive from salutaris, salutaris, salutare"/>
+                <ITEXT CH="salūtārium: salvations; singular neuter genitive from salūtāre, salūtāris"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="sānctō: holy"/>
                 <para PARENT="Vocab"/>
@@ -17023,23 +17023,23 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="sine: without"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="socius: associate, companion; singular masculine nominative from socius, soci(ī)"/>
+                <ITEXT CH="socius: associate, companion; singular masculine nominative from socius, sociī"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="sollemnitātum: of solemnities; plural feminine genitive from sollemnitās, sollemnitātis"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="spēs, speī: hope;    from spēs, speī"/>
+                <ITEXT CH="spēs: hope; singular feminine nominative from spēs, speī"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="suam: her; singular feminine acc. from suus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="suōs: their; plural accusative of suus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="tempore: time, period; singular neuter  from tempus, temporis"/>
+                <ITEXT CH="tempore: time, period; singular neuter ablative from tempus, temporis"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="terrae: land; singular feminine genitive from terra, terrae"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="terram: land"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="trānsactō: having been accomplished; singular masculine dative perfect passive participle from transigo, transigere, transegi, transactus"/>
+                <ITEXT CH="trānsactō: having been accomplished; singular masculine ablative perfect passive participle from transigo, transigere, transegi, transactus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="ūna: one; singular feminine nominative from ūnus -a -um, prīmus -a -um, singulī -ae -a, semel"/>
                 <para PARENT="Vocab"/>
@@ -17053,11 +17053,11 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="viam: road; singular feminine accusative from via, viae"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="vice: time, turn; singular feminine  from vicis, vicis"/>
+                <ITEXT CH="vice: time, turn; singular feminine ablative from vicis, vicis"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="vōbīs: you; plural dative or ablative from tu"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="vōce: voice; singular feminine  from vōx, vōcis"/>
+                <ITEXT CH="vōce: voice; singular feminine ablative from vōx, vōcis"/>
                 <trail PARENT="Vocab"/>
             </StoryText>
         </PAGEOBJECT>
