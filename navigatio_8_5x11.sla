@@ -14579,7 +14579,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="daemōnum: of demons; plural masculine genitive from daemōn, daemōnis"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="deī: god, diety; singular masculine genitive from Deus, Dei"/>
+                <ITEXT CH="Deī: god, diety; singular masculine genitive from Deus, Dei"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="dīcentēs: saying; plural common nominative present participle from dīcō, dīcere, dīxī, dictus"/>
                 <para PARENT="Vocab"/>
@@ -14593,7 +14593,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="et: and"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="exitus: departure; singular masculine nominative perfect passive participle from exeō, exīre, exivī(iī), exitus"/>
+                <ITEXT CH="exitus: departure; singular masculine nominative perfect passive participle from exeō, exīre, exiiī, exitus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="faciem: shape, figure, appearance, look; singular feminine accusative from faciēs, faciēī"/>
                 <para PARENT="Vocab"/>
@@ -14615,7 +14615,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="itaque: so then, therefore"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="iter: journey, trip; singular neuter nominative from iter, itineris"/>
+                <ITEXT CH="iter: journey, trip; singular neuter accusative from iter, itineris"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="maledīcitis: you curse; 2nd person plural present active from maledīcō, maledīcere, maledīxī, maledictus"/>
                 <para PARENT="Vocab"/>
@@ -14631,7 +14631,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="nōbīs: us; singular dative or ablative from ego"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="nocte: night; singular feminine  from nox, noctis"/>
+                <ITEXT CH="nocte: night; singular feminine ablative from nox, noctis"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="nōn: not"/>
                 <para PARENT="Vocab"/>
@@ -14641,13 +14641,13 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="pertinet: it pertains; 3rd person singular present active from pertineō, pertinēre, pertinuī, pertentus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="pessimīs: worst; plural  dative from pessimus, pessima, pessimum"/>
+                <ITEXT CH="pessimīs: worst; plural neuter ablative from pessimus, pessima, pessimum"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="praesentāvimus: we presented; 1st person plural perfect active from praesentō, praesentāre, praesentāvī, praesentātus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="prīmō: first; singular masculine dative from prīmus, prīma, prīmum"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="prīnceps: first man, prince; singular masculine nominative from princeps, principis"/>
+                <ITEXT CH="prīnceps: prince; singular masculine nominative from princeps, principis"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="propter: because of, near"/>
                 <para PARENT="Vocab"/>
@@ -14665,7 +14665,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="tuus: your; singular masculine nominative from tuus, tua, tuum"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="verberibus: lashes, whips, rods; plural neuter  from verber, verberis"/>
+                <ITEXT CH="verberibus: lashes, whips, rods; plural neuter ablative from verber, verberis"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="vestra: your"/>
                 <para PARENT="Vocab"/>
@@ -14673,7 +14673,9 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="vōbīs: you; plural dative or ablative from tu"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="vōcēs: voices; 2nd person singular present active subjunctive from vocō, vocāre, vocāvī, vocātus"/>
+		<ITEXT CH="vōbīsmet: you yourselves (vōbīs with the -met intensifier); plural dative or ablative from tu"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="vōcēs: voices; plural feminine accusative from vōx, vōcis"/>
                 <trail PARENT="Vocab"/>
             </StoryText>
         </PAGEOBJECT>
