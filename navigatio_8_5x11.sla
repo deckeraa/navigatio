@@ -17122,7 +17122,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="alter: the other; singular masculine nominative from alter, altera, alterum"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="alterum: the other; singular neuter nominative from alter, altera, alterum"/>
+                <ITEXT CH="alterum: the other; singular neuter accusative from alter, altera, alterum"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="annōs: years; plural masculine accusative from annus, annī"/>
                 <para PARENT="Vocab"/>
@@ -17136,9 +17136,9 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="cālīgō: fog, mist; singular feminine nominative from cālīgō, cālīginis"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="circuit: he goes around; 3rd person singular present active from circueō, circuīre, circuivi(iī), circuitus"/>
+                <ITEXT CH="circuit: he goes around; 3rd person singular present active from circueō, circuīre, circuiī, circuitus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="circumfulsit: it shone all around; 3rd person singular perfect active from circumfulcio, circumfulcire, circumfulsi, circumfultus"/>
+                <ITEXT CH="circumfulsit: it shone all around; 3rd person singular perfect active from circumfulgeō, circumfulgēre, circumfugī, circumfulsus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="contrā: against, away from, facing"/>
                 <para PARENT="Vocab"/>
@@ -17146,13 +17146,13 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="cum: with"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="diēbus: days; plural common dative from diēs, diēī"/>
+                <ITEXT CH="diēbus: days; plural common ablative from diēs, diēī"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="diērum: days; plural common genitive from diēs, diēī"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="dīrigēbat: he was aligning/directing; 3rd person singular imperfect active from dīrigō, dīrigere, dīrēxī, dīrēctus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="dispendia: pay, nourishment; plural neuter nominative from dispendium, dispendi(i)"/>
+                <ITEXT CH="dispendia: supplies; plural neuter accusative from dispendium, dispendiī"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="eōrum: their; plural masc. or neuter. genitive"/>
                 <para PARENT="Vocab"/>
@@ -17184,7 +17184,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="illōs: that; plural masculine accusative from ille, illa, illud"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="imminente: imminently; singular ablative present participle from immineō, imminēre, -, -"/>
+                <ITEXT CH="imminente: being imminent; singular ablative present participle from immineō, imminēre, -, -"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="ingēns: huge, enormous; singular  nominative from ingēns, ingentis (gen.), ingentior -or -us, ingentissimus -a -um"/>
                 <para PARENT="Vocab"/>
@@ -17196,7 +17196,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="ita: yes"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="iter: journey, trip; singular neuter nominative from iter, itineris"/>
+                <ITEXT CH="iter: journey, trip; singular neuter accusative from iter, itineris"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="iterum: again"/>
                 <para PARENT="Vocab"/>
@@ -17248,7 +17248,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="septem: seven"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="spatium: space; singular neuter nominative from spatium, spati(i)"/>
+                <ITEXT CH="spatium: space; singular neuter nominative from spatium, spatiī"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="stetit: he stood; 3rd person singular perfect active from stō, stāre, stetī, status"/>
                 <para PARENT="Vocab"/>
@@ -17256,7 +17256,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="terra: land; singular feminine nominative from terra, terrae"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="trānsactīs: having been accomplished; plural dative perfect passive participle from transigo, transigere, transegi, transactus"/>
+                <ITEXT CH="trānsactīs: having been accomplished; plural ablative perfect passive participle from transigo, transigere, transegi, transactus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="tunc: then"/>
                 <para PARENT="Vocab"/>
@@ -17266,7 +17266,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="vērō: truly, even so, still"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="vespere: evening; singular masculine  from vesper, vesperis"/>
+                <ITEXT CH="vespere: evening; singular masculine ablative from vesper, vesperis"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="vidēre: to see;"/>
                 <para PARENT="Vocab"/>
