@@ -17289,17 +17289,17 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="appellābat: he was calling, he was naming; 3rd person singular imperfect active from appellō, appellāre, appellāvī, appellātus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="arbōribus: trees; plural feminine  from arbor, arboris"/>
+                <ITEXT CH="arbōribus: trees; plural feminine ablative from arbor, arboris"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="ascendentibus: ascending; plural dative present participle from ascendō, ascendere, ascendī, ascēnsus"/>
+                <ITEXT CH="ascendentibus: ascending; plural ablative present participle from ascendō, ascendere, ascendī, ascēnsus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="atque: and"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="autem: but, however, moreover"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="autumnālī: autumnal; singular  dative from autumnālis, autumnālis, autumnāle"/>
+                <ITEXT CH="autumnālī: autumnal; singular ablative from autumnālis, autumnālis, autumnāle"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="beātus, beāta -um, beātior -or -us, beātissimus -a -um: happy, blessed;    from beātus, beāta -um, beātior -or -us, beātissimus -a -um"/>
+                <ITEXT CH="beātī: happy, blessed; plural nominative from beātus, beāta -um, beātior -or -us, beātissimus -a -um"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="bibēbant: they drank; 3rd person plural imperfect active from bibo, bibere, bibi, bibitus"/>
                 <para PARENT="Vocab"/>
@@ -17315,19 +17315,19 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="dē: of, from, away from, down from"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="deus: god; singular masculine nominative from Deus, Dei"/>
+                <ITEXT CH="Deus: god; singular masculine nominative from Deus, Dei"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="dicēbat: he was saying; 3rd person singular imperfect active from dīcō, dīcere, dīxī, dictus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="diē: day; singular common genitive from diēs, diēī"/>
+                <ITEXT CH="diē: day; singular common ablative from diēs, diēī"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="diēs: day; singular common nominative from diēs, diēī"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="dīversa: diverse; singular feminine nominative from dīversus, dīversa, dīversum"/>
+                <ITEXT CH="dīversa: diverse; plural neuter accusative from dīversus, dīversa, dīversum"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="dīxisset: he (might) have had said; 3rd person singular pluperfect active subjunctive from dīcō, dīcere, dīxī, dictus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="domō: house; singular feminine dative from domus, domi"/>
+                <ITEXT CH="domō: house; singular feminine ablative from domus, domi"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="ecce: Look! Behold!"/>
                 <para PARENT="Vocab"/>
@@ -17337,9 +17337,9 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="flūmen: river; singular neuter nominative from flūmen, flūminis"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="fontibus: fountains; plural masculine  from fōns, fontis"/>
+                <ITEXT CH="fontibus: fountains; plural masculine ablative from fōns, fontis"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="frātribus: brothers; plural masculine  from frāter, frātris"/>
+                <ITEXT CH="frātribus: brothers; plural masculine ablative from frāter, frātris"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="habitant: they inhabit; 3rd person plural present active from habitō, habitāre, habitāvī, habitātus"/>
                 <para PARENT="Vocab"/>
@@ -17373,7 +17373,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="iuvenis: young man; singular common nominative from juvenis, juvenis, juvene"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="laetitia: joy, gladness, fruitfulness; singular feminine nominative from laetitia, laetitiae"/>
+                <ITEXT CH="laetitiā: joy, gladness, fruitfulness; singular feminine ablative from laetitia, laetitiae"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="laudabunt: they will praise; 3rd person plural future active from laudō, laudāre, laudāvī, laudātus"/>
                 <para PARENT="Vocab"/>
@@ -17381,7 +17381,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="magnitudinem: magnitude, greatness; singular feminine accusative from magnitūdō, magnitūdinis"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="māgnō: large; singular masculine dative from māgnus, māgna -um, major -or -us, maximus -a -um"/>
+                <ITEXT CH="māgnō: large; singular masculine ablative from māgnus, māgna -um, major -or -us, maximus -a -um"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="māgnum: large; singular neuter nominative from māgnus, māgna -um, major -or -us, maximus -a -um"/>
                 <para PARENT="Vocab"/>
@@ -17389,7 +17389,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="multum: many; singular neuter nominative from multus, multa -um, -, plūrimus -a -um"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="nāvī: boat; singular feminine  from nāvis, nāvis"/>
+                <ITEXT CH="nāvī: boat; singular feminine ablative from nāvis, nāvis"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="nihil: not at all"/>
                 <para PARENT="Vocab"/>
@@ -17401,9 +17401,9 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="obviam: in the path"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="occurrit: he ran;     from occurr.it"/>
+		<ITEXT CH="occurrit: he ran; 3rd person singular perfect from occurrō, occurrere, occurrī, occursus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="ōceanō: ocean; singular masculine dative from Oceanus, Oceani"/>
+                <ITEXT CH="ōceanō: ocean; singular masculine ablative from Oceanus, Oceani"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="ōsculāns: kissing; singular nominative present participle from ōsculor, ōsculārī, ōsculātus sum"/>
                 <para PARENT="Vocab"/>
@@ -17415,9 +17415,9 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="plēnam: full; singular feminine accusative from plēnus, plēna -um, plēnior -or -us, plēnissimus -a -um"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="pōmiferīs: fruit-bearing; plural  dative from pōmifer, pōmifera, pōmiferum"/>
+                <ITEXT CH="pōmiferīs: fruit-bearing; plural ablative from pōmifer, pōmifera, pōmiferum"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="pōmīs: fruits, grapes; plural neuter  from pōmum, pōmī"/>
+                <ITEXT CH="pōmīs: fruits, grapes; plural neuter ablative from pōmum, pōmī"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="porrō: farther, further, also"/>
                 <para PARENT="Vocab"/>
@@ -17431,7 +17431,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="quadrāgintā: 40"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="quaesīvistī: you sought; 2nd person singular perfect active from quaerō, quaerere, quaesīvī, quaesītus"/>
+                <ITEXT CH="quaesīstī: you sought; 2nd person singular perfect active from quaerō, quaerere, quaesīvī, quaesītus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="quam: how? how much?"/>
                 <para PARENT="Vocab"/>
@@ -17449,7 +17449,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="se: himself"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="sēcrēta: secrets; singular feminine nominative from secretus, secreta -um, secretior -or -us, secretissimus -a -um"/>
+                <ITEXT CH="sēcrēta: secrets; plural neuter accusative from secretus, secreta -um, secretior -or -us, secretissimus -a -um"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="sīcut: as, same as, like"/>
                 <para PARENT="Vocab"/>
@@ -17467,7 +17467,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="tē: to you, accusative from tu"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="tempore: time, period; singular neuter  from tempus, temporis"/>
+                <ITEXT CH="tempore: time, period; singular neuter ablative from tempus, temporis"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="tempus: time, period; singular neuter nominative from tempus, temporis"/>
                 <para PARENT="Vocab"/>
@@ -17493,7 +17493,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="voluit: he wanted; 3rd person singular perfect active from volō, velle, voluī, -"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="volvissent: they (might) have had rolled; 3rd person plural pluperfect active subjunctive from volō, velle, voluī, -"/>
+                <ITEXT CH="volvissent: they (might) have had rolled, turned over; 3rd person plural pluperfect active subjunctive from volō, velle, voluī, -"/>
                 <trail PARENT="Vocab"/>
             </StoryText>
         </PAGEOBJECT>
