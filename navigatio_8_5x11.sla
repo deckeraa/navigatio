@@ -591,7 +591,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="tam: as much, as much as"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="terram: land"/>
+                <ITEXT CH="terram: land; singular feminine accusative from terra, terrae"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="trāxissent: they (might) have had drawn"/>
                 <para PARENT="Vocab"/>
@@ -3201,7 +3201,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="terra: land; singular feminine nominative from terra, terrae"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="terram: land"/>
+                <ITEXT CH="terram: land; singular feminine accusative from terra, terrae"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="tribus: three; plural dative from trēs -es -ia, tertius -a -um, terni -ae -a, ter"/>
                 <para PARENT="Vocab"/>
@@ -7362,7 +7362,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="tempora: times, periods; plural neuter accusative from tempus, temporis"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="terram: land"/>
+                <ITEXT CH="terram: land; singular feminine accusative from terra, terrae"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="tunc: then"/>
                 <para PARENT="Vocab"/>
@@ -8158,7 +8158,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="tentōrium: tent; sing. neut. nom. from tentorium, tentoriī"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="terram: land"/>
+                <ITEXT CH="terram: land; singular feminine accusative from terra, terrae"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="trānsībat: he was going over, he was crossing; 3rd person singular imperfect from trānseō, trānsīre, trānsiviī, trānsitus"/>
                 <para PARENT="Vocab"/>
@@ -10173,7 +10173,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="tenēns: holding; singular nominative present participle from teneō, tenēre, tenuī, tentus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="terram: land"/>
+                <ITEXT CH="terram: land; singular feminine accusative from terra, terrae"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="tertiā: third; singular feminine ablative from trēs -es -ia, tertius -a -um, terni -ae -a, ter"/>
                 <para PARENT="Vocab"/>
@@ -16582,7 +16582,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="sunt: they are; 3rd person plural present active from sum, esse, fuī, futūrus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="terram: land"/>
+                <ITEXT CH="terram: land; singular feminine accusative from terra, terrae"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="trīgintā: thirty"/>
                 <para PARENT="Vocab"/>
@@ -17037,7 +17037,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="terrae: land; singular feminine genitive from terra, terrae"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="terram: land"/>
+                <ITEXT CH="terram: land; singular feminine accusative from terra, terrae"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="trānsactō: having been accomplished; singular masculine ablative perfect passive participle from transigo, transigere, transegi, transactus"/>
                 <para PARENT="Vocab"/>
@@ -17473,7 +17473,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="terrae: land; singular feminine genitive from terra, terrae"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="terram: land"/>
+                <ITEXT CH="terram: land; singular feminine accusative from terra, terrae"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="tibi: to you, singular dative of tu"/>
                 <para PARENT="Vocab"/>
@@ -17678,7 +17678,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="terrae: land; singular feminine genitive from terra, terrae"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="terram: land"/>
+                <ITEXT CH="terram: land; singular feminine accusative from terra, terrae"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="trium: three; plural genitive from trēs -es -ia, tertius -a -um, terni -ae -a, ter"/>
                 <para PARENT="Vocab"/>
@@ -18971,7 +18971,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="sustinēre: to sustain;"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="terram: land"/>
+                <ITEXT CH="terram: land; singular feminine accusative from terra, terrae"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="ultrā: beyond, further"/>
                 <para PARENT="Vocab"/>
@@ -21540,7 +21540,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="tē: to you, accusative from tu"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="terram: land"/>
+                <ITEXT CH="terram: land; singular feminine accusative from terra, terrae"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="trādidimus: we handed over; 1st person plural perfect active from trādō, trādere, trādidī, trāditus"/>
                 <para PARENT="Vocab"/>
@@ -21861,7 +21861,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="terra: land; singular feminine nominative from terra, terrae"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="terram: land"/>
+                <ITEXT CH="terram: land; singular feminine accusative from terra, terrae"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="trīstitiam: sadness; singular feminine accusative from trīstitia, trīstitiae"/>
                 <para PARENT="Vocab"/>
@@ -22361,7 +22361,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="terra: land; sing. fem. nom. from terra, terrae"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="terram: land"/>
+                <ITEXT CH="terram: land; singular feminine accusative from terra, terrae"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="tōtam: whole, total; sing. fem. acc. from tōtus, tōta, tōtum (gen -ius)"/>
                 <para PARENT="Vocab"/>
@@ -22569,7 +22569,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="sunt: they are; 3rd person plural present active from sum, esse, fuī, futūrus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="terram: land"/>
+                <ITEXT CH="terram: land; singular feminine accusative from terra, terrae"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="trānsīre: to go over, to cross;"/>
                 <para PARENT="Vocab"/>
@@ -23313,7 +23313,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="tantum: so much, so great, this many; singular neuter nominative from tantus, tanta, tantum"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="terram: land"/>
+                <ITEXT CH="terram: land; singular feminine accusative from terra, terrae"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="trānsāctā: having been passed; singular feminine nominative perfect passive participle from transigo, transigere, transegi, transactus"/>
                 <para PARENT="Vocab"/>
@@ -23520,7 +23520,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="terra: land; singular feminine nominative from terra, terrae"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="terram: land"/>
+                <ITEXT CH="terram: land; singular feminine accusative from terra, terrae"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="trāns: across, beyond;(preposition)"/>
                 <para PARENT="Vocab"/>
@@ -23714,7 +23714,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="tē: to you, accusative from tu"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="terram: land"/>
+                <ITEXT CH="terram: land; singular feminine accusative from terra, terrae"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="tribus: three; plural ablative from trēs -es -ia, tertius -a -um, terni -ae -a, ter"/>
                 <para PARENT="Vocab"/>
@@ -25408,7 +25408,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="sustinēmus: we sustain; 1st person plural present active from sustineō, sustinēre, sustinuī, sustentus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="terram: land"/>
+                <ITEXT CH="terram: land; singular feminine accusative from terra, terrae"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="tertiam: third; singular feminine accusative from trēs -es -ia, tertius -a -um, terni -ae -a, ter"/>
                 <para PARENT="Vocab"/>
@@ -26796,7 +26796,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="tempora: times, periods; plural neuter accusative from tempus, temporis"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="terram: land"/>
+                <ITEXT CH="terram: land; singular feminine accusative from terra, terrae"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="tunc: then"/>
                 <para PARENT="Vocab"/>
@@ -31106,7 +31106,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="super: above, on top of"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="terram: land"/>
+                <ITEXT CH="terram: land; singular feminine accusative from terra, terrae"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="tertiā: third; singular feminine ablative from trēs -es -ia, tertius -a -um, terni -ae -a, ter"/>
                 <para PARENT="Vocab"/>
@@ -31389,7 +31389,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="tempus: time, period; sing. neut. nom. from tempus, temporis"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="terram: land"/>
+                <ITEXT CH="terram: land; singular feminine accusative from terra, terrae"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="tōtā: whole, total; sing. fem. abl. from tōtus, tōta, tōtum (gen -ius)"/>
                 <para PARENT="Vocab"/>
@@ -31515,7 +31515,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="terra: land; singular feminine nominative from terra, terrae"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="terram: land"/>
+                <ITEXT CH="terram: land; singular feminine accusative from terra, terrae"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="ūniūs: of one (genitive of ūnus)"/>
                 <para PARENT="Vocab"/>
@@ -31704,7 +31704,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="terrae: land; singular feminine genitive from terra, terrae"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="terram: land"/>
+                <ITEXT CH="terram: land; singular feminine accusative from terra, terrae"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="tibi: to you, singular dative of tu"/>
                 <para PARENT="Vocab"/>
