@@ -370,14 +370,14 @@
         <PAGE PAGEXPOS="712.0008" PAGEYPOS="108180.4176" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="18" BORDERTOP="36" BORDERBOTTOM="18" NUM="260" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="100.0008" PAGEYPOS="109012.4208" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="18" BORDERTOP="36" BORDERBOTTOM="18" NUM="261" NAM="" MNAM="Latin left" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="712.0008" PAGEYPOS="109012.4208" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="18" BORDERTOP="36" BORDERBOTTOM="18" NUM="262" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
-        <MASTEROBJECT XPOS="118.0008" YPOS="776.0016" OwnPage="2" ItemID="1439370257" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="118.0008" gYpos="914909527504.696" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="118.0008" YPOS="776.0016" OwnPage="2" ItemID="1439370257" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="118.0008" gYpos="919225627305.258" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
                 <trail ALIGN="1"/>
             </StoryText>
         </MASTEROBJECT>
-        <MASTEROBJECT XPOS="154.0008" YPOS="776.0016" OwnPage="3" ItemID="1439373329" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="11426895118.0008" gYpos="914908598160.696" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="154.0008" YPOS="776.0016" OwnPage="3" ItemID="1439373329" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="11474998318.0008" gYpos="919224697961.258" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
@@ -20128,9 +20128,9 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="sānctus: holy, saint"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="Satanae: Satan, adversary; singular masculine genitive from Satanas, Satanae"/>
+                <ITEXT CH="Satanae: Satan, adversary; singular masculine genitive from Satanās, Satanae"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="Satanās: Satan, adversary; singular masculine nominative from Satanas, Satanae"/>
+                <ITEXT CH="Satanās: Satan, adversary; singular masculine nominative from Satanās, Satanae"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="sēcūtī: sēcūtī + sunt = they followed"/>
                 <para PARENT="Vocab"/>
@@ -20688,7 +20688,7 @@
                 <ITEXT FEATURES="inherit superscript" CH="4"/>
                 <ITEXT CH=" ūnum ex tribus frātribus, quī post nōs vēnērunt dē nostrō monastēriō, dē fūrtō pessimō. Ōrāte prō animā eius: nam carō eius trādita"/>
                 <ITEXT FEATURES="inherit superscript" CH="5"/>
-                <ITEXT CH=" est in potestātem Satānae.”"/>
+                <ITEXT CH=" est in potestātem Satanae.”"/>
                 <para PARENT="Latin"/>
                 <ITEXT CH="[20]     Illa domus, in quā residēbant, erat quasi īnserta"/>
                 <ITEXT FEATURES="inherit superscript" CH="6"/>
@@ -23641,7 +23641,7 @@
                 <tab/>
                 <ITEXT CH="Sānctus Brendānus praecēpit frātribus"/>
                 <ITEXT FEATURES="inherit superscript" CH="1"/>
-                <ITEXT CH=" suīs intrāre nāvem in nōmine Patris et Fīliī et Spīritus Sānctī."/>
+                <ITEXT CH=" suīs intrāre nāvem in nōmine Patris et Fīliī et Spīritūs Sānctī."/>
                 <para PARENT="Latin"/>
                 <tab/>
                 <ITEXT CH="Tunc trēs aliī frātres cucurrērunt dē suō monastēriō ad Brendānum. Trēs frātrēs cecidērunt ad pedēs Brendānī et dīxērunt: “Pater, volumus īre tēcum.” Tunc Brendānus praecēpit illīs intrāre nāvem. Brendānus dīxit: “Sciō cūr vēnistis. Ūnus frāter faciet bonum et ībit ad paradīsum. Duo aliī frātrēs facient malum et ībunt ad īudicium"/>
@@ -23761,7 +23761,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="aliī: others; plural masculine nominative from alius, alia, aliud"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="arbōrem: tree; singular feminine accusative from arbor, arboris"/>
+                <ITEXT CH="arbōrem: mast, tree; singular feminine accusative from arbor, arboris"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="bonum: good; singular neuter nominative from bonum, boni"/>
                 <para PARENT="Vocab"/>
@@ -23903,9 +23903,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="se: himself"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="silva: forest; singular feminine nominative from silva, silvae"/>
-                <para PARENT="Vocab"/>
-                <ITEXT CH="spīritus: spirit, breath; singular masculine nominative from spīritus, spīritūs"/>
+                <ITEXT CH="Spīritūs: of the Spirit; singular masculine genitive from spīritus, spīritūs"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="suis: their; plural dative or ablative of suus"/>
                 <para PARENT="Vocab"/>
@@ -24181,7 +24179,7 @@
                 <DefaultStyle/>
                 <para/>
                 <tab/>
-                <ITEXT CH="Monachī intraverunt oppidum et vīdērunt aulam magnum cum sēdibus. Monachī sēdērunt in sēdibus. Sānctus Brendānus dīxit “Cavēte, frātrēs. Satanās vult dūcere vōs in temptātiōnem. Satanās vult dūcere ūnum ex tribus frātribus in fūrtum pessimum. Ōrātē prō animā eius, quia carō eius est in potestātem Satānae.”"/>
+                <ITEXT CH="Monachī intraverunt oppidum et vīdērunt aulam magnum cum sēdibus. Monachī sēdērunt in sēdibus. Sānctus Brendānus dīxit “Cavēte, frātrēs. Satanās vult dūcere vōs in temptātiōnem. Satanās vult dūcere ūnum ex tribus frātribus in fūrtum pessimum. Ōrātē prō animā eius, quia carō eius est in potestātem Satanae.”"/>
                 <para PARENT="Latin"/>
                 <tab/>
                 <ITEXT CH="Aula magna habuit vāscula argentea et frēna"/>
@@ -24314,9 +24312,9 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="sānctus: holy, saint"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="Satanae: Satan, adversary; singular masculine genitive from Satanas, Satanae"/>
+                <ITEXT CH="Satanae: Satan, adversary; singular masculine genitive from Satanās, Satanae"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="Satanās: Satan, adversary; singular masculine nominative from Satanas, Satanae"/>
+                <ITEXT CH="Satanās: Satan, adversary; singular masculine nominative from Satanās, Satanae"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="sēdērunt: they sat; 3rd person plural perfect active from sedeō, sedēre, sēdī, sessus"/>
                 <para PARENT="Vocab"/>
@@ -25410,7 +25408,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="sānctum: holy, saint"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="Satanae: Satan, adversary; singular masculine genitive from Satanas, Satanae"/>
+                <ITEXT CH="Satanae: Satan, adversary; singular masculine genitive from Satanās, Satanae"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="sed: but"/>
                 <para PARENT="Vocab"/>
