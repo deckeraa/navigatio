@@ -641,7 +641,7 @@
                 <ITEXT FEATURES="inherit superscript" CH="5"/>
                 <ITEXT CH=", quantum plūs potuissent"/>
                 <ITEXT FEATURES="inherit superscript" CH="5"/>
-                <ITEXT CH=". [5] Erat autem illud flūmen tam lātum sīcut et lātitūdō illīus nāvis. Praedictus pater sedēbat in nāvī; et ita fēcērunt per spatium ūnīus mīliāriī, usque dum ad fontem vēnerant eiusdem flūminis."/>
+                <ITEXT CH=". [5] Erat autem illud flūmen tam lātum sīcut et lātitūdō illīus nāvis. Praedictus pater sedēbat in nāvī; et ita fēcērunt per spatium ūnīus mīliāriī, ūsque dum ad fontem vēnerant eiusdem flūminis."/>
                 <para PARENT="Latin"/>
                 <ITEXT CH="[6]     Dīxit sānctus Brendānus: “Ecce, Dominus noster Iēsus Chrīstus nōbīs dedit locum ad manendum"/>
                 <ITEXT FEATURES="inherit superscript" CH="6"/>
@@ -1346,7 +1346,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="Dominicīs: Sundays; plural feminine ablative from Dominica, Dominicae"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="eō: I go; 1st person singular present from eo, ire, iī, itus"/>
+                <ITEXT CH="eō: I go; 1st person singular present from eō, īre, iī, itus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="erant: they were; 3rd person plural imperfect from sum, esse, fuī, futūrus"/>
                 <para PARENT="Vocab"/>
@@ -1774,7 +1774,7 @@
                 <ITEXT FEATURES="inherit superscript" CH="2"/>
                 <ITEXT CH=", coepērunt opus Deī peragere. Hīs omnibus fīnītis"/>
                 <ITEXT FEATURES="inherit superscript" CH="3"/>
-                <ITEXT CH=", vir Deī et quī cum eō erant dedērunt corporibus quiētem usque ad tertiam vigiliam noctis. [30] Ēvigilāns vērō, vir Deī coepit suscitāre frātrēs suōs ad vigiliās noctis sānctae, incipiēns illum versiculum: “Domine, labia mea aperiēs"/>
+                <ITEXT CH=", vir Deī et quī cum eō erant dedērunt corporibus quiētem ūsque ad tertiam vigiliam noctis. [30] Ēvigilāns vērō, vir Deī coepit suscitāre frātrēs suōs ad vigiliās noctis sānctae, incipiēns illum versiculum: “Domine, labia mea aperiēs"/>
                 <ITEXT FEATURES="inherit superscript" CH="4"/>
                 <ITEXT CH=".”"/>
                 <para PARENT="Latin"/>
@@ -2044,13 +2044,13 @@
                 <ITEXT FEATURES="inherit superscript" CH="2"/>
                 <ITEXT CH=".” [36] Ad nōnam, psallēbant: “Ecce quam bonum et quam iocundum habitāre frātrēs in ūnum"/>
                 <ITEXT FEATURES="inherit superscript" CH="3"/>
-                <ITEXT CH=".” [37] Ita diē et nocte avēs reddēbant Dominō laudēs. Igitur sānctus Brendānus usque in octāvum diem reficiēbat frātrēs suōs"/>
+                <ITEXT CH=".” [37] Ita diē et nocte avēs reddēbant Dominō laudēs. Igitur sānctus Brendānus ūsque in octāvum diem reficiēbat frātrēs suōs"/>
                 <ITEXT FEATURES="inherit superscript" CH="4"/>
                 <ITEXT CH=" fēstīvitāte paschālī."/>
                 <para PARENT="Latin"/>
                 <ITEXT CH="[38]     Cōnsummātīs itaque diēbus fēstīs"/>
                 <ITEXT FEATURES="inherit superscript" CH="5"/>
-                <ITEXT CH=", dīxit: “Accipiāmus dē istō fonte stīpendia, quia usque modo nōn fuit nōbīs opus, nisi ad manūs et pedēs lavāre"/>
+                <ITEXT CH=", dīxit: “Accipiāmus dē istō fonte stīpendia, quia ūsque modo nōn fuit nōbīs opus, nisi ad manūs et pedēs lavāre"/>
                 <ITEXT FEATURES="inherit superscript" CH="6"/>
                 <ITEXT CH=".” [39] Hīs dictīs, ecce praedictus vir, cum quō anteā fuērunt trīduānum ante Pascha, quī distribuit illīs alimōnia paschālia, vēnit ad illōs cum suā nāvī plēnā vīctū et pōtū. [40] Ablātīsque omnibus dē nāvī cōram sānctō patre, locūtus est ad illōs īdem vir dīcēns"/>
                 <ITEXT FEATURES="inherit superscript" CH="7"/>
@@ -2337,9 +2337,9 @@
             <StoryText>
                 <DefaultStyle/>
                 <para/>
-                <ITEXT CH="[41]     “Virī frātrēs, hīc habētis sufficienter usque ad diem sānctum Pentēcostēn; et nōlīte bibere dē hōc fonte: fortis namque est ad bibendum"/>
+                <ITEXT CH="[41]     “Virī frātrēs, hīc habētis sufficienter ūsque ad diem sānctum Pentēcostēn; et nōlīte bibere dē hōc fonte: fortis namque est ad bibendum"/>
                 <ITEXT FEATURES="inherit superscript" CH="1"/>
-                <ITEXT CH=". [42] Dīcam vōbīs nātūram illīus: quisquis bibet ex eō, statim irruet super eum sopor, et nōn ēvigilat usque dum complentur vīgintī quattuor hōrae. [43] Dum mānet forās dē fonte, habet sapōrem aquae et nātūram.” Acceptā benedictiōne sānctī patris, reversus est in locum suum. [44] Sānctus Brendānus mānsit in eōdem locō usque in octāvās Pentēcostēn. Illōrum erat refocilātiō avium cantus"/>
+                <ITEXT CH=". [42] Dīcam vōbīs nātūram illīus: quisquis bibet ex eō, statim irruet super eum sopor, et nōn ēvigilat ūsque dum complentur vīgintī quattuor hōrae. [43] Dum mānet forās dē fonte, habet sapōrem aquae et nātūram.” Acceptā benedictiōne sānctī patris, reversus est in locum suum. [44] Sānctus Brendānus mānsit in eōdem locō ūsque in octāvās Pentēcostēn. Illōrum erat refocilātiō avium cantus"/>
                 <ITEXT FEATURES="inherit superscript" CH="2"/>
                 <ITEXT CH="."/>
                 <para PARENT="Latin"/>
@@ -3069,7 +3069,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="gravitātis: importance, gravity, weight; singular feminine genitive from gravitās, gravitātis"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="ībat: he was going; 3rd person singular imperfect from eo, ire, iī, itus"/>
+                <ITEXT CH="ībat: he was going; 3rd person singular imperfect from eō, īre, iī, itus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="ibī: there, then"/>
                 <para PARENT="Vocab"/>
@@ -3653,7 +3653,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="elemosina: alms; singular feminine nominative from elemosina, elemosinae"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="eō: I go; 1st person singular present from eo, ire, iī, itus"/>
+                <ITEXT CH="eō: I go; 1st person singular present from eō, īre, iī, itus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="est: he is; 3rd person singular present from sum, esse, fuī, futūrus"/>
                 <para PARENT="Vocab"/>
@@ -3826,7 +3826,7 @@
                 <ITEXT FEATURES="inherit superscript" CH="4"/>
                 <ITEXT CH=" quod ex Deī magnā elemosinā ministrantur servīs suīs per aliquam subiectam creātūram."/>
                 <para PARENT="Latin"/>
-                <ITEXT CH="[30]     Nōs sumus hīc vīgintī quattuor frātrēs; omnī diē habēmus duodecim pānēs ad nostram refectiōnem: inter duōs, singulōs pānēs. [31] In fēstīvitātibus et in Dominicīs diēbus integrōs pānēs singulīs frātribus addit Deus, ut cēnam habeant ex fragmentīs; modo in adventū vestrō duplicem annōnam habēmus. [32] Et ita nūtrit nōs Chrīstus ā tempore sānctī Patriciī et sānctī Ailbēī patris nostrī, usque modo per octōgintā annōs."/>
+                <ITEXT CH="[30]     Nōs sumus hīc vīgintī quattuor frātrēs; omnī diē habēmus duodecim pānēs ad nostram refectiōnem: inter duōs, singulōs pānēs. [31] In fēstīvitātibus et in Dominicīs diēbus integrōs pānēs singulīs frātribus addit Deus, ut cēnam habeant ex fragmentīs; modo in adventū vestrō duplicem annōnam habēmus. [32] Et ita nūtrit nōs Chrīstus ā tempore sānctī Patriciī et sānctī Ailbēī patris nostrī, ūsque modo per octōgintā annōs."/>
                 <trail PARENT="Latin"/>
             </StoryText>
         </PAGEOBJECT>
@@ -3945,9 +3945,9 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="levāvērunt: they raised up; 3rd person plural perfect from levo, levare, levavi, levatus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="lūminaria: windows; plural neuter nominative from lūminare, lūminaris"/>
+                <ITEXT CH="lūminaria: lampstands; plural neuter nominative from lūminare, lūminaris"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="lūminaribus: windows; plural neuter from lūminare, lūminaris"/>
+                <ITEXT CH="lūminaribus: lampstands; plural neuter from lūminare, lūminaris"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="māgnō: large; singular masculine ablative from māgnus, māgna -um, major -or -us, maximus -a -um"/>
                 <para PARENT="Vocab"/>
@@ -4094,7 +4094,7 @@
                 <ITEXT FEATURES="inherit superscript" CH="1"/>
                 <ITEXT CH=" indigēmus quod igne parātur, neque frīgus aut aestus superat nōs umquam. [34] Sed cum tempus missārum venit aut vigiliārum, incenduntur lūmināria in nostrā ecclēsiā, quae dūximus nōbīscum dē terrā nostrā, dīvīnā praedestīnātiōne"/>
                 <ITEXT FEATURES="inherit superscript" CH="2"/>
-                <ITEXT CH=", et ārdent usque ad diem, et nōn minuitur ūllum ex illīs lumīnāribus.”"/>
+                <ITEXT CH=", et ārdent ūsque ad diem, et nōn minuitur ūllum ex illīs lumīnāribus.”"/>
                 <para PARENT="Latin"/>
                 <ITEXT CH="[35]     Postquam bibērunt, tribus vicibus abbās solitō mōre pulsāvit signum, et frātrēs ūnanimiter cum magnō silentiō et gravitāte levāvērunt sē ā mēnsā, antecēdentēs sānctōs patrēs ad ecclēsiam. [36] Gradiēbantur vērō post illōs sānctus Brendānus et praedictus pater monastēriī. [37] Cum ergō intrāssent ecclēsiam"/>
                 <ITEXT FEATURES="inherit superscript" CH="3"/>
@@ -4258,7 +4258,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="habēbat: he had; 3rd person singular imperfect from habeō, habēre, habuī, habitus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="ībat: he was going; 3rd person singular imperfect from eo, ire, iī, itus"/>
+                <ITEXT CH="ībat: he was going; 3rd person singular imperfect from eō, īre, iī, itus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="id: it"/>
                 <para PARENT="Vocab"/>
@@ -4282,7 +4282,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="longitūdinis: length, longitude; singular feminine genitive from longitūdō, longitūdinis"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="lūminaria: windows; plural neuter nominative from lūminare, lūminaris"/>
+                <ITEXT CH="lūminaria: lampstands; plural neuter nominative from lūminare, lūminaris"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="mediō: middle; singular masculine dative from medius, media, medium"/>
                 <para PARENT="Vocab"/>
@@ -5111,7 +5111,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="lūmen: light; singular neuter nominative from lūmen, lūminis"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="lūminaria: windows; plural neuter nominative from lūminare, lūminaris"/>
+                <ITEXT CH="lūminaria: lampstands; plural neuter nominative from lūminare, lūminaris"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="manē: morning"/>
                 <para PARENT="Vocab"/>
@@ -5263,7 +5263,7 @@
                 <para PARENT="Latin"/>
                 <ITEXT CH="[70]     Sānctus Brendānus ait: “Quōmodo potest in corporālī creātūrā lūmen incorporāle corporāliter ārdēre?” [71] Respondit senex: “Nōnne lēgistī rubum ārdentem in monte Synāī"/>
                 <ITEXT FEATURES="inherit superscript" CH="3"/>
-                <ITEXT CH="? Et tamen remānsit ipse rubus inlaesus ab igne.” [72] Ēvigilantibus tōtam noctem usque ad māne, sānctus Brendānus petīvit licentiam proficīscendī in suum iter. [73] Cui ait senex: “Nōn, pater: tū dēbēs nōbīscum celebrāre nātīvitātem Dominī usque ad octāvās Epiphaniae.” [74] Mānsit igitur sānctus pater cum suā familiā praedictum tempus, cum vīgintī quattuor patribus, in īnsulā quae vocātur Īnsula Familiae Ailbēī."/>
+                <ITEXT CH="? Et tamen remānsit ipse rubus inlaesus ab igne.” [72] Ēvigilantibus tōtam noctem ūsque ad māne, sānctus Brendānus petīvit licentiam proficīscendī in suum iter. [73] Cui ait senex: “Nōn, pater: tū dēbēs nōbīscum celebrāre nātīvitātem Dominī ūsque ad octāvās Epiphaniae.” [74] Mānsit igitur sānctus pater cum suā familiā praedictum tempus, cum vīgintī quattuor patribus, in īnsulā quae vocātur Īnsula Familiae Ailbēī."/>
                 <para PARENT="Latin"/>
             </StoryText>
         </PAGEOBJECT>
@@ -5291,7 +5291,7 @@
                 <ITEXT FEATURES="inherit superscript" CH="2"/>
                 <ITEXT CH=" et benedictiōne sānctōrum virōrum, beātus Brendānus cum suīs sequācibus tetendit vēla in ōceanum nāviculae suae quantōcius; [2] et ibi sīve per nāvigium"/>
                 <ITEXT FEATURES="inherit superscript" CH="3"/>
-                <ITEXT CH=" sīve per vēla ferēbātur nāvis per dīversa loca usque in initium Quadrāgēsimae."/>
+                <ITEXT CH=" sīve per vēla ferēbātur nāvis per dīversa loca ūsque in initium Quadrāgēsimae."/>
                 <para PARENT="Latin"/>
                 <ITEXT CH="[3]     Quādam autem diē"/>
                 <ITEXT FEATURES="inherit superscript" CH="4"/>
@@ -5881,7 +5881,7 @@
                 <ITEXT FEATURES="inherit superscript" CH="1"/>
                 <ITEXT CH=", dīxit sociīs suīs sānctus pater: [13] “Frātrēs, fugiāmus istam mortem, nē dēterius"/>
                 <ITEXT FEATURES="inherit superscript" CH="2"/>
-                <ITEXT CH=" nōbīs contingat: Dominus enim dedit nōbīs pāstum, et vōs fēcistis inde dētrīmentum. [14] Ēgrediminī igitur forās dē hāc īnsulā, et accipite stīpendia dē istīs piscibus, atque praeparāte quantum necesse est per trīduānos usque in cēnam Dominī; [15] similiter dē aquā, singulōs calicēs frātribus per singulōs trīduānos; et ex rādīcibus aequaliter.” [16] Onerantibus autem nāvim dē omnibus quae vir Deī praecēperat3, tetendērunt vēla, et coepērunt nāvigāre in ōceanum contrā septentriōnālem plāgam."/>
+                <ITEXT CH=" nōbīs contingat: Dominus enim dedit nōbīs pāstum, et vōs fēcistis inde dētrīmentum. [14] Ēgrediminī igitur forās dē hāc īnsulā, et accipite stīpendia dē istīs piscibus, atque praeparāte quantum necesse est per trīduānos ūsque in cēnam Dominī; [15] similiter dē aquā, singulōs calicēs frātribus per singulōs trīduānos; et ex rādīcibus aequaliter.” [16] Onerantibus autem nāvim dē omnibus quae vir Deī praecēperat3, tetendērunt vēla, et coepērunt nāvigāre in ōceanum contrā septentriōnālem plāgam."/>
                 <para PARENT="Latin"/>
             </StoryText>
         </PAGEOBJECT>
@@ -6418,7 +6418,7 @@
                 <para PARENT="Latin"/>
                 <ITEXT CH="[7]     Cum autem appropinquāssent"/>
                 <ITEXT FEATURES="inherit superscript" CH="2"/>
-                <ITEXT CH=" ad lītus praedictae īnsulae, occurrit illīs obviam in nāviculā idem prōcūrātor, et dūxit illōs ad portum ubi praeteritō annō ascendērunt dē nāvī, [8] magnificāns Deum et ōsculāns pedēs singulōrum, incipiēns ā sānctō patre usque ad novissimum, dīcēns: “Mīrābilis Deus in sānctīs suīs. Deus Isrāēl ipse dabit virtūtem et fortitūdinem plēbī suae. Benedictus Deus!"/>
+                <ITEXT CH=" ad lītus praedictae īnsulae, occurrit illīs obviam in nāviculā idem prōcūrātor, et dūxit illōs ad portum ubi praeteritō annō ascendērunt dē nāvī, [8] magnificāns Deum et ōsculāns pedēs singulōrum, incipiēns ā sānctō patre ūsque ad novissimum, dīcēns: “Mīrābilis Deus in sānctīs suīs. Deus Isrāēl ipse dabit virtūtem et fortitūdinem plēbī suae. Benedictus Deus!"/>
                 <ITEXT FEATURES="inherit superscript" CH="3"/>
                 <ITEXT CH="”"/>
                 <trail PARENT="Latin"/>
@@ -6521,7 +6521,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="enim: for, truly, really, indeed"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="eō: I go; 1st person singular present from eo, ire, iī, itus"/>
+                <ITEXT CH="eō: I go; 1st person singular present from eō, īre, iī, itus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="erant: they were; 3rd person plural imperfect from sum, esse, fuī, futūrus"/>
                 <para PARENT="Vocab"/>
@@ -6689,9 +6689,9 @@
                 <ITEXT FEATURES="inherit superscript" CH="2"/>
                 <ITEXT CH=" per trīduānum."/>
                 <para PARENT="Latin"/>
-                <ITEXT CH="[10]     Frātrēs quoque Passiōnem Dominī celebrābant cum magnā dīligentiā usque in Sabbatum Sānctum. [11] Fīnītīs ōrdinibus diēī Sabbatī, immolātīsque victimīs spīritālibus Deō, atque cēnā cōnsummātā"/>
+                <ITEXT CH="[10]     Frātrēs quoque Passiōnem Dominī celebrābant cum magnā dīligentiā ūsque in Sabbatum Sānctum. [11] Fīnītīs ōrdinibus diēī Sabbatī, immolātīsque victimīs spīritālibus Deō, atque cēnā cōnsummātā"/>
                 <ITEXT FEATURES="inherit superscript" CH="3"/>
-                <ITEXT CH=", dīxit idem prōcūrātor ad sānctum Brendānum et ad illōs quī cum eō erant: [12] “Proficīsciminī et ascendite nāvim, ut celebrētis sānctam Dominicam noctem resurrēctiōnis ubi celebrāstis alterō annō illam, et diem similiter usque in sextam hōram. [13] Posteā nāvigātē ad īnsulam quae vocātur Paradīsus Āvium, ubi fuistis in praeteritō annō ā Paschā usque in octāvās Pentēcostēn, [14] et asportāte vōbīscum omnia quae necessāria sunt dē cibō et pōtū. Ego vērō vīsitābō vōs diē Dominicā alterā.” [15] Et ita fēcērunt; onerāvitque ipse nāvim pānibus et pōtū ac carnibus cēterīsque dēliciīs, quantum poterant capere. [16] Sānctus Brendānus, datā benedictiōne"/>
+                <ITEXT CH=", dīxit idem prōcūrātor ad sānctum Brendānum et ad illōs quī cum eō erant: [12] “Proficīsciminī et ascendite nāvim, ut celebrētis sānctam Dominicam noctem resurrēctiōnis ubi celebrāstis alterō annō illam, et diem similiter ūsque in sextam hōram. [13] Posteā nāvigātē ad īnsulam quae vocātur Paradīsus Āvium, ubi fuistis in praeteritō annō ā Paschā ūsque in octāvās Pentēcostēn, [14] et asportāte vōbīscum omnia quae necessāria sunt dē cibō et pōtū. Ego vērō vīsitābō vōs diē Dominicā alterā.” [15] Et ita fēcērunt; onerāvitque ipse nāvim pānibus et pōtū ac carnibus cēterīsque dēliciīs, quantum poterant capere. [16] Sānctus Brendānus, datā benedictiōne"/>
                 <ITEXT FEATURES="inherit superscript" CH="4"/>
                 <ITEXT CH=", ascendit in nāvim, et coepērunt statim nāvigāre ad aliam īnsulam."/>
                 <para PARENT="Latin"/>
@@ -6930,7 +6930,7 @@
                 <ITEXT FEATURES="inherit superscript" CH="2"/>
                 <ITEXT CH=" quem alterō annō dīmīsērunt. [18] Tunc sānctus Brendānus, illō ascendente dē nāvī cum suīs frātribus, coepit cantāre hymnum trium puerōrum"/>
                 <ITEXT FEATURES="inherit superscript" CH="3"/>
-                <ITEXT CH=" usque in fīnem. [19] Fīnītō praedictō hymnō, vir Deī ammonēbat suōs frātrēs, dīcēns: “Ō fīliolī, vigilāte, et ōrāte ut nōn intrētis in temptātiōnem. [20] Cōnsīderātē quōmodo Deus subiugat inmānissimam bēstiam subtus nōs sine ūllō impedīmentō.” [21] Frātrēs vērō vigilābant sparsim per illam silvam usque ad vigiliās mātūtīnās. Posteā omnēs sacerdōtēs singulās missās Deō offerēbant usque ad tertiam hōram. [22] Immō beātus Brendānus cum suīs frātribus ascendēns nāvim immolābat agnum immaculātum Deō, et dicēbat frātribus: [23] “In alterō annō hīc celebrāvī resurrectīonem Dominī; ita volō"/>
+                <ITEXT CH=" ūsque in fīnem. [19] Fīnītō praedictō hymnō, vir Deī ammonēbat suōs frātrēs, dīcēns: “Ō fīliolī, vigilāte, et ōrāte ut nōn intrētis in temptātiōnem. [20] Cōnsīderātē quōmodo Deus subiugat inmānissimam bēstiam subtus nōs sine ūllō impedīmentō.” [21] Frātrēs vērō vigilābant sparsim per illam silvam ūsque ad vigiliās mātūtīnās. Posteā omnēs sacerdōtēs singulās missās Deō offerēbant ūsque ad tertiam hōram. [22] Immō beātus Brendānus cum suīs frātribus ascendēns nāvim immolābat agnum immaculātum Deō, et dicēbat frātribus: [23] “In alterō annō hīc celebrāvī resurrectīonem Dominī; ita volō"/>
                 <ITEXT FEATURES="inherit superscript" CH="4"/>
                 <ITEXT CH=" et hōc annō.” Inde profectī sunt ad Īnsulam Avium."/>
                 <para PARENT="Latin"/>
@@ -7128,13 +7128,13 @@
                 <para/>
                 <ITEXT CH="[24]     Appropinquantibus autem ad portum dēstinātum ipsīus īnsulae, omnēs avēs cantābant, quasi ūnā vōce, dīcentēs: “Salūs Deō nostrō, sedentī super thronum, et agnō"/>
                 <ITEXT FEATURES="inherit superscript" CH="1"/>
-                <ITEXT CH=".” [25] Et iterum: “Deus Dominus, et inlūxit nōbīs. Cōnstituite diem sōlemnem in condēnsīs usque ad cornū altāris"/>
+                <ITEXT CH=".” [25] Et iterum: “Deus Dominus, et inlūxit nōbīs. Cōnstituite diem sōlemnem in condēnsīs ūsque ad cornū altāris"/>
                 <ITEXT FEATURES="inherit superscript" CH="2"/>
                 <ITEXT CH=".” [26] Tam vōcibus quam ālīs"/>
                 <ITEXT FEATURES="inherit superscript" CH="3"/>
-                <ITEXT CH=" resonābant diū, quasi dīmidium hōrae, usque dum sānctus pater cum suā sānctā familiā, et omnibus quae erant in nāvī dēlātīs"/>
+                <ITEXT CH=" resonābant diū, quasi dīmidium hōrae, ūsque dum sānctus pater cum suā sānctā familiā, et omnibus quae erant in nāvī dēlātīs"/>
                 <ITEXT FEATURES="inherit superscript" CH="4"/>
-                <ITEXT CH=", resēdit in tentōriō suō. [27] Ibi quoque cum suīs famulīs celebrāvit fēsta Paschālia usque ad octāvās Pentēcostēn. [28] Praedictus namque prōcūrātor vēnit ad illōs, sīcut praedīxerat, in diē Dominicō octāvīs Paschae, portāns sēcum omnia alimōnia quae ad ūsum vītae hūmānae pertinēbant."/>
+                <ITEXT CH=", resēdit in tentōriō suō. [27] Ibi quoque cum suīs famulīs celebrāvit fēsta Paschālia ūsque ad octāvās Pentēcostēn. [28] Praedictus namque prōcūrātor vēnit ad illōs, sīcut praedīxerat, in diē Dominicō octāvīs Paschae, portāns sēcum omnia alimōnia quae ad ūsum vītae hūmānae pertinēbant."/>
                 <para PARENT="Latin"/>
             </StoryText>
         </PAGEOBJECT>
@@ -7151,7 +7151,7 @@
                 <para/>
                 <ITEXT CH="[29]     Cum autem resēdissent ad mēnsam"/>
                 <ITEXT FEATURES="inherit superscript" CH="1"/>
-                <ITEXT CH=", ecce praedicta avis resēdit in prōrā nāviculae, extēnsīs ālīs strepidantibusque sīcut sonitum organī magnī. [30] Tunc vir Deī agnōvit quia illa voluit sibi indicāre aliquid. Ait namque eadem avis: [31] “Deus prōposuit vōbīs quattuor loca per quattuor tempora usque dum fīniantur septem annī peregrinatiōnis vestrae, id ēst: [32] in Cēnā Dominī cum vestrō prōcūrātōre, quī praesēns est omnī annō; in dorsō bēluae Paschā celebrābitis; nōbīscum fēsta Paschālia usque in octāvās Pentēcostēn; apud familiam Ailbēī Nātīvitātem Dominī celebrābitis. [33] Post septem annōs, antecēdentēs magnae ac dīversae perīclitātiōnēs, vōbīs inveniētis Terram Reprōmissiōnis Sānctōrum quam quaeritis, et ibi habitābitis quadrāgintā diēbus; et posteā redūcet vōs Deus ad terram nātīvitātis vestrae.” [34] Sānctus pater, ut audīvit, prōstrāvit sē ad terram cum frātribus suīs, referēns grātiās et laudēs suō creātōrī. [35] Cum haec perfīnīsset"/>
+                <ITEXT CH=", ecce praedicta avis resēdit in prōrā nāviculae, extēnsīs ālīs strepidantibusque sīcut sonitum organī magnī. [30] Tunc vir Deī agnōvit quia illa voluit sibi indicāre aliquid. Ait namque eadem avis: [31] “Deus prōposuit vōbīs quattuor loca per quattuor tempora ūsque dum fīniantur septem annī peregrinatiōnis vestrae, id ēst: [32] in Cēnā Dominī cum vestrō prōcūrātōre, quī praesēns est omnī annō; in dorsō bēluae Paschā celebrābitis; nōbīscum fēsta Paschālia ūsque in octāvās Pentēcostēn; apud familiam Ailbēī Nātīvitātem Dominī celebrābitis. [33] Post septem annōs, antecēdentēs magnae ac dīversae perīclitātiōnēs, vōbīs inveniētis Terram Reprōmissiōnis Sānctōrum quam quaeritis, et ibi habitābitis quadrāgintā diēbus; et posteā redūcet vōs Deus ad terram nātīvitātis vestrae.” [34] Sānctus pater, ut audīvit, prōstrāvit sē ad terram cum frātribus suīs, referēns grātiās et laudēs suō creātōrī. [35] Cum haec perfīnīsset"/>
                 <ITEXT FEATURES="inherit superscript" CH="2"/>
                 <ITEXT CH=" venerābilis senex, avis reversa est in locum suum."/>
                 <para PARENT="Latin"/>
@@ -7882,7 +7882,7 @@
                 <ITEXT FEATURES="inherit superscript" CH="1"/>
                 <ITEXT CH=" fideī. [5] Deus, quī est semper noster dēfēnsor, ipse nōs līberābit dē ōre istīus bēstiae et dē cēterīs perīculīs.”"/>
                 <para PARENT="Latin"/>
-                <ITEXT CH="[6]     At vērō cum appropinquāsset illīs, antecēdēbant undae mīrae altitūdinis usque ad nāvim dumtaxat"/>
+                <ITEXT CH="[6]     At vērō cum appropinquāsset illīs, antecēdēbant undae mīrae altitūdinis ūsque ad nāvim dumtaxat"/>
                 <ITEXT FEATURES="inherit superscript" CH="2"/>
                 <ITEXT CH=". Frātrēs magis ac magis timēbant. [7] Venerābilis quoque senex, extēnsīs manibus in caelum, dīxit: “Domine, līberā servōs tuōs, sīcut līberāstī Dāvīd dē manū Goliae gigantis. Domine, līberā nōs, sīcut līberāstī Iōnam dē ventre cētī magnī.”"/>
                 <para PARENT="Latin"/>
@@ -8469,7 +8469,7 @@
                 <ITEXT FEATURES="inherit superscript" CH="1"/>
                 <ITEXT CH=" secundum praeceptum virī Deī, ac mīsissent"/>
                 <ITEXT FEATURES="inherit superscript" CH="2"/>
-                <ITEXT CH=" omnia ūtēnsilia in tentōrium, dīxit sānctus Brendānus frātribus suīs: [18] “Accipite stīpendia vestra dē illā bēluā, ut sufficiat vōbīs per trēs mēnsēs: hāc enim nocte erit illud cadāver dēvorātum ā bēstiīs.” [19] Ita usque ad vesperās asportābant carnēs, quantum eīs opus erat, secundum mandātum sānctī patris."/>
+                <ITEXT CH=" omnia ūtēnsilia in tentōrium, dīxit sānctus Brendānus frātribus suīs: [18] “Accipite stīpendia vestra dē illā bēluā, ut sufficiat vōbīs per trēs mēnsēs: hāc enim nocte erit illud cadāver dēvorātum ā bēstiīs.” [19] Ita ūsque ad vesperās asportābant carnēs, quantum eīs opus erat, secundum mandātum sānctī patris."/>
                 <para PARENT="Latin"/>
                 <ITEXT CH="[20]     At vērō frātrēs, cum haec omnia perfēcissent, dīxērunt: “Abbā, quōmodo possumus hīc vīvere sine aquā?” [21] Quibus ipse ait: “Numquid difficilius est Deō vōbīs tribuere aquam quam vīctum? [22] Īte igitur contrā merīdiānam plāgam īnsulae istīus, et inveniētis fontem lūcidissimum et herbās multās ac rādīcēs, [23] et inde mihi dispendia sūmite secundum mēnsūram.” Et invēnērunt omnia sīcut vir Deī praedēstināvit. [24] Mānsit ergō ibi sānctus Brendānus trēs mēnsēs, quia erat tempestās in marī et ventus fortissimus et inaequālitās āeris, dē pluviā et grandine."/>
                 <para PARENT="Latin"/>
@@ -9117,7 +9117,7 @@
                 <ITEXT FEATURES="inherit superscript" CH="2"/>
                 <ITEXT CH=" est ibi.” [4] Fuit autem praedictus frāter ūnus ex tribus frātribus quī subsecūtī sunt sānctum Brendānum dē suō monastēriō, dē quibus praedīxerat frātribus anteā, quandō ascendērunt nāvim dē patriā suā."/>
                 <para PARENT="Latin"/>
-                <ITEXT CH="[5]     Appropinquābant ergō ad praedictam īnsulam usque dum nāvis stetit in lītore. [6] Erat illa īnsula mīrae plānitiae, in tantum ut illīs vidērētur aequālis marī, sine arboribus aut aliquid quod ā ventō movērētur. Valdē erat spatiōsa, tamen cooperta scaltīs"/>
+                <ITEXT CH="[5]     Appropinquābant ergō ad praedictam īnsulam ūsque dum nāvis stetit in lītore. [6] Erat illa īnsula mīrae plānitiae, in tantum ut illīs vidērētur aequālis marī, sine arboribus aut aliquid quod ā ventō movērētur. Valdē erat spatiōsa, tamen cooperta scaltīs"/>
                 <ITEXT FEATURES="inherit superscript" CH="3"/>
                 <ITEXT CH=" albīs et purpureīs. [7] Ibique vīdērunt trēs turmās, sīcut vir Deī praedīxerat; nam inter turmam et turmam spatium erat quasi iactus lapidis dē fundā. [8] Et semper ībant hūc atque illūc, et ūna turma cantābat standō in ūnō locō, dīcēns “Ībunt sānctī dē virtūte in virtūtem, et vidēbunt Deum deōrum in Syon"/>
                 <ITEXT FEATURES="inherit superscript" CH="4"/>
@@ -9155,7 +9155,7 @@
                 <para PARENT="Latin"/>
                 <ITEXT CH="[11]     Erat hōra quārta quandō tenuērunt portum īnsulae. Cum autem sexta vēnerat, coepērunt cantāre turmae simul, dīcentēs: [12] “Deus misereātur nostrī"/>
                 <ITEXT FEATURES="inherit superscript" CH="1"/>
-                <ITEXT CH="” usque in fīnem, et “Deus, in adiūtōrium meum intende"/>
+                <ITEXT CH="” ūsque in fīnem, et “Deus, in adiūtōrium meum intende"/>
                 <ITEXT FEATURES="inherit superscript" CH="2"/>
                 <ITEXT CH="”; similiter et tertium psalmum “Crēdidī propter"/>
                 <ITEXT FEATURES="inherit superscript" CH="3"/>
@@ -9177,7 +9177,7 @@
                 <ITEXT FEATURES="inherit superscript" CH="11"/>
                 <ITEXT CH=" cantābant sedendō."/>
                 <para PARENT="Latin"/>
-                <ITEXT CH="[15]     Cum autem perfīnīssent illum cantum, statim obumbrāvit illam īnsulam nūbēs mīrae clāritātis, sed nōn poterant vidēre quae anteā vīderant, prae spissitūdine nūbis. [16] Attamen audiēbant vōcēs canentium praedictum carmen sine intermissiōne usque ad vigiliās mātūtīnās. "/>
+                <ITEXT CH="[15]     Cum autem perfīnīssent illum cantum, statim obumbrāvit illam īnsulam nūbēs mīrae clāritātis, sed nōn poterant vidēre quae anteā vīderant, prae spissitūdine nūbis. [16] Attamen audiēbant vōcēs canentium praedictum carmen sine intermissiōne ūsque ad vigiliās mātūtīnās. "/>
                 <para PARENT="Latin"/>
             </StoryText>
         </PAGEOBJECT>
@@ -10232,7 +10232,7 @@
                 <para/>
                 <ITEXT CH="[1]     Fīnītis iam duodecim diēbus, sānctus pater praecēpit trīduānum ieiūnāre. [2] Porrō, trānsāctō trīduānō, ecce ūna avis grandissima volābat ē regiōne"/>
                 <ITEXT FEATURES="inherit superscript" CH="1"/>
-                <ITEXT CH=" nāvis, tenēns rāmum cuiusdam arboris ignōtae habentem in summō botrum magnum mīrae rubicunditātis. [3] Quem rāmum mīsit dē ōre suō in sinum sānctī virī. Tunc sānctus Brendānus vocāvit frātrēs suōs ad sē et ait: “Vidēte et sūmite prandium quod Deus mīsit vōbīs.” [4] Erant enim ūvae illīus sīcut pōma; quās dīvīsit vir Deī frātribus per singulās ūvās, et ita habēbant vīctum usque ad duodecimum diem."/>
+                <ITEXT CH=" nāvis, tenēns rāmum cuiusdam arboris ignōtae habentem in summō botrum magnum mīrae rubicunditātis. [3] Quem rāmum mīsit dē ōre suō in sinum sānctī virī. Tunc sānctus Brendānus vocāvit frātrēs suōs ad sē et ait: “Vidēte et sūmite prandium quod Deus mīsit vōbīs.” [4] Erant enim ūvae illīus sīcut pōma; quās dīvīsit vir Deī frātribus per singulās ūvās, et ita habēbant vīctum ūsque ad duodecimum diem."/>
                 <para PARENT="Latin"/>
                 <ITEXT CH="[5]     Iterum vir Deī coepit praedictum ieiūnium cum frātribus suīs. [6] Tertiā namque diē vīdērunt īnsulam nōn longē ab eīs, tōtam coopertam arboribus dēnsissimīs, habentēs frūctum praedictum ūvārum incrēdibilī fertilitāte, ita ut omnēs arborēs incurvātae fuissent"/>
                 <ITEXT FEATURES="inherit superscript" CH="2"/>
@@ -10716,7 +10716,7 @@
                 <ITEXT FEATURES="inherit superscript" CH="6"/>
                 <ITEXT CH=". Et ecce subitō avis, quae illīs alterā vice portāvit rāmum cum frūctibus, vēnit obviam grifae, rapidissimō volātū. [5] Quae statim voluit dēvorāre illam"/>
                 <ITEXT FEATURES="inherit superscript" CH="7"/>
-                <ITEXT CH="; at vērō dēfendēbat sē, usque dum superāsset ac abstulisset oculōs grifae praedicta avis. [6] Porrō grifa volābat in altum, ut vix frātrēs potuissent vidēre; attamen interfectrīx nōn dimissit illam dōnec eam interēmit. [7] Nam cadāver eius cōram frātribus iuxtā nāvim cecidit in mare. Altera vērō avis reversa est in locum suum."/>
+                <ITEXT CH="; at vērō dēfendēbat sē, ūsque dum superāsset ac abstulisset oculōs grifae praedicta avis. [6] Porrō grifa volābat in altum, ut vix frātrēs potuissent vidēre; attamen interfectrīx nōn dimissit illam dōnec eam interēmit. [7] Nam cadāver eius cōram frātribus iuxtā nāvim cecidit in mare. Altera vērō avis reversa est in locum suum."/>
                 <para PARENT="Latin"/>
             </StoryText>
             <PageItemAttributes>
@@ -11677,7 +11677,7 @@
                 <ITEXT FEATURES="inherit superscript" CH="3"/>
                 <ITEXT CH=" forāmen ūnum inter quattuor cōnōpēōs, quattuor cubitīs in omnem partem. [12] Igitur nāvigābant per tōtum diem iuxtā latus ūnum illīus columnae, et semper umbram sōlis et calōrem poterant sentīre"/>
                 <ITEXT FEATURES="inherit superscript" CH="4"/>
-                <ITEXT CH=" ultrā: ita usque ad hōram nōnam. [13] Sīc et ipse vir Deī semper mēnsūrābat"/>
+                <ITEXT CH=" ultrā: ita ūsque ad hōram nōnam. [13] Sīc et ipse vir Deī semper mēnsūrābat"/>
                 <ITEXT FEATURES="inherit superscript" CH="5"/>
                 <ITEXT CH=" latus ūnum: mīlle quadringentīs cubitīs mēnsūra ūna per latera illīus columnae erat. [14] Sīc per quatriduānum operābātur"/>
                 <ITEXT FEATURES="inherit superscript" CH="6"/>
@@ -12967,7 +12967,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="ita: yes"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="īvit: he went; 3rd person singular perfect from eo, ire, iī, itus"/>
+                <ITEXT CH="īvit: he went; 3rd person singular perfect from eō, īre, iī, itus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="lītus: beach, shore; singular neuter nominative or accusative from lītus, lītoris"/>
                 <para PARENT="Vocab"/>
@@ -13263,13 +13263,13 @@
                 <ITEXT FEATURES="inherit superscript" CH="1"/>
                 <ITEXT CH=" vērō diē appāruit illīs mōns altus in ōceanō contrā septentriōnem, nōn longē, sed quasi per tenuēs nūbilās; et valdē fūmōsus erat in summitāte. [2] Et statim rapidissimō cursū"/>
                 <ITEXT FEATURES="inherit superscript" CH="2"/>
-                <ITEXT CH=" ventus trāxit illōs ad lītus eiusdem īnsulae usque dum nāvis resēdit nōn longē ā terrā. [3] Erat namque rīpa illīus magnae altitūdinis, ita ut summitātem"/>
+                <ITEXT CH=" ventus trāxit illōs ad lītus eiusdem īnsulae ūsque dum nāvis resēdit nōn longē ā terrā. [3] Erat namque rīpa illīus magnae altitūdinis, ita ut summitātem"/>
                 <ITEXT FEATURES="inherit superscript" CH="3"/>
                 <ITEXT CH=" illīus vix potuissent vidēre, et colōris carbōnis, et mīrae rēctitūdinis sīcut mūrus."/>
                 <para PARENT="Latin"/>
                 <ITEXT CH="[4]     Ūnus quīdam quī remānsit ex tribus frātribus quī subsecūtī sunt sānctum Brendānum dē suō monastēriō exilīvit"/>
                 <ITEXT FEATURES="inherit superscript" CH="4"/>
-                <ITEXT CH=" forās dē nāvī et coepit ambulāre usque ad fundāmentum rīpae. [5] Quī coepit clāmāre, dīcēns: “Vae mihi, pater! Praedor"/>
+                <ITEXT CH=" forās dē nāvī et coepit ambulāre ūsque ad fundāmentum rīpae. [5] Quī coepit clāmāre, dīcēns: “Vae mihi, pater! Praedor"/>
                 <ITEXT FEATURES="inherit superscript" CH="5"/>
                 <ITEXT CH=" ā vōbīs, et nōn habeō potestātem ut possim venīre ad vōs.” "/>
                 <para PARENT="Latin"/>
@@ -13290,9 +13290,9 @@
                 <ITEXT FEATURES="inherit superscript" CH="3"/>
                 <ITEXT CH=" tālem fīnem!”"/>
                 <para PARENT="Latin"/>
-                <ITEXT CH="[9]     Iterum arripuit illōs prōsper ventus ad austrālem plāgam. Cum autem aspexissent—ā longē retrō—illam īnsulam, [10] vīdērunt montem discoopertum ā fūmō, et ā sē spūmantem flammās usque ad aethera, et iterum ad sē eāsdem flammās respīrantem"/>
+                <ITEXT CH="[9]     Iterum arripuit illōs prōsper ventus ad austrālem plāgam. Cum autem aspexissent—ā longē retrō—illam īnsulam, [10] vīdērunt montem discoopertum ā fūmō, et ā sē spūmantem flammās ūsque ad aethera, et iterum ad sē eāsdem flammās respīrantem"/>
                 <ITEXT FEATURES="inherit superscript" CH="4"/>
-                <ITEXT CH=", ita ut tōtus mōns usque in mare ūnus rogus appāruisset."/>
+                <ITEXT CH=", ita ut tōtus mōns ūsque in mare ūnus rogus appāruisset."/>
                 <para PARENT="Latin"/>
             </StoryText>
         </PAGEOBJECT>
@@ -13553,11 +13553,11 @@
                 <ITEXT FEATURES="inherit superscript" CH="4"/>
                 <ITEXT CH=" putābant. Vir Deī, cum audīsset eōs intrā sē cōnferentēs tālia, ait: “Sinite"/>
                 <ITEXT FEATURES="inherit superscript" CH="5"/>
-                <ITEXT CH=" contendere; dīrigite cursum nāvis usque ad illum locum.”"/>
+                <ITEXT CH=" contendere; dīrigite cursum nāvis ūsque ad illum locum.”"/>
                 <para PARENT="Latin"/>
                 <ITEXT CH="[4]     Cum vērō vir Deī illūc appropinquāsset, restitērunt undae, in circuitū quasi coāgulātae"/>
                 <ITEXT FEATURES="inherit superscript" CH="6"/>
-                <ITEXT CH=", et invēnērunt hominem sedentem suprā petram, hispidum ac dēfōrmem; [5] et undae ex omnī parte, quandō effluēbant ad illum, percutiēbant eum usque ad verticem, et, quandō recēdēbant, appārēbat illa petra nūda in quā sedēbat īnfēlīx ille. [6] Pannus quoque, quī ante illum pendēbat—aliquandō ventus minābat illum ā sē, aliquandō percutiēbat eum per oculōs et frontem."/>
+                <ITEXT CH=", et invēnērunt hominem sedentem suprā petram, hispidum ac dēfōrmem; [5] et undae ex omnī parte, quandō effluēbant ad illum, percutiēbant eum ūsque ad verticem, et, quandō recēdēbant, appārēbat illa petra nūda in quā sedēbat īnfēlīx ille. [6] Pannus quoque, quī ante illum pendēbat—aliquandō ventus minābat illum ā sē, aliquandō percutiēbat eum per oculōs et frontem."/>
                 <para PARENT="Latin"/>
                 <para/>
             </StoryText>
@@ -14099,11 +14099,11 @@
             <StoryText>
                 <DefaultStyle/>
                 <para/>
-                <ITEXT CH="[13]     &quot;Meum vērō refrīgerium habeō hīc omnī diē Dominicō, ā vespere usque ad vesperās, et in Nātīvitāte Dominī usque in Theophāniam, et ā Paschā usque in Pentēcostēn, et in Pūrificātiōne Deī Genetrīcis atque Assūmptiōne"/>
+                <ITEXT CH="[13]     &quot;Meum vērō refrīgerium habeō hīc omnī diē Dominicō, ā vespere ūsque ad vesperās, et in Nātīvitāte Dominī ūsque in Theophāniam, et ā Paschā ūsque in Pentēcostēn, et in Pūrificātiōne Deī Genetrīcis atque Assūmptiōne"/>
                 <ITEXT FEATURES="inherit superscript" CH="1"/>
-                <ITEXT CH=". [14] Posteā et anteā crucior in profundō īnfernī cum Hērōde et Pīlātō et Annā et Caiphā. Idcircō adiūrō vōs, per Redēmptōrem mundī, [15] ut intercēdere dignēminī ad Dominum Iēsum, ut habeam hīc potestātem esse usque ad ortum sōlis crās, nē mē daemonēs in adventū vestrō crucient atque dūcant ad malam hērēditātem, quam comparāvī"/>
+                <ITEXT CH=". [14] Posteā et anteā crucior in profundō īnfernī cum Hērōde et Pīlātō et Annā et Caiphā. Idcircō adiūrō vōs, per Redēmptōrem mundī, [15] ut intercēdere dignēminī ad Dominum Iēsum, ut habeam hīc potestātem esse ūsque ad ortum sōlis crās, nē mē daemonēs in adventū vestrō crucient atque dūcant ad malam hērēditātem, quam comparāvī"/>
                 <ITEXT FEATURES="inherit superscript" CH="2"/>
-                <ITEXT CH=" malō pretiō.” [16] Cui sānctus Brendānus ait: “Fīat voluntās Dominī: hāc nocte nōn eris morsus daemōnum usque manē.”"/>
+                <ITEXT CH=" malō pretiō.” [16] Cui sānctus Brendānus ait: “Fīat voluntās Dominī: hāc nocte nōn eris morsus daemōnum ūsque manē.”"/>
                 <para PARENT="Latin"/>
                 <ITEXT CH="[17]     Iterum vir Deī interrogābat illum, dīcēns: “Quid sibi vult"/>
                 <ITEXT FEATURES="inherit superscript" CH="3"/>
@@ -14317,11 +14317,11 @@
                 <para/>
                 <ITEXT CH="[22]     Cum autem vespera hōra obumbrāsset Tīthim"/>
                 <ITEXT FEATURES="inherit superscript" CH="1"/>
-                <ITEXT CH=", ecce innumerābilis multitūdō daemonum cooperuit faciem Tīthis in circuitū, vōciferantēs atque dīcentēs: [23] “Recēde, vir Deī, ā nōbīs, quia nōn possumus appropinquāre sociō nostrō usque dum ab illō recēdās, nec faciem prīncipis nostrī ausī"/>
+                <ITEXT CH=", ecce innumerābilis multitūdō daemonum cooperuit faciem Tīthis in circuitū, vōciferantēs atque dīcentēs: [23] “Recēde, vir Deī, ā nōbīs, quia nōn possumus appropinquāre sociō nostrō ūsque dum ab illō recēdās, nec faciem prīncipis nostrī ausī"/>
                 <ITEXT FEATURES="inherit superscript" CH="2"/>
-                <ITEXT CH=" sumus vidēre dōnec sibi reddāmus suum amīcum. [24] Tū vērō redde statim nōbīs nostrum morsum, et nōlī istum hāc nocte dēfendere.” [25] Quibus ait vir Deī: “Nōn ego dēfendō, sed Dominus Iēsus Chrīstus concessit sibi istam noctem hīc esse usque manē.” [26] Cui aiunt daemonēs: “Quōmodo invocās nōmen Dominī super illum, cum sit"/>
+                <ITEXT CH=" sumus vidēre dōnec sibi reddāmus suum amīcum. [24] Tū vērō redde statim nōbīs nostrum morsum, et nōlī istum hāc nocte dēfendere.” [25] Quibus ait vir Deī: “Nōn ego dēfendō, sed Dominus Iēsus Chrīstus concessit sibi istam noctem hīc esse ūsque manē.” [26] Cui aiunt daemonēs: “Quōmodo invocās nōmen Dominī super illum, cum sit"/>
                 <ITEXT FEATURES="inherit superscript" CH="3"/>
-                <ITEXT CH=" ipse trāditor Dominī?” [27] Quibus dīxit vir Deī: “Praecipiō vōbīs in nōmine Dominī nostrī Iēsu Chrīstī ut nihil illī malī faciātis usque manē.”"/>
+                <ITEXT CH=" ipse trāditor Dominī?” [27] Quibus dīxit vir Deī: “Praecipiō vōbīs in nōmine Dominī nostrī Iēsu Chrīstī ut nihil illī malī faciātis ūsque manē.”"/>
                 <para PARENT="Latin"/>
             </StoryText>
         </PAGEOBJECT>
@@ -14689,7 +14689,7 @@
                 <ITEXT FEATURES="inherit superscript" CH="2"/>
                 <ITEXT CH=" Dominus es omnium, ut tuīs sermōnibus obēdiāmus?” [36] Quibus vir Deī ait: “Servus suus sum, et quicquid in suō nōmine praecipiam, inde habeō ministerium dē quibus quōs ille mihi concēdit"/>
                 <ITEXT FEATURES="inherit superscript" CH="3"/>
-                <ITEXT CH=".” [37] Et ita secūtī sunt eum usque dum nōn poterant Iūdam vidēre. Reversī sunt quoque daemonēs et levāvērunt īnfēlīcissimam animam inter illōs cum magnō impetū et ululātū."/>
+                <ITEXT CH=".” [37] Et ita secūtī sunt eum ūsque dum nōn poterant Iūdam vidēre. Reversī sunt quoque daemonēs et levāvērunt īnfēlīcissimam animam inter illōs cum magnō impetū et ululātū."/>
                 <para PARENT="Latin"/>
             </StoryText>
         </PAGEOBJECT>
@@ -15266,7 +15266,7 @@
                 <para/>
                 <ITEXT CH="[1]     Sānctus vērō Brendānus cum suīs commīlitōnibus nāvigāvit contrā merīdiānam plāgam, glōrificāns Deum in omnibus. [2] Tertiā vērō diē appāruit illīs quaedam īnsula parva, contrā merīdiem procul. [3] Cum autem frātrēs coepissent nāvigāre ācrius et appropinquāssent praedictae īnsulae, ait illīs sānctus Brendānus: [4] “Virī frātrēs, nōlīte suprā"/>
                 <ITEXT FEATURES="inherit superscript" CH="1"/>
-                <ITEXT CH=" modum corpora vestra fatīgāre: satis enim habētis labōrem. [5] Septem iam annī sunt postquam ēgressī sumus dē nostrā patriā usque in hōc Pascha quod ventūrum erit cito. [6] Namque modo vidēbitis Paulum heremitam spīritālem, in hāc īnsulā sine ūllō vīctū corporālī commorantem per sexāgintā annōs: [7] nam trīgintā annōs anteā sūmpsit cibum ā quādam"/>
+                <ITEXT CH=" modum corpora vestra fatīgāre: satis enim habētis labōrem. [5] Septem iam annī sunt postquam ēgressī sumus dē nostrā patriā ūsque in hōc Pascha quod ventūrum erit cito. [6] Namque modo vidēbitis Paulum heremitam spīritālem, in hāc īnsulā sine ūllō vīctū corporālī commorantem per sexāgintā annōs: [7] nam trīgintā annōs anteā sūmpsit cibum ā quādam"/>
                 <ITEXT FEATURES="inherit superscript" CH="2"/>
                 <ITEXT CH=" bēstiā per praedictōs annōs."/>
                 <para PARENT="Latin"/>
@@ -15579,7 +15579,7 @@
                 <ITEXT FEATURES="inherit superscript" CH="4"/>
                 <ITEXT CH=" nōminibus singulōs appellābat. [18] At ubi frātrēs audiērunt, admīrātī"/>
                 <ITEXT FEATURES="inherit superscript" CH="5"/>
-                <ITEXT CH=" sunt valdē, nōn tantum dē suā prophētīā, vērum etiam dē suō habitū: [19] erat enim coopertus tōtus capillīs suīs et barbā et cēterīs pilīs usque ad pedēs, et erant candidī sīcut nix, prae nimiā senectūte. [20] Tantum faciēs et oculī vidēbantur illīus; nihil aliud indūmentī"/>
+                <ITEXT CH=" sunt valdē, nōn tantum dē suā prophētīā, vērum etiam dē suō habitū: [19] erat enim coopertus tōtus capillīs suīs et barbā et cēterīs pilīs ūsque ad pedēs, et erant candidī sīcut nix, prae nimiā senectūte. [20] Tantum faciēs et oculī vidēbantur illīus; nihil aliud indūmentī"/>
                 <ITEXT FEATURES="inherit superscript" CH="6"/>
                 <ITEXT CH=" erat sibi iūnctum, exceptō pilōs quī ēgrediēbantur dē suō corpore."/>
                 <para PARENT="Latin"/>
@@ -16158,7 +16158,7 @@
                 <ITEXT FEATURES="inherit superscript" CH="4"/>
                 <ITEXT CH=" pede meō ut īsset unde vēnerat. [36] Cōnfestim vīdī illam cursū vēlōcissimō sulcantem"/>
                 <ITEXT FEATURES="inherit superscript" CH="5"/>
-                <ITEXT CH=" undās per aequora, ut redīret in patriam suam. Ego vērō mānsī hīc usque hodiē."/>
+                <ITEXT CH=" undās per aequora, ut redīret in patriam suam. Ego vērō mānsī hīc ūsque hodiē."/>
                 <para PARENT="Latin"/>
             </StoryText>
         </PAGEOBJECT>
@@ -16629,11 +16629,11 @@
             <StoryText>
                 <DefaultStyle/>
                 <para/>
-                <ITEXT CH="[42]     Post trīgintā quoque annōs invēnī istās duās spēluncās et istum fontem: ab ipsō vīvō per sexāgintā annōs, sine nūtrīmentō alterīus cibī nisi dē hōc fonte. [43] Nōnāgēnārius etenim sum in hāc īnsulā, trigintā annōs in vīctū piscium et sexāgintā annōs in pāstū istīus fontis; et quinquāgintā annōs fuī in patriā meā. [44] Omnēs annī vītae meae usque modo centum quadrāgintā sunt. Et hīc dēbeō modō, sīcut fuerat mihi prōmissum, expectāre diem"/>
+                <ITEXT CH="[42]     Post trīgintā quoque annōs invēnī istās duās spēluncās et istum fontem: ab ipsō vīvō per sexāgintā annōs, sine nūtrīmentō alterīus cibī nisi dē hōc fonte. [43] Nōnāgēnārius etenim sum in hāc īnsulā, trigintā annōs in vīctū piscium et sexāgintā annōs in pāstū istīus fontis; et quinquāgintā annōs fuī in patriā meā. [44] Omnēs annī vītae meae ūsque modo centum quadrāgintā sunt. Et hīc dēbeō modō, sīcut fuerat mihi prōmissum, expectāre diem"/>
                 <ITEXT FEATURES="inherit superscript" CH="1"/>
                 <ITEXT CH=" iūdiciī in istā carne."/>
                 <para PARENT="Latin"/>
-                <ITEXT CH="[45]     “Pergite igitur ad patriam vestram et vōbīscum asportāte vāscula plēna dē istō fonte; [46] necesse enim erit vōbīs, quia adhūc restat iter vestrum per quadrāgintā diēs, idest usque in Sabbatum Paschae. [47] Celebrābitis vērō Sabbatum Sānctum et Pascha atque sānctōs diēs Paschae ubi celebrāstis per sex annōs; [48] et posteā, acceptā benedictiōne prōcūrātōris vestrī, proficīscēminī ad Terram Reprōmissiōnis Sānctōrum, et ibi manēbitis quadrāgintā diēs; [49] et post haec Deus patrum vestrōrum dūcet vōs sānōs atque incolumēs in terram nātīvitātis vestrae.”"/>
+                <ITEXT CH="[45]     “Pergite igitur ad patriam vestram et vōbīscum asportāte vāscula plēna dē istō fonte; [46] necesse enim erit vōbīs, quia adhūc restat iter vestrum per quadrāgintā diēs, idest ūsque in Sabbatum Paschae. [47] Celebrābitis vērō Sabbatum Sānctum et Pascha atque sānctōs diēs Paschae ubi celebrāstis per sex annōs; [48] et posteā, acceptā benedictiōne prōcūrātōris vestrī, proficīscēminī ad Terram Reprōmissiōnis Sānctōrum, et ibi manēbitis quadrāgintā diēs; [49] et post haec Deus patrum vestrōrum dūcet vōs sānōs atque incolumēs in terram nātīvitātis vestrae.”"/>
                 <para PARENT="Latin"/>
             </StoryText>
         </PAGEOBJECT>
@@ -17107,7 +17107,7 @@
                 <ITEXT FEATURES="inherit superscript" CH="1"/>
                 <ITEXT CH=" enim vōbīs erit malī, sed adiūtōrium imminet itineris.” [10] Rēctō cursū"/>
                 <ITEXT FEATURES="inherit superscript" CH="2"/>
-                <ITEXT CH=" bēlua pervēnit usque ad lītus Īnsulae Avium, ibique dēmorātī sunt usque ad octāvās Pentēcostēn."/>
+                <ITEXT CH=" bēlua pervēnit ūsque ad lītus Īnsulae Avium, ibique dēmorātī sunt ūsque ad octāvās Pentēcostēn."/>
                 <para PARENT="Latin"/>
                 <ITEXT CH="[11]     Trānsāctō iam tempore sollemnitātum, prōcūrātor quī cum illīs erat dīxit sānctō Brendānō: “Ascendite nāviculam et implēte utrēs fonte istō. [12] Erō namque socius itineris vestrī istā vice atque ductor; sine mē nōn poteritis invenīre Terram Reprōmissiōnis Sānctōrum.” [13] Ascendentibus autem nāvim, omnēs avēs quae in illā īnsulā erant quasi ūnā vōce dīcēbant: “Prosperum iter faciet vōbīs Deus salūtārium nostrōrum.”"/>
                 <para PARENT="Latin"/>
@@ -18231,7 +18231,7 @@
                 <ITEXT FEATURES="inherit superscript" CH="1"/>
                 <ITEXT CH=", antequam portum illīus potuissent tenēre. [2] Sānctus Brendānus praecēpit frātribus exīre dē nāvī, in mare, et ita fēcērunt; tenēbantque nāvim ex utrāque parte cum fūnibus"/>
                 <ITEXT FEATURES="inherit superscript" CH="2"/>
-                <ITEXT CH=", usque dum ad portum vēnit. [3] Erat autem illa īnsula petrōsa sine ūllā herbā. Silva rāra erat ibi, et in lītore illīus nihil dē arēnā fuit. [4] Porrō pernoctantibus in ōrātiōnibus et in vigiliīs frātribus forīs nāvim, vir Deī sedēbat intus: sciēbat enim quālis erat illa īnsula; tamen nōluit indicāre, nē fuissent"/>
+                <ITEXT CH=", ūsque dum ad portum vēnit. [3] Erat autem illa īnsula petrōsa sine ūllā herbā. Silva rāra erat ibi, et in lītore illīus nihil dē arēnā fuit. [4] Porrō pernoctantibus in ōrātiōnibus et in vigiliīs frātribus forīs nāvim, vir Deī sedēbat intus: sciēbat enim quālis erat illa īnsula; tamen nōluit indicāre, nē fuissent"/>
                 <ITEXT FEATURES="inherit superscript" CH="3"/>
                 <ITEXT CH=" perterritī."/>
                 <para PARENT="Latin"/>
@@ -19039,7 +19039,7 @@
                 <para PARENT="Latin"/>
                 <ITEXT CH="[3]      Cumque coepissent circuīre illam īnsulam, vīdērunt aquās largissimās mānāre ex dīversīs fontibus plēnās piscibus. Dīxit sānctus Brendānus frātribus suīs: [4] “Faciāmus hīc opus dīvīnum; sacrificēmus Deō agnam"/>
                 <ITEXT FEATURES="inherit superscript" CH="3"/>
-                <ITEXT CH=" immaculātam, quia hodiē est Cēna Dominī.” Et ibi mānsērunt usque in Sabbatum Sānctum Paschae."/>
+                <ITEXT CH=" immaculātam, quia hodiē est Cēna Dominī.” Et ibi mānsērunt ūsque in Sabbatum Sānctum Paschae."/>
                 <para PARENT="Latin"/>
                 <ITEXT CH="[5]      Perambulantēs autem illam īnsulam, invēnērunt dīversōs gregēs ovium ūnīus colōris, idest albī, ita ut nōn possent"/>
                 <ITEXT FEATURES="inherit superscript" CH="4"/>
@@ -19056,7 +19056,7 @@
                 <para/>
                 <ITEXT CH="[8]     Cum illam alligāssent"/>
                 <ITEXT FEATURES="inherit superscript" CH="1"/>
-                <ITEXT CH=" per cornua, sequēbātur illa—quasi domestica—illum quī tenēbat ligātūram in manū suā, usque ad locum ubi stetit vir Deī. [9] Iterum ait vir Deī ūnī ex frātribus: “Accipe agnum immaculātum dē grege.” Quī festīnāvit et fēcit sīcut sibi iussum fuerat"/>
+                <ITEXT CH=" per cornua, sequēbātur illa—quasi domestica—illum quī tenēbat ligātūram in manū suā, ūsque ad locum ubi stetit vir Deī. [9] Iterum ait vir Deī ūnī ex frātribus: “Accipe agnum immaculātum dē grege.” Quī festīnāvit et fēcit sīcut sibi iussum fuerat"/>
                 <ITEXT FEATURES="inherit superscript" CH="2"/>
                 <ITEXT CH="."/>
                 <para PARENT="Latin"/>
@@ -19076,9 +19076,9 @@
                 <para/>
                 <ITEXT CH="[16]     Fīnītīs omnibus et allātīs"/>
                 <ITEXT FEATURES="inherit superscript" CH="1"/>
-                <ITEXT CH=" nāvī, dīxit ad sānctum Brendānum praedictus vir: [17] “Vestra nāvicula nōn potest amplius portāre. Ego vōbīs trānsmittam post octo diēs quae vōbīs necessāria sunt dē cibō et dē pōtū usque in Pentēcostēn.” [18] Sānctus Brendānus dīxit: “Unde"/>
+                <ITEXT CH=" nāvī, dīxit ad sānctum Brendānum praedictus vir: [17] “Vestra nāvicula nōn potest amplius portāre. Ego vōbīs trānsmittam post octo diēs quae vōbīs necessāria sunt dē cibō et dē pōtū ūsque in Pentēcostēn.” [18] Sānctus Brendānus dīxit: “Unde"/>
                 <ITEXT FEATURES="inherit superscript" CH="2"/>
-                <ITEXT CH=" tū nōstī ubi erimus post octo diēs?” [19] Cuī ait: “Hāc nocte eritis in illā īnsulā quam vōs vidētis prope, et crās usque in sextam hōram. [20] Posteā nāvigābitis ad aliam īnsulam, quae est nōn longē ab istā īnsulā contrā occidentālem plāgam, quae vocātur Paradīsus Avium, ibique manēbitis usque in octāvās Pentēcostēn.”"/>
+                <ITEXT CH=" tū nōstī ubi erimus post octo diēs?” [19] Cuī ait: “Hāc nocte eritis in illā īnsulā quam vōs vidētis prope, et crās ūsque in sextam hōram. [20] Posteā nāvigābitis ad aliam īnsulam, quae est nōn longē ab istā īnsulā contrā occidentālem plāgam, quae vocātur Paradīsus Avium, ibique manēbitis ūsque in octāvās Pentēcostēn.”"/>
                 <para PARENT="Latin"/>
                 <ITEXT CH="[21] Interrogābat quoque sānctus Brendānus illum, quōmodo potuissent"/>
                 <ITEXT FEATURES="inherit superscript" CH="3"/>
@@ -19103,7 +19103,7 @@
                 <ITEXT FEATURES="inherit superscript" CH="1"/>
                 <ITEXT CH=", portāns cophinum plēnum pānibus et amphoram aquae, quī dīxit eīs: [3] “Sūmite benedictiōnem dē manū frātris vestrī. Restat"/>
                 <ITEXT FEATURES="inherit superscript" CH="2"/>
-                <ITEXT CH=" enim longum iter usque dum inveniātis cōnsōlātiōnem; tamen nōn dēficiet vōbīs pānis neque aqua, ab istō diē usque in Paschā.” [4] Acceptā benedictiōne coepērunt nāvigāre in ōceanum; semper per biduānās reficiēbant. Itaque per dīversa loca ōceanī ferēbātur"/>
+                <ITEXT CH=" enim longum iter ūsque dum inveniātis cōnsōlātiōnem; tamen nōn dēficiet vōbīs pānis neque aqua, ab istō diē ūsque in Paschā.” [4] Acceptā benedictiōne coepērunt nāvigāre in ōceanum; semper per biduānās reficiēbant. Itaque per dīversa loca ōceanī ferēbātur"/>
                 <ITEXT FEATURES="inherit superscript" CH="3"/>
                 <ITEXT CH=" nāvis."/>
                 <para PARENT="Latin"/>
@@ -19698,7 +19698,7 @@
                 <para PARENT="Default Paragraph Style"/>
                 <ITEXT CH="[6]      Ēlevantēs sē frātrēs ā terrā, ēlevātōque frātre ā praedictō sānctō patre, ecce vīdērunt Aethiopum parvulum salīre"/>
                 <ITEXT FEATURES="inherit superscript" CH="1"/>
-                <ITEXT CH=" dē sinū suō et ululantem vōce magnā, dīcēns: [7] “Cūr mē, vir Deī, iactās dē meā habitātiōne, in quā habitāvī septem annōs, et facis mē aliēnārī ab hērēditāte meā?” [8] Sānctus Brendānus ad hanc vōcem dīxit: “Praecipiō tibi in nōmine Dominī nostri Iēsu Chrīstī ut nūllum hominem laeseris usque ad diem iūdiciī.&quot;"/>
+                <ITEXT CH=" dē sinū suō et ululantem vōce magnā, dīcēns: [7] “Cūr mē, vir Deī, iactās dē meā habitātiōne, in quā habitāvī septem annōs, et facis mē aliēnārī ab hērēditāte meā?” [8] Sānctus Brendānus ad hanc vōcem dīxit: “Praecipiō tibi in nōmine Dominī nostri Iēsu Chrīstī ut nūllum hominem laeseris ūsque ad diem iūdiciī.&quot;"/>
                 <para PARENT="Latin"/>
                 <ITEXT CH="[9]     Iterum conversus vir Deī ad praedictum frātrem ait: “Sūme corpus"/>
                 <ITEXT FEATURES="inherit superscript" CH="2"/>
@@ -20666,7 +20666,7 @@
                 <para PARENT="Latin"/>
                 <ITEXT CH="[26]      Cum autem frātrēs obdormīssent, vīdit sānctus Brendānus opus diabolī, īnfantem Aethiopum"/>
                 <ITEXT FEATURES="inherit superscript" CH="6"/>
-                <ITEXT CH=", habentem frēnum in manū et iocantem ante frātrem praedictum. Statim sānctus Brendānus surrēxit et coepit ōrāre, pernoctāns usque ad diem. [27] Iam vērō manē, cum frātrēs ad opus Deī festīnāssent"/>
+                <ITEXT CH=", habentem frēnum in manū et iocantem ante frātrem praedictum. Statim sānctus Brendānus surrēxit et coepit ōrāre, pernoctāns ūsque ad diem. [27] Iam vērō manē, cum frātrēs ad opus Deī festīnāssent"/>
                 <ITEXT FEATURES="inherit superscript" CH="7"/>
                 <ITEXT CH=", ut—post hoc—iter ēgissent ad nāvim, ecce appāruit mēnsa parāta sīcut et prīdiē. Ita per trēs diēs et trēs noctēs praeparāvit Deus prandium servīs suīs."/>
                 <para PARENT="Latin"/>
@@ -20680,7 +20680,7 @@
                 <ITEXT FEATURES="inherit superscript" CH="1"/>
                 <ITEXT CH=" in terrā, praecēpit sānctus Brendānus ut nihil dē supellectilī tulissent dē nāvī forās. [14] Porrō ambulantibus per rīpās maris, occurit illīs canis per quandam sēmitam, et venit ad pedēs sānctī Brendānī, sīcut"/>
                 <ITEXT FEATURES="inherit superscript" CH="2"/>
-                <ITEXT CH=" solent canēs venīre ad pedēs dominōrum suōrum. [15] Tunc sānctus Brendānus dīxit frātribus suīs: “Nōnne bonum nūntium dōnāvit nōbīs Deus? Sequiminī eum.” [16] Tunc sānctus Brendānus cum frātribus suīs secūtī sunt canem usque ad oppidum."/>
+                <ITEXT CH=" solent canēs venīre ad pedēs dominōrum suōrum. [15] Tunc sānctus Brendānus dīxit frātribus suīs: “Nōnne bonum nūntium dōnāvit nōbīs Deus? Sequiminī eum.” [16] Tunc sānctus Brendānus cum frātribus suīs secūtī sunt canem ūsque ad oppidum."/>
                 <para PARENT="Latin"/>
                 <ITEXT CH="[17]      Intrantibus autem oppidum, vīdērunt aulam magnam ac strātam"/>
                 <ITEXT FEATURES="inherit superscript" CH="3"/>
@@ -20731,7 +20731,7 @@
                 <ITEXT FEATURES="inherit superscript" CH="1"/>
                 <ITEXT CH=". [2] Habēbant autem prosperum ventum: nihil fuit eīs opus"/>
                 <ITEXT FEATURES="inherit superscript" CH="2"/>
-                <ITEXT CH=" nāvigāre nisi tenēre vēla. Post quīndecim vērō diēs cessāvit ventus, et coepērunt nāvigāre usque"/>
+                <ITEXT CH=" nāvigāre nisi tenēre vēla. Post quīndecim vērō diēs cessāvit ventus, et coepērunt nāvigāre ūsque"/>
                 <ITEXT FEATURES="inherit superscript" CH="3"/>
                 <ITEXT CH=" dum vīrēs eōrum dēfēcērunt."/>
                 <para PARENT="Latin"/>
@@ -21252,7 +21252,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="diērum: days; plural common genitive from diēs, diēī"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="eō: I go; 1st person singular present active from eo, ire, iī, itus"/>
+                <ITEXT CH="eō: I go; 1st person singular present active from eō, īre, iī, itus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="eōdem: the same;(pronoun)"/>
                 <para PARENT="Vocab"/>
@@ -21260,7 +21260,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="et: and"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="eunt: they go; 3rd person plural present active from eo, ire, iī, itus"/>
+                <ITEXT CH="eunt: they go; 3rd person plural present active from eō, īre, iī, itus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="frātribus: brothers; plural masculine ablative from frāter, frātris"/>
                 <para PARENT="Vocab"/>
@@ -22116,7 +22116,7 @@
                 <ITEXT FEATURES="inherit superscript" CH="3"/>
                 <ITEXT CH=". [12] Nihil aliud cibī ministrātur"/>
                 <ITEXT FEATURES="inherit superscript" CH="4"/>
-                <ITEXT CH=" nisi pōma et nucēs atque rādīcēs et cētera genera herbārum. Frātrēs post complētōrium in suās singulās cellulās usque ad gallōrum cantūs seu pulsum campanae permansērunt."/>
+                <ITEXT CH=" nisi pōma et nucēs atque rādīcēs et cētera genera herbārum. Frātrēs post complētōrium in suās singulās cellulās ūsque ad gallōrum cantūs seu pulsum campanae permansērunt."/>
                 <para PARENT="Latin"/>
                 <ITEXT CH="[13]     “Pernoctantibus nōbīs et perambulantibus"/>
                 <ITEXT FEATURES="inherit superscript" CH="5"/>
@@ -22609,7 +22609,7 @@
                 <para PARENT="Latin"/>
                 <ITEXT CH="[20]      Cum haec exposuimus intrā nōs, subitō appāruit quīdam vir"/>
                 <ITEXT FEATURES="inherit superscript" CH="6"/>
-                <ITEXT CH=" magnō splendōre cōram nōbīs, quī statim propriīs nōminibus nōs appellāvit atque salūtāvit, dīcēns: [21] ‘Eugē, bonī frātrēs! Dominus enim revēlāvit vōbīs istam terram, quam datūrus est suīs sānctīs. Est enim medietās īnsulae istīus, usque ad istud flūmen. Nōn licet vōbīs trānsīre ulterius: revertiminī igitur unde existis.’ [22] Cum haec dīxisset, statim illum interrogāvī unde esset"/>
+                <ITEXT CH=" magnō splendōre cōram nōbīs, quī statim propriīs nōminibus nōs appellāvit atque salūtāvit, dīcēns: [21] ‘Eugē, bonī frātrēs! Dominus enim revēlāvit vōbīs istam terram, quam datūrus est suīs sānctīs. Est enim medietās īnsulae istīus, ūsque ad istud flūmen. Nōn licet vōbīs trānsīre ulterius: revertiminī igitur unde existis.’ [22] Cum haec dīxisset, statim illum interrogāvī unde esset"/>
                 <ITEXT FEATURES="inherit superscript" CH="7"/>
                 <ITEXT CH=" aut quō nōmine vocārētur."/>
                 <para PARENT="Latin"/>
@@ -22911,7 +22911,7 @@
                 <ITEXT FEATURES="inherit superscript" CH="4"/>
                 <ITEXT CH=" ipsīus est.’"/>
                 <para PARENT="Latin"/>
-                <ITEXT CH="[26]     “Confestim inchoāvimus iter et ille praedictus vir nōbīscum pervēnit usque ad lītus ubi erat nostra nāvicula. [27] Ascendentibus autem in nāvim, raptus"/>
+                <ITEXT CH="[26]     “Confestim inchoāvimus iter et ille praedictus vir nōbīscum pervēnit ūsque ad lītus ubi erat nostra nāvicula. [27] Ascendentibus autem in nāvim, raptus"/>
                 <ITEXT FEATURES="inherit superscript" CH="5"/>
                 <ITEXT CH=" est īdem vir ab oculīs nostrīs, et vēnimus per praedictam cālīginem ad Īnsulam Dēliciōsam. [28] At ubi frātrēs nōs vīdērunt, exultābant exultātiōne magnā dē adventū nostrō, et plōrābant dē absentiā nostrā multō tempore, dīcentēs: ‘Cūr, patrēs, dīmīsistis vestrās ovēs sine pāstōre in istā silvā errantēs? [29] Nōvimus autem abbātem nostrum frequenter ā nōbīs discēdere in aliquam partem—sed nescīmus in quam—et ibīdem"/>
                 <ITEXT FEATURES="inherit superscript" CH="6"/>
@@ -23103,7 +23103,7 @@
                 <ITEXT FEATURES="inherit superscript" CH="4"/>
                 <ITEXT CH=" abbās Mernoc; angelī enim Dominī cūstōdiunt illam. Nōnne cognōscitis in odōre vestīmentōrum nostrōrum quod in paradīsō Deī fuimus?’"/>
                 <para PARENT="Latin"/>
-                <ITEXT CH="[33]     “Tunc frātrēs respondērunt, dīcentēs: ‘Abbā, nōvimus quia fuistī in paradīsō Deī; spatium maris, ubi est ille paradīsus, ignōrāmus. [34] Nam saepe fragrānciam vestīmentōrum abbātis nostrī probāvimus: paene usque ad quadrāgintā diēs tenēbantur ab odōre.’"/>
+                <ITEXT CH="[33]     “Tunc frātrēs respondērunt, dīcentēs: ‘Abbā, nōvimus quia fuistī in paradīsō Deī; spatium maris, ubi est ille paradīsus, ignōrāmus. [34] Nam saepe fragrānciam vestīmentōrum abbātis nostrī probāvimus: paene ūsque ad quadrāgintā diēs tenēbantur ab odōre.’"/>
                 <para PARENT="Latin"/>
             </StoryText>
         </PAGEOBJECT>
@@ -23197,7 +23197,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="duās: two; plural feminine accusative from duo -ae o, secundus -a -um, bīnī -ae -a, bis"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="eāmus: let us go; 1st person plural present active subjunctive from eo, ire, iī, itus"/>
+                <ITEXT CH="eāmus: let us go; 1st person plural present active subjunctive from eō, īre, iī, itus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="ebdomadās: weeks; plur. fem. acc. from ebdomada, ebdomadae"/>
                 <para PARENT="Vocab"/>
@@ -23456,7 +23456,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="Iēsūs: Jesus; singular masculine nominative from Iēsūs, Iēsū"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="iit: he went; 3rd person singular perfect active from eo, ire, iī, itus"/>
+                <ITEXT CH="iit: he went; 3rd person singular perfect active from eō, īre, iī, itus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="in: into (with accusative), in (with ablative)"/>
                 <para PARENT="Vocab"/>
@@ -23682,11 +23682,11 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="hāc: this; singular feminine ablative of hic, haec, hoc"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="ībimus: we will go; 1st person plural future active from eo, ire, iī, itus"/>
+                <ITEXT CH="ībimus: we will go; 1st person plural future active from eō, īre, iī, itus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="iēiūnābant: they were fasting"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="iērunt: they went; 3rd person plural perfect active from eo, ire, iī, itus"/>
+                <ITEXT CH="iērunt: they went; 3rd person plural perfect active from eō, īre, iī, itus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="illam: that; singular feminine accusative from ille, illa, illud"/>
                 <para PARENT="Vocab"/>
@@ -23845,7 +23845,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="iuncturās: joinings, junctions; plural feminine accusative from junctura, juncturae"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="iit: he went; 3rd person singular perfect active from eo, ire, iī, itus"/>
+                <ITEXT CH="iit: he went; 3rd person singular perfect active from eō, īre, iī, itus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="lignō: wood; singular neuter ablative from lignum, lignī"/>
                 <para PARENT="Vocab"/>
@@ -24051,7 +24051,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="haec: this, these; singular feminine nominative or plural neuter nom. or acc. of hic, haec, hoc"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="iērunt: they went; 3rd person plural perfect active from eo, ire, iī, itus"/>
+                <ITEXT CH="iērunt: they went; 3rd person plural perfect active from eō, īre, iī, itus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="Iēsūs: Jesus; singular masculine nominative from Iēsūs, Iēsū"/>
                 <para PARENT="Vocab"/>
@@ -24191,7 +24191,7 @@
                 <ITEXT CH=" argentea. Sānctus Brendānus dīxit “Deus dēdit cibum nōbīs. Accipite cibum.” Monachī ēdērunt pānēs et piscēs."/>
                 <para PARENT="Latin"/>
                 <tab/>
-                <ITEXT CH="Tunc, monachī invēnērunt lectula in aulā et dormiēbant. Sānctus Brendānus vīdit daemōnem. Daemōn temptābat praedictum frātrem cum frēnō argenteō. Et Sānctus Brendānus ōrābat pernoctāns usque ad diem. In māne, monachī ēdērunt"/>
+                <ITEXT CH="Tunc, monachī invēnērunt lectula in aulā et dormiēbant. Sānctus Brendānus vīdit daemōnem. Daemōn temptābat praedictum frātrem cum frēnō argenteō. Et Sānctus Brendānus ōrābat pernoctāns ūsque ad diem. In māne, monachī ēdērunt"/>
                 <ITEXT FEATURES="inherit superscript" CH="3"/>
                 <ITEXT CH=" pānēs et piscēs iterum. Per trēs diēs et trēs noctēs Deus praeparāvit cēnam servīs suīs."/>
                 <para PARENT="Latin"/>
@@ -24610,7 +24610,7 @@
                 <ITEXT CH=". Et angelī dūxērunt eum ad Paradīsum."/>
                 <para PARENT="Latin"/>
                 <tab/>
-                <ITEXT CH="Tunc frātrēs cum Sānctō Brendānō iērunt ad lītus. Nāvis erat in lītore. Iuvenis appāruit cum pānibus et aquā et dīxit: “Accipite pānēs et aquam, et habēbitis cibum usque in Paschā.” Et nāvigāvērunt in ōceanum."/>
+                <ITEXT CH="Tunc frātrēs cum Sānctō Brendānō iērunt ad lītus. Nāvis erat in lītore. Iuvenis appāruit cum pānibus et aquā et dīxit: “Accipite pānēs et aquam, et habēbitis cibum ūsque in Paschā.” Et nāvigāvērunt in ōceanum."/>
                 <trail PARENT="Latin"/>
             </StoryText>
             <PageItemAttributes>
@@ -24884,7 +24884,7 @@
                 <ITEXT CH="Tunc appāruit vir cum pānibus et cēterō cibō ad diem fēstum. Vir dedit cibum Brendānō. Sānctus Brendānus dīxit: “Frātrēs, Dominus noster Iēsus Chrīstus dedit nōbīs hoc locum, ubi possumus celebrāre sānctam resurrēctiōnem suam.”"/>
                 <para PARENT="Latin"/>
                 <tab/>
-                <ITEXT CH="Posteā, vir dīxit Sānctō Brendānō: “Post octo diēs ego dabō vōbīs cibum et aquam usque Pentēcostēn.” Et Sānctus Brendānus dīxit “Scīs ubi erimus post octo diēs?” Et vir dīxit: “Vidēs īnsulam prope hīc. Hāc nocte eritis in illā īnsulā. Posteā nāvigābitis ad aliam īnsulam, nōmine Paradīsus Āvium. Manēbitis usque Pentēcostēn.&quot;"/>
+                <ITEXT CH="Posteā, vir dīxit Sānctō Brendānō: “Post octo diēs ego dabō vōbīs cibum et aquam ūsque Pentēcostēn.” Et Sānctus Brendānus dīxit “Scīs ubi erimus post octo diēs?” Et vir dīxit: “Vidēs īnsulam prope hīc. Hāc nocte eritis in illā īnsulā. Posteā nāvigābitis ad aliam īnsulam, nōmine Paradīsus Āvium. Manēbitis ūsque Pentēcostēn.&quot;"/>
                 <para PARENT="Latin"/>
                 <tab/>
                 <ITEXT CH="Brendānus dīxit: “Cūr sunt ovēs tuae magnae? Ovēs tuae sunt maior quam bovēs.” Vir respondit: “Nēmō capit lactem dē ovibus in hāc īnsulā, et nōn est hiemps.”"/>
@@ -26440,7 +26440,7 @@
                 <para PARENT="Latin"/>
                 <ITEXT CH="      Vēnērunt ad īnsulam, et īdem prōcūrātor occurrit illīs et dūxit illōs ad portum. Prōcūrātor extendit tentōrium et praeparāvit balneum – erat Cēna Dominī – et induit omnēs frātrēs novīs vestīmentīs."/>
                 <para PARENT="Latin"/>
-                <ITEXT CH="      Frātrēs celebrābant Passiōnem Dominī cum magnā dīligentiā usque Sabbatum Sānctum. Immolāvērunt victimās spīritālēs et ēdērunt Cēnam Dominī. "/>
+                <ITEXT CH="      Frātrēs celebrābant Passiōnem Dominī cum magnā dīligentiā ūsque Sabbatum Sānctum. Immolāvērunt victimās spīritālēs et ēdērunt Cēnam Dominī. "/>
                 <para PARENT="Latin"/>
                 <ITEXT CH="      Prōcūrātor dīxit: “Nāvigāte, et celebrātē Resurrēctiōnem Dominī in Paradīsō Avium.” Onerāvit nāvem cum pānibus et pōtū et carnibus dēliciīs. Sānctus Brendānus dedit benedictiōnem et nāvigāvērunt ad Īnsulam Avium."/>
                 <para PARENT="Latin"/>
@@ -26639,11 +26639,11 @@
             <StoryText>
                 <DefaultStyle/>
                 <para/>
-                <ITEXT CH="      Avēs cantābant hymnōs. Frātrēs celebrāvērunt fēsta Paschālia usque ad octāvās Pentēcostēn. Prōcūrātor vēnit ad illōs in diē Dominicō octāvīs Paschae, et portāvit cibum."/>
+                <ITEXT CH="      Avēs cantābant hymnōs. Frātrēs celebrāvērunt fēsta Paschālia ūsque ad octāvās Pentēcostēn. Prōcūrātor vēnit ad illōs in diē Dominicō octāvīs Paschae, et portāvit cibum."/>
                 <para PARENT="Latin"/>
-                <ITEXT CH="      Resēdērunt ūnā mēnsā, tunc praedicta avis sēdit in prōrā nāviculae et extendit ālās suās. Avis dīxit: “Deus prōposuit vōbīs quattuor loca per quattuor tempora usque fīnem septem annōrum peregrīnātiōnis vestrae: celebrābitis Cēnam Dominī cum vestrō prōcūrātōre omnī annō; celebrābitis Pascham in dorsō bēluae"/>
+                <ITEXT CH="      Resēdērunt ūnā mēnsā, tunc praedicta avis sēdit in prōrā nāviculae et extendit ālās suās. Avis dīxit: “Deus prōposuit vōbīs quattuor loca per quattuor tempora ūsque fīnem septem annōrum peregrīnātiōnis vestrae: celebrābitis Cēnam Dominī cum vestrō prōcūrātōre omnī annō; celebrābitis Pascham in dorsō bēluae"/>
                 <ITEXT FEATURES="inherit superscript" CH="1"/>
-                <ITEXT CH="; celebrābitis fēstam Paschālia nōbīscum usque in octāvās Pentēcostēn; celebrābitis Nātīvitātem Dominī apud familiam Ailbēī. Post septem annōs, inveniētis Terram Reprōmissiōnis Sānctōrum, et ibi habitābitis quadrāgintā diēbus. Posteā revertētis ad terram vestrae.” Brendānus sē prōstrāvit ad terram cum frātribus suīs et laudāvērunt Deum. Tunc avis revertit ad arborem."/>
+                <ITEXT CH="; celebrābitis fēstam Paschālia nōbīscum ūsque in octāvās Pentēcostēn; celebrābitis Nātīvitātem Dominī apud familiam Ailbēī. Post septem annōs, inveniētis Terram Reprōmissiōnis Sānctōrum, et ibi habitābitis quadrāgintā diēbus. Posteā revertētis ad terram vestrae.” Brendānus sē prōstrāvit ad terram cum frātribus suīs et laudāvērunt Deum. Tunc avis revertit ad arborem."/>
                 <para PARENT="Latin"/>
                 <ITEXT CH="      Tunc prōcūrātor dīxit: “Revertam ad vōs, in diē adventūs"/>
                 <ITEXT FEATURES="inherit superscript" CH="2"/>
@@ -27625,7 +27625,7 @@
                 <DefaultStyle/>
                 <para/>
                 <tab/>
-                <ITEXT CH="Turmae cantābant multōs hymnōs, et nūbēs mīrae clāritātis cooperuērunt īnsulam. Turmae cantābant usque māne, quandō īnsula discooperta est dē nūbe. Deinde immolābant agnum immaculātum et omnēs veniēbant ad commūniōnem. Dīxērunt: “Hoc sacrum corpus Dominī, et Salvātōris sanguinem, sūmite vōbīs in vītam aeternam.”"/>
+                <ITEXT CH="Turmae cantābant multōs hymnōs, et nūbēs mīrae clāritātis cooperuērunt īnsulam. Turmae cantābant ūsque māne, quandō īnsula discooperta est dē nūbe. Deinde immolābant agnum immaculātum et omnēs veniēbant ad commūniōnem. Dīxērunt: “Hoc sacrum corpus Dominī, et Salvātōris sanguinem, sūmite vōbīs in vītam aeternam.”"/>
                 <para PARENT="Latin"/>
                 <tab/>
                 <ITEXT CH="Deinde duo ex turmā iuvenum portāvērunt cophinum plēnum dē scaltīs purpureīs et mīsērunt in nāvim, et dīxērunt: “Sūmite dē frūctū Īnsulae Virōrum Fortium et reddite nōbīs frātrem"/>
@@ -27996,7 +27996,7 @@
                 <para PARENT="Chapter Heading"/>
                 <para/>
                 <tab/>
-                <ITEXT CH="Post duodecim diēs, Sānctus Brendānus iēiūnāvit. Post trēs diēs, avis grandissima volāvit super nāvem.  Avis habuit rāmum ūvārum. Avis mīsit rāmum dē ōre suō in sinum sānctī virī. Tunc Sānctus Brendānus vocāvit frātrēs suōs ad sē et dīxit: “Vidēte et sūmite prandium quod Deus mīsit vōbīs. Erant ūvae sīcut pōma, et habēbant vīctum usque ad duodecimum diem."/>
+                <ITEXT CH="Post duodecim diēs, Sānctus Brendānus iēiūnāvit. Post trēs diēs, avis grandissima volāvit super nāvem.  Avis habuit rāmum ūvārum. Avis mīsit rāmum dē ōre suō in sinum sānctī virī. Tunc Sānctus Brendānus vocāvit frātrēs suōs ad sē et dīxit: “Vidēte et sūmite prandium quod Deus mīsit vōbīs. Erant ūvae sīcut pōma, et habēbant vīctum ūsque ad duodecimum diem."/>
                 <para PARENT="Latin"/>
                 <tab/>
                 <ITEXT CH="Iterum vir Deī coepit ieiūnāre cum frātribus suīs. Tertiā diē vīdērunt īnsulam, tōtam coopertam cum arboribus dēnsissimīs. Arbōrēs habēbant frūctum praedictum ūvārum incrēdibilī fertilitāte"/>
@@ -29159,7 +29159,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="istam: that; singular feminine accusative from iste, ista, istud"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="īit: he went; 3rd person singular perfect active from eo, ire, iī, itus"/>
+                <ITEXT CH="īit: he went; 3rd person singular perfect active from eō, īre, iī, itus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="līberā: liberate!; 2nd person singular present active imperative from līberō, līberāre, līberāvī, līberātus"/>
                 <para PARENT="Vocab"/>
@@ -29392,13 +29392,13 @@
                 <ITEXT CH="Alterā diē appāruit illīs mōns altus in ōceanō. Īnsula erat valdē fūmōsus in summitāte. Et ventus trāxit illōs ad lītus eiusdem īnsulae. Erat rīpa magnae altitūdinis, et vix potuērunt vidēre summitātem. Rīpa erat colōris carbōnis et mīrae rēctitūdinis sīcut mūrus."/>
                 <para PARENT="Latin"/>
                 <tab/>
-                <ITEXT CH="Ūnus ex tribus frātribus exilīvit dē nāve et coepit ambulāre usque ad fundāmentum rīpae. Clāmāvit et dīxit: “Vae mihi, Pater! Exilīvit ā vōbīs, et nōn possum venīre ad vōs.” "/>
+                <ITEXT CH="Ūnus ex tribus frātribus exilīvit dē nāve et coepit ambulāre ūsque ad fundāmentum rīpae. Clāmāvit et dīxit: “Vae mihi, Pater! Exilīvit ā vōbīs, et nōn possum venīre ad vōs.” "/>
                 <para PARENT="Latin"/>
                 <tab/>
                 <ITEXT CH="Frātrēs dūcēbant nāvem retrō ā terrā et dīxērunt: “Miserēre nōbīs, Domine, miserēre nōbīs.” Et Brendānus aspiciēbat quōmodo daemōnēs dūcēbant virum īnfēlīcem ad tormenta et flammās. Brendānus dīxit: “Vae tibi, fīlī, quia recēpistī, in vītā tuā, meritī tālem fīnem!”"/>
                 <para PARENT="Latin"/>
                 <tab/>
-                <ITEXT CH="Tunc frātrēs nāvigāvērunt ab īnsulā. Aspēxērunt īnsulam et vīdērunt montem discoopertum ā fūmō, et flammās usque ad aethera."/>
+                <ITEXT CH="Tunc frātrēs nāvigāvērunt ab īnsulā. Aspēxērunt īnsulam et vīdērunt montem discoopertum ā fūmō, et flammās ūsque ad aethera."/>
                 <para PARENT="Latin"/>
             </StoryText>
             <PageItemAttributes>
@@ -29657,13 +29657,13 @@
                 <DefaultStyle/>
                 <para/>
                 <tab/>
-                <ITEXT CH="Sed sum hīc omnī diē Dominicō. Posteā et anteā crucior in profundō īnfernī cum Hērōde et Pīlātō et Annā et Caiphā. Adiūrō vōs: ōrā ad Dominum Iēsum: volō remanēre super hanc petram usque manē.” Brendānus respondit: “Ita, hāc nocte daemonēs nōn tē mordēbunt usque manē.”"/>
+                <ITEXT CH="Sed sum hīc omnī diē Dominicō. Posteā et anteā crucior in profundō īnfernī cum Hērōde et Pīlātō et Annā et Caiphā. Adiūrō vōs: ōrā ad Dominum Iēsum: volō remanēre super hanc petram ūsque manē.” Brendānus respondit: “Ita, hāc nocte daemonēs nōn tē mordēbunt ūsque manē.”"/>
                 <para PARENT="Latin"/>
                 <tab/>
                 <ITEXT CH="Iterum Brendānus interrogāvit eum: “Quid est hic pannus?” Iūdās respondit: “Dedī istum pannum cuidam leprōsō, quandō eram camerārius Dominī. Sed pannus nōn erat meus, ergō nōn habeō refrīgerium sed magis impedīmentum. Et forcae ferreae, ubi pannus pendet – dedī illās sacerdōtibus templī. Et haec petra – mīsī illam in fossam in pūblicā viā.”"/>
                 <para PARENT="Latin"/>
                 <tab/>
-                <ITEXT CH="Vespere innumerābilis multitūdō daemonum cooperuit faciem maris et dīxērunt: “Recēde, vir Deī, ā nōbīs, quia nōn possumus appropinquāre Iūdām usque recēdās ab illō, et nōlēmus vidēre prīncipem nostrum sine Iūdām. Sed redde nōbīs nostrum morsum"/>
+                <ITEXT CH="Vespere innumerābilis multitūdō daemonum cooperuit faciem maris et dīxērunt: “Recēde, vir Deī, ā nōbīs, quia nōn possumus appropinquāre Iūdām ūsque recēdās ab illō, et nōlēmus vidēre prīncipem nostrum sine Iūdām. Sed redde nōbīs nostrum morsum"/>
                 <ITEXT FEATURES="inherit superscript" CH="1"/>
                 <ITEXT CH=".” "/>
                 <para PARENT="Latin"/>
@@ -29674,7 +29674,7 @@
                 <DefaultStyle/>
                 <para/>
                 <tab/>
-                <ITEXT CH="Brendānus dīxit: “Nōn ego dēfendō Iūdām, sed Dominus Iēsus Chrīstus dēfendit Iūdām.” Daemonēs dīxit: “Quōmodo invocās nōmen Dominī super illum? Iūdās erat trāditor Dominī!” Brendānus respondit: “Praecipiō vōbīs in nōmine Dominī nostrī Iēsu Chrīstī: nōn facite malī illī usque māne.”"/>
+                <ITEXT CH="Brendānus dīxit: “Nōn ego dēfendō Iūdām, sed Dominus Iēsus Chrīstus dēfendit Iūdām.” Daemonēs dīxit: “Quōmodo invocās nōmen Dominī super illum? Iūdās erat trāditor Dominī!” Brendānus respondit: “Praecipiō vōbīs in nōmine Dominī nostrī Iēsu Chrīstī: nōn facite malī illī ūsque māne.”"/>
                 <para PARENT="Latin"/>
                 <tab/>
                 <ITEXT CH="Māne, Brendānus coepit iter agere, et īnfīnīta multitūdō daemonum cooperuit faciem abyssī. Dīxērunt: “Ō vir Deī, maledictus est ingressus tuus et maledictus est exitus tuus"/>
@@ -30558,12 +30558,12 @@
                 <ITEXT FEATURES="inherit superscript" CH="1"/>
                 <ITEXT CH=" sepulchrum, et senex appāruit mihi et dīxit: ‘Nōn dēbēs facere fossam ibi, quia est sepulchrum alterīus.’ Et dīxī: ‘Pater, quis es tū?’ Senex respondit: “Ego sum abbās tuus. Heri migrāvī"/>
                 <ITEXT FEATURES="inherit superscript" CH="2"/>
-                <ITEXT CH=" dē saeculō et hic est locus sepultūrae meae. Crās, ī ad lītus maris. Inveniēs nāvem ibi. Nāvis dūcet tē ad locum ubi expectābis usque diem mortis tuae.’"/>
+                <ITEXT CH=" dē saeculō et hic est locus sepultūrae meae. Crās, ī ad lītus maris. Inveniēs nāvem ibi. Nāvis dūcet tē ad locum ubi expectābis ūsque diem mortis tuae.’"/>
                 <para PARENT="Latin"/>
                 <tab/>
                 <ITEXT CH="Māne, iī ad lītus et invēnī nāvem. Nāvigāvī"/>
                 <ITEXT FEATURES="inherit superscript" CH="3"/>
-                <ITEXT CH=" per trēs diēs et trēs noctēs. Tunc ventus impulit nāvem. Septimō diē appāruit haec īnsula. Manēbam hīc usque hodiē."/>
+                <ITEXT CH=" per trēs diēs et trēs noctēs. Tunc ventus impulit nāvem. Septimō diē appāruit haec īnsula. Manēbam hīc ūsque hodiē."/>
                 <para PARENT="Latin"/>
             </StoryText>
         </PAGEOBJECT>
@@ -31214,7 +31214,7 @@
                 <ITEXT CH=" diēī sānctī, et posuit cēnam cōram eīs. Vespere, ascendērunt ad nāvem cum prōcūrātōre."/>
                 <para PARENT="Latin"/>
                 <tab/>
-                <ITEXT CH="Nāvigāvērunt et invēnērunt bēluam, et ibi, super dorsum eius, cantāvērunt hymnōs tōtā nocte. Tunc Iascōnius coepit īre in viam suam, et omnēs frātrēs coepērunt clāmāre ad Dominum. Dīxērunt: “Exaudī nōs, Deus salūtāris noster.” Sānctus Brendānus cōnfortābat suōs et dīxit: “Nōn dēbēs formīdāre: nihil erit malī vōbīs.” Et bēlua vēnit rēctō cursū usque ad lītus Īnsulae Avium. Manēbant ibi usque ad octāvās Pentēcostēn."/>
+                <ITEXT CH="Nāvigāvērunt et invēnērunt bēluam, et ibi, super dorsum eius, cantāvērunt hymnōs tōtā nocte. Tunc Iascōnius coepit īre in viam suam, et omnēs frātrēs coepērunt clāmāre ad Dominum. Dīxērunt: “Exaudī nōs, Deus salūtāris noster.” Sānctus Brendānus cōnfortābat suōs et dīxit: “Nōn dēbēs formīdāre: nihil erit malī vōbīs.” Et bēlua vēnit rēctō cursū ūsque ad lītus Īnsulae Avium. Manēbant ibi ūsque ad octāvās Pentēcostēn."/>
                 <para PARENT="Latin"/>
                 <tab/>
                 <ITEXT CH="Post tempus sollemnitātum, prōcūrātor dīxit Sānctō Brendānō: “Ascendite nāvem et implēte utrēs cum fonte istō. Nāvigābam vōbīscum; sine mē nōn potestis invenīre Terram Reprōmissiōnis Sānctōrum.” Frātrēs nāvigāvērunt et omnēs avēs cantāvērunt: “Deus, salūtārium nostrōrum, faciet prosperum iter.” "/>
