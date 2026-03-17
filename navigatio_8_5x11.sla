@@ -2521,7 +2521,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="ōceanum: ocean; singular masculine accusative from Oceanus, Oceani"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="octō: 8; from octo, octavus -a -um, octoni -ae -a, octie (n)s"/>
+                <ITEXT CH="octō: 8; from octō, octavus -a -um, octoni -ae -a, octie (n)s"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="omnia: all, every; plural neuter nominative from omnis, omnis, omne"/>
                 <para PARENT="Vocab"/>
@@ -2618,7 +2618,7 @@
             <StoryText>
                 <DefaultStyle/>
                 <para/>
-                <ITEXT CH="[49]     Sānctus Brendānus post octo diēs fēcit onerāre"/>
+                <ITEXT CH="[49]     Sānctus Brendānus post octō diēs fēcit onerāre"/>
                 <ITEXT FEATURES="inherit superscript" CH="1"/>
                 <ITEXT CH=" nāvim dē omnibus quae sibi distribuit praedictus vir, et dē illō fonte omnia vāscula implēre fēcit. [50] Ductīs omnibus ad lītus"/>
                 <ITEXT FEATURES="inherit superscript" CH="2"/>
@@ -11249,7 +11249,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="ōceanī: ocean; singular masculine genitive from Oceanus, Oceani"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="octō: 8; from octo, octavus -a -um, octoni -ae -a, octie (n)s"/>
+                <ITEXT CH="octō: 8; from octō, octavus -a -um, octoni -ae -a, octie (n)s"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="omnem: each, every, every one (of a number); all (pl.); all/the whole of; singular common accusative from omnis, omnis, omne"/>
                 <para PARENT="Vocab"/>
@@ -11379,7 +11379,7 @@
                 <ITEXT FEATURES="inherit superscript" CH="3"/>
                 <ITEXT CH=" bēstiās. [11] Cum autem audīssent, bēstiae levāvērunt sē ā terrā et natābant in circuitū nāvis, ita ut nōn potuissent frātrēs ultrā vidēre in omnem partem, prae multitūdine dīversārum natantium. [12] Tamen nōn appropinquābant nāviculae, sed longē lātēque natābant, et ita hūc atque illūc, dōnec vir Deī fīnīvit missam, sē retinēbant. [13] Post haec, quasi fugiendō, omnēs bēstiae per dīversās sēmitās"/>
                 <ITEXT FEATURES="inherit superscript" CH="4"/>
-                <ITEXT CH=" ōceanī ā faciē servōrum Deī natābant. [14] Sānctus Brendānus per octo diēs, prosperō ventō et vēlīs extēnsīs, vix potuit mare clārum trānsmeāre"/>
+                <ITEXT CH=" ōceanī ā faciē servōrum Deī natābant. [14] Sānctus Brendānus per octō diēs, prosperō ventō et vēlīs extēnsīs, vix potuit mare clārum trānsmeāre"/>
                 <ITEXT FEATURES="inherit superscript" CH="5"/>
                 <ITEXT CH="."/>
                 <para PARENT="Latin"/>
@@ -11534,7 +11534,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="nūllum: no, none, not any; singular neuter nominative from nūllus, nūlla, nūllum (gen -ius)"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="octō: 8; from octo, octavus -a -um, octoni -ae -a, octie (n)s"/>
+                <ITEXT CH="octō: 8; from octō, octavus -a -um, octoni -ae -a, octie (n)s"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="officium: duty, service, favor; singular neuter nominative from officium, officiī"/>
                 <para PARENT="Vocab"/>
@@ -11638,7 +11638,7 @@
                 <para PARENT="Latin"/>
                 <ITEXT CH="[18] Trānsāctā vērō illā nocte, coepērunt frātrēs nāvigāre contrā septentriōnem. [19] Cum autem trānsiērunt quoddam forāmen, posuērunt arborem et vēla in altum, et aliī tenēbant ex frātribus fībulās cōnōpēī quōusque omnia praeparāssent in nāvī. [20] Extēnsīs vēlīs, coepit prōsper ventus post illōs flāre, ita ut nihil illīs opus"/>
                 <ITEXT FEATURES="inherit superscript" CH="4"/>
-                <ITEXT CH=" fuisset nāvigāre nisi tantum tenēre fūniculōs et gubernam. [21] Sīc ferēbatur per octo diēs nāvicula contrā aquilōnem."/>
+                <ITEXT CH=" fuisset nāvigāre nisi tantum tenēre fūniculōs et gubernam. [21] Sīc ferēbatur per octō diēs nāvicula contrā aquilōnem."/>
                 <para PARENT="Latin"/>
             </StoryText>
         </PAGEOBJECT>
@@ -12241,7 +12241,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="nōs: us; plural nominative or accusative of ego"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="octō: 8; from octo, octavus -a -um, octoni -ae -a, octie (n)s"/>
+                <ITEXT CH="octō: 8; from octō, octavus -a -um, octoni -ae -a, octie (n)s"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="officīnīs: workshops; plural feminine ablative from officīna, officīnae"/>
                 <para PARENT="Vocab"/>
@@ -12755,7 +12755,7 @@
                 <ITEXT CH="Īnsula Fabrōrum"/>
                 <para PARENT="Chapter Heading"/>
                 <para/>
-                <ITEXT CH="[1]     Trānsāctīs autem diēbus octo"/>
+                <ITEXT CH="[1]     Trānsāctīs autem diēbus octō"/>
                 <ITEXT FEATURES="inherit superscript" CH="1"/>
                 <ITEXT CH=", vīdērunt īnsulam nōn longē, valdē rūsticam, saxōsam atque scoriōsam, sine arboribus et herbā, plēnam officīnīs fabrōrum. [2] Venerābilis pater ait frātribus suīs: “Vērē, frātrēs, angustia est mihi dē hāc īnsulā, quia nōlō in illam īre aut etiam sibi appropinquāre"/>
                 <ITEXT FEATURES="inherit superscript" CH="2"/>
@@ -18415,7 +18415,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="octāvās: octaves, 8th"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="octō: 8; from octo, octavus -a -um, octoni -ae -a, octie (n)s"/>
+                <ITEXT CH="octō: 8; from octō, octavus -a -um, octoni -ae -a, octie (n)s"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="omnibus: all; plural  dative from omnis, omnis, omne"/>
                 <para PARENT="Vocab"/>
@@ -19076,9 +19076,9 @@
                 <para/>
                 <ITEXT CH="[16]     Fīnītīs omnibus et allātīs"/>
                 <ITEXT FEATURES="inherit superscript" CH="1"/>
-                <ITEXT CH=" nāvī, dīxit ad sānctum Brendānum praedictus vir: [17] “Vestra nāvicula nōn potest amplius portāre. Ego vōbīs trānsmittam post octo diēs quae vōbīs necessāria sunt dē cibō et dē pōtū ūsque in Pentēcostēn.” [18] Sānctus Brendānus dīxit: “Unde"/>
+                <ITEXT CH=" nāvī, dīxit ad sānctum Brendānum praedictus vir: [17] “Vestra nāvicula nōn potest amplius portāre. Ego vōbīs trānsmittam post octō diēs quae vōbīs necessāria sunt dē cibō et dē pōtū ūsque in Pentēcostēn.” [18] Sānctus Brendānus dīxit: “Unde"/>
                 <ITEXT FEATURES="inherit superscript" CH="2"/>
-                <ITEXT CH=" tū nōstī ubi erimus post octo diēs?” [19] Cuī ait: “Hāc nocte eritis in illā īnsulā quam vōs vidētis prope, et crās ūsque in sextam hōram. [20] Posteā nāvigābitis ad aliam īnsulam, quae est nōn longē ab istā īnsulā contrā occidentālem plāgam, quae vocātur Paradīsus Avium, ibique manēbitis ūsque in octāvās Pentēcostēn.”"/>
+                <ITEXT CH=" tū nōstī ubi erimus post octō diēs?” [19] Cuī ait: “Hāc nocte eritis in illā īnsulā quam vōs vidētis prope, et crās ūsque in sextam hōram. [20] Posteā nāvigābitis ad aliam īnsulam, quae est nōn longē ab istā īnsulā contrā occidentālem plāgam, quae vocātur Paradīsus Avium, ibique manēbitis ūsque in octāvās Pentēcostēn.”"/>
                 <para PARENT="Latin"/>
                 <ITEXT CH="[21] Interrogābat quoque sānctus Brendānus illum, quōmodo potuissent"/>
                 <ITEXT FEATURES="inherit superscript" CH="3"/>
@@ -24768,7 +24768,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="noster: our; singular masculine nominative from noster, nostra, nostrum"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="octō: 8; from octo, octavus -a -um, octoni -ae -a, octie (n)s"/>
+                <ITEXT CH="octō: 8; from octō, octavus -a -um, octoni -ae -a, octie (n)s"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="omnia: all, every; plural neuter accusative from omnis, omnis, omne"/>
                 <para PARENT="Vocab"/>
@@ -24884,7 +24884,7 @@
                 <ITEXT CH="Tunc appāruit vir cum pānibus et cēterō cibō ad diem fēstum. Vir dedit cibum Brendānō. Sānctus Brendānus dīxit: “Frātrēs, Dominus noster Iēsus Chrīstus dedit nōbīs hoc locum, ubi possumus celebrāre sānctam resurrēctiōnem suam.”"/>
                 <para PARENT="Latin"/>
                 <tab/>
-                <ITEXT CH="Posteā, vir dīxit Sānctō Brendānō: “Post octo diēs ego dabō vōbīs cibum et aquam ūsque Pentēcostēn.” Et Sānctus Brendānus dīxit “Scīs ubi erimus post octo diēs?” Et vir dīxit: “Vidēs īnsulam prope hīc. Hāc nocte eritis in illā īnsulā. Posteā nāvigābitis ad aliam īnsulam, nōmine Paradīsus Āvium. Manēbitis ūsque Pentēcostēn.&quot;"/>
+                <ITEXT CH="Posteā, vir dīxit Sānctō Brendānō: “Post octō diēs ego dabō vōbīs cibum et aquam ūsque Pentēcostēn.” Et Sānctus Brendānus dīxit “Scīs ubi erimus post octō diēs?” Et vir dīxit: “Vidēs īnsulam prope hīc. Hāc nocte eritis in illā īnsulā. Posteā nāvigābitis ad aliam īnsulam, nōmine Paradīsus Āvium. Manēbitis ūsque Pentēcostēn.&quot;"/>
                 <para PARENT="Latin"/>
                 <tab/>
                 <ITEXT CH="Brendānus dīxit: “Cūr sunt ovēs tuae magnae? Ovēs tuae sunt maior quam bovēs.” Vir respondit: “Nēmō capit lactem dē ovibus in hāc īnsulā, et nōn est hiemps.”"/>
@@ -29034,7 +29034,7 @@
                 <para PARENT="Chapter Heading"/>
                 <para/>
                 <tab/>
-                <ITEXT CH="Post octo diēs, vīdērunt īnsulam. Haec īnsula erat valdē rūsticam, saxōsam et scoriōsam. Nōn habēbat arborēs vel herbās, sed erat plēnam officīnīs fabrōrum. Brendānus dīxit: “Nōlō īre ad hanc īnsulam, sed ventus subtrahit nōs illūc.”"/>
+                <ITEXT CH="Post octō diēs, vīdērunt īnsulam. Haec īnsula erat valdē rūsticam, saxōsam et scoriōsam. Nōn habēbat arborēs vel herbās, sed erat plēnam officīnīs fabrōrum. Brendānus dīxit: “Nōlō īre ad hanc īnsulam, sed ventus subtrahit nōs illūc.”"/>
                 <para PARENT="Latin"/>
                 <tab/>
                 <ITEXT CH="Audiērunt sonitūs follium sufflantium quasi tonitruum, et collīsiōnēs malleōrum contrā ferrum et cūdēs. Brendānus ōrāvit: “Domine Iēsu Chrīste, līberā nōs dē hāc īnsulā!”"/>
@@ -29173,7 +29173,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="nōs: us; plural nominative or accusative of ego"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="octō: 8; from octo, octavus -a -um, octoni -ae -a, octie (n)s"/>
+                <ITEXT CH="octō: 8; from octō, octavus -a -um, octoni -ae -a, octie (n)s"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="officīnam: workshop, manufactory; singular feminine accusative from officīna, officīnae"/>
                 <para PARENT="Vocab"/>
