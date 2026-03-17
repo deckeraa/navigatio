@@ -370,14 +370,14 @@
         <PAGE PAGEXPOS="712.0008" PAGEYPOS="108180.4176" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="18" BORDERTOP="36" BORDERBOTTOM="18" NUM="260" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="100.0008" PAGEYPOS="109012.4208" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="18" BORDERTOP="36" BORDERBOTTOM="18" NUM="261" NAM="" MNAM="Latin left" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="712.0008" PAGEYPOS="109012.4208" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="18" BORDERTOP="36" BORDERBOTTOM="18" NUM="262" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
-        <MASTEROBJECT XPOS="118.0008" YPOS="776.0016" OwnPage="2" ItemID="1590000566" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="118.0008" gYpos="947201147512.564" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="118.0008" YPOS="776.0016" OwnPage="2" ItemID="1590000566" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="118.0008" gYpos="959192711458.458" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
                 <trail ALIGN="1"/>
             </StoryText>
         </MASTEROBJECT>
-        <MASTEROBJECT XPOS="154.0008" YPOS="776.0016" OwnPage="3" ItemID="1589974598" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="11786787226.0008" gYpos="947200218168.564" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="154.0008" YPOS="776.0016" OwnPage="3" ItemID="1589974598" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="11920433950.0008" gYpos="959191782114.458" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
@@ -24909,7 +24909,7 @@
                 <ITEXT CH="Sānctus Brendānus et monachī eius nāvigāvērunt. Nāvigāvērunt ad īnsulam. Haec īnsula nōn habuit herbās. Haec īnsula nōn habuit arborēs. Haec īnsula habuit saxa parva."/>
                 <para PARENT="Latin"/>
                 <tab/>
-                <ITEXT CH="Monachī iērunt ex nāvem ad īnsulam. Sed Sānctus Brendānus mānsit in nāve. Monachī cēpērunt carnēs crūdās ex nāvē. Monachī volēbant coquināre carnēs. Igitur, monachī creāvērunt ignem."/>
+                <ITEXT CH="Monachī dēscendērunt ex nāve ad īnsulam. Sed Sānctus Brendānus mānsit in nāve. Monachī cēpērunt carnēs crūdās ex nāvē. Monachī volēbant coquināre carnēs. Igitur, monachī creāvērunt ignem."/>
                 <para PARENT="Latin"/>
                 <tab/>
                 <ITEXT CH="Ignī ārdente"/>
@@ -24944,13 +24944,13 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="Brendānus: Brendan of Clonfert (c. AD 484 – c. 577), an Irish abbot who sailed the Atlantic"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="carnēs: meat, flesh; plural feminine accusative from carō, carnis"/>
+                <ITEXT CH="carnēs: meat; plural feminine accusative from carō, carnis"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="cēpērunt: they took; 3rd person plural perfect active from capiō, capere, cēpī, captus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="coepit: he started; 3rd person singular present active from coepio, coepere, coepi, coeptus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="coquināre: to cook;"/>
+                <ITEXT CH="coquināre: to cook; present infinitive from coquinō, coquināre, coquināvī, coquinātum"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="creāvērunt: they created; 3rd person plural perfect active from creo, creare, creavi, creatus"/>
                 <para PARENT="Vocab"/>
@@ -24958,13 +24958,15 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="cucurrērunt: they ran; 3rd person plural perfect active from currō, currere, cucurrī, cursus"/>
                 <para PARENT="Vocab"/>
+                <ITEXT CH="dēscendērunt: they disembarked; 3rd person plural perfect from dēscendō, dēscendere, dēscendī, dēscēnsum"/>
+                <para PARENT="Vocab"/>
                 <ITEXT CH="Deus: God; singular masculine nominative from Deus, Dei"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="dīxit: he said; 3rd person singular perfect active from dīcō, dīcere, dīxī, dictus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="eius: his/her/its"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="eōs: to them; plural masculine accusative from is, ea, id"/>
+                <ITEXT CH="eōs: them; plural masculine accusative from is, ea, id"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="erant: they were; 3rd person plural imperfect active from sum, esse, fuī, futūrus"/>
                 <para PARENT="Vocab"/>
@@ -25008,9 +25010,9 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="maris: sea; singular neuter genitive from mare, maris"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="mē: to me, accusative from ego"/>
+                <ITEXT CH="mē: me, accusative from ego"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="monachī: monk; singular masculine genitive from monachus, monachī"/>
+                <ITEXT CH="monachī: monk; plural masculine nominative from monachus, monachī"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="mōnstrum: monster; singular neuter nominative from mōnstrum, mōnstrī"/>
                 <para PARENT="Vocab"/>
@@ -25028,7 +25030,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="nōn: not"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="parva: small; singular feminine nominative from parvus, parva -um, minor -or -us, minimus -a -um"/>
+                <ITEXT CH="parva: small; plural neuter accusative from parvus, parva -um, minor -or -us, minimus -a -um"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="perterritī: being greatly frightened; singular masculine genitive perfect passive participle from perterreō, perterrēre, perterruī, perterritus"/>
                 <para PARENT="Vocab"/>
@@ -25040,7 +25042,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="sed: but"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="sīcut: as, same as, like"/>
+                <ITEXT CH="sīcut: like"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="unda: wave; singular feminine nominative from unda, undae"/>
                 <para PARENT="Vocab"/>
@@ -25056,11 +25058,11 @@
                 <ITEXT CH="Caput XI"/>
                 <para PARENT="Chapter Heading"/>
                 <para PARENT="Chapter Heading"/>
-                <ITEXT CH="Paradisus Avium"/>
+                <ITEXT CH="Paradīsus Avium"/>
                 <para PARENT="Chapter Heading"/>
                 <para/>
                 <tab/>
-                <ITEXT CH="Tunc vīdērunt aliam īnsulam cum herbīs et silvīs. Nāvigāvērunt ad illam īnsulam. Invēnērunt arbor super fontem. Arbor erat lāta sed nōn altā. Avēs candidissimae cooperuērunt arborem."/>
+                <ITEXT CH="Tunc vīdērunt aliam īnsulam cum herbīs et arboribus. Nāvigāvērunt ad illam īnsulam. Invēnērunt arborem super fontem. Arbor erat lāta sed nōn alta. Avēs candidissimae cooperuērunt arborem."/>
                 <para PARENT="Latin"/>
                 <tab/>
                 <ITEXT CH="Sānctus Brendānus sē cōgitāvit: “Cūr sunt multae avēs super ūnam arborem?” Brendānus ōrāvit ad Deum: “Deus, revēlā mihi sēcrētum avium.” Et avis volāvit dē arbore ad nāvem ubi Brendānus sedēbat. Sēdit super prōram et extendit ālās eius. Brendānus dīxit: “Sī nūntius Deī es, dīc mihi: unde sunt istae avēs?”"/>
@@ -25111,13 +25113,15 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="aliam: other, another; singular feminine accusative from alius, alia, aliud"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="alta: height; singular feminine nominative from altus, alta, altum"/>
+                <ITEXT CH="alta: tall; singular feminine nominative from altus, alta, altum"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="arbor: tree; singular feminine nominative from arbor, arboris"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="arbōre: tree; singular feminine ablative from arbor, arboris"/>
+                <ITEXT CH="arbore: tree; singular feminine ablative from arbor, arboris"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="arbōrem: tree; singular feminine accusative from arbor, arboris"/>
+                <ITEXT CH="arborem: tree; singular feminine accusative from arbor, arboris"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="arboribus: trees; plural feminine ablative from arbor, arboris"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="avēs: birds; plural feminine nominative or accusative from avis, avis"/>
                 <para PARENT="Vocab"/>
@@ -25151,7 +25155,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="eius: his/her/its"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="erat: he was; 3rd person singular imperfect active from sum, esse, fuī, futūrus"/>
+                <ITEXT CH="erat: it was; 3rd person singular imperfect active from sum, esse, fuī, futūrus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="es: you are; 2nd person singular present active from sum, esse, fuī, futūrus"/>
                 <para PARENT="Vocab"/>
@@ -25221,9 +25225,9 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="unde: from where?"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="vīdērunt: they saw"/>
+                <ITEXT CH="vīdērunt: they saw; 3rd person plural perfect active from videō, vidēre, vīdī, vīsum"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="volāvit: he flew; 3rd person singular perfect active from volō, volāre, volāvī, volātus"/>
+                <ITEXT CH="volāvit: it flew; 3rd person singular perfect active from volō, volāre, volāvī, volātus"/>
                 <trail PARENT="Vocab"/>
             </StoryText>
         </PAGEOBJECT>
