@@ -370,14 +370,14 @@
         <PAGE PAGEXPOS="712.0008" PAGEYPOS="108180.4176" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="18" BORDERTOP="36" BORDERBOTTOM="18" NUM="260" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="100.0008" PAGEYPOS="109012.4208" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="18" BORDERTOP="36" BORDERBOTTOM="18" NUM="261" NAM="" MNAM="Latin left" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="712.0008" PAGEYPOS="109012.4208" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="18" BORDERTOP="36" BORDERBOTTOM="18" NUM="262" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
-        <MASTEROBJECT XPOS="118.0008" YPOS="776.0016" OwnPage="2" ItemID="1590000566" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="118.0008" gYpos="928044857897.739" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="118.0008" YPOS="776.0016" OwnPage="2" ItemID="1590000566" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="118.0008" gYpos="942626081723.969" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
                 <trail ALIGN="1"/>
             </StoryText>
         </MASTEROBJECT>
-        <MASTEROBJECT XPOS="154.0008" YPOS="776.0016" OwnPage="3" ItemID="1589974598" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="11573289190.0008" gYpos="928043928553.739" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="154.0008" YPOS="776.0016" OwnPage="3" ItemID="1589974598" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="11735797834.0008" gYpos="942625152379.969" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
@@ -24358,7 +24358,7 @@
                 <trail PARENT="Vocab"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="766.0008" YPOS="8376.0336" OwnPage="20" ItemID="2030975046" PTYPE="4" WIDTH="540" HEIGHT="718.420382165606" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="2" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 718.42 L0 718.42 L0 0 Z" copath="M0 0 L540 0 L540 718.42 L0 718.42 L0 0 Z" gXpos="766.0008" gYpos="8376.0336" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="766.0008" YPOS="8376.0336" OwnPage="20" ItemID="2030975046" PTYPE="4" WIDTH="540" HEIGHT="718.437737579619" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="2" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 718.438 L0 718.438 L0 0 Z" copath="M0 0 L540 0 L540 718.438 L0 718.438 L0 0 Z" gXpos="766.0008" gYpos="8376.0336" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <ITEXT CH="accipe: accept! receive!; 2nd person singular present active imperative from accipiō, accipere, accēpī, acceptus"/>
@@ -24367,9 +24367,11 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="ad: to, towards, at, according to"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="aliquid: someone"/>
+                <ITEXT CH="aliquid: something"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="anima: soul, mind, life; singular feminine nominative from anima, animae"/>
+                <ITEXT CH="angelī: angels; plural masculine nominative from angelus, angelī"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="animā: soul; singular feminine ablative from anima, animae"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="annōs: years; plural masculine accusative from annus, annī"/>
                 <para PARENT="Vocab"/>
@@ -24377,7 +24379,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="appāruit: he appeared; 3rd person singular perfect active from appāreō, appārēre, appāruī, appāritus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="aqua: water; singular feminine nominative from aqua, aquae"/>
+                <ITEXT CH="aquā: water; singular feminine ablative from aqua, aquae"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="aquam: water; singular feminine accusative from aqua, aquae"/>
                 <para PARENT="Vocab"/>
@@ -24423,6 +24425,8 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="Dominī: of the lord; singular masculine genitive from dominus, dominī"/>
                 <para PARENT="Vocab"/>
+                <ITEXT CH="dūxērunt: they led; 3rd person plural perfect from dūcō, dūcere, dūxī, ductus"/>
+                <para PARENT="Vocab"/>
                 <ITEXT CH="ecce: Look! Behold!"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="eius: his/her/its"/>
@@ -24436,6 +24440,8 @@
                 <ITEXT CH="et: and"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="Eucharistiam: Eucharist/Lord's Supper/Communion; singular feminine accusative from eucharistia, eucharistiae"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="eum: him; 3rd person singular accusative from is, ea, id"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="ex: out of, from"/>
                 <para PARENT="Vocab"/>
@@ -24453,9 +24459,9 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="frātribus: brothers; plural masculine dative or ablative from frāter, frātris"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="frātrīs: brothers; singular masculine genitive from frāter, frātris"/>
+                <ITEXT CH="frātris: brother's; singular masculine genitive from frāter, frātris"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="frēnum: bridle; ornamental necklace"/>
+                <ITEXT CH="frēnum: bridle, ornamental necklace; singular neuter accusative from frēnum, frēnī"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="habēbitis: you will have; 2nd person plural future active from habeō, habēre, habuī, habitus"/>
                 <para PARENT="Vocab"/>
@@ -24463,7 +24469,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="habitābam: I was living; 1st person singular imperfect active from habitō, habitāre, habitāvī, habitātus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="habitātiōne: dwelling; singular feminine  from habitātiō, habitātiōnis"/>
+                <ITEXT CH="habitātiōne: dwelling-place; singular feminine ablative from habitātiō, habitātiōnis"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="hāc: this; singular feminine ablative of hic, haec, hoc"/>
                 <para PARENT="Vocab"/>
@@ -24471,7 +24477,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="iacit: he throws; 3rd person singular present active from iaciō, iacere, iēcī, iactus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="iactās: having been thrown; plural feminine accusative perfect passive participle from iaciō, iacere, iēcī, iactus"/>
+                <ITEXT CH="iactās: you throw; 2nd person singular present from iactō, iactāre, iactāvī, iactātum"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="iactāvit: he threw; 3rd person singular perfect active from iactō, iactāre, iactāvī, iactātus"/>
                 <para PARENT="Vocab"/>
@@ -24487,15 +24493,15 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="iuvenis: young man; singular common nominative from juvenis, juvenis, juvene"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="lītore: beach, shore; singular neuter  from lītus, lītoris"/>
+                <ITEXT CH="lītore: beach, shore; singular neuter ablative from lītus, lītoris"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="lītus: beach, shore; singular neuter nominative or accusative from lītus, lītoris"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="mē: to me, accusative from ego"/>
+                <ITEXT CH="mē: me, accusative from ego"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="mea: my; singular feminine nominative from meus, mea, meum"/>
+                <ITEXT CH="meā: my; singular feminine ablative from meus, mea, meum"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="mortuus: dead; singular masculine nominative perfect participle from morior, morī, mortuus sum"/>
+                <ITEXT CH="mortuus: mortuus est = he died; singular masculine nominative perfect participle from morior, morī, mortuus sum"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="mox: soon"/>
                 <para PARENT="Vocab"/>
@@ -24503,9 +24509,9 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="nāvis: boat; singular feminine nominative from nāvis, nāvis"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="nocte: night; singular feminine  from nox, noctis"/>
+                <ITEXT CH="nocte: night; singular feminine ablative from nox, noctis"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="nōmine: name; singular neuter  from nōmen, nōminis"/>
+                <ITEXT CH="nōmine: name; singular neuter ablative from nōmen, nōminis"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="nōn: not"/>
                 <para PARENT="Vocab"/>
@@ -24523,7 +24529,9 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="pānēs: bread; plural masculine nominative from panis, panis"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="pānibus: bread; plural masculine  from panis, panis"/>
+                <ITEXT CH="pānibus: bread; plural masculine ablative from panis, panis"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="Paradīsum: Paradise; 3rd person singular accusative from Paradīsus, Paradīsī"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="pascha: Passover, Easter; singular feminine nominative from Pascha, Paschae"/>
                 <para PARENT="Vocab"/>
@@ -24557,7 +24565,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="sinū: pocket, fold; singular masculine ablative from sinus, sinūs"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="suō: their; singular dative or ablative of suus"/>
+                <ITEXT CH="suō: his; singular dative or ablative of suus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="tibi: to you, singular dative of tu"/>
                 <para PARENT="Vocab"/>
@@ -24576,7 +24584,7 @@
                 <trail PARENT="Default Paragraph Style" ALIGN="1"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="118.0008" YPOS="8394.20557452229" OwnPage="19" ItemID="2034532566" PTYPE="4" WIDTH="540" HEIGHT="519.133757961783" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 519.134 L0 519.134 L0 0 Z" copath="M0 0 L540 0 L540 519.134 L0 519.134 L0 0 Z" gXpos="118.0008" gYpos="8394.20557452229" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="118.0008" YPOS="8394.20557452229" OwnPage="19" ItemID="2034532566" PTYPE="4" WIDTH="540" HEIGHT="549.386782165609" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 549.387 L0 549.387 L0 0 Z" copath="M0 0 L540 0 L540 549.387 L0 549.387 L0 0 Z" gXpos="118.0008" gYpos="8394.20557452229" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <para/>
@@ -24591,18 +24599,18 @@
                 <ITEXT CH="Sānctus Brendānus dīxit frātribus eius: “Nōn dēbētīs capere aliquid ex hāc īnsulā.” Et omnēs respondērunt: “Nōn capiēmus aliquid ex hāc īnsulā.” "/>
                 <para PARENT="Latin"/>
                 <tab/>
-                <ITEXT CH="Tunc Sānctus Brendānus dīxit: “Ecce, frāter noster habet frēnum argenteum in sinū suō. Daemōn dedit frēnum sibi hāc nocte.” Praedictus frāter iactāvit frēnum dē sinū suō et cecidit ante pedēs Brendānī et dīxit: “Peccāvī, pater, ignōsce! Ōra prō animā meā.” Et omnēs frātrēs ōrābant prō animā frātris."/>
+                <ITEXT CH="Tunc Sānctus Brendānus dīxit: “Ecce, frāter noster habet frēnum argenteum in sinū suō. Daemōn dedit frēnum sibi hāc nocte.” Praedictus frāter iactāvit frēnum dē sinū suō et cecidit ante pedēs Brendānī et dīxit: “Peccāvī, pater, īgnōsce! Ōrā prō animā meā.” Et omnēs frātrēs ōrābant prō animā frātris."/>
                 <para PARENT="Latin"/>
                 <tab/>
-                <ITEXT CH="Tunc daemōn exīvit dē frātre et dīxit Brendānī: “Cūr, vir Deī, mē iactās dē meā habitātiōne? Habitābam septem annōs in hōc frāter.” Sānctus Brendānus dīxit: “Exī! Praecipiō tibi in nōmine Dominī nostrī Iēsu Chrīstī.”"/>
+                <ITEXT CH="Tunc daemōn exīvit dē frātre et dīxit Brendānī: “Cūr, vir Deī, mē iactās dē meā habitātiōne? Habitābam septem annōs in hōc frātre.” Sānctus Brendānus dīxit: “Exī! Praecipiō tibi in nōmine Dominī nostrī Iēsu Chrīstī.”"/>
                 <para PARENT="Latin"/>
                 <tab/>
                 <ITEXT CH="Et vir Deī dīxit praedictō frātrī: “Accipe corpus et sanguinem Dominī, quia mox eris mortuus.&quot; Frāter cēpit Eucharistiam et mortuus est"/>
                 <ITEXT FEATURES="inherit superscript" CH="1"/>
-                <ITEXT CH="."/>
+                <ITEXT CH=". Et angelī dūxērunt eum ad Paradīsum."/>
                 <para PARENT="Latin"/>
                 <tab/>
-                <ITEXT CH="Tunc frātrēs cum Sānctō Brendānō iērunt ad lītus. Nāvis erat in lītore. Iuvenis appāruit cum pānibus et aquā et dīxit: “Accipite pānēs et aquam, et habēbunt cibum usque in Paschā.” Et nāvigāvērunt in ōceanum."/>
+                <ITEXT CH="Tunc frātrēs cum Sānctō Brendānō iērunt ad lītus. Nāvis erat in lītore. Iuvenis appāruit cum pānibus et aquā et dīxit: “Accipite pānēs et aquam, et habēbitis cibum usque in Paschā.” Et nāvigāvērunt in ōceanum."/>
                 <trail PARENT="Latin"/>
             </StoryText>
             <PageItemAttributes>
@@ -32549,7 +32557,7 @@
             </StoryText>
         </PAGEOBJECT>
         <PAGEOBJECT XPOS="155.0008" YPOS="57060.2007133754" OwnPage="135" ItemID="40047095" PTYPE="5" WIDTH="450" HEIGHT="1" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR2="Black" PLINEART="1" path="" gXpos="155.0008" gYpos="55396.2007133755" gWidth="0" gHeight="0" LAYER="0"/>
-        <PAGEOBJECT XPOS="118.0008" YPOS="8913.78343949045" OwnPage="19" ItemID="40051975" PTYPE="4" WIDTH="540" HEIGHT="82.0891719745214" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 82.0892 L0 82.0892 L0 0 Z" copath="M0 0 L540 0 L540 82.0892 L0 82.0892 L0 0 Z" gXpos="118.0008" gYpos="8913.78343949045" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="118.0008" YPOS="8943.78343949045" OwnPage="19" ItemID="40051975" PTYPE="4" WIDTH="540" HEIGHT="50.9044585987249" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 50.9045 L0 50.9045 L0 0 Z" copath="M0 0 L540 0 L540 50.9045 L0 50.9045 L0 0 Z" gXpos="118.0008" gYpos="8943.78343949045" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <ITEXT FEATURES="inherit superscript" CH="1"/>
