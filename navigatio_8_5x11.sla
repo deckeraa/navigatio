@@ -370,14 +370,14 @@
         <PAGE PAGEXPOS="712.0008" PAGEYPOS="108180.4176" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="18" BORDERTOP="36" BORDERBOTTOM="18" NUM="260" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="100.0008" PAGEYPOS="109012.4208" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="18" BORDERTOP="36" BORDERBOTTOM="18" NUM="261" NAM="" MNAM="Latin left" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="712.0008" PAGEYPOS="109012.4208" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="18" BORDERTOP="36" BORDERBOTTOM="18" NUM="262" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
-        <MASTEROBJECT XPOS="118.0008" YPOS="776.0016" OwnPage="2" ItemID="1983689909" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="118.0008" gYpos="1025826098879.46" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="118.0008" YPOS="776.0016" OwnPage="2" ItemID="1983689909" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="118.0008" gYpos="1029430042212.93" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
                 <trail ALIGN="1"/>
             </StoryText>
         </MASTEROBJECT>
-        <MASTEROBJECT XPOS="154.0008" YPOS="776.0016" OwnPage="3" ItemID="1983644005" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="12663067186.0008" gYpos="1025825169535.46" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="154.0008" YPOS="776.0016" OwnPage="3" ItemID="1983644005" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="12703233358.0008" gYpos="1029429112868.93" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
@@ -11914,7 +11914,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="appāruit: he appeared; 3rd person singular perfect from appāreō, appārēre, appāruī, appāritus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="appropinquāre: to approach;"/>
+                <ITEXT CH="appropinquāre: to approach; present infinitive from appropinquō, appropinquāre, appropinquāvī, appropinquātus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="appropinquāvisset: he (might) have had approached; 3rd person singular pluperfect subjunctive from appropinquō, appropinquāre, appropinquāvī, appropinquātus"/>
                 <para PARENT="Vocab"/>
@@ -12088,7 +12088,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="tenēbat: he was holding; 3rd person singular imperfect from teneō, tenēre, tenuī, tentus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="trānsīre: to go over, to cross;"/>
+                <ITEXT CH="trānsīre: to go over, to cross; present infinitive from trānseō, trānsīre, trānsiviī, trānsitus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="trēs: three; plural common nominative from trēs -es -ia, tertius -a -um, terni -ae -a, ter"/>
                 <para PARENT="Vocab"/>
@@ -12141,7 +12141,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="angustia: small space, narrow passage, being boxed in; singular feminine nominative from angustia, angustiae"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="appropinquāre: to approach;"/>
+                <ITEXT CH="appropinquāre: to approach; present infinitive from appropinquō, appropinquāre, appropinquāvī, appropinquātus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="arboribus: trees; plural feminine ablative from arbor, arboris"/>
                 <para PARENT="Vocab"/>
@@ -12498,7 +12498,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="tenebrōsus: dark; singular masculine nominative from tenebrōsus, tenebrōsa, tenebrōsum"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="trānsīre: to go over, to cross;"/>
+                <ITEXT CH="trānsīre: to go over, to cross; present infinitive from trānseō, trānsīre, trānsiviī, trānsitus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="transivit: he crossed; 3rd person singular perfect from trānseō, trānsīre, trānsivī, trānsitus"/>
                 <para PARENT="Vocab"/>
@@ -14135,7 +14135,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="amīcum: friend; singular neuter nominative from amicus, amica -um, amicior -or -us, amicissimus -a -um"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="appropinquāre: to approach;"/>
+                <ITEXT CH="appropinquāre: to approach; present infinitive from appropinquō, appropinquāre, appropinquāvī, appropinquātus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="atque: and"/>
                 <para PARENT="Vocab"/>
@@ -17481,7 +17481,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="tōtam: whole, total; singular feminine accusative from tōtus, tōta, tōtum (gen -ius)"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="trānsīre: to go over, to cross;"/>
+                <ITEXT CH="trānsīre: to go over, to cross; present infinitive from trānseō, trānsīre, trānsiviī, trānsitus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="tua: you; singular feminine nominative from tuus, tua, tuum"/>
                 <para PARENT="Vocab"/>
@@ -22573,7 +22573,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="terram: land; singular feminine accusative from terra, terrae"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="trānsīre: to go over, to cross;"/>
+                <ITEXT CH="trānsīre: to go over, to cross; present infinitive from trānseō, trānsīre, trānsiviī, trānsitus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="ulterius: beyond, across"/>
                 <para PARENT="Vocab"/>
@@ -28647,7 +28647,7 @@
                 <para PARENT="Chapter Heading"/>
                 <para/>
                 <tab/>
-                <ITEXT CH="Quādam diē, celebrābant missās et columna appāruit in mare. Columna nōn vidēbātur longē ab illīs, sed nōn poterant appropinquāre ante trēs diēs. Brendānus aspiciēbat summitātem sed nōn potuit prae altitūdine illīus: columna erat altior quam āēr. Columna habēbat cōnōpēum rārum. Cōnōpēum erat tantum rārum ut nāvis posset trānsīre per forāmina illīus. Cōnōpēum habēbat colōrem argentī, sed erat dūrior quam marmor; columna erat dē crystāllō clārissimō."/>
+                <ITEXT CH="Quādam diē, celebrābant missās et columna appāruit in mare. Columna vidēbātur nōn longē ab illīs, sed nōn poterant appropinquāre ante trēs diēs. Brendānus aspiciēbat summitātem sed nōn potuit prae altitūdine illīus: columna erat altior quam āēr. Columna habēbat cōnōpēum rārum. Cōnōpēum erat tantum rārum ut nāvis posset trānsīre per forāmina illīus. Cōnōpēum habēbat colōrem argentī, sed erat dūrior quam marmor; columna erat dē crystāllō clārissimō."/>
                 <para PARENT="Latin"/>
             </StoryText>
             <PageItemAttributes>
@@ -28700,7 +28700,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="appāruit: he appeared; 3rd person singular perfect active from appāreō, appārēre, appāruī, appāritus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="appropinquāre: to approach;"/>
+                <ITEXT CH="appropinquāre: to approach; present infinitive from appropinquō, appropinquāre, appropinquāvī, appropinquātus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="argentī: silver; singular neuter genitive from argentum, argentī"/>
                 <para PARENT="Vocab"/>
@@ -28770,6 +28770,8 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="quā: what; singular female ablative of qui"/>
                 <para PARENT="Vocab"/>
+                <ITEXT CH="quādam: on a certain; singular feminine ablative from quidam"/>
+                <para PARENT="Vocab"/>
                 <ITEXT CH="quam: how? how much?"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="rārum: thin, far apart, rare; singular neuter accusative from rārus, rāra -um, rārior -or -us, rārissimus -a -um"/>
@@ -28780,13 +28782,13 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="tantum: so much, so great, this many; singular neuter nominative from tantus, tanta, tantum"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="trānsīre: to go over, to cross;"/>
+                <ITEXT CH="trānsīre: to go over, to cross; present infinitive from trānseō, trānsīre, trānsiviī, trānsitus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="trēs: three; plural common nominative from trēs -es -ia, tertius -a -um, terni -ae -a, ter"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="ut: so that"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="vidēbātur: he were appearing; 3rd person singular imperfect passive from videō, vidēre, vīdī, vīsus"/>
+                <ITEXT CH="vidēbātur: it appeared; 3rd person singular imperfect passive from videō, vidēre, vīdī, vīsus"/>
                 <trail PARENT="Vocab"/>
             </StoryText>
         </PAGEOBJECT>
@@ -29914,7 +29916,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="anteā: before"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="appropinquāre: to approach;"/>
+                <ITEXT CH="appropinquāre: to approach; present infinitive from appropinquō, appropinquāre, appropinquāvī, appropinquātus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="Brendānus: Brendan of Clonfert (c. AD 484 – c. 577), an Irish abbot who sailed the Atlantic"/>
                 <para PARENT="Vocab"/>
@@ -31784,7 +31786,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="tibi: to you, singular dative of tu"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="trānsīre: to go over, to cross;"/>
+                <ITEXT CH="trānsīre: to go over, to cross; present infinitive from trānseō, trānsīre, trānsiviī, trānsitus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="trēs: three; plural common nominative from trēs -es -ia, tertius -a -um, terni -ae -a, ter"/>
                 <para PARENT="Vocab"/>
