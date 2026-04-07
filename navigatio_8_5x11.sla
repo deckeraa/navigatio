@@ -370,14 +370,14 @@
         <PAGE PAGEXPOS="712.0008" PAGEYPOS="108180.4176" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="18" BORDERTOP="36" BORDERBOTTOM="18" NUM="260" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="100.0008" PAGEYPOS="109012.4208" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="18" BORDERTOP="36" BORDERBOTTOM="18" NUM="261" NAM="" MNAM="Latin left" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="712.0008" PAGEYPOS="109012.4208" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="18" BORDERTOP="36" BORDERBOTTOM="18" NUM="262" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
-        <MASTEROBJECT XPOS="118.0008" YPOS="776.0016" OwnPage="2" ItemID="481957520" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="118.0008" gYpos="999584212092.045" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="118.0008" YPOS="776.0016" OwnPage="2" ItemID="481957520" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="118.0008" gYpos="1010216204600.76" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
                 <trail ALIGN="1"/>
             </StoryText>
         </MASTEROBJECT>
-        <MASTEROBJECT XPOS="154.0008" YPOS="776.0016" OwnPage="3" ItemID="481981312" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="12370599730.0008" gYpos="999583282748.045" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="154.0008" YPOS="776.0016" OwnPage="3" ItemID="481981312" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="12489093946.0008" gYpos="1010215275256.76" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
@@ -27617,13 +27617,15 @@
                 <para PARENT="Chapter Heading"/>
                 <para/>
                 <tab/>
-                <ITEXT CH="Quādam diē vīdērunt īnsulam. Sānctus Brendānus dīxit: “Vidētisne illam īnsulam?” Frātrēs respondit “vidēmus.” Brendānus dīxit: “Trēs populī sunt in illā īnsulā: populus puerōrum, populus iuvenum, et populus seniōrum. Ūnus ex tribus frātribus manēbit illīc.” "/>
+                <ITEXT CH="Quādam diē vīdērunt īnsulam. Sānctus Brendānus dīxit: “Vidētisne illam īnsulam?” Frātrēs respondit “vidēmus.” Brendānus dīxit: “Trēs populī sunt in illā īnsulā: populus puerōrum"/>
+                <ITEXT FEATURES="inherit superscript" CH="1"/>
+                <ITEXT CH=", populus iuvenum, et populus seniōrum. Ūnus ex tribus frātribus manēbit illīc.” "/>
                 <para PARENT="Latin"/>
                 <tab/>
                 <ITEXT CH="Vēnērunt ad praedictam īnsulam. Erat īnsula mīrae plānitiae, et nōn erant arborēs. Īnsula erat cooperta cum scaltīs"/>
-                <ITEXT FEATURES="inherit superscript" CH="1"/>
-                <ITEXT CH=" albīs et purpureīs. Vīdērunt trēs turmās, sīcut vir Deī praedīxerat. Et turmae cantābant hymnōs. Prīma turma puerōrum erat in vestibus candidissimīs, et secunda turma erat in vestibus ianthinīs, et tertia turma erat in purpureīs dalmaticīs."/>
                 <ITEXT FEATURES="inherit superscript" CH="2"/>
+                <ITEXT CH=" albīs et purpureīs. Vīdērunt trēs turmās, sīcut vir Deī praedīxerat. Et turmae cantābant hymnōs. Prīma turma puerōrum erat in vestibus candidissimīs, et secunda turma erat in vestibus ianthinīs, et tertia turma erat in purpureīs dalmaticīs."/>
+                <ITEXT FEATURES="inherit superscript" CH="3"/>
                 <trail PARENT="Latin"/>
             </StoryText>
             <PageItemAttributes>
@@ -27675,7 +27677,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="cum: with"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="dalmaticīs: deacon's vestmests; plural feminine ablative from dalmatica, dalmaticae"/>
+                <ITEXT CH="dalmaticīs: deacon's vestments; plural feminine ablative from dalmatica, dalmaticae"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="Deī: of God; singular masculine genitive from Deus, Dei"/>
                 <para PARENT="Vocab"/>
@@ -27685,7 +27687,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="erant: they were; 3rd person plural imperfect active from sum, esse, fuī, futūrus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="erat: he was; 3rd person singular imperfect active from sum, esse, fuī, futūrus"/>
+                <ITEXT CH="erat: it was; 3rd person singular imperfect active from sum, esse, fuī, futūrus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="et: and"/>
                 <para PARENT="Vocab"/>
@@ -27725,9 +27727,9 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="plānitiae: flatness; singular feminine genitive from plānitia, plānitiae"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="populī: people, populace; plural masculine nominative from populus, populī"/>
+                <ITEXT CH="populī: groups of people; plural masculine nominative from populus, populī"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="populus: people, populace; singular masculine nominative from populus, populī"/>
+                <ITEXT CH="populus: group of people; singular masculine nominative from populus, populī"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="praedictam: the aforesaid; singular feminine accusative perfect passive participle from praedīcō, praedīcere, praedīxī, praedictus"/>
                 <para PARENT="Vocab"/>
@@ -27735,7 +27737,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="prīma: first; singular feminine nominative from prīmus, prīma, prīmum"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="puerōrum: of boys; plural masculine genitive from puer, puerī"/>
+                <ITEXT CH="puerōrum: of novices, of boys; plural masculine genitive from puer, puerī"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="purpūreīs: purple; plural female ablative from purpūreus, purpūrea, purpūreum"/>
                 <para PARENT="Vocab"/>
@@ -27761,11 +27763,11 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="trēs: three; plural common nominative from trēs -es -ia, tertius -a -um, terni -ae -a, ter"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="tribus: three; plural dative from trēs -es -ia, tertius -a -um, terni -ae -a, ter"/>
+                <ITEXT CH="tribus: three; plural ablative from trēs -es -ia, tertius -a -um, terni -ae -a, ter"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="turma: troop, group, crowd; singular feminine nominative from turma, turmae"/>
+                <ITEXT CH="turma: group, choir; singular feminine nominative from turma, turmae"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="turmae: troop, group, crowd; plural feminine nominative from turma, turmae"/>
+                <ITEXT CH="turmae: groups, choirs; plural feminine nominative from turma, turmae"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="turmās: troop, group, crowd; plural feminine accusative from turma, turmae"/>
                 <para PARENT="Vocab"/>
@@ -27779,7 +27781,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="vīdērunt: they saw"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="vidētis: you see; 2nd person plural present active from videō, vidēre, vīdī, vīsus"/>
+                <ITEXT CH="vidētisne: do you see?; 2nd person plural present active from videō, vidēre, vīdī, vīsus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="vir: man; singular masculine nominative from vir, virī"/>
                 <para PARENT="Vocab"/>
@@ -27806,7 +27808,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="clāritātis: clarity, brightness; singular feminine genitive from clāritās, clāritātis"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="coepērunt: he started; 3rd person plural present active from coepio, coepere, coepi, coeptus"/>
+                <ITEXT CH="coepērunt: they started; 3rd person plural present active from coepio, coepere, coepi, coeptus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="commūniōnem: communion; singular feminine accusative from commūniō, commūniōnis"/>
                 <para PARENT="Vocab"/>
@@ -27840,7 +27842,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="ex: out of, from"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="fortium: strengh, fortitude; plural  genitive from fortis, forte, fortior -or -us, fortissimus -a -um"/>
+                <ITEXT CH="fortium: strong; plural masculine genitive from fortis, forte, fortior -or -us, fortissimus -a -um"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="frāter: brother; singular masculine nominative from frāter, frātris"/>
                 <para PARENT="Vocab"/>
@@ -27874,7 +27876,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="invocant: they invoked; 3rd person plural present active from invocō, invocāre, invocāvī, invocātus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="iuvenum: of the young men; plural  genitive from juvenis, juvenis, juvene"/>
+                <ITEXT CH="iuvenum: of the young men; plural masculine genitive from iuvenis, iuvenis, iuvene"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="lēgī: I read; first person singular perfect from legō, legere, lēgī, lēctus"/>
                 <para PARENT="Vocab"/>
@@ -27882,7 +27884,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="magnitūdinis: magnitude, greatness; singular feminine genitive from magnitūdō, magnitūdinis"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="manē: morning"/>
+                <ITEXT CH="māne: morning; singular neuter accusative from māne"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="manēbat: he was remaining; 3rd person singular imperfect active from maneō, manēre, mānsī, mānsus"/>
                 <para PARENT="Vocab"/>
@@ -27900,7 +27902,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="nec: nor, not either"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="nōbīs: us; singular dative or ablative from ego"/>
+                <ITEXT CH="nōbīs: us; plural dative or ablative from ego"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="nostrum: our; plural genitive of ego"/>
                 <para PARENT="Vocab"/>
@@ -27912,7 +27914,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="omnēs: all, every; plural common nominative from omnis, omnis, omne"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="ōre: mouth; singular neuter  from ōs, ōris"/>
+                <ITEXT CH="ōre: mouth; singular neuter ablative from ōs, ōris"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="ōsculāre: kiss!; singular imperative from ōsculor, ōsculārī, ōsculātum"/>
                 <para PARENT="Vocab"/>
@@ -27960,7 +27962,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="tantae: of such"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="tē: to you, accusative from tu"/>
+                <ITEXT CH="tē: you, accusative from tū"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="tenuērunt: they held; 3rd person plural perfect active from teneō, tenēre, tenuī, tentus"/>
                 <para PARENT="Vocab"/>
@@ -27969,6 +27971,8 @@
                 <ITEXT CH="tuōs: your; plural masculine accusative from tuus, tua, tuum"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="turma: troop, group, crowd; singular feminine nominative from turma, turmae"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="turmā: troop, group, crowd; singular feminine ablative from turma, turmae"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="turmae: troop, group, crowd; plural feminine nominative from turma, turmae"/>
                 <para PARENT="Vocab"/>
@@ -32657,10 +32661,18 @@
             <StoryText>
                 <DefaultStyle/>
                 <ITEXT FEATURES="inherit superscript" CH="1"/>
-                <ITEXT FONT="DejaVu Serif Italic" CH="The island was covered with white and purple scaltas"/>
-                <ITEXT CH=". The scalta is some sort of fruit, but the exact meaning of the word is uncertain."/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="Three groups of people are on that island: a group of novices, a group of young men, and a group of elders"/>
+                <ITEXT CH=". These groups likely represent monastic ranks, hence the interpretation of "/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="puerōrum"/>
+                <ITEXT CH=" as 'of novices'."/>
                 <para PARENT="footnotes"/>
-                <ITEXT FEATURES="inherit superscript" CH="2"/>
+                <ITEXT FONT="DejaVu Serif Italic" FEATURES="inherit superscript" CH="2"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="The island was covered with white and purple scaltas"/>
+                <ITEXT CH=". The "/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="scalta"/>
+                <ITEXT CH=" is some sort of fruit, but the exact meaning of the word is uncertain."/>
+                <para PARENT="footnotes"/>
+                <ITEXT FONT="DejaVu Serif Italic" FEATURES="inherit superscript" CH="3"/>
                 <ITEXT FONT="DejaVu Serif Italic" FEATURES="inherit" CH="The first group of boys was in white vestments, the second group was in violet-colored vestments, and the third group was in purple dalmatics."/>
                 <ITEXT CH=" The dalmatics are a particular style of vestments worn by deacons."/>
                 <trail PARENT="footnotes"/>
