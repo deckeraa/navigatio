@@ -370,14 +370,14 @@
         <PAGE PAGEXPOS="712.0008" PAGEYPOS="108180.4176" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="18" BORDERTOP="36" BORDERBOTTOM="18" NUM="260" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="100.0008" PAGEYPOS="109012.4208" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="18" BORDERTOP="36" BORDERBOTTOM="18" NUM="261" NAM="" MNAM="Latin left" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="712.0008" PAGEYPOS="109012.4208" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="18" BORDERTOP="36" BORDERBOTTOM="18" NUM="262" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
-        <MASTEROBJECT XPOS="118.0008" YPOS="776.0016" OwnPage="2" ItemID="1646231922" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="118.0008" gYpos="1019315981680.28" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="118.0008" YPOS="776.0016" OwnPage="2" ItemID="1646231922" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="118.0008" gYpos="1023027827508.76" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
                 <trail ALIGN="1"/>
             </StoryText>
         </MASTEROBJECT>
-        <MASTEROBJECT XPOS="154.0008" YPOS="776.0016" OwnPage="3" ItemID="1646239346" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="12590511526.0008" gYpos="1019315052336.28" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="154.0008" YPOS="776.0016" OwnPage="3" ItemID="1646239346" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="12631880278.0008" gYpos="1023026898164.76" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
@@ -613,7 +613,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="vergentem: laying"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="vīdērunt: they saw"/>
+                <ITEXT CH="vīdērunt: they saw; 3rd person plural perfect from videō, vidēre, vīdī, vīsus"/>
                 <trail PARENT="Vocab"/>
             </StoryText>
         </PAGEOBJECT>
@@ -5525,7 +5525,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="victūs: victuals, nourishment, necessaries of life; plural masculine accusative from victus, victūs"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="vīdērunt: they saw"/>
+                <ITEXT CH="vīdērunt: they saw; 3rd person plural perfect from videō, vidēre, vīdī, vīsus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="vīdissent: they (might) have had seen; 3rd person plural pluperfect subjunctive from videō, vidēre, vīdī, vīsus"/>
                 <para PARENT="Vocab"/>
@@ -7865,7 +7865,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="vērō: truly, even so, still"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="vīdērunt: they saw"/>
+                <ITEXT CH="vīdērunt: they saw; 3rd person plural perfect from videō, vidēre, vīdī, vīsus"/>
                 <trail PARENT="Vocab"/>
             </StoryText>
         </PAGEOBJECT>
@@ -8184,7 +8184,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="victōriam: victory; singular feminine accusative from victōria, victōriae"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="vīdērunt: they saw"/>
+                <ITEXT CH="vīdērunt: they saw; 3rd person plural perfect from videō, vidēre, vīdī, vīsus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="vidēte: look!; 2nd person plural present imperative from videō, vidēre, vīdī, vīsus"/>
                 <para PARENT="Vocab"/>
@@ -9079,7 +9079,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="vidērētur: he may have appeared; 3rd person sing. imp. pass. subj. from vidēre"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="vīdērunt: they saw"/>
+                <ITEXT CH="vīdērunt: they saw; 3rd person plural perfect from videō, vidēre, vīdī, vīsus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="vidētis: you see; 2nd person plural present from videō, vidēre, vīdī, vīsus"/>
                 <para PARENT="Vocab"/>
@@ -10205,7 +10205,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="vīctum: food; singular masculine accussative from victus, victūs"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="vīdērunt: they saw"/>
+                <ITEXT CH="vīdērunt: they saw; 3rd person plural perfect from videō, vidēre, vīdī, vīsus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="vidēte: look!; 2nd person plural present imperative from videō, vidēre, vīdī, vīsus"/>
                 <para PARENT="Vocab"/>
@@ -10819,9 +10819,9 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="nam: yes, truly"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="nātālem: birthday; singular common accusative from natalis, natalis, natale"/>
+                <ITEXT CH="nātālem: birthday; singular common accusative from nātālis, nātālis, nātāle"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="nātālis: birthday; singular common nominative from natalis, natalis, natale"/>
+                <ITEXT CH="nātālis: birthday; singular common nominative from nātālis, nātālis, nātāle"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="nautoribus: sailer; plural masculine ablative from nautor, nautōris. This is a medieval Latin term that is not found in many dictionaries."/>
                 <para PARENT="Vocab"/>
@@ -10859,7 +10859,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="venerābilis: venerable; singular common nominative from venerābilis, venerābilis, venerābile"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="vīdērunt: they saw"/>
+                <ITEXT CH="vīdērunt: they saw; 3rd person plural perfect from videō, vidēre, vīdī, vīsus"/>
                 <trail PARENT="Vocab"/>
             </StoryText>
         </PAGEOBJECT>
@@ -11112,7 +11112,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="vidēre: to see;"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="vīdērunt: they saw"/>
+                <ITEXT CH="vīdērunt: they saw; 3rd person plural perfect from videō, vidēre, vīdī, vīsus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="vōs: you;(pronoun)"/>
                 <trail PARENT="Vocab"/>
@@ -12301,7 +12301,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="vere: true, real, genuine, actual; properly named; well founded; right, fair, proper; singular masculine vocative from vērus, vēra -um, vērior -or -us, vērissimus -a -um"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="vīdērunt: they saw"/>
+                <ITEXT CH="vīdērunt: they saw; 3rd person plural perfect from videō, vidēre, vīdī, vīsus"/>
                 <trail PARENT="Vocab"/>
             </StoryText>
         </PAGEOBJECT>
@@ -13230,7 +13230,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="vērō: truly, even so, still"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="vīdērunt: they saw"/>
+                <ITEXT CH="vīdērunt: they saw; 3rd person plural perfect from videō, vidēre, vīdī, vīsus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="vītā: life; singular feminine ablative from vīta, vītae"/>
                 <trail PARENT="Vocab"/>
@@ -17491,7 +17491,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="vērō: truly, even so, still"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="vīdērunt: they saw"/>
+                <ITEXT CH="vīdērunt: they saw; 3rd person plural perfect from videō, vidēre, vīdī, vīsus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="voluit: he wanted; 3rd person singular perfect active from volō, velle, voluī, -"/>
                 <para PARENT="Vocab"/>
@@ -18991,7 +18991,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="vidēre: to see;"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="vīdērunt: they saw"/>
+                <ITEXT CH="vīdērunt: they saw; 3rd person plural perfect from videō, vidēre, vīdī, vīsus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="vir: man; singular masculine nominative from vir, virī"/>
                 <para PARENT="Vocab"/>
@@ -19642,7 +19642,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="videntibus: looking; plural ablative present participle from videō, vidēre, vīdī, vīsus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="vīdērunt: they saw"/>
+                <ITEXT CH="vīdērunt: they saw; 3rd person plural perfect from videō, vidēre, vīdī, vīsus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="vir: man; singular masculine nominative from vir, virī"/>
                 <para PARENT="Vocab"/>
@@ -20190,7 +20190,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="videō: I see; 1st person singular present active from videō, vidēre, vīdī, vīsus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="vīdērunt: they saw"/>
+                <ITEXT CH="vīdērunt: they saw; 3rd person plural perfect from videō, vidēre, vīdī, vīsus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="vōs: you;(pronoun)"/>
                 <trail PARENT="Vocab"/>
@@ -20399,7 +20399,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="vexātōrum: having been vexed; plural masculine genitive perfect passive participle from vexō, vexāre, vexāvī, vexātus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="vīdērunt: they saw"/>
+                <ITEXT CH="vīdērunt: they saw; 3rd person plural perfect from videō, vidēre, vīdī, vīsus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="vīdisset: he (might) have had seen; 3rd person singular pluperfect active subjunctive from videō, vidēre, vīdī, vīsus"/>
                 <para PARENT="Vocab"/>
@@ -22882,7 +22882,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="vestrās: your; plural feminine accusative from vester"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="vīdērunt: they saw"/>
+                <ITEXT CH="vīdērunt: they saw; 3rd person plural perfect from videō, vidēre, vīdī, vīsus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="vidēs: you see; 2nd person sing. present active from videō, vidēre, vīdī, vīsus"/>
                 <para PARENT="Vocab"/>
@@ -24350,7 +24350,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="vāscula: small vessel; plural neuter accusative from vāsculum, vāsculī"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="vīdērunt: they saw"/>
+                <ITEXT CH="vīdērunt: they saw; 3rd person plural perfect from videō, vidēre, vīdī, vīsus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="vīdit: he saw; 3rd person singular perfect active from videō, vidēre, vīdī, vīsus"/>
                 <para PARENT="Vocab"/>
@@ -24844,7 +24844,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="ventum: wind; singular masculine accusative from ventus, ventī"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="vīdērunt: they saw"/>
+                <ITEXT CH="vīdērunt: they saw; 3rd person plural perfect from videō, vidēre, vīdī, vīsus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="vidēs: you see; 2nd person singular present active from videō, vidēre, vīdī, vīsus"/>
                 <para PARENT="Vocab"/>
@@ -27294,7 +27294,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="vēlōciter: quickly"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="vīdērunt: they saw"/>
+                <ITEXT CH="vīdērunt: they saw; 3rd person plural perfect from videō, vidēre, vīdī, vīsus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="vidēte: look!; 2nd person plural present active imperative from videō, vidēre, vīdī, vīsus"/>
                 <para PARENT="Vocab"/>
@@ -27779,7 +27779,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="vidēmus: we see; 1st person plural present active from videō, vidēre, vīdī, vīsus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="vīdērunt: they saw"/>
+                <ITEXT CH="vīdērunt: they saw; 3rd person plural perfect from videō, vidēre, vīdī, vīsus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="vidētisne: do you see?; 2nd person plural present active from videō, vidēre, vīdī, vīsus"/>
                 <para PARENT="Vocab"/>
@@ -28221,7 +28221,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="vīctum: food; singular masculine accusative from victus, victūs"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="vīdērunt: they saw"/>
+                <ITEXT CH="vīdērunt: they saw; 3rd person plural perfect from videō, vidēre, vīdī, vīsus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="vidēte: look!; 2nd person plural present active imperative from videō, vidēre, vīdī, vīsus"/>
                 <para PARENT="Vocab"/>
@@ -28291,7 +28291,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="cum: with"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="defendet: he will defend; 3rd person singular future active from dēfendō, dēfendere, dēfendī, dēfēnsus"/>
+                <ITEXT CH="dēfendet: He will defend; 3rd person singular future active from dēfendō, dēfendere, dēfendī, dēfēnsus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="Deī: of God; singular masculine genitive from Deus, Dei"/>
                 <para PARENT="Vocab"/>
@@ -28315,7 +28315,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="familiae: family; singular feminine genitive from familia, familiae"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="fēstīvitātibus: festivity; plural feminine ablative from fēstīvitās, fēstīvitātis"/>
+                <ITEXT CH="fēstīvitātibus: festivities; plural feminine ablative from fēstīvitās, fēstīvitātis"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="frātrēs: brothers; plural masculine nominative from frāter, frātris"/>
                 <para PARENT="Vocab"/>
@@ -28329,11 +28329,15 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="grȳphus: griffin, a lion-eagle hybrid; from grȳphus, grȳphīd; singular feminine accusative from īnsula, īnsulae"/>
                 <para PARENT="Vocab"/>
+                <ITEXT CH="ibi: there"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="ille: that; singular masculine nominative from ille, illa, illud"/>
+                <para PARENT="Vocab"/>
                 <ITEXT CH="illīs: those; plural masculine dative or ablative from ille, illa, illud"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="interfēcit: he killed; 3rd person singular perfect active from interficiō, interficere, interfēcī, interfectus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="locīs: places; plural masculine  from locus, locī"/>
+                <ITEXT CH="locīs: places; plural masculine ablative from locus, locī"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="locum: place; singular masculine accusative from locus, locī"/>
                 <para PARENT="Vocab"/>
@@ -28341,9 +28345,9 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="multum: many; singular neuter nominative from multus, multa -um, -, plūrimus -a -um"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="nātālem: birthday; singular common accusative from natalis, natalis, natale"/>
+                <ITEXT CH="nātālem: birthday; singular common accusative from nātālis, nātālis, nātāle"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="nātālis: birthday; singular common nominative from natalis, natalis, natale"/>
+                <ITEXT CH="nātālis: birthday; singular common nominative from nātālis, nātālis, nātāle"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="nāvigābant: they were sailing; 3rd person plural imperfect active from nāvigō, nāvigāre, nāvigāvī, nāvigātus"/>
                 <para PARENT="Vocab"/>
@@ -28393,7 +28397,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="suum: his; singular masculine accusative from suus, sui"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="tempus: time, period; singular neuter nominative from tempus, temporis"/>
+                <ITEXT CH="tempus: time, period; singular neuter accusative from tempus, temporis"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="timēre: to fear;"/>
                 <para PARENT="Vocab"/>
@@ -28401,7 +28405,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="ungulās: claws, hooves; plural feminine accusative from ungula, ungulae"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="vīdērunt: they saw"/>
+                <ITEXT CH="vīdērunt: they saw; 3rd person plural perfect from videō, vidēre, vīdī, vīsus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="volāvit: he flew; 3rd person singular perfect active from volō, volāre, volāvī, volātus"/>
                 <para PARENT="Vocab"/>
@@ -28618,7 +28622,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="vidēre: to see;"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="vīdērunt: they saw"/>
+                <ITEXT CH="vīdērunt: they saw; 3rd person plural perfect from videō, vidēre, vīdī, vīsus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="voluērunt: they wanted; 3rd person plural perfect active from volō, velle, voluī, -"/>
                 <trail PARENT="Vocab"/>
@@ -29233,7 +29237,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="ventus: wind; singular masculine nominative from ventus, ventī"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="vīdērunt: they saw"/>
+                <ITEXT CH="vīdērunt: they saw; 3rd person plural perfect from videō, vidēre, vīdī, vīsus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="vīdit: he saw; 3rd person singular perfect active from videō, vidēre, vīdī, vīsus"/>
                 <trail PARENT="Vocab"/>
@@ -29600,7 +29604,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="vidēre: to see;"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="vīdērunt: they saw"/>
+                <ITEXT CH="vīdērunt: they saw; 3rd person plural perfect from videō, vidēre, vīdī, vīsus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="virum: man; singular masculine accusative from vir, virī"/>
                 <para PARENT="Vocab"/>
@@ -30804,7 +30808,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="vestra: your"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="vīdērunt: they saw"/>
+                <ITEXT CH="vīdērunt: they saw; 3rd person plural perfect from videō, vidēre, vīdī, vīsus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="vīdit: he saw; 3rd person singular perfect active from videō, vidēre, vīdī, vīsus"/>
                 <para PARENT="Vocab"/>
@@ -31792,7 +31796,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="vēnērunt: they came; 3rd person plural perfect active from veniō, venīre, vēnī, ventus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="vīdērunt: they saw"/>
+                <ITEXT CH="vīdērunt: they saw; 3rd person plural perfect from videō, vidēre, vīdī, vīsus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="vīvēbat: he was living; 3rd person singular imperfect active from vīvō, vīvere, vīxī, vīctus"/>
                 <para PARENT="Vocab"/>
