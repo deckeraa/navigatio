@@ -370,14 +370,14 @@
         <PAGE PAGEXPOS="712.0008" PAGEYPOS="108180.4176" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="18" BORDERTOP="36" BORDERBOTTOM="18" NUM="260" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="100.0008" PAGEYPOS="109012.4208" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="18" BORDERTOP="36" BORDERBOTTOM="18" NUM="261" NAM="" MNAM="Latin left" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="712.0008" PAGEYPOS="109012.4208" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="18" BORDERTOP="36" BORDERBOTTOM="18" NUM="262" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
-        <MASTEROBJECT XPOS="118.0008" YPOS="776.0016" OwnPage="2" ItemID="315536321" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="118.0008" gYpos="1111148198437.09" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="118.0008" YPOS="776.0016" OwnPage="2" ItemID="315536321" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="118.0008" gYpos="1116622451684.23" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
                 <trail ALIGN="1"/>
             </StoryText>
         </MASTEROBJECT>
-        <MASTEROBJECT XPOS="154.0008" YPOS="776.0016" OwnPage="3" ItemID="315527761" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="13613987278.0008" gYpos="1111147269093.09" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="154.0008" YPOS="776.0016" OwnPage="3" ItemID="315527761" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="13674998170.0008" gYpos="1116621522340.23" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
@@ -22148,11 +22148,11 @@
                 <ITEXT FEATURES="inherit superscript" CH="1"/>
                 <ITEXT CH="; tamen ūnanimiter illōrum conversātiō"/>
                 <ITEXT FEATURES="inherit superscript" CH="2"/>
-                <ITEXT CH=" in spē et fide et cāritāte, ūna refectiō, et ad opus Deī ūna ecclēsia perficiendum"/>
+                <ITEXT CH=" in spē et fidē et cāritāte, ūna refectiō, et ad opus Deī ūna ecclēsia perficiendum"/>
                 <ITEXT FEATURES="inherit superscript" CH="3"/>
                 <ITEXT CH=". [12] Nihil aliud cibī ministrātur"/>
                 <ITEXT FEATURES="inherit superscript" CH="4"/>
-                <ITEXT CH=" nisi pōma et nucēs atque rādīcēs et cētera genera herbārum. Frātrēs post complētōrium in suās singulās cellulās ūsque ad gallōrum cantūs seu pulsum campanae permansērunt."/>
+                <ITEXT CH=" nisi pōma et nucēs atque rādīcēs et cētera genera herbārum. Frātrēs post complētōrium in suās singulās cellulās ūsque ad gallōrum cantūs seu pulsum campānae permansērunt."/>
                 <para PARENT="Latin"/>
                 <ITEXT CH="[13]     “Pernoctantibus nōbīs et perambulantibus"/>
                 <ITEXT FEATURES="inherit superscript" CH="5"/>
@@ -22164,13 +22164,13 @@
                 <para PARENT="Latin"/>
                 <ITEXT CH="[15]       “Ascendentibus nōbīs et nāvigantibus, nebulae cooperuērunt nōs undique, in tantum ut vix potuissēmus"/>
                 <ITEXT FEATURES="inherit superscript" CH="8"/>
-                <ITEXT CH=" puppim aut prōram nāviculae vidēre. [16] Trānsāctō vērō spatiō quasi ūnīus hōrae, circumfulsit nōs lūx ingēns, et appāruit terra spatiōsa et herbōsa pomiferōsaque valdē. [17] Cum stetisset"/>
+                <ITEXT CH=" puppim aut prōram nāviculae vidēre. [16] Trānsactō vērō spatiō quasi ūnīus hōrae, circumfulsit nōs lūx ingēns, et appāruit terra spatiōsa et herbōsa pomiferōsaque valdē. [17] Cum stetisset"/>
                 <ITEXT FEATURES="inherit superscript" CH="9"/>
                 <ITEXT CH=" nāvis ad terram, ascendimus nōs et coepimus circuīre et perambulāre per quīndecim diēs illam īnsulam, et nōn potuimus fīnem ipsīus invenīre."/>
                 <para PARENT="Latin"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="766.0008" YPOS="36664.1424" OwnPage="88" ItemID="719770209" PTYPE="4" WIDTH="540" HEIGHT="717.808917197475" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="2" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 717.809 L0 717.809 L0 0 Z" copath="M0 0 L540 0 L540 717.809 L0 717.809 L0 0 Z" gXpos="766.0008" gYpos="36664.1424" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="766.0008" YPOS="36664.1424" OwnPage="88" ItemID="719770209" PTYPE="4" WIDTH="540" HEIGHT="719.999999999978" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="2" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 720 L0 720 L0 0 Z" copath="M0 0 L540 0 L540 720 L0 720 L0 0 Z" gXpos="766.0008" gYpos="36664.1424" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <ITEXT CH="ad: to, towards, at, according to"/>
@@ -22191,11 +22191,11 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="campānae: bells; sing. fem. gen. from campāna, campānae"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="cantūs: song; plural masculine accusative from cantus, cantūs"/>
+                <ITEXT CH="cantūs: songs; plural masculine accusative from cantus, cantūs"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="cāritāte: charity; sing. fem.  from cāritās, cāritātis"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="cellulās: small room, cell; pl. fem. acc. from cellula, cellulae"/>
+                <ITEXT CH="cellulās: small rooms, cells; pl. fem. acc. from cellula, cellulae"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="cētera: the other; sing. fem. nom. from cēterus, cētera, cēterum"/>
                 <para PARENT="Vocab"/>
@@ -22241,7 +22241,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="et: and"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="fidē: faith; sing. fem. gen. from fidēs, fideī"/>
+                <ITEXT CH="fidē: faith; sing. fem. ablative from fidēs, fideī"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="fīliolus: young son; sing. masc. nom. from fīliolus, fīliolī"/>
                 <para PARENT="Vocab"/>
@@ -22251,7 +22251,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="gallōrum: of chickens, of roosters; pl. masc. gen. from gallus, gallī"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="genera: births, families, types, offspring; singular feminine ablative from genus, generis"/>
+                <ITEXT CH="genera: types; plural neuter nominative from genus, generis"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="habitātiō: dwelling; sing. fem. nom. from habitātiō, habitātiōnis"/>
                 <para PARENT="Vocab"/>
@@ -22259,7 +22259,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="herbōsa: grassy, herbaceous; sing. fem. nom. from herbosus, herbosa, herbosum"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="hōrae: hour, time; sing. fem. gen. from hōra, hōrae"/>
+                <ITEXT CH="hōrae: hours, times; pl. fem. nom. from hōra, hōrae"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="illam: that; singular feminine accusative from ille, illa, illud"/>
                 <para PARENT="Vocab"/>
@@ -22311,7 +22311,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="nōn: not"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="nōs: us; plural nominative or accusative of ego"/>
+                <ITEXT CH="nōs: we; plural nominative of ego"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="nostrīs: our"/>
                 <para PARENT="Vocab"/>
@@ -22320,6 +22320,8 @@
                 <ITEXT CH="nucēs: nuts; pl. fem. nom. from nux, nucis"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="occidentālem: western; sing. common acc. from occidentālis, occidentālis, occidentāle"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="occidentem: west; singular masculine accusative from occidēns, occidentis"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="opus: work, deed; sing. neut. nom. from opus, operis"/>
                 <para PARENT="Vocab"/>
@@ -22341,7 +22343,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="pōma: fruit, grapes; pl. neut. nom. from pōmum, pōmī"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="pomiferōsa: fruit-bearing; sing. fem. nom. related to pōmifer -a -um"/>
+                <ITEXT CH="pomiferōsaque: and fruit-bearing; sing. fem. nom. related to pōmifer -a -um"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="post: behind, after, since"/>
                 <para PARENT="Vocab"/>
@@ -22381,7 +22383,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="spatiōsa: spacious; sing. fem. nom. from spatiōsus, spatiōsa, spatiōsum"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="spēs, speī: hope;    from spēs, speī"/>
+                <ITEXT CH="spē: hope; singular feminine ablative from spēs, speī"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="stetisset: he (might) have had stood; 3rd person sing. pluperfect active subjunctive from stō, stāre, stetī, status"/>
                 <para PARENT="Vocab"/>
@@ -22401,7 +22403,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="tōtam: whole, total; sing. fem. acc. from tōtus, tōta, tōtum (gen -ius)"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="trānsactō: having spent; singular masculine ablative perfect passive participle from transigo, transigere, transegi, transactus"/>
+                <ITEXT CH="trānsactō: having spent; singular masculine ablative perfect passive participle from trānsigō, trānsigere, trānsēgī, trānsactum"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="ubi: where, when if"/>
                 <para PARENT="Vocab"/>
