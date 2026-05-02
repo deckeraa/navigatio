@@ -370,14 +370,14 @@
         <PAGE PAGEXPOS="712.0008" PAGEYPOS="108180.4176" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="18" BORDERTOP="36" BORDERBOTTOM="18" NUM="260" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="100.0008" PAGEYPOS="109012.4208" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="18" BORDERTOP="36" BORDERBOTTOM="18" NUM="261" NAM="" MNAM="Latin left" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="712.0008" PAGEYPOS="109012.4208" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="18" BORDERTOP="36" BORDERBOTTOM="18" NUM="262" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
-        <MASTEROBJECT XPOS="118.0008" YPOS="776.0016" OwnPage="2" ItemID="315536321" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="118.0008" gYpos="1055520865507.33" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="118.0008" YPOS="776.0016" OwnPage="2" ItemID="315536321" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="118.0008" gYpos="1061836758215.48" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
                 <trail ALIGN="1"/>
             </StoryText>
         </MASTEROBJECT>
-        <MASTEROBJECT XPOS="154.0008" YPOS="776.0016" OwnPage="3" ItemID="315527761" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="12994017202.0008" gYpos="1055519936163.33" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="154.0008" YPOS="776.0016" OwnPage="3" ItemID="315527761" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="13064408218.0008" gYpos="1061835828871.48" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
@@ -29696,11 +29696,13 @@
                 <ITEXT CH="Sed sum hīc omnī diē Dominicō. Posteā et anteā crucior in profundō īnfernī cum Hērōde et Pīlātō et Annā et Caiphā. Adiūrō vōs: ōrā ad Dominum Iēsum: volō remanēre super hanc petram ūsque manē.” Brendānus respondit: “Ita, hāc nocte daemonēs nōn tē mordēbunt ūsque manē.”"/>
                 <para PARENT="Latin"/>
                 <tab/>
-                <ITEXT CH="Iterum Brendānus interrogāvit eum: “Quid est hic pannus?” Iūdās respondit: “Dedī istum pannum cuidam leprōsō, quandō eram camerārius Dominī. Sed pannus nōn erat meus, ergō nōn habeō refrīgerium sed magis impedīmentum. Et forcae ferreae, ubi pannus pendet – dedī illās sacerdōtibus templī. Et haec petra – mīsī illam in fossam in pūblicā viā.”"/>
+                <ITEXT CH="Iterum Brendānus interrogāvit eum: “Quid est hic pannus?” Iūdās respondit: “Dedī istum pannum cuidam leprōsō, quandō eram camerārius Dominī. Sed pannus nōn erat meus, ergō nōn habeō refrīgerium sed magis impedīmentum. Et forcae ferreae, ubi pannus pendet – dedī illās sacerdōtibus templī. Et haec petra – mīsī"/>
+                <ITEXT FEATURES="inherit superscript" CH="1"/>
+                <ITEXT CH=" illam in fossam in pūblicā viā.”"/>
                 <para PARENT="Latin"/>
                 <tab/>
                 <ITEXT CH="Vespere innumerābilis multitūdō daemonum cooperuit faciem maris et dīxērunt: “Recēde, vir Deī, ā nōbīs, quia nōn possumus appropinquāre Iūdām ūsque recēdās ab illō, et nōlēmus vidēre prīncipem nostrum sine Iūdām. Sed redde nōbīs nostrum morsum"/>
-                <ITEXT FEATURES="inherit superscript" CH="1"/>
+                <ITEXT FEATURES="inherit superscript" CH="2"/>
                 <ITEXT CH=".” "/>
                 <para PARENT="Latin"/>
             </StoryText>
@@ -29940,7 +29942,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="Caiphā: Ablative of Caiphas, a high priest involved with the crucifixion of Christ."/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="camerārius: chamberlain; singular masculine nominative from camerārius, camerāriī"/>
+                <ITEXT CH="camerārius: money keeper, chamberlain; singular masculine nominative from camerārius, camerāriī"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="cooperuit: he covered; 3rd person singular perfect active from cooperiō, cooperīre, cooperuī, coopertus"/>
                 <para PARENT="Vocab"/>
@@ -29964,13 +29966,13 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="Dominī: of the lord; singular masculine genitive from dominus, dominī"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="dominicō: Sunday; singular masculine dative from dominicus, dominica, dominicum"/>
+                <ITEXT CH="Dominicō: Sunday; singular masculine ablative from Dominicus, Dominica, Dominicum"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="dominum: lord; singular masculine accusative from dominus, dominī"/>
+                <ITEXT CH="Dominum: Lord; singular masculine accusative from Dominus, Dominī"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="eram: I was; 1st person singular imperfect active from sum, esse, fuī, futūrus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="erat: he was; 3rd person singular imperfect active from sum, esse, fuī, futūrus"/>
+                <ITEXT CH="erat: he was, it was; 3rd person singular imperfect active from sum, esse, fuī, futūrus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="ergō: therefore"/>
                 <para PARENT="Vocab"/>
@@ -29978,13 +29980,15 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="et: and"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="eum: to him; singular masculine accusative from is, ea, id"/>
+                <ITEXT CH="eum: him; singular masculine accusative from is, ea, id"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="faciem: shape, figure, appearance, look; singular feminine accusative from faciēs, faciēī"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="ferreae: made of iron; singular feminine genitive from ferreus, ferrea, ferreum"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="fossam: ditch, moat; singular feminine accusative from fossa, fossae"/>
+                <ITEXT CH="forcae: forks; plural feminine nominative from forca, forcae"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="fossam: pothole, ditch; singular feminine accusative from fossa, fossae"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="furcae: fork; singular feminine genitive from furca, furcae"/>
                 <para PARENT="Vocab"/>
@@ -29998,15 +30002,15 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="Hērōde: ablative of Herod, the Roman-installed king of Israel involved with the crucifixion of Christ."/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="hic: this; singular masculine nominative of hic, haec, hoc"/>
+                <ITEXT CH="hīc: here"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="Iēsūm: Jesus, accusative singular of Iēsūs"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="illam: that; singular feminine accusative from ille, illa, illud"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="illās: that; plural feminine accusative from ille, illa, illud"/>
+                <ITEXT CH="illās: those; plural feminine accusative from ille, illa, illud"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="illō: these; singular masculine or neuter ablative from ille, illa, illud"/>
+                <ITEXT CH="illō: that one; singular masculine or neuter ablative from ille, illa, illud"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="impedīmentum: impediment, hindrance, heavy baggage; singular neuter nominative from impedīmentum, impedīmentī"/>
                 <para PARENT="Vocab"/>
@@ -30026,7 +30030,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="Iūdām: Judas Iscariot (accusative case)"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="Iūdūs: Judas Iscariot"/>
+                <ITEXT CH="Iūdās: Judas Iscariot"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="leprōsō: leper; singular common dative from leprōsus, leprōsī"/>
                 <para PARENT="Vocab"/>
@@ -30046,7 +30050,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="multitūdō: multitude, great number; singular feminine nominative from multitūdō, multitūdinis"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="nōbīs: us; singular dative or ablative from ego"/>
+                <ITEXT CH="nōbīs: us; plural dative or ablative from ego"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="nocte: night; singular feminine ablative from nox, noctis"/>
                 <para PARENT="Vocab"/>
@@ -30056,7 +30060,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="nostrum: our; plural genitive of ego"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="omnī: all, every; singular  dative from omnis, omnis, omne"/>
+                <ITEXT CH="omnī: all, every; singular common ablative from omnis, omnis, omne"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="ōrā: pray! singular imperative from ōrō, ōrāre, ōrāvī, ōrātus"/>
                 <para PARENT="Vocab"/>
@@ -30076,7 +30080,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="posteā: thereafter, later"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="prīncipem: first man, prince; singular masculine accusative from princeps, principis"/>
+                <ITEXT CH="prīncipem: prince; singular masculine accusative from princeps, principis"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="profundō: deep, bottomless, boundless; singular masculine ablative from profundus, profunda, profundum"/>
                 <para PARENT="Vocab"/>
@@ -30086,7 +30090,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="quia: because"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="quid: who; singular neuter nom. or acc. of quis"/>
+                <ITEXT CH="quid: what"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="recēdās: you (might) recede, withdraw; 2nd person singular present active subjunctive from recēdō, recēdere, recessī, recessus"/>
                 <para PARENT="Vocab"/>
@@ -30110,7 +30114,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="super: above, on top of"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="tē: to you, accusative from tu"/>
+                <ITEXT CH="tē: you, accusative from tū"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="templī: temple; singular neuter genitive from templum, templī"/>
                 <para PARENT="Vocab"/>
@@ -30120,15 +30124,15 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="vespere: evening; singular masculine ablative from vesper, vesperis"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="via: road; singular feminine nominative from via, viae"/>
+                <ITEXT CH="viā: road; singular feminine ablative from via, viae"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="vidēre: to see;"/>
+                <ITEXT CH="vidēre: to see; present infinitive from videō, vidēre, vīdī, vīsum"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="vir: man; singular masculine nominative from vir, virī"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="volō: I want; 1st person singular present active from volō, velle, voluī, -"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="vōs: you;(pronoun)"/>
+                <ITEXT CH="vōs: you"/>
                 <trail PARENT="Vocab"/>
             </StoryText>
         </PAGEOBJECT>
@@ -32738,10 +32742,14 @@
                 <trail PARENT="footnotes"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="118.0008" YPOS="27943.3375796178" OwnPage="65" ItemID="916977361" PTYPE="4" WIDTH="540" HEIGHT="28.4331210191085" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 28.4331 L0 28.4331 L0 0 Z" copath="M0 0 L540 0 L540 28.4331 L0 28.4331 L0 0 Z" gXpos="118.0008" gYpos="27943.3375796178" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="118.0008" YPOS="27943.3375796178" OwnPage="65" ItemID="916977361" PTYPE="4" WIDTH="540" HEIGHT="51.82165605099" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 51.8217 L0 51.8217 L0 0 Z" copath="M0 0 L540 0 L540 51.8217 L0 51.8217 L0 0 Z" gXpos="118.0008" gYpos="27943.3375796178" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <ITEXT FEATURES="inherit superscript" CH="1"/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="And this rock -- I put it into a pothole in a public road."/>
+                <ITEXT CH=" The one good act of Judas was helping to fill in a pothole."/>
+                <para PARENT="footnotes"/>
+                <ITEXT FONT="DejaVu Serif Italic" FEATURES="inherit superscript" CH="2"/>
                 <ITEXT FONT="DejaVu Serif Italic" CH="But return to us our morsel."/>
                 <ITEXT CH=" The demons view Judas as a piece of food that they can gnaw on for all eternity."/>
                 <trail PARENT="footnotes"/>
