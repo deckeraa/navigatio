@@ -370,14 +370,14 @@
         <PAGE PAGEXPOS="712.0008" PAGEYPOS="108180.4176" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="18" BORDERTOP="36" BORDERBOTTOM="18" NUM="260" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="100.0008" PAGEYPOS="109012.4208" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="18" BORDERTOP="36" BORDERBOTTOM="18" NUM="261" NAM="" MNAM="Latin left" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="712.0008" PAGEYPOS="109012.4208" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="18" BORDERTOP="36" BORDERBOTTOM="18" NUM="262" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
-        <MASTEROBJECT XPOS="118.0008" YPOS="776.0016" OwnPage="2" ItemID="315536321" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="118.0008" gYpos="1102703029827.18" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="118.0008" YPOS="776.0016" OwnPage="2" ItemID="315536321" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="118.0008" gYpos="1111148198437.09" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
                 <trail ALIGN="1"/>
             </StoryText>
         </MASTEROBJECT>
-        <MASTEROBJECT XPOS="154.0008" YPOS="776.0016" OwnPage="3" ItemID="315527761" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="13519865350.0008" gYpos="1102702100483.18" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="154.0008" YPOS="776.0016" OwnPage="3" ItemID="315527761" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="13613987278.0008" gYpos="1111147269093.09" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
@@ -21677,20 +21677,28 @@
                 <ITEXT FONT="DejaVu Serif Italic" CH="He was raised"/>
                 <ITEXT CH=" or "/>
                 <ITEXT FONT="DejaVu Serif Italic" CH="he was born"/>
-                <ITEXT CH=". ortus + fuit is a past passive participle construction with orīrī, meaning to be born, to originate, or to arise."/>
+                <ITEXT CH=". "/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="ortus + fuit"/>
+                <ITEXT CH=" is a past passive participle construction with "/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="orīrī"/>
+                <ITEXT CH=", meaning to be born, to originate, or to arise."/>
                 <para PARENT="footnotes"/>
                 <ITEXT FEATURES="inherit superscript" CH="5"/>
                 <ITEXT CH="Pater here, and in many other places in this text, has a spiritual and not biological meaning."/>
                 <para PARENT="footnotes"/>
                 <ITEXT FEATURES="inherit superscript" CH="6"/>
-                <ITEXT CH="Having been in his struggle. Presumably this is some sort of spiritual struggle, perhaps an intense session of prayer. The subjunctive is used because it is a cum circumstantial clause."/>
+                <ITEXT CH="Having been in his struggle. Presumably this is some sort of spiritual struggle, perhaps an intense session of prayer. The subjunctive is used because it is a "/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="cum"/>
+                <ITEXT CH=" circumstantial clause."/>
                 <para PARENT="footnotes"/>
                 <ITEXT FEATURES="inherit superscript" CH="7"/>
                 <ITEXT FONT="DejaVu Serif Italic" CH="In a place which is called the Valley of the Virtues of Brendan."/>
                 <para PARENT="footnotes"/>
                 <ITEXT FEATURES="inherit superscript" CH="8"/>
                 <ITEXT FONT="DejaVu Serif Italic" CH="It came to be that a certain father had come to him on a certain night."/>
-                <ITEXT CH=" The subjunctive vēnisset is used because this is a result clause with contigit."/>
+                <ITEXT CH=" The subjunctive "/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="vēnisset"/>
+                <ITEXT CH=" is used because this is a result clause with contigit."/>
                 <para PARENT="footnotes"/>
                 <ITEXT FEATURES="inherit superscript" CH="9"/>
                 <ITEXT CH="According to Carney, Barrindus is a great-grandson of Niall Noígiallach, who was a king in Ireland."/>
@@ -21923,17 +21931,21 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="adventum: arrival, approach; singular masculine accusative from adventus, adventūs"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="appropinquāvissem: I (might) have had approached; 1st person singular pluperfect active subjunctive from appropinquō, appropinquāre, appropinquāvī, appropinquātus"/>
+                <ITEXT CH="appropinquāssem: I (might) have had approached; 1st person singular pluperfect active subjunctive from appropinquō, appropinquāre, appropinquāvī, appropinquātus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="apum: of bees; plural feminine genitive from apes, apis"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="atque: and"/>
                 <para PARENT="Vocab"/>
+                <ITEXT CH="Barrindī: of Barrindus, an Irish monk who told of his travels to the Promised Land of the Saints to St. Brendan"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="Barrindus: an Irish monk who told of his travels to the Promised Land of the Saints to St. Brendan"/>
+                <para PARENT="Vocab"/>
                 <ITEXT CH="Brendānī: (genitive case) Brendan of Clonfert (c. AD 484 – c. 577), an Irish abbot who sailed the Atlantic"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="cellulīs: small rooms, cells; plural feminine  from cellula, cellulae"/>
+                <ITEXT CH="cellulīs: small rooms, cells; plural feminine ablative from cellula, cellulae"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="chrīstī: annointed one, Christ; singular masculine genitive from Chrīstus, Chrīstī"/>
+                <ITEXT CH="Chrīstī: of Christ; singular masculine genitive from Chrīstus, Chrīstī"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="coepit: he started; 3rd person singular present active from coepio, coepere, coepi, coeptus"/>
                 <para PARENT="Vocab"/>
@@ -21941,11 +21953,13 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="cum: with"/>
                 <para PARENT="Vocab"/>
+                <ITEXT CH="cumque: and with"/>
+                <para PARENT="Vocab"/>
                 <ITEXT CH="dē: of, from, away from, down from"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="dēliciōsa: delicious; singular feminine nominative from dēliciōsus, dēliciōsa, dēliciōsum"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="deus: god; singular masculine nominative from Deus, Dei"/>
+                <ITEXT CH="Deus: God; singular masculine nominative from Deus, Deī"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="dīcēns: saying; singular nominative present participle from dīcō, dīcere, dīxī, dictus"/>
                 <para PARENT="Vocab"/>
@@ -21953,11 +21967,13 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="dīversīs: diverse; plural  dative from dīversus, dīversa, dīversum"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="dominus: lord, master; singular masculine nominative from dominus, dominī"/>
+                <ITEXT CH="Dominus: Lord; singular masculine nominative from Dominus, Dominī"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="enim: for, truly, really, indeed"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="esse: to be"/>
+                <ITEXT CH="esse: to be; present infinitive from sum, esse, fuī, futūrus"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="est: it is; 3rd person singular present from sum, esse, fuī, futūrus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="et: and"/>
                 <para PARENT="Vocab"/>
@@ -21965,13 +21981,13 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="exāmen: crowd, exam; singular neuter nominative from exāmen, exāminis"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="explētīs: having beeen filled, having been completed; masculine plural ablative past passive participle from expleō, explēre, explēvī, explētus"/>
+                <ITEXT CH="explētīs: having been filled, having been completed; masculine plural ablative past passive participle from expleō, explēre, explēvī, explētus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="faciē: face, shape, figure, appearance, look; singular feminine ablative from faciēs, faciēī"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="festīnāvit: he hastened, he hurried; 3rd person singular perfect active from festīnō, festīnāre, festīnāvī, festīnātus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="fīliolum: young son; plural feminine genitive from filiola, filiolae"/>
+                <ITEXT CH="fīliolum: young son; singular masculine accusative from filiola, filiolae"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="fīliolus: young son; singular masculine nominative from fīliolus, fīliolī"/>
                 <para PARENT="Vocab"/>
@@ -21987,21 +22003,23 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="in: into (with accusative), in (with ablative)"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="īnsula: island; singular feminine nominative from īnsula, īnsulae"/>
+                <ITEXT CH="īnsulā: island; singular feminine ablative from īnsula, īnsulae"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="īnsulam: island; singular feminine accusative from īnsula, īnsulae"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="invenit: he finds, he found; 3rd person singular present active from inveniō, invenīre, invēnī, inventus"/>
+                <ITEXT CH="invēnitque: and he found; 3rd person singular perfect active from inveniō, invenīre, invēnī, inventus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="itaque: so then, therefore"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="iter: journey, trip; singular neuter nominative from iter, itineris"/>
+                <ITEXT CH="iter: journey, trip; singular neuter accusative from iter, itineris"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="iuxtā: near, nearly"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="lapidis: stone; singular masculine genitive from lapis, lapidis"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="mea: my; singular feminine nominative from meus, mea, meum"/>
+                <ITEXT CH="meā: my; singular feminine ablative from meus, mea, meum"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="Mernoc: a monk who was the spiritual son of Barrindus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="meum: my; singular neuter nominative from meus, mea, meum"/>
                 <para PARENT="Vocab"/>
@@ -22035,7 +22053,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="occursum: meeting; singular masculine accusative from occursus, occursūs"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="ostendit: he shows, he showed; 3rd person singular present active from ostend.it"/>
+                <ITEXT CH="ostendit: he showed; 3rd person singular present active from ostendō, ostendere, ostendī, ostentus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="pauperum: poor; plural genitive from pauper, pauperis (gen.), pauperior -or -us, pauperrimus -a -um"/>
                 <para PARENT="Vocab"/>
@@ -22055,7 +22073,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="quādam: a certain; singular feminieablative from quīdam"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="quod: what; singular neuter nom. or acc. of qui"/>
+                <ITEXT CH="quod: what; singular neuter nom. or acc. of quī"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="revēlāvīt: he revealed; 3rd person singular perfect active from revēlō, revēlāre, revēlāvī, revēlātus"/>
                 <para PARENT="Vocab"/>
@@ -22085,13 +22103,13 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="vērō: truly, even so, still"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="vīsitāvissem: I (might) have had visited; 1st person singular pluperfect active subjunctive from vīsitō, vīsitāre, vīsitāvī, vīsitātus"/>
+                <ITEXT CH="vīsitāssem: I had visited; 1st person singular pluperfect active subjunctive from vīsitō, vīsitāre, vīsitāvī, vīsitātus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="voluit: he wanted; 3rd person singular perfect active from volō, velle, voluī, -"/>
                 <trail PARENT="Vocab"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="118.0008" YPOS="35850.7188178344" OwnPage="85" ItemID="715787409" PTYPE="4" WIDTH="540" HEIGHT="330.459526114668" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 330.46 L0 330.46 L0 0 Z" copath="M0 0 L540 0 L540 330.46 L0 330.46 L0 0 Z" gXpos="118.0008" gYpos="35850.7188178344" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="118.0008" YPOS="35850.7188178344" OwnPage="85" ItemID="715787409" PTYPE="4" WIDTH="540" HEIGHT="320.338507006367" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 320.339 L0 320.339 L0 0 Z" copath="M0 0 L540 0 L540 320.339 L0 320.339 L0 0 Z" gXpos="118.0008" gYpos="35850.7188178344" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <para/>
@@ -22105,9 +22123,9 @@
                 <ITEXT FEATURES="inherit superscript" CH="4"/>
                 <ITEXT CH=", et Deus multa mīrābilia per illum ostendit.  Itaque perrēxī illūc, ut vīsitāssem"/>
                 <ITEXT FEATURES="inherit superscript" CH="5"/>
-                <ITEXT CH=" fīliolum meum.”"/>
+                <ITEXT CH=" fīliolum meum."/>
                 <para PARENT="Latin"/>
-                <ITEXT CH="[9]      “Cumque appropinquāssem"/>
+                <ITEXT CH="[9]      Cumque appropinquāssem"/>
                 <ITEXT FEATURES="inherit superscript" CH="6"/>
                 <ITEXT CH=" iter trium diērum, in occursum mihi festīnāvit cum frātribus suīs: revēlāvit enim Dominus sibi adventum meum. [10] Nāvigantibus nōbīs in praedictam īnsulam occurrērunt obviam, sīcut exāmen apum, ex dīversīs cellulīs"/>
                 <ITEXT FEATURES="inherit superscript" CH="7"/>
@@ -25507,14 +25525,18 @@
                 <DefaultStyle/>
                 <ITEXT FEATURES="inherit superscript" CH="1"/>
                 <ITEXT FONT="DejaVu Serif Italic" CH="Then Saint Barrindus, the words of Saint Brendan having been completed, began to narrate of a certain island, saying."/>
-                <ITEXT CH=" Explētīs sermōnibus is an ablative absolute."/>
+                <ITEXT CH=" "/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="Explētīs sermōnibus"/>
+                <ITEXT CH=" is an ablative absolute."/>
                 <para PARENT="footnotes"/>
                 <ITEXT FEATURES="inherit superscript" CH="2"/>
                 <ITEXT CH="Mernoc was in charge of some sort of ministry for the poor."/>
                 <para PARENT="footnotes"/>
                 <ITEXT FEATURES="inherit superscript" CH="3"/>
                 <ITEXT FONT="DejaVu Serif Italic" CH="After much time it was announced to me"/>
-                <ITEXT CH=". nūntiātum + est = was announced; this is a past passive participle construction."/>
+                <ITEXT CH=". "/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="nūntiātum + est"/>
+                <ITEXT CH=" = was announced; this is a perfect passive participle construction."/>
                 <para PARENT="footnotes"/>
                 <ITEXT FEATURES="inherit superscript" CH="4"/>
                 <ITEXT FONT="DejaVu Serif Italic" CH="That he had had more monks with him"/>
@@ -25529,7 +25551,7 @@
                 <ITEXT CH=" The subjunctive is used because this is a circumstantial clause."/>
                 <para PARENT="footnotes"/>
                 <ITEXT FEATURES="inherit superscript" CH="7"/>
-                <ITEXT CH="Monks would often build little rooms called &quot;cells&quot; that they would live in. A comparison to bees is being made here probably to emphasive the communal life of the monks."/>
+                <ITEXT CH="Monks would often build little rooms called &quot;cells&quot; that they would live in. A comparison to bees is being made here probably to emphasize the communal life of the monks."/>
                 <trail PARENT="footnotes"/>
             </StoryText>
         </PAGEOBJECT>
