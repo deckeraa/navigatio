@@ -370,14 +370,14 @@
         <PAGE PAGEXPOS="712.0008" PAGEYPOS="108180.4176" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="18" BORDERTOP="36" BORDERBOTTOM="18" NUM="260" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="100.0008" PAGEYPOS="109012.4208" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="18" BORDERTOP="36" BORDERBOTTOM="18" NUM="261" NAM="" MNAM="Latin left" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="712.0008" PAGEYPOS="109012.4208" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="18" BORDERTOP="36" BORDERBOTTOM="18" NUM="262" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
-        <MASTEROBJECT XPOS="118.0008" YPOS="776.0016" OwnPage="2" ItemID="315536321" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="118.0008" gYpos="1132757471438.94" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="118.0008" YPOS="776.0016" OwnPage="2" ItemID="315536321" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="118.0008" gYpos="1136627574260.17" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
                 <trail ALIGN="1"/>
             </StoryText>
         </MASTEROBJECT>
-        <MASTEROBJECT XPOS="154.0008" YPOS="776.0016" OwnPage="3" ItemID="315527761" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="13854823966.0008" gYpos="1132756542094.94" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="154.0008" YPOS="776.0016" OwnPage="3" ItemID="315527761" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="13897956502.0008" gYpos="1136626644916.17" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
@@ -23170,7 +23170,7 @@
                 <para PARENT="Latin"/>
                 <ITEXT CH="[37]      Hīs audītis, sānctus Brendānus cum omnī congregātiōne suā prōstrāvērunt sē ad terram, glōrificantēs Deum atque dīcentēs [38] “ ‘Iūstus Dominus in omnibus viīs suīs, et sānctus in omnibus operibus suīs,’ quī revēlāvit servīs suīs tanta"/>
                 <ITEXT FEATURES="inherit superscript" CH="5"/>
-                <ITEXT CH=" ac tālia mīrābilia, et benedictus in dōnīs suīs, quī hodiē nōs refēcit dē tālī gustū spīritālī et pōtū.” [39] Hīs fīnītīs sermōnibus, dīxit sānctus Brendānus: “Eāmus ad refectiōnem corporis et ad Mandātum"/>
+                <ITEXT CH=" ac tālia mīrābilia, et benedictus in dōnīs suīs, quī hodiē nōs refēcit dē tālī gustū spīritālī et pōtū.” [39] Hīs fīnītīs sermōnibus, dīxit sānctus Brendānus: “Eāmus ad refectiōnem corporis et ad mandātum"/>
                 <ITEXT FEATURES="inherit superscript" CH="6"/>
                 <ITEXT CH=" novum.” [40] Trānsāctā autem illā nocte, acceptā benedictiōne manē frātrum, ad cellam suam sānctus Barrindus perrēxit."/>
                 <para PARENT="Latin"/>
@@ -23231,7 +23231,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="dīxit: he said; 3rd person singular perfect active from dīcō, dīcere, dīxī, dictus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="dominus: lord, master; singular masculine nominative from dominus, dominī"/>
+                <ITEXT CH="Dominus: Lord; singular masculine nominative from Dominus, Dominī"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="dōnīs: gifts; plural neuter ablativea from dōnum, dōnī"/>
                 <para PARENT="Vocab"/>
@@ -23241,15 +23241,17 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="ebdomadās: weeks; plur. fem. acc. from ebdomada, ebdomadae"/>
                 <para PARENT="Vocab"/>
+                <ITEXT CH="erō: I will be; 1st person singular future from sum, esse, fuī, futūrus"/>
+                <para PARENT="Vocab"/>
                 <ITEXT CH="et: and"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="fīliolō: young son; singular masculine ablative from fīliolus, fīliolī"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="fīnītīs: end; plural dative or ablative of fīnītus, fīnīta, fīnītum"/>
+                <ITEXT CH="fīnītīs: end; plural ablative of fīnītus, fīnīta, fīnītum"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="frātrum: of brothers; plural masculine genitive from frāter, frātris"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="glorificantēs: glorifying; plural common nominative present participle from glorificō, glorificāre, glorificāvī, glorificātus"/>
+                <ITEXT CH="glōrificantēs: glorifying; plural common nominative present participle from glōrificō, glōrificāre, glōrificāvī, glōrificātus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="gustū: taste; singular masculine ablative from gustus, gustūs"/>
                 <para PARENT="Vocab"/>
@@ -23303,7 +23305,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="pōtū: drink; singular masculine ablative from pōtus, pōtūs"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="prostrāvērunt: they prostrated, they laid down; 3rd person plural perfect active from prosternō, prosternere, prostrāvī, prostrātus"/>
+                <ITEXT CH="prōstrāvērunt: they prostrated, they laid down; 3rd person plural perfect active from prōsternō, prōsternere, prōstrāvī, prōstrātus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="quadrāgintā: 40"/>
                 <para PARENT="Vocab"/>
@@ -23339,7 +23341,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="spīritālī: spiritual; singular ablative from spīritālis, spīritālis, spīritāle"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="sua: her/its; sing. fem. nom. or abl. or neuter nom. or acc. from suus"/>
+                <ITEXT CH="suā: his; singular feminine ablative from suus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="suam: her; singular feminine acc. from suus"/>
                 <para PARENT="Vocab"/>
@@ -25701,19 +25703,27 @@
                 <DefaultStyle/>
                 <ITEXT FEATURES="inherit superscript" CH="1"/>
                 <ITEXT FONT="DejaVu Serif Italic" CH="And I remained there two continuous weeks with my little son, without food and drink."/>
-                <ITEXT CH=" Here fīliolō is a term of endearment."/>
+                <ITEXT CH=" Here "/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="fīliolō"/>
+                <ITEXT CH=" is a term of endearment."/>
                 <para PARENT="footnotes"/>
                 <ITEXT FEATURES="inherit superscript" CH="2"/>
                 <ITEXT FONT="DejaVu Serif Italic" CH="We had such (of) satiation of the body that we appeared to them (like we were) full of new wine."/>
-                <ITEXT CH=" A similar scenario is pictured in chapter fourteen of Vīta Antōniī, where Anthony emerges from a fast in a demon-haunted abandoned Roman fortress: &quot;And they, when they saw him, wondered at the sight, for he had the same habit of body as before, and was neither fat, like a man without exercise, nor lean from fasting and striving with the demons, but he was just the same as they had known him before his retirement.&quot;"/>
+                <ITEXT CH=" A similar scenario is pictured in chapter fourteen of "/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="Vīta Antōniī"/>
+                <ITEXT CH=", where Anthony emerges from a fast in a demon-haunted abandoned Roman fortress: &quot;And they, when they saw him, wondered at the sight, for he had the same habit of body as before, and was neither fat, like a man without exercise, nor lean from fasting and striving with the demons, but he was just the same as they had known him before his retirement.&quot;"/>
                 <para PARENT="footnotes"/>
                 <ITEXT FEATURES="inherit superscript" CH="3"/>
                 <ITEXT FONT="DejaVu Serif Italic" CH="I returned with my associates."/>
-                <ITEXT CH=" reversus + sum is a past passive participle construction."/>
+                <ITEXT CH=" "/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="reversus + sum"/>
+                <ITEXT CH=" is a past passive participle construction."/>
                 <para PARENT="footnotes"/>
                 <ITEXT FEATURES="inherit superscript" CH="4"/>
                 <ITEXT FONT="DejaVu Serif Italic" CH="To which I will return tomorrow"/>
-                <ITEXT CH=". itūrus erō is a future periphrastic construction."/>
+                <ITEXT CH=". "/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="itūrus erō"/>
+                <ITEXT CH=" is a future periphrastic construction."/>
                 <para PARENT="footnotes"/>
                 <ITEXT FEATURES="inherit superscript" CH="5"/>
                 <ITEXT FONT="DejaVu Serif Italic" CH="Who revealed to his servants so great and such miracles and blessed in his gifts, which today refreshed us of such a spiritual taste and drink."/>
