@@ -370,14 +370,14 @@
         <PAGE PAGEXPOS="712.0008" PAGEYPOS="108180.4176" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="18" BORDERTOP="36" BORDERBOTTOM="18" NUM="260" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="100.0008" PAGEYPOS="109012.4208" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="18" BORDERTOP="36" BORDERBOTTOM="18" NUM="261" NAM="" MNAM="Latin left" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="712.0008" PAGEYPOS="109012.4208" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="18" BORDERTOP="36" BORDERBOTTOM="18" NUM="262" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
-        <MASTEROBJECT XPOS="118.0008" YPOS="776.0016" OwnPage="2" ItemID="315536321" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="118.0008" gYpos="1121737029947.98" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="118.0008" YPOS="776.0016" OwnPage="2" ItemID="315536321" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="118.0008" gYpos="1126369643734" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
                 <trail ALIGN="1"/>
             </StoryText>
         </MASTEROBJECT>
-        <MASTEROBJECT XPOS="154.0008" YPOS="776.0016" OwnPage="3" ItemID="315527761" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="13732000462.0008" gYpos="1121736100603.98" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="154.0008" YPOS="776.0016" OwnPage="3" ItemID="315527761" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="13783631230.0008" gYpos="1126368714390" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
@@ -22670,7 +22670,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="adventū: arrival, approach; sing. neut. abl. from advenio, advenire, adveni, adventus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="āit: he said; 3rd person sing. present active from aio, -, -"/>
+                <ITEXT CH="ait: he said; 3rd person sing. present active from aio, -, -"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="aliquam: anyone"/>
                 <para PARENT="Vocab"/>
@@ -22734,7 +22734,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="es: you are; 2nd person sing. present active from sum, esse, fuī, futūrus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="est: he is; 3rd person sing. present active from sum, esse, fuī, futūrus"/>
+                <ITEXT CH="est: he is, it is; 3rd person sing. present active from sum, esse, fuī, futūrus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="et: and"/>
                 <para PARENT="Vocab"/>
@@ -22748,11 +22748,11 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="fuistī: you were; 2nd person sing. perfect active from sum, esse, fuī, futūrus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="gustāvistī: you tasted, you enjoyed; 2nd person sing. perfect active from gustō, gustāre, gustāvī, gustātus"/>
+                <ITEXT CH="gustāstī: you tasted, you enjoyed; 2nd person sing. perfect active from gustō, gustāre, gustāvī, gustātus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="hāc: this; singular feminine ablative of hic, haec, hoc"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="hic: this; singular masculine nominative of hic, haec, hoc"/>
+                <ITEXT CH="hīc: here"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="ibīdem: in the same place"/>
                 <para PARENT="Vocab"/>
@@ -22780,7 +22780,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="ipsīus: of itself; singular genitive from ipse, ipsa, ipsum"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="ista: that; singular feminine nom. or abl, or plural neuter nom. or acc. from iste, ista, istud"/>
+                <ITEXT CH="istā: that; singular feminine ablative from iste, ista, istud"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="ita: thus, in this way"/>
                 <para PARENT="Vocab"/>
@@ -22798,7 +22798,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="minusve: or less; from minus + ve"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="modō: in this way; sing. masc. abl. from modus, modī"/>
+                <ITEXT CH="modo: now"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="multō: many; sing. masc. dat. from multus, multa -um, -, plūrimus -a -um"/>
                 <para PARENT="Vocab"/>
@@ -22814,7 +22814,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="nescīmus: we do not know; 1st person pl. present active from nesciō, nescīre, nescīvī, nescītus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="nōbīs: us; singular dative or ablative from ego"/>
+                <ITEXT CH="nōbīs: us; plural dative or ablative from ego"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="nōn: not"/>
                 <para PARENT="Vocab"/>
@@ -22894,7 +22894,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="somnō: sleep; sing. masc. abl. from somnus, somnī"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="tē: to you, accusative from tu"/>
+                <ITEXT CH="tē: you, accusative from tu"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="tempore: time, period; sing. neut.  from tempus, temporis"/>
                 <para PARENT="Vocab"/>
@@ -22902,7 +22902,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="ubi: where, when if"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="ūlla: any; sing. fem. nom. from ūllus, ūlla, ūllum (gen -ius)"/>
+                <ITEXT CH="ūllā: any; sing. fem. abl. from ūllus, ūlla, ūllum (gen -ius)"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="ūnam: one; singular feminine accusative from ūnus -a -um, prīmus -a -um, singulī -ae -a, semel"/>
                 <para PARENT="Vocab"/>
@@ -25642,15 +25642,19 @@
             </StoryText>
         </PAGEOBJECT>
         <PAGEOBJECT XPOS="151.0008" YPOS="38787.5335133768" OwnPage="91" ItemID="782941585" PTYPE="5" WIDTH="450" HEIGHT="1" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR2="Black" PLINEART="1" path="" gXpos="151.0008" gYpos="68739.5335133747" gWidth="0" gHeight="0" LAYER="0"/>
-        <PAGEOBJECT XPOS="118.0008" YPOS="38796.1042140127" OwnPage="91" ItemID="782936289" PTYPE="4" WIDTH="540" HEIGHT="187.112346496855" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 187.112 L0 187.112 L0 0 Z" copath="M0 0 L540 0 L540 187.112 L0 187.112 L0 0 Z" gXpos="118.0008" gYpos="38796.1042140127" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="118.0008" YPOS="38796.1042140127" OwnPage="91" ItemID="782936289" PTYPE="4" WIDTH="540" HEIGHT="212.303429299405" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 212.303 L0 212.303 L0 0 Z" copath="M0 0 L540 0 L540 212.303 L0 212.303 L0 0 Z" gXpos="118.0008" gYpos="38796.1042140127" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <ITEXT FEATURES="inherit superscript" CH="1"/>
                 <ITEXT FONT="DejaVu Serif Italic" CH="Why do you ask me where I am from or how I am called?"/>
                 <para PARENT="footnotes"/>
                 <ITEXT FEATURES="inherit superscript" CH="2"/>
-                <ITEXT FONT="DejaVu Serif Italic" CH="In the manner you saw it, thus it remains from the beginning of the world."/>
-                <ITEXT CH=" The idea here is that this land has been in the same paradisial state since the beginning of the world. It's in the wrong geographic location to be the Garden of Eden, but perhaps it's meant to be taken as some sort of terrestrial paradise that's existed from the beginning."/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="Just as you see it now, thus it remains from the beginning of the world."/>
+                <ITEXT CH=" The idea here is that this land has been in the same paradisial state since the beginning of the world. It's in the wrong geographic location to be the Garden of Eden, but perhaps it's meant to be taken as some sort of terrestrial paradise that's existed from the beginning. There is an ambiguity here, as "/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="modo"/>
+                <ITEXT CH=" could instead by read as "/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="modō"/>
+                <ITEXT CH=", meaning 'in this way'."/>
                 <para PARENT="footnotes"/>
                 <ITEXT FEATURES="inherit superscript" CH="3"/>
                 <ITEXT FONT="DejaVu Serif Italic" CH="For you have been in this island for one year"/>
@@ -25662,7 +25666,9 @@
                 <para PARENT="footnotes"/>
                 <ITEXT FEATURES="inherit superscript" CH="5"/>
                 <ITEXT FONT="DejaVu Serif Italic" CH="Therefore ascending into the boat, the same man was snatched from our eyes."/>
-                <ITEXT CH=" raptus + est is a past passive participle construction."/>
+                <ITEXT CH=" "/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="raptus + est"/>
+                <ITEXT CH=" is a perfect passive participle construction."/>
                 <para PARENT="footnotes"/>
                 <ITEXT FEATURES="inherit superscript" CH="6"/>
                 <ITEXT FONT="DejaVu Serif Italic" CH="And in the same place to dwell for a month, sometimes for two weeks or plus or minus a week."/>
