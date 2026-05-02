@@ -370,14 +370,14 @@
         <PAGE PAGEXPOS="712.0008" PAGEYPOS="108180.4176" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="18" BORDERTOP="36" BORDERBOTTOM="18" NUM="260" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="100.0008" PAGEYPOS="109012.4208" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="18" BORDERTOP="36" BORDERBOTTOM="18" NUM="261" NAM="" MNAM="Latin left" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="712.0008" PAGEYPOS="109012.4208" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="18" BORDERTOP="36" BORDERBOTTOM="18" NUM="262" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
-        <MASTEROBJECT XPOS="118.0008" YPOS="776.0016" OwnPage="2" ItemID="315536321" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="118.0008" gYpos="1116622451684.23" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="118.0008" YPOS="776.0016" OwnPage="2" ItemID="315536321" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="118.0008" gYpos="1121737029947.98" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
                 <trail ALIGN="1"/>
             </StoryText>
         </MASTEROBJECT>
-        <MASTEROBJECT XPOS="154.0008" YPOS="776.0016" OwnPage="3" ItemID="315527761" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="13674998170.0008" gYpos="1116621522340.23" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="154.0008" YPOS="776.0016" OwnPage="3" ItemID="315527761" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="13732000462.0008" gYpos="1121736100603.98" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
@@ -22436,7 +22436,7 @@
                 <trail PARENT="Default Paragraph Style" ALIGN="1"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="766.0008" YPOS="37496.1456" OwnPage="90" ItemID="720444417" PTYPE="4" WIDTH="540" HEIGHT="717.707006369456" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="2" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 717.707 L0 717.707 L0 0 Z" copath="M0 0 L540 0 L540 717.707 L0 717.707 L0 0 Z" gXpos="766.0008" gYpos="37496.1456" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="766.0008" YPOS="37496.1456" OwnPage="90" ItemID="720444417" PTYPE="4" WIDTH="540" HEIGHT="719.999999999971" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="2" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 720 L0 720 L0 0 Z" copath="M0 0 L540 0 L540 720 L0 720 L0 0 Z" gXpos="766.0008" gYpos="37496.1456" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <ITEXT CH="ab: from, out of, by, since"/>
@@ -22455,9 +22455,9 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="aut: or"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="boni: good; singular neuter genitive from bonum, boni"/>
+                <ITEXT CH="bōnī: good; singular neuter genitive from bonum, bonī"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="cōnsīderāvissēmus: we (might) have had considered; 1st person plural pluperfect active subjunctive from cōnsīderō, cōnsīderāre, cōnsīderāvī, cōnsīderātus"/>
+                <ITEXT CH="cōnsīderāssēmus: we (might) have had considered; 1st person plural pluperfect active subjunctive from cōnsīderō, cōnsīderāre, cōnsīderāvī, cōnsīderātus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="cōnsilium: plan, advice, council; singular neuter nominative from consilium, consiliī"/>
                 <para PARENT="Vocab"/>
@@ -22499,7 +22499,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="expectāvimus: we awaited, we expected; 1st person plural perfect active from expectō, expectāre, expectāvī, expectātus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="exposuimus: we explained; 1st person plural perfect active from expōnō, expōnere, exposuī, expositus"/>
+                <ITEXT CH="exposuimus: we considered, set forth; 1st person plural perfect active from expōnō, expōnere, exposuī, expositus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="flōre: flower; 2nd person singular present active imperative from floreo, florere, florui, -"/>
                 <para PARENT="Vocab"/>
@@ -22511,7 +22511,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="frūctū: fruit; singular masculine ablative from frūctus, frūctūs"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="generis: birth, family, type, offspring; plural masculine  from gener, generi"/>
+                <ITEXT CH="generis: type; singular neuter genitive from genus, generis"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="haec: this, these; singular feminine nominative or plural neuter nom. or acc. of hic, haec, hoc"/>
                 <para PARENT="Vocab"/>
@@ -22533,7 +22533,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="istam: that; singular feminine accusative from iste, ista, istud"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="istīus: of this; singular genitive from iste, ista, istud"/>
+                <ITEXT CH="istīus: of this; singular feminine genitive from iste, ista, istud"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="istud: that; singular neuter nominative and accusative from iste, ista, istud"/>
                 <para PARENT="Vocab"/>
@@ -22573,19 +22573,21 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="pretiōsī: precious; singular masculine genitive from pretiōsus, pretiōsa -um, pretiōsior -or -us, pretiōsissimus -a -um"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="propriīs: own, personal, individual; plural  dative from proprius, propria, proprium"/>
+                <ITEXT CH="propriīs: own, personal, individual; plural neuter ablative from proprius, propria, proprium"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="quam: how? how much?"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="quī: who; plural masculine nominative of quis"/>
+                <ITEXT CH="quī: who; plural masculine nominative of quī"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="quid: who; singular neuter nom. or acc. of quis"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="quīntō: for the fifth time"/>
+                <ITEXT CH="quīdam: a certain; singular masculine nominative from quī"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="quīntodecimō: 15th"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="quō: what; singular ablative of quis"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="revēlāvīt: he revealed; 3rd person singular perfect active from revēlō, revēlāre, revēlāvī, revēlātus"/>
+                <ITEXT CH="revēlāvit: he revealed; 3rd person singular perfect active from revēlō, revēlāre, revēlāvī, revēlātus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="revertiminī: you return; 2nd person plural present passive from reverto, revertere, reverti, -"/>
                 <para PARENT="Vocab"/>
@@ -25570,7 +25572,11 @@
                 <para PARENT="footnotes"/>
                 <ITEXT FEATURES="inherit superscript" CH="3"/>
                 <ITEXT FONT="DejaVu Serif Italic" CH="And a church for the completing the work of God."/>
-                <ITEXT CH=" Here opus Deī probably refers to the sacraments. ad + perficiendum is a gerundive construction used to express purpose."/>
+                <ITEXT CH=" Here "/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="opus Deī"/>
+                <ITEXT CH=" probably refers to the sacraments. "/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="ad + perficiendum"/>
+                <ITEXT CH=" is a gerundive construction used to express purpose."/>
                 <para PARENT="footnotes"/>
                 <ITEXT FEATURES="inherit superscript" CH="4"/>
                 <ITEXT FONT="DejaVu Serif Italic" CH="Nothing else was served for food except apples and roots and other types of herbs."/>
@@ -25585,7 +25591,9 @@
                 <para PARENT="footnotes"/>
                 <ITEXT FEATURES="inherit superscript" CH="7"/>
                 <ITEXT FONT="DejaVu Serif Italic" CH="Which God will give to our successors in the End Times (or the Last Day)"/>
-                <ITEXT CH=". datūrus + est is a future passive participle construction."/>
+                <ITEXT CH=". "/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="datūrus + est"/>
+                <ITEXT CH=" is a future passive participle construction."/>
                 <para PARENT="footnotes"/>
                 <ITEXT FEATURES="inherit superscript" CH="8"/>
                 <ITEXT FONT="DejaVu Serif Italic" CH="To such an extent that we could hardly see the stern or prow of the ship"/>
@@ -25602,7 +25610,11 @@
                 <DefaultStyle/>
                 <ITEXT FEATURES="inherit superscript" CH="1"/>
                 <ITEXT FONT="DejaVu Serif Italic" CH="We saw no plants without flower or trees without fruit."/>
-                <ITEXT CH=" The genitive is used with nihil: nihil herbae -&gt; nothing of plants (literal) -&gt; no plants (idiomatic)."/>
+                <ITEXT CH=" The genitive is used with "/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="nihil"/>
+                <ITEXT CH=": "/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="nihil herbae"/>
+                <ITEXT CH=" -&gt; nothing of plants (literal) -&gt; no plants (idiomatic)."/>
                 <para PARENT="footnotes"/>
                 <ITEXT FEATURES="inherit superscript" CH="2"/>
                 <ITEXT FONT="DejaVu Serif Italic" CH="For the stones of themselves were all of precious types."/>
