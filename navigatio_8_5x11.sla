@@ -370,14 +370,14 @@
         <PAGE PAGEXPOS="712.0008" PAGEYPOS="108180.4176" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="18" BORDERTOP="36" BORDERBOTTOM="18" NUM="260" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="100.0008" PAGEYPOS="109012.4208" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="18" BORDERTOP="36" BORDERBOTTOM="18" NUM="261" NAM="" MNAM="Latin left" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="712.0008" PAGEYPOS="109012.4208" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="18" BORDERTOP="36" BORDERBOTTOM="18" NUM="262" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
-        <MASTEROBJECT XPOS="118.0008" YPOS="776.0016" OwnPage="2" ItemID="315536321" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="118.0008" gYpos="1144490069397" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="118.0008" YPOS="776.0016" OwnPage="2" ItemID="315536321" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="118.0008" gYpos="1150050644640.15" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
                 <trail ALIGN="1"/>
             </StoryText>
         </MASTEROBJECT>
-        <MASTEROBJECT XPOS="154.0008" YPOS="776.0016" OwnPage="3" ItemID="315527761" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="13985584498.0008" gYpos="1144489140053" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="154.0008" YPOS="776.0016" OwnPage="3" ItemID="315527761" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="14047557454.0008" gYpos="1150049715296.15" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
@@ -21238,7 +21238,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="Brendānus: Brendan of Clonfert (c. AD 484 – c. 577), an Irish abbot who sailed the Atlantic"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="commendātīs: you commend; 2nd person plural present from commendāre"/>
+                <ITEXT CH="commendātīsque: and you commend; 2nd person plural present from commendāre"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="contrā: against, away from, facing"/>
                 <para PARENT="Vocab"/>
@@ -21256,7 +21256,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="eō: I go; 1st person singular present active from eō, īre, iī, itus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="eōdem: the same;(pronoun)"/>
+                <ITEXT CH="eōdem: the same; singular masculine ablative from īdem"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="erant: they were; 3rd person plural imperfect active from sum, esse, fuī, futūrus"/>
                 <para PARENT="Vocab"/>
@@ -21268,13 +21268,13 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="fuit: he was; 3rd person singular perfect active from sum, esse, fuī, futūrus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="hī: to these; plural masculine nominative of hic, haec, hoc"/>
+                <ITEXT CH="hī: those; plural masculine nominative of hic, haec, hoc"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="iam: already, now, soon"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="ibī: there, then"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="iēiūnium: fast, fasting"/>
+                <ITEXT CH="iēiūnium: fast, fasting; singular neuter acccusative from iēiūnium, iēiūniī"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="igitur: therefore"/>
                 <para PARENT="Vocab"/>
@@ -21316,7 +21316,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="quī: who; plural masculine nominative of quis"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="salūtātis: you salute;"/>
+                <ITEXT CH="salūtātīs: having been bid farewell, saluted; 3rd person plural ablative perfect passive participle from salūtō, salūtāre, salūtāvī, salūtātus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="sānctī: holy"/>
                 <para PARENT="Vocab"/>
@@ -21330,11 +21330,11 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="suus: his; singular masculine nominative from suus, sui"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="trānsactīs: having been accomplished; plural ablative perfect passive participle from transigo, transigere, transegi, transactus"/>
+                <ITEXT CH="trānsactīs: having been accomplished; plural ablative perfect passive participle from trānsigō, trānsigere, trānsēgī, trānsactus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="tribus: three; plural ablative from trēs -es -ia, tertius -a -um, terni -ae -a, ter"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="triduānās: three days; plural feminine accusative from triduāna, triduānae"/>
+                <ITEXT CH="trīduānās: three days; plural feminine accusative from trīduāna, trīduānae"/>
                 <trail PARENT="Vocab"/>
             </StoryText>
         </PAGEOBJECT>
@@ -21349,9 +21349,9 @@
                 <ITEXT CH="Monachī Eunt ad Īnsulam Aende"/>
                 <para PARENT="Chapter Heading"/>
                 <para/>
-                <ITEXT CH="[1]    Dēfīnīvit igitur Sānctus Brendānus, et hī quī cum eō erant, ieiūnium quadrāgintā diērum, semper per trīduānās, et posteā proficīscī"/>
+                <ITEXT CH="[1]    Dēfīnīvit igitur Sānctus Brendānus, et hī quī cum eō erant, iēiūnium quadrāgintā diērum, semper per trīduānās, et posteā proficīscī"/>
                 <ITEXT FEATURES="inherit superscript" CH="1"/>
-                <ITEXT CH=". [2] Trānsāctīs iam quadrāgintā diēbus, et salūtātīs frātribus, commendātīsque omnibus praepositō monastēriī suī, quī fuit posteā suus successor in eōdem"/>
+                <ITEXT CH=". [2] Trānsactīs iam quadrāgintā diēbus, et salūtātīs frātribus, commendātīsque omnibus praepositō monastēriī suī, quī fuit posteā suus successor in eōdem"/>
                 <ITEXT FEATURES="inherit superscript" CH="2"/>
                 <ITEXT CH=" locō, profectus est contrā occidentālem plāgam cum quattuordecim frātribus ad īnsulam cuiusdam sānctī patris, nōmine Aende. [3] Ibique dēmorātus"/>
                 <ITEXT FEATURES="inherit superscript" CH="3"/>
@@ -25773,10 +25773,12 @@
                 <DefaultStyle/>
                 <ITEXT FEATURES="inherit superscript" CH="1"/>
                 <ITEXT FONT="DejaVu Serif Italic" CH="Then Saint Brendan planned, and those who were with him, a fast of forty days, always by three days (i.e. in three-day intervals) and afterwards to set out."/>
-                <ITEXT CH=" proficīscī is the present infinitive (it's a deponent verb)"/>
+                <ITEXT CH=" "/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="proficīscī"/>
+                <ITEXT CH=" is the present infinitive (it's a deponent verb)."/>
                 <para PARENT="footnotes"/>
                 <ITEXT FEATURES="inherit superscript" CH="2"/>
-                <ITEXT FONT="DejaVu Serif Italic" CH="Having then spent forty days, and saluting the brothers, and having commended everything of his monastery to the prior, who was afterwards his successor in the same place, he set out from the west coast with fourteen brother for the insland of a certain holy father named Aende."/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="Forty days having been spent, and the brothers having been bid farewell, and everything of his monastery having been commended to the prior, who was afterwards his successor in the same place, he set out from the west coast with fourteen brother for the insland of a certain holy father named Aende."/>
                 <para PARENT="footnotes"/>
                 <ITEXT FEATURES="inherit superscript" CH="3"/>
                 <ITEXT FONT="DejaVu Serif Italic" CH="And there he dwelled three days and three nights."/>
