@@ -370,14 +370,14 @@
         <PAGE PAGEXPOS="712.0008" PAGEYPOS="108180.4176" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="18" BORDERTOP="36" BORDERBOTTOM="18" NUM="260" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="100.0008" PAGEYPOS="109012.4208" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="18" BORDERTOP="36" BORDERBOTTOM="18" NUM="261" NAM="" MNAM="Latin left" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="712.0008" PAGEYPOS="109012.4208" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="18" BORDERTOP="36" BORDERBOTTOM="18" NUM="262" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
-        <MASTEROBJECT XPOS="118.0008" YPOS="776.0016" OwnPage="2" ItemID="315536321" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="118.0008" gYpos="1076914333518.78" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="118.0008" YPOS="776.0016" OwnPage="2" ItemID="315536321" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="118.0008" gYpos="1080093860371.86" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
                 <trail ALIGN="1"/>
             </StoryText>
         </MASTEROBJECT>
-        <MASTEROBJECT XPOS="154.0008" YPOS="776.0016" OwnPage="3" ItemID="315527761" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="13232448730.0008" gYpos="1076913404174.78" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="154.0008" YPOS="776.0016" OwnPage="3" ItemID="315527761" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="13267884754.0008" gYpos="1080092931027.86" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
@@ -30604,9 +30604,9 @@
                 <DefaultStyle/>
                 <para/>
                 <tab/>
-                <ITEXT CH="Tunc Sānctus Brendānus interrogāvit senem: “Quōmodo habēs tālem vītam?” Senex respondit: “Eram monachus in monastēriō sānctī Patriciī per quīnquāgintā annōs, et cūstōdiēbam cimitērium. Quādam diē, faciēbam"/>
+                <ITEXT CH="Tunc Sānctus Brendānus interrogāvit senem: “Quōmodo habēs tālem vītam?” Senex respondit: “Eram monachus in monastēriō sānctī Patriciī per quīnquāgintā annōs, et cūstōdiēbam cīmītērium. Quādam diē, faciēbam"/>
                 <ITEXT FEATURES="inherit superscript" CH="1"/>
-                <ITEXT CH=" sepulchrum, et senex appāruit mihi et dīxit: ‘Nōn dēbēs facere fossam ibi, quia est sepulchrum alterīus.’ Et dīxī: ‘Pater, quis es tū?’ Senex respondit: “Ego sum abbās tuus. Heri migrāvī"/>
+                <ITEXT CH=" sepulchrum, et senex appāruit mihi et dīxit: ‘Nōn dēbēs facere fossam ibi, quia est sepulchrum alterīus.’ Et dīxī: ‘Pater, quis es tū?’ Senex respondit: “Ego sum abbās tuus. Herī migrāvī"/>
                 <ITEXT FEATURES="inherit superscript" CH="2"/>
                 <ITEXT CH=" dē saeculō et hic est locus sepultūrae meae. Crās, ī ad lītus maris. Inveniēs nāvem ibi. Nāvis dūcet tē ad locum ubi expectābis ūsque diem mortis tuae.’"/>
                 <para PARENT="Latin"/>
@@ -30873,7 +30873,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="crās: tomorrow"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="custōdiēbam: I was guarding; 1st person singular imperfect active from custōdiō, custōdīre, custōdīvī, custōdītus"/>
+                <ITEXT CH="cūstōdiēbam: I was guarding; 1st person singular imperfect active from cūstōdiō, cūstōdīre, cūstōdīvī, cūstōdītus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="dē: of, from, away from, down from"/>
                 <para PARENT="Vocab"/>
@@ -30889,15 +30889,15 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="dīxit: he said; 3rd person singular perfect active from dīcō, dīcere, dīxī, dictus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="dūcet: you will lead; 3rd person singular future active from dūcō, dūcere, dūxī, ductus"/>
+                <ITEXT CH="dūcet: it will lead; 3rd person singular future active from dūcō, dūcere, dūxī, ductus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="ego: I;(pronoun)"/>
+                <ITEXT CH="ego: I"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="eram: I was; 1st person singular imperfect active from sum, esse, fuī, futūrus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="es: you are; 2nd person singular present active from sum, esse, fuī, futūrus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="est: he is; 3rd person singular present active from sum, esse, fuī, futūrus"/>
+                <ITEXT CH="est: it is; 3rd person singular present active from sum, esse, fuī, futūrus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="et: and"/>
                 <para PARENT="Vocab"/>
@@ -30925,7 +30925,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="iī: I went; singular 1st person perfect of eō, īre, iī, itus (irregular)"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="impulit: he impelled, he urged on; 3rd person singular perfect active from impellō, impellere, impulī, impulsus"/>
+                <ITEXT CH="impulit: it impelled, it pushed on; 3rd person singular perfect active from impellō, impellere, impulī, impulsus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="in: into (with accusative), in (with ablative)"/>
                 <para PARENT="Vocab"/>
@@ -30933,7 +30933,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="interrogāvit: he asked; 3rd person singular perfect active from interrogō, interrogāre, interrogāvī, interrogātus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="invēnī: I found; 2nd person singular present active imperative from inveniō, invenīre, invēnī, inventus"/>
+                <ITEXT CH="invēnī: I found; 1st person singular perfect active indicative from inveniō, invenīre, invēnī, inventus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="inveniēs: you will find; 2nd person singular future active from inveniō, invenīre, invēnī, inventus"/>
                 <para PARENT="Vocab"/>
@@ -30963,7 +30963,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="nāvem: boat; singular feminine accusative from nāvis, nāvis"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="nāvigāvī: I sailed; 1st person singular perfect active from nāvigō, nāvigāre, nāvigāvī, nāvigātus"/>
+                <ITEXT CH="nāvigāvī: I rowed (in context); 1st person singular perfect active from nāvigō, nāvigāre, nāvigāvī, nāvigātus"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="nāvis: boat; singular feminine nominative from nāvis, nāvis"/>
                 <para PARENT="Vocab"/>
@@ -31011,7 +31011,7 @@
                 <para PARENT="Vocab"/>
                 <ITEXT CH="tālem: such; singular common accusative from tālis, tālis, tāle"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="tē: to you, accusative from tu"/>
+                <ITEXT CH="tē: you, accusative from tu"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="trēs: three; plural common nominative from trēs -es -ia, tertius -a -um, terni -ae -a, ter"/>
                 <para PARENT="Vocab"/>
