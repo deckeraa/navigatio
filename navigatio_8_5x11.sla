@@ -370,14 +370,14 @@
         <PAGE PAGEXPOS="712.0008" PAGEYPOS="108180.4176" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="18" BORDERTOP="36" BORDERBOTTOM="18" NUM="260" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="100.0008" PAGEYPOS="109012.4208" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="18" BORDERTOP="36" BORDERBOTTOM="18" NUM="261" NAM="" MNAM="Latin left" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="712.0008" PAGEYPOS="109012.4208" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="18" BORDERTOP="36" BORDERBOTTOM="18" NUM="262" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
-        <MASTEROBJECT XPOS="118.0008" YPOS="776.0016" OwnPage="2" ItemID="315536321" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="118.0008" gYpos="1150532609117.89" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="118.0008" YPOS="776.0016" OwnPage="2" ItemID="315536321" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="118.0008" gYpos="1159092873722.48" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
                 <trail ALIGN="1"/>
             </StoryText>
         </MASTEROBJECT>
-        <MASTEROBJECT XPOS="154.0008" YPOS="776.0016" OwnPage="3" ItemID="315527761" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="14052928978.0008" gYpos="1150531679773.89" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="154.0008" YPOS="776.0016" OwnPage="3" ItemID="315527761" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="14148333658.0008" gYpos="1159091944378.48" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
@@ -32284,7 +32284,7 @@
                 <ITEXT CH="The simplified text was created with the following goals in mind:"/>
                 <para/>
                 <tab/>
-                <ITEXT CH="- the elimination of the subjunctive"/>
+                <ITEXT CH="- the elimination of the subjunctive."/>
                 <para/>
                 <tab/>
                 <ITEXT CH="- the avoidance of relative pronouns when possible."/>
@@ -32355,6 +32355,12 @@
                 <ITEXT CH="- the Bible as a whole and specifically the Old Testament allegorization found in the Pauline epistles."/>
                 <para/>
                 <tab/>
+                <ITEXT CH="- Gregory the Great's commentary on Job."/>
+                <para/>
+                <tab/>
+                <ITEXT CH="- the Venerable Bede's commentary on Revelation."/>
+                <para/>
+                <tab/>
                 <ITEXT CH="- the "/>
                 <ITEXT FONT="DejaVu Serif Italic" CH="Gesta Romanorum"/>
                 <ITEXT CH=", which is a collection of medieval sermon illustrations where each story comes with an interpretation. This gives insight into how medievals interpreted their own stories."/>
@@ -32382,9 +32388,9 @@
                 <para PARENT="Chapter Heading"/>
                 <para/>
                 <tab/>
-                <ITEXT CH="Poetry is unlike propositional knowledge in that it cannot be reduced down and transmitted in single, concrete ideas. However, you may find the following hints and data to be helpful for your interpretive journey; it is recommended to read the narrative first, or at the same time as this symbolism guide; it will not make much sense without being familiar with the events of the "/>
+                <ITEXT CH="Esoteric/spiritual/allegorical readings are unlike propositional knowledge in that they cannot be reduced down and easily transmitted in single, concrete ideas. However, you may find the following hints and data to be helpful for your interpretive journey; it is recommended to read the narrative first, or at the same time as this symbolism guide; it will not make much sense without being familiar with the events of the "/>
                 <ITEXT FONT="DejaVu Serif Italic" CH="Nāvigātiō"/>
-                <ITEXT CH=". The overarching symbolic theme is the spiritual progress made in the monastic life. "/>
+                <ITEXT CH=". The overarching theme is the spiritual progress made in the monastic life. "/>
                 <para/>
                 <para/>
                 <ITEXT CH="Boat: the boat symbolizes the church. The church being symbolized as a boat is common in Christianity; for example, in many traditional churches the main area where people sit is called the nave. The Bible contains a number of ship-related stories: Noah's Ark, Moses in the basket, and Christ with the disciples on the Sea of Galilee. A ship gets you across the sea of chaos to your destination. The monks who stay in the boat arrive in the Promised Land of the Saints, the monk who jumps out after the Island of Smiths is taken to Hell alive. Judas is pictued as being on a &quot;boat&quot; consisting of a naked rock and a cloth &quot;sail&quot; that whips him in the face; much as he was a false disciple, in the Nāvigātiō he is on a false ship (though only on Sundays and certain feast days, he's in Hell the rest of the time). Brendan's ship contains some specific imagery: it is clad with leather skins, which is reminiscent of the garments of skin in Genesis 3, the tabernacle, and the Incarnation (the Word became flesh and dwelt (tabernacled)) amongst us. In several cases the boat is put in a tent, which was likely skin-clad; this is similar to how the presence of God was contained in a tent (the Holy of Holies) in a tent (the surrounding tabernacle), and also how the presence of God in the person of Christ is contained in a fleshly body (Christ's physical body) that was, for a time, contained in another body, that of the Virgin Mary . The text specifically relates that the boat has a tree placed in the middle of it as a mast. The mast holds up a cloth, catches the wind, and propels the ship to its destination; Christ was on the cross (often likened to a tree in scripture) and the Spirit of God propels the Church to its destination. In Greek πνεῦμα means both spirit and wind, and Christ specifically likens the Spirit to wind in John 3."/>
