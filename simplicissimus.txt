@@ -1,4 +1,3 @@
-
 Caput I
 
 Fābula Barrindī
@@ -11,16 +10,12 @@ Fābula Barrindī
 	Barrindus et Mernoc revertērunt ad nāvem et nāvigāvērunt per nebulam ad Īnsulam Dēliciōsam.
 	Brendānus sē cōgitāvit: “Ego quoque volō īre ad Terram Reprōmissiōnis Sānctōrum.”
 
-
-
 Caput II & III
 
 Brendānus Ēlēgit Frātrēs
 
 	Tunc Brendānus ēlēgit quattuordecim frātrēs. Monachī iērunt ad ōrātōrium. Brendānus dīxit: “Frātrēs, volō īre ad Terram Reprōmissiōnis Sānctōrum. Vultisne nāvigāre mēcum ad illam terram?” Frātrēs dīxērunt: “Ita. Ībimus tēcum. Ībimus tēcum ad mortem vel ad vītam.”
 	Sānctus Brendānus et monachī eius iēiūnābant. Iēiūnābant per quadrāgintā diēs. Tunc nāvigāvērunt ad īnsulam. Sānctus pater, nōmine Aende, vīvēbat in hāc īnsulā. Sānctus Brendānus et quattuordecim frātrēs eius erant in hāc īnsulā per tribus diēbus et tribus noctibus.
-
-
 
 Caput IV & V
 
@@ -31,7 +26,14 @@ Trēs Aliī Monachī
 	Sānctus Brendānus praecēpit frātribus1 suīs intrāre nāvem in nōmine Patrīs et Fīliī et Spīritus Sānctī.
 	Tunc trēs aliī frātres cucurrērunt dē suō monastēriō ad Brendānum. Trēs frātrēs cecidērunt ad pedēs Brendānī et dīxērunt: “Pater, volumus īre tēcum.” Tunc Brendānus praecēpit illīs intrāre nāvim. Brendānus dīxit: “Sciō cūr vēnistis. Ūnus frāter faciet bonum et ībit ad paradīsum. Duo aliī frātres facient mālum et ībunt ad īudicium2.”
 
+Caput VI
 
+Aulam Vacuam
+
+	Sānctus Brendānus ascendit in nāvem. Extendērunt vēlum et nāvigābant. Habēbant prōsperum ventum. Post quīndecim diēs ventus cessāvit et coepērunt rēmigāre.
+	Sānctus Brendānus cōnfortāvit frātrēs et dīxit: “Deus est gubernātor noster.” Et ventus movēbat nāvem per mare. Post quadrāgintā diēs, monachī nōn habuērunt cibum sed vīdērunt īnsulam. Haec īnsula erat saxōsa et alta.
+	Nāvīs appropinquāvit lītus. Vīdērunt rīpam altissimam sīcut mūrum. Rīvulī fluēbant dē summitāte īnsulae ad mare. Sed monachī nōn poterant invenīre portum. Monachī sitiēbant et volēbant capere aquam ex rīvulīs. Tunc Sānctus Brendānus dīxit: “Nōn dēbētīs capere aquam ex rīvulīs. Est stultus quia Deus nōn nōbīs ostendit portum. Dominus Iēsus Chrīstus, post trēs diēs, ostendet portum servīs suīs.” Et post trēs diēs, invēnērunt portum.
+	Monachī ambulābant per lītus et invēnērunt canem. Canis vēnit ad pedēs Sānctī Brendānī. Sānctus Brendānus dīxit “Dēbēmus īre cum cane.” Et monachī et canis iērunt ad oppidum.
 
 Caput VI
 
@@ -42,8 +44,6 @@ Aulam Vacuam
 	Nāvīs appropinquāvit lītus. Vīdērunt rīpam altissimam sīcut mūrum. Rīvulī fluēbant dē summitāte īnsulae ad mare. Sed monachī nōn poterant invenīre portum. Monachī sitiēbant et volēbant capere aquam ex rīvulīs. Tunc Sānctus Brendānus dīxit: “Nōn dēbētīs capere aquam ex rīvulīs. Est stultus quia Deus nōn nōbīs ostendit portum. Dominus Iēsus Chrīstus, post trēs diēs, ostendet portum servīs suīs.” Et post trēs diēs, invēnērunt portum.
 	Monachī ambulābant per lītus et invēnērunt canem. Canis vēnit ad pedēs Sānctī Brendānī. Sānctus Brendānus dīxit “Dēbēmus īre cum cane.” Et monachī et canis iērunt ad oppidum.
 
-
-
 Caput VI
 
 Aulam Vacuam
@@ -52,25 +52,9 @@ Aulam Vacuam
 	Sānctus Brendānus cōnfortāvit frātrēs et dīxit: “Deus est gubernātor noster.” Et ventus movēbat nāvem per mare. Post quadrāgintā diēs, monachī nōn habuērunt cibum sed vīdērunt īnsulam. Haec īnsula erat saxōsa et alta.
 	Nāvīs appropinquāvit lītus. Vīdērunt rīpam altissimam sīcut mūrum. Rīvulī fluēbant dē summitāte īnsulae ad mare. Sed monachī nōn poterant invenīre portum. Monachī sitiēbant et volēbant capere aquam ex rīvulīs. Tunc Sānctus Brendānus dīxit: “Nōn dēbētīs capere aquam ex rīvulīs. Est stultus quia Deus nōn nōbīs ostendit portum. Dominus Iēsus Chrīstus, post trēs diēs, ostendet portum servīs suīs.” Et post trēs diēs, invēnērunt portum.
 	Monachī ambulābant per lītus et invēnērunt canem. Canis vēnit ad pedēs Sānctī Brendānī. Sānctus Brendānus dīxit “Dēbēmus īre cum cane.” Et monachī et canis iērunt ad oppidum.
-
-
-
-Caput VI
-
-Aulam Vacuam
-
-	Sānctus Brendānus ascendit in nāvem. Extendērunt vēlum et nāvigābant. Habēbant prōsperum ventum. Post quīndecim diēs ventus cessāvit et coepērunt rēmigāre.
-	Sānctus Brendānus cōnfortāvit frātrēs et dīxit: “Deus est gubernātor noster.” Et ventus movēbat nāvem per mare. Post quadrāgintā diēs, monachī nōn habuērunt cibum sed vīdērunt īnsulam. Haec īnsula erat saxōsa et alta.
-	Nāvīs appropinquāvit lītus. Vīdērunt rīpam altissimam sīcut mūrum. Rīvulī fluēbant dē summitāte īnsulae ad mare. Sed monachī nōn poterant invenīre portum. Monachī sitiēbant et volēbant capere aquam ex rīvulīs. Tunc Sānctus Brendānus dīxit: “Nōn dēbētīs capere aquam ex rīvulīs. Est stultus quia Deus nōn nōbīs ostendit portum. Dominus Iēsus Chrīstus, post trēs diēs, ostendet portum servīs suīs.” Et post trēs diēs, invēnērunt portum.
-	Monachī ambulābant per lītus et invēnērunt canem. Canis vēnit ad pedēs Sānctī Brendānī. Sānctus Brendānus dīxit “Dēbēmus īre cum cane.” Et monachī et canis iērunt ad oppidum.
-
-
 	Monachī intraverunt oppidum et vīdērunt aulam magnum cum sēdibus. Monachī sēdērunt in sēdibus. Sānctus Brendānus dīxit “Cavēte, frātrēs. Satanās vult dūcere vōs in temptātiōnem. Satanās vult dūcere ūnum ex tribus frātribus in fūrtum pessimum. Ōrātē prō animā eius, quia carō eius est in potestātem Satānae.”
 	Aula magna habuit vāscula argentea et frēna1 argentea. Sānctus Brendānus dīxit “Deus dēdit cibum nōbīs. Accipite cibum.” Monachī ēdērunt pānēs et piscēs.
 	Tunc, monachī invēnērunt lectula in aulā et dormiēbant. Sānctus Brendānus vīdit daemonem. Daemon temptābat praedictum frātrem cum frēnō argenteō. Et Sānctus Brendānus ōrābat pernoctāns usque ad diem. In māne, monachī  ēdērunt pānēs et piscēs iterum. Per trēs diēs et trēs noctēs Deus praeparāvit cēnam servīs suīs.
-
-
-
 
 Caput VII & VIII
 
@@ -82,8 +66,6 @@ Brendānus Iacit Daemōnum
 	Et vir Deī dīxit praedictō frātrī: “Accipe corpus et sanguinem Dominī, quia mox eris mortuus." Frāter cēpit Eucharistiam et mortuus est1.
 	Tunc frātrēs cum Sānctō Brendānō iērunt ad lītus. Nāvis erat in lītore. Iuvenis appāruit cum pānibus et aquā et dīxit: “Accipite pānēs et aquam, et habēbunt cibum usque in Paschā.” Et nāvigāvērunt in ōceanum.
 
-
-
 Caput IX
 
 Īnsula Ovium
@@ -94,8 +76,6 @@ Caput IX
 	Posteā, vir dīxit Sānctō Brendānō: “Post octo diēs ego dabō vōbīs cibum et aquam usque Pentēcostēn.” Et Sānctus Brendānus dīxit “Scīs ubi erimus post octo diēs?” Et vir dīxit: “Vidēs īnsulam prope hīc. Hāc nocte eritis in illā īnsulā. Posteā nāvigābitis ad aliam īnsulam, nōmine Paradīsus Āvium. Manēbitis usque Pentēcostēn."
 	Brendānus dīxit: “Cūr sunt ovēs tuae magnae? Ovēs tuae sunt maior quam bovēs.” Vir respondit: “Nēmō capit lactem dē ovibus in hāc īnsulā, et nōn est hiemps.”
 
-
-
 Caput X
 
 Iascōnius
@@ -105,8 +85,6 @@ Iascōnius
 	Ignī ārdente1, īnsula coepit movēre sīcut unda! Monachī erant perterritī! Cucurrērunt ad nāvem, et Brendānus iūvit eōs intrāre nāvem. Et īnsula natāvit ab nāve! Nōn erat īnsula sed mōnstrum maris.
 	Brendānus dīxit: “Deus mē revēlāvit nōmen huius mōnstrum. Nōmen eius est Iascōnius.”
 
-
-
 Caput XI
 
 Paradisus Avium
@@ -114,13 +92,9 @@ Paradisus Avium
 	Tunc vīdērunt aliam īnsulam cum herbīs et silvīs. Nāvigāvērunt ad illam īnsulam. Invēnērunt arbor super fontem. Arbor erat lāta sed nōn altā. Avēs candidissimae cooperuērunt arborem.
 	Sānctus Brendānus sē cōgitāvit: “Cūr sunt multae avēs super ūnam arborem?” Brendānus ōrāvit ad Deum: “Deus, revēlā mihi sēcrētum avium.” Et avis volāvit dē arbore ad nāvem ubi Brendānus sedēbat. Sēdit super prōram et extendit ālās eius. Brendānus dīxit: “Sī nūntius Deī es, dīc mihi: unde sunt istae avēs?”
 
-
-
 	Avis dīxit: “Nōs sumus dē illā magnā ruīnā antīquī hostis Satanae, sed nōn peccāvimus1. Deus noster est iūstus: mīsit nōs in hōc locum. Nōn sustinēmus poenās et possumus vidēre praesentiam Deī; sed aliēnāvit nōs ā cōnsortiō aliōrum spīrituum in caelō. Movēmus per mundum sīcut aliī spīritūs, sed in sānctīs diēbus et Dominicīs accipimus corpora avium et laudāmus nostrum creātōrem. Tū cum tuīs frātribus habēs ūnum annum in tuō itinere; sex annī remanent. Celebrābis Pascha hīc omnī annō, et posteā inveniēs Terram Reprōmissiōnis Sānctōrum." Et avis revertit ad aliās avēs.
 	In vesperā, avēs cantāvērunt hymnum per spatium ūnīus hōrae. Et ad tertiam vigiliam noctis, frātrēs cantāvērunt hymnum. Et avēs cantābant quoque. Diē et nocte laudābant Dominum, usque octāvum diem.
 	Tunc avis volāvit ad nāvem et sēdāvit super prōram et dīxit: “In annō futūrō celebrābitis diem sānctum Paschae nōbīscum. Inveniētis īnsulam post trēs mēnsēs, nōmine Īnsula Familiae Ailbēī: ibi celebrābitis Nātīvitātem Dominī.” Frātrēs extendērunt vēla et nāvigāvērunt in ōceanum, et avēs cantābant hymnum.
-
-
 
 Caput XII
 
@@ -129,14 +103,10 @@ Caput XII
 	Sānctus Brendānus et monachī eius nāvigābant per trēs mēnsēs. Quādam diē, īnsula appāruit. Nāvigābant circum īnsulam per quadrāgintā diēs, sed nōn poterant invenīre portum. Frātrēs ōrābant ad Dominum quia nōn habēbant cibum. Frātrēs ōrābant per trēs diēs. Tunc portus appāruit.
 	Tunc senex occurrit eīs. Senex tenuit manum Brendānī et iērunt ad monastērium. Sānctus Brendānus, cum frātribus suīs, stābat ante portam monastēriī et dīxit senī: “Cuius est istud monastērium?” Sed senex nōn respondēbat. Tunc Brendānus scīvit quod monachī in hōc monastēriō habēbant rēgulam silentiī et nōn dīcēbant.
 	Senex dūxit illōs ad refectōrium. Frātrēs sēdērunt et ēdērunt. In refectōriō erant vīgintī trēs frātrēs et ūnus abbās. Abbās dīxit: “Ēdimus pānēs sed nōn faciunt1 pānēs; omnī diē Deus nōbīs dat pānēs.”
-
-
 	Tunc Brendānus et monachī eius intrāvērunt ecclēsiam et cantāvērunt psalmōs. Ecclēsia erat quadrāta et habēbat septem lūmināria et vīgintī quattuor sēdēs.
 	Brendānus interrogāvit abbātem dē silentiō monachōrum. Abbās respondit: “Audīvimus nūllam vōcem hūmānam sed quandō cantāmus laudēs Deō. Brendānus dīxit: “Possumusne vīvere hīc?” Abbās respondit: “Nōn potestis vīvere hīc quia nōn est voluntās Deī. Deus revēlāvit mē quod dēbēs īre ad Terram Reprōmissiōnis Sānctōrum cum quattuordecim frātribus tuīs. Habēs duōs aliōs: ūnus ībit ad īnsulam nōmine Anachorītārum, sed alter ībit ad īnferōs.
 	Tunc sagitta ignea volāvit per fenestram et incendit omnēs lampadēs Abbās dīxit: “Hoc lūmen est spīritāle.”
 	In māne, Brendānus interrogāvit: “Possumus exīre et facere iter nostrum?” Senex respondit: “Nōn dēbētis exīre sed dēbētis remanēre et celebrāre nātīvitātem Dominī. Brendānus et monachī remānsērunt in īnsulā nōmine Īnsula Familiae Ailbēī.
-
-
 
 Caput XIII & XIV
 
@@ -147,8 +117,6 @@ Fōns Sopōris
 	Post trēs diēs, Brendānus dīxit: “Frātrēs, dēbēmus fugere istam mortem.” Cēpērunt piscēs et rādīcēs et aquam, et nāvigāvērunt ab īnsulā.
 	Post trēs diēs et noctēs, ventus cessāvit et mare erat quasi coāgulātum. Sānctus Brendānus dīxit: “Laxāte vēla, Deus erit gubernātor noster.” Post vīgintī diēs, habērunt ventum prōsperum. Tetendērunt vēla et nāvigāvērunt.
 
-
-
 Caput XV
 
 Fēsta in Diversīs Īnsulīs
@@ -158,12 +126,9 @@ Fēsta in Diversīs Īnsulīs
       Frātrēs celebrābant Passiōnem Dominī cum magnā dīligentiā usque in Sabbatum Sānctum. Immolāvērunt victimās spīritālēs et ēdērunt Cēnam Dominī. 
       Prōcūrātor dīxit: “Nāvigāte, et celebrātē Resurrēctiōnem Dominī in Paradīsō Avium.” Onerāvit nāvem cum pānibus et pōtū et carnibus dēliciīs. Sānctus Brendānus dedit benedictiōnem et nāvigāvērunt ad Īnsulam Avium.
 
-
       Avēs cantābant hymnōs. Frātrēs celebrāvērunt fēsta Paschālia usque ad octāvās Pentēcostēn. Prōcūrātor vēnit ad illōs in diē Dominicō octāvīs Paschae, et portāvit cibum.
       Resēdērunt ūnā mēnsā, tunc praedicta avis sēdit in prōrā nāviculae et extendit ālās suās. Avis dīxit: “Deus prōposuit vōbīs quattuor loca per quattuor tempora usque fīnem septem annī peregrīnātiōnis vestrae: celebrābitis Cēnam Dominī cum vestrō prōcūrātōre omnī annō; celebrābitis Pascham in dorsō bēluae; celebrābitis fēstam Paschālia nōbīscum usque in octāvās Pentēcostēn; celebrābitis Nātīvitātem Dominī apud familiam Ailbēī. Post septem annōs, inveniētis Terram Reprōmissiōnis Sānctōrum, et ibi habitābitis quadrāgintā diēbus. Posteā revertētis ad terram vestrae.” Brendānus sē prōstrāvit ad terram cum frātribus suīs et laudāvērunt Deum. Tunc avis revertit ad arborem.
       Tunc prōcūrātor dīxit: “Revertam ad vōs, in diē adventūs1 Sānctī Spīritūs super apostolōs, cum cibō.” Post diēs fēstōs, Sānctus Brendānus praecēpit frātribus suīs praeparāre nāvem. Et praedictus prōcūrātor vēnit cum cibō et aquā. Frātrēs posuērunt cibum et aquam in nāvem et nāvigāvērunt ab īnsulā.
-
-
 
 Caput XVI
 
@@ -173,14 +138,11 @@ Bēlua Magna
       Tunc, ecce, ingēns bēlua, ab occidente, appāruit et pugnāvit contrā illam2, et ēmīsit ignem ex ōre suō. Brendānus dīxit: “Vidēte, fīliī, magnālia Redēmptōris nostrī; vidēte oboedientiam bēstiārum creātōrī suō3.” Et misera bēstia quae persequēbātur servōs Chrīstī interfecta est4 in trēs partēs cōram illīs.
       Alterā diē vīdērunt īnsulam cum multīs arboribus. Ascendērunt dē nāve et vīdērunt posteriōrem partem5 bēluae mortuae. Sānctus Brendānus dīxit: “Bēlua voluit vōs edere, sed dēvorābitis bēluam. Remanēbimus multum tempus in hāc īnsulā.”
 
-
 	Fīxērunt tentōrium. Sānctus Brendānus dīxit: “Accipite stīpendia vestra dē illā bēluā, ut sufficiat vōbīs per trēs mēnsēs: hāc nocte bēstiae dēvorābunt cadāver bēluae.” Accēpērunt carnem dē cadāvere bēluae et posuērunt illam in tentōrium.
 	Tunc frātrēs dīxērunt: “Abbā, quōmodo possumus vīvere hīc sine aquā?” Brendānus respondit: “Deus dabit aquam. Īte contrā merīdiānam plāgam istīus īnsulae, et inveniētis fontem et multās herbās.” Et invēnērunt omnia sīcut vir Deī praedēstināvit. Remānsērunt ibi trēs mēnsēs, quia erat tempestās in marī et ventus fortissimus.
 	Frātrēs ībant vidēre bēluam, et invēnērunt nihil sed ossa. Dīxērunt: “Abbā, sīcut dīxistī, ita1 est.” Brendānus respondit: “Dīcam aliud signum vōbīs: invenietis partem bēluae illūc hāc nocte2.”
 	Tunc frātrēs iērunt ad locum et invēnērunt cadāver bēluae sīcut vir Deī praedīxerat et accēpērunt carnem dē bēluā. Brendānus dīxit: “Dominus faciet tempus serēnum hodiē et crās et post crās, et cessābit impetus maris. Posteā nāvigābimus dē hāc īnsulā.
 	Onerāvērunt omnēs in nāvem et nāvigāvērunt contrā septentriōnālem plāgam.
-
-
 
 Caput XVII
 
@@ -189,12 +151,9 @@ Caput XVII
 	Quādam diē vīdērunt īnsulam. Sānctus Brendānus dīxit: “Vidētisne illam īnsulam?” Frātrēs respondit “vidēmus.” Brendānus dīxit: “Trēs populī sunt in illā īnsulā: populus puerōrum, populus iuvenum, et populus seniōrum. Ūnus ex tribus frātribus manēbit illīc.” 
 	Vēnērunt ad praedictam īnsulam. Erat īnsula mīrae plānitiae, et nōn erant arbōrēs. Īnsula erat cooperta cum scaltīs1 albīs et purpureīs. Vīdērunt trēs turmās, sīcut vir Deī praedīxerat. Et turmae cantābant hymnōs. Prīma turma puerōrum erat in vestibus candidissimīs, et secunda turma erat in vestibus ianthinīs, et tertia turma erat in purpureīs dalmaticīs.2
 
-
 	Turmae cantābant multōs hymnōs, et nūbēs mīrae clāritātis cooperuērunt īnsulam. Turmae cantābant usque māne, quandō īnsula discooperta est dē nūbe. Deinde immolābant agnum immaculātum et omnēs veniēbant ad commūniōnem. Dīxērunt: “Hoc sacrum corpus Dominī, et Salvātōris sanguinem, sūmite vōbīs in vītam aeternam.”
 	Deinde duo ex turmā iuvenum portāvērunt cophinum plēnum dē scaltīs purpureīs et mīsērunt in nāvim, et dīxērunt: “Sūmite dē frūctū Īnsulae Virōrum Fortium et reddite nōbīs frātrem1 nostrum.” Tunc Sānctus Brendānus vocāvit praedictum frātrem ad sē et dīxit: “Ōsculāre2 frātrēs tuōs et vāde cum illīs quī tē invocant.” Et praedictus frāter manēbat in īnsulā.
 	Frātrēs nāvigāvērunt ab īnsulā. Frātrēs coepērunt edere dē scaltīs Īnsulae Virōrum Fortium. Brendānus accēpit ūnam dē illīs. Vīdit magnitūdinem illīus et dīxit: “Numquam vīdī nec lēgī dē scaltās tantae magnitūdinis.” Et per duodecim diēs frātrēs reficiēbant dē scaltīs, et semper tenuērunt in ōre sapōrem mellis.
-
-
 
 Caput XVIII
 
@@ -204,16 +163,12 @@ Caput XVIII
 	Iterum vir Deī coepit ieiūnāre cum frātribus suīs. Tertiā diē vīdērunt īnsulam, tōtam coopertam cum arboribus dēnsissimīs. Arbōrēs habēbant frūctum praedictum ūvārum incrēdibilī fertilitāte1. Nōn erant arbōrēs sterilī et nōn erant arbōrēs alterōrum generum. Invēnērunt portam et Brendānus ascendit dē nāvī et ambulābat per īnsulam. Erat odor suāvissimum.
 	Brendānus invēnit sex fontēs et herbās. Dīxit: “Ascendite dē nāve et fīgite tentōrium et cōnfortāminī dē optimīs frūctibus terrae. Per quadrāgintā diēs reficiēbant dē ūvīs et herbīs. Posteā, portāvērunt multum frūctum ad nāvem.
 
-
-
 Caput XIX & XX
 
 Grȳphus
 
 	Nāvigābant et grȳphus appāruit. Frātrēs dīxērunt: “Ille grȳphus dēvorābit nōs!” Brendānus respondit: “Nōlīte timēre. Deus nōs dēfendet.” Grȳphus extendit ungulās et voluit capere servōs Deī. Et, ecce! Subitō avis, quae prius portāvit rāmum illīs cum frūctibus, volāvit ad grȳphum. Avis pulsāvit oculōs grȳphī et interfēcit grȳphum. Et cadāver grȳphī cecidit in mare cōram frātribus. Avis revertit ad locum suum.
 	Posteā, Sānctus Brendānus et frātrēs eius vīdērunt Īnsulam praedictam familiae Ailbēī. Ibi celebrāvit Nātālem Dominī. Tunc nāvigāvērunt in ōceanō per multum tempus, nisi in praedictīs fēstīvitātibus, id est Paschae et Nātālis Dominī. In illīs habēbat requiem in praedictīs locīs.
-
-
 
 Caput XXI
 
@@ -223,23 +178,15 @@ Bēstiae sub Māre
 	Frātrēs voluērunt Brendānum celebrāre suam missam cum silentiō, quia timuērunt bēstiās. Sānctus Brendānus subrīsit et dīxit: “Cūr timētis istās bēstiās et nōn timuistis Iascōnium? Cantāvērunt hymnōs super dorsum eius et dēvorāvērunt bēluam magnam. Ergō cūr timētis istās bēstiās? Dominus noster Iēsus Chrīstus est deus omnium bēstiārum.”
 	Brendānus coepit cantāre. Bēstiae sē levāvērunt ā terrā et natābant prope nāvem. Sed nōn pulsāvērunt nāvem, et, quandō Brendānus fīnīvit missam, fūgērunt per dīversās sēmitās ōceanī et natābant ā faciē servōrum Deī.
 
-
-
 Caput XXII
 
 Columnae Crystallī
 
 	Quādam diē, celebrābant missās et appāruit columna in marī. Columna nōn vidēbātur longē ab illīs, sed nōn poterant appropinquāre ante trēs diēs. Brendānus aspiciēbat summitātem sed nōn potuit prae altitūdine illīus: columna erat altior quam āēr. Columna habēbat cōnōpēum rārum. Cōnōpēum erat tantum rārum ut nāvis posset trānsīre per forāmina illīus. Cōnōpēum habēbat colōrem argentī, sed erat dūrior quam marmor; columna erat dē crystāllō clārissimō.
-
-
-
 	Sānctus Brendānus dīxit frātribus suīs: “Nāvigāte inter fībulās cōnōpēī.” Intrāvit columnam et mare appāruit sīcut vitreum prae clāritāte, et potuērunt vidēre omnēs sub mare. Et potuērunt vidēre basēs columnae in terrā. Lūx sōlis nōn minor erat intus quam forīs.
 	Tunc Sānctus Brendānus mēnsūrābat ūnam forāmen inter quattuor cōnōpēōs et erat quattuor cubitīs in omnen partem. Et nāvigābant per tōtum diem iuxtā latus ūnum columnae, et erat mīlle quadringentīs cubitīs. Per quattuor diēs nāvigābant inter quattuor angulōs praedictae columnae.
 	Quārtō diē invēnērunt calicem dē genere cōnōpēī. Sānctus Brendānus apprehendit vāscula et dīxit: “Dominus noster Iēsus Chrīstus ostendit nōbīs hoc mīrāculum.” Et Brendānus perēgit dīvīnum officium.”
 	Posteā nāvigāvērunt ab columnā.
-
-
-
 
 Caput XXIII
 
@@ -248,13 +195,9 @@ Caput XXIII
 	Post octo diēs, vīdērunt īnsulam. Haec īnsula erat valdē rūsticam, saxōsam et scoriōsam. Nōn habēbat arborēs vel herbās, sed erat plēnam officīnīs fabrōrum. [2] Brendānus dīxit: “Nōlō īre ad hanc īnsulam, sed ventus subtrahit nōs illūc.”
 	Audiērunt sonitūs follium sufflantium quasi tonitruum, et collīsiōnēs malleōrum contrā ferrum et cūdēs. Brendānus ōrāvit: “Domine Iēsu Chrīste, līberā nōs dē hāc īnsulā!”
 	Tunc ūnus ex habitātōribus īnsulae iit forās. Erat valdē hispidus et igneus et tenebrōsus. Vīdit famulōs Chrīstī et revertit in suam officīnam. Brendānus dīxit “Fīliī, nāvigāte et fugite istam īnsulam.”
-
-
 	Sed praedictus barbarus occurrit ad lītus cum aliīs. Portāvit forcipem in manibus cum massā igneā dē scōriā, immēnsae magnitūdinis atque fervōris. Barbarus iactāvit praedictam massam super famulōs Chrīstī, sed massam nōn pulsāvit eōs. Massam cecidit in mare et coepit fervere, et fūmus ascendēbat dē mare.
 	Tunc aliī barbarī occurrērunt ad lītus et iactābant massās in mare post famulōs Chrīstī. Mare aestuābat sī cācabus plēnus carnibus.
 	Frātrēs audiēbant ululātum magnam per tōtum diem ab illā īnsulā. Sānctus Pater cōnfortābat suōs monachōs et dīxit: “Ō mīlitēs Chrīstī, sumus ante portam īnfernōrum.”
-
-
 
 Caput XXIV
 
@@ -265,8 +208,6 @@ Monachus Iit ad Īnfernum
 	Frātrēs dūcēbant nāvem retrō ā terrā et dīxērunt: “Miserēre nōbīs, Domine, miserēre nōbīs.” Et Brendānus aspiciēbat quōmodo daemōnēs dūcēbant virum īnfēlīcem ad tormenta et flammās. Brendānus dīxit: “Vae tibi, fīlī, quia recēpistī, in vītā tuā, meritī tālem fīnem!”
 	Tunc frātrēs nāvigāvērunt ab īnsulā. Aspēxērunt īnsulam et vīdērunt montem discoopertum ā fūmō, et flammās usque ad aethera.
 
-
-
 Caput XXV
 
 Iūdās Super Petram
@@ -274,19 +215,12 @@ Iūdās Super Petram
 	Nāvigāvērunt per septem diēs. Appāruit vir, et vir sedēbat super petram. Pannus quasi mēnsūra ūnīus sagī pendēbat inter duās forcellās ferreās1.
 	Brendānus appropinquāvit et undae restitērunt quasi coāgulātae. Vir erat hispidus et dēfōrmis. Et undae, quandō effluēbant ad illam, percutiēbant eum. Et quandō ventus impulit pannum, pannus percutiēbat caput eius.
 	Brendānus interrogāvit eum: “Quis es?” Vir respondit: “Ego sum īnfēlīcissimus Iūdās. Hic locus nōn est poenitentiam2 meum, sed est indulgentiam Redēmptōris propter honōrem Dominicae resurrēctiōnis. Hodiē est Dominicus, sed in hōc vespere revertam in mediō montis quem vīdistis. Ārdeō sīcut massa plumbī liquefacta in ōllā, diē et nocte. Ibi est Leviathan3 cum daemonibus eius. Eram ibi quandō dēglūtīvit frātrem vestrum. Mōns ēmittit flammās quandō dēvorat animās impiōrum.”
-
-
 	Sed sum hīc omnī diē Dominicō. Posteā et anteā crucior in profundō īnfernī cum Hērōde et Pīlātō et Annā et Caiphā. Adiūrō vōs: ōrā ad Dominum Iēsum: volō remanēre super hanc petram usque manē.” Brendānus respondit: “Ita, hāc nocte daemonēs nōn tē mordēbunt usque manē.”
 	Iterum Brendānus interrogāvit eum: “Quid est hic pannus?” Iūdās respondit: “Dedī istum pannum cuidam leprōsō, quandō eram camerārius Dominī. Sed pannus nōn erat meus, ergō nōn habeō refrīgerium sed magis impedīmentum. Et forcae ferreae, ubi pannus pendet – dedī illās sacerdōtibus templī. Et haec petra – mīsī illam in fossam in pūblicā viā.”
 	Vespere innumerābilis multitūdō daemonum cooperuit faciem maris et dīxērunt: “Recēde, vir Deī, ā nōbīs, quia nōn possumus appropinquāre Iūdām usque recēdās ab illō, et nōlēmus vidēre prīncipem nostrum sine Iūdām. Sed redde nōbīs nostrum morsum1.” 
-
-
 	Brendānus dīxit: “Nōn ego dēfendō Iūdām, sed Dominus Iēsus Chrīstus dēfendit Iūdām.” Daemonēs dīxit: “Quōmodo invocās nōmen Dominī super illum? Iūdās erat trāditor Dominī!” Brendānus respondit: “Praecipiō vōbīs in nōmine Dominī nostrī Iēsu Chrīstī: nōn facite malī illī usque māne.”
 	Māne, Brendānus coepit iter agere, et īnfīnīta multitūdō daemonum cooperuit faciem abyssī. Dīxērunt: “Ō vir Deī, maledictus est ingressus tuus et maledictus est exitus tuus1, quia prīnceps noster flagellāvit nōs hāc nocte, quid nōn praesentāvimus sibi istum maledictum captīvum.”
 	Brendānus respondit: “Vestra maledictiō nōn pertinet nōbīs sed vōbīs2.” Daemonēs respondērunt: “Īnfēlīx Jūdās sustinēbit duplicēs poenās in istīs sex diēbus, quid dēfendistī illum in istā praeteritā nocte.” Brendānus respondit: “Praecipiō vōbīs et prīncipī vestrō, in nōmine Dominī nostrī Iēsu Chrīstī: nōn extollite3 amplius cruciātibus quam anteā.” Tunc Brendānus et frātrēs eius nāvigāvērunt ab illā petrā.
-
-
-
 
 Caput XXVI
 
@@ -296,19 +230,12 @@ Paulus Herēmīta Spīritālis
 	Appropinquāvērunt ad lītus, sed nōn vīdērunt portum, prae altitūdine rīpae. Circuīvit īnsulam et invēnērunt portum parvam.
 	Sānctus Brendānus dīxit frātribus suīs: “Expectāte hīc. Nōn dēbēmus intrāre sine licentiā virī Deī quī vīvit in hōc locō.” Brendānus ambulāvit ad summitātem illīus īnsulae et vīdit duās spēluncās et fontem parvum.
 	Tunc senex iit ab spēluncā et dīxit: “Ecce, quam bonum et quam iocundum habitāre frātrēs in ūnum2.” Ergō Brendānus praecēpit omnēs frātrēs suōs venīre dē nāvī. Senex appellābat frātrēs singulōs propriīs nōminibus3. Et senex erat coopertus tōtus cum capillīs suīs. Capillī erant candidī sīcut nix, prae nimiā senectūte.
-
-
 	Tunc Sānctus Brendānus interrogāvit senem: “Quōmodo habēs tālem vītam?” Senex respondit: “Eram monachus in monastēriō sānctī Patriciī per quīnquāgintā annōs, et cūstōdiēbam cimitērium. Quādam diē, faciēbam1 sepulchrum, et senex appāruit mihi et dīxit: ‘Nōn dēbēs facere fossam ibi, quia est sepulchrum alterīus.’ Et dīxī: ‘Pater, quis es tū?’ Senex respondit: “Ego sum abbās tuus. Heri migrāvī2 dē saeculō et hic est locus sepultūrae meae. Crās, ī ad lītus maris. Inveniēs nāvem ibi. Nāvis dūcet tē ad locum ubi expectābis usque diem mortis tuae.’
 	Māne, iī ad lītus et invēnī nāvem. Nāvigāvī3 per trēs diēs et trēs noctēs. Tunc ventus impulit nāvem. Septimō diē appāruit haec īnsula. Manēbam hīc usque hodiē.
-
-
-
 	Prīmā diē, luter portāvit mihi piscem in ōre suō. Luter quoque portāvit fasciculum1 dē grāminibus inter suōs anteriōrēs pedēs. Luter ambulāvit super duōbus posteriōribus pedibus. Luter posuit piscem et grāmina ante mē et revertit ad mare.
 	Per trīgintā annōs, luter portābat mihi piscem, semper tertiā diē. Post trīgintā annōs invēnī istās duās spēluncās et istum fontem: ab ipsō fonte vīvēbam per sexāgintā annōs sine alterīus cibī.
 	Vīvēbam in hāc īnsulā nōnāgēnāriīs annīs. Et hīc expectō diem iūdiciī2 in istā carne.
 	Igitur accipite vāsculum plēnam dē istō fonte et nāvigāte ad patriam vestram. Celebrābitis Sabbatum Sānctum et Pascha atque sānctōs diēs Paschae ubi celebrāstis per sex annōs; et posteā, prōcūrātor vestrī benedīcet vōs, et nāvigābitis ad Terram Reprōmissiōnis Sānctōrum, et ibi manēbitis quadrāgintā diēs. Post haec Deus patrum vestrōrum dūcet vōs sānōs atque incolumēs in terram nātīvitātis vestrae."
-
-
 
 Caput XXVII
 
@@ -318,18 +245,12 @@ Monachī Faciunt Iter cum Iascōniō
 	Nāvigāvērunt et invēnērunt bēluam, et ibi, super dorsum eius, cantāvērunt hymnōs tōtā nocte. Tunc Iascōnius coepit īre in viam suam, et omnēs frātrēs coepērunt clāmāre ad Dominum. Dīxērunt: “Exaudī nōs, Deus salūtāris noster.” Sānctus Brendānus cōnfortābat suōs et dīxit: “Nōn dēbēs formīdāre: nihil erit malī vōbīs.” Et bēlua vēnit rēctō cursū usque ad lītus Īnsulae Avium. Manēbant ibi usque ad octāvās Pentēcostēn.
 	Post tempus sollemnitātum, prōcūrātor dīxit Sānctō Brendānō: “Ascendite nāvem et implēte utrēs cum fonte istō. Nāvigābam vōbīscum; sine mē nōn potestis invenīre Terram Reprōmissiōnis Sānctōrum.” Frātrēs nāvigāvērunt et omnēs avēs cantāvērunt: “Deus, salūtārium nostrōrum, faciet prōsperum iter.” 
 
-
-
-
 Caput XXVIII
 
 Terra Reprōmissiōnis Sānctōrum
 
 	Sānctus Brendānus et frātrēs eius nāvigāvērunt ad īnsulam prōcūrātōris. Ibi sūmpsērunt dispendia quadrāgintā diērum. Nāvigāvērunt contrā orientālem plāgam quadrāgintā diērum.
 	Post quadrāgintā diēs, nebula magna cooperuit eōs. Prōcūrātor interrogāvit Sānctō Brendānō: “Scītisne quae est ista nebula?” Sānctus Brendānus respondit: “Quae est?” Prōcūrātor dīxit: “Ista nebula circuit Terram Reprōmissiōnis Sānctōrum.” Post spatium ūnīus hōrae lūx ingēns circumfulsit illōs, et vēnērunt ad lītus.
-
-
 	Vīdērunt terram spatiōsam et plēnam arboribus pōmiferīs, sīcut in tempore autumnālī. Circuībant illam terram, et nōn erat nox. Accipiēbant dē pōmīs, et bibēbant dē fontibus. Ambulābant per quadrāgintā diēs et nōn poterant invenīre fīnem. Quādam diē, invēnērunt flūmen magnum per medium īnsulae. Sānctus Brendānus dīxit: “Nōn possumus trānsīre istud flūmen.”
 	Tunc iuvenis occurrit illīs, appellābat singulōs cum propriīs nōminibus. Dīxit: “Ecce terram quam quaesīstī per multum tempus. Deus voluit ostendere tibi dīversa sēcrēta sua in ōceanō magnō. Revertite ad terram nātīvitātis tuae. Portāte tēcum dē frūctibus istīus et dē gemmīs, quantum nāvis tua potest capere. Istud flūmen dīvidit istam īnsulam.”
 	Accēpērunt frūctūs terrae et omnēs genera gemmārum. Coepit nāvigāre per medium nebulae. Vēnērunt ad Īnsulam Dēliciōsam. Vīvēbat ibi trēs diēs. Tunc Sānctus Brendānus revertit ad locum suum.
-
