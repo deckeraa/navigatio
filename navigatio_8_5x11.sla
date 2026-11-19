@@ -370,14 +370,14 @@
         <PAGE PAGEXPOS="712.0008" PAGEYPOS="108180.4176" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="18" BORDERTOP="36" BORDERBOTTOM="18" NUM="260" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="100.0008" PAGEYPOS="109012.4208" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="18" BORDERTOP="36" BORDERBOTTOM="18" NUM="261" NAM="" MNAM="Latin left" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="712.0008" PAGEYPOS="109012.4208" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="18" BORDERTOP="36" BORDERBOTTOM="18" NUM="262" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
-        <MASTEROBJECT XPOS="118.0008" YPOS="776.0016" OwnPage="2" ItemID="464092766" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="118.0008" gYpos="1227949052541.94" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="118.0008" YPOS="776.0016" OwnPage="2" ItemID="464092766" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="118.0008" gYpos="1229812168955.88" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
                 <trail ALIGN="1"/>
             </StoryText>
         </MASTEROBJECT>
-        <MASTEROBJECT XPOS="154.0008" YPOS="776.0016" OwnPage="3" ItemID="464087902" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="14915740042.0008" gYpos="1227948123197.94" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="154.0008" YPOS="776.0016" OwnPage="3" ItemID="464087902" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="14936504590.0008" gYpos="1229811239611.88" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
@@ -28554,7 +28554,7 @@
         <PAGEOBJECT XPOS="118.0008" YPOS="21688.0848" OwnPage="51" ItemID="984637166" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" gXpos="118.0008" gYpos="53304.0847999956" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
-                <ITEXT CH="Caput XXI Bēstiae sub Māre (Simplicissimus)"/>
+                <ITEXT CH="Caput XXI Bēstiae sub Mare (Simplicissimus)"/>
                 <trail PARENT="Default Paragraph Style" ALIGN="1"/>
             </StoryText>
         </PAGEOBJECT>
@@ -28566,17 +28566,20 @@
                 <ITEXT CH="Caput XXI"/>
                 <para PARENT="Chapter Heading"/>
                 <para PARENT="Chapter Heading"/>
-                <ITEXT CH="Bēstiae sub Māre"/>
+                <ITEXT CH="Bēstiae sub Mare"/>
                 <para PARENT="Chapter Heading"/>
                 <para/>
+                <ITEXT CH=" "/>
                 <tab/>
-                <ITEXT CH="Quōdam diē, Sānctus Brendānus celebrābat fēstīvitātem Sānctī Petrī Apostolī in suā nāve. Maris erat valdē clārum et potuērunt vidēre quicquid erat sub mare. Vīdērunt dīversa genera bēstiārum iacentēs super arēnam. Erant sīcut gregēs."/>
+                <ITEXT CH="Quōdam diē, Sānctus Brendānus celebrābat fēstīvitātem Sānctī Petrī Apostolī in suā nāve. Mare erat valdē clārum et potuērunt vidēre quicquid erat sub mare. Vīdērunt dīversa genera bēstiārum iacentēs super arēnam. Erant sīcut gregēs."/>
                 <para PARENT="Latin"/>
+                <ITEXT CH=" "/>
                 <tab/>
-                <ITEXT CH="Frātrēs voluērunt Brendānum celebrāre suam missam cum silentiō, quia timuērunt bēstiās. Sānctus Brendānus subrīsit et dīxit: “Cūr timētis istās bēstiās sed nōn timuistis Iascōnium? Cantāvērunt hymnōs super dorsum eius et dēvorāvērunt bēluam magnam"/>
+                <ITEXT CH="Frātrēs voluērunt Brendānum celebrāre suam missam cum silentiō, quia timuērunt bēstiās. Sānctus Brendānus subrīsit et dīxit: “Cūr timētis istās bēstiās et nōn timuistis Iascōnium? Cantāvistis hymnōs super dorsum"/>
                 <ITEXT FEATURES="inherit superscript" CH="1"/>
-                <ITEXT CH=". Ergō cūr timētis istās bēstiās? Dominus noster Iēsus Chrīstus est Deus omnium bēstiārum.”"/>
+                <ITEXT CH=" eius et dēvorāvistis bēluam magnam. Ergō cūr timētis istās bēstiās? Dominus noster Iēsūs Chrīstus est deus omnium bēstiārum.”"/>
                 <para PARENT="Latin"/>
+                <ITEXT CH=" "/>
                 <tab/>
                 <ITEXT CH="Brendānus coepit cantāre. Bēstiae sē levāvērunt ā terrā et natābant prope nāvem. Sed nōn pulsāvērunt nāvem, et, quandō Brendānus fīnīvit missam, fūgērunt per dīversās sēmitās ōceanī et natābant ā faciē servōrum Deī."/>
                 <para PARENT="Latin"/>
@@ -28588,181 +28591,181 @@
         <PAGEOBJECT XPOS="766.0008" YPOS="21688.0848" OwnPage="52" ItemID="987991518" PTYPE="4" WIDTH="540" HEIGHT="720.000000000011" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="2" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 720 L0 720 L0 0 Z" copath="M0 0 L540 0 L540 720 L0 720 L0 0 Z" gXpos="766.0008" gYpos="21688.0848" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
-                <ITEXT CH="ā: from, out of, by, since"/>
+                <ITEXT CH="ā: from, out of, by"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="apostolī: apostle; singular masculine genitive from apostolus, apostolī"/>
+                <ITEXT CH="apostolī: apostle's; singular masculine genitive from apostolus, apostolī"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="arēnam: sand; singular feminine accusative from arēna, arēnae"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="bēluam: beast, monster; singular feminine accusative from bēlua, bēluae"/>
+                <ITEXT CH="bēluam: monster; singular feminine accusative from bēlua, bēluae"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="bēstiae: beasts; plural feminine nominative from bēstia, bēstiae"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="bēstiārum: of beasts; plural feminine genitive from bēstia, bēstiae"/>
+                <ITEXT CH="bēstiārum: of the beasts; plural feminine genitive from bēstia, bēstiae"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="bēstiās: beasts; plural feminine accusative from bēstia, bēstiae"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="Brendānum: (accusative case) Brendan of Clonfert (c. AD 484 – c. 577), an Irish abbot who sailed the Atlantic"/>
+                <ITEXT CH="Brendānum: St. Brendan of Clonfert (c. AD 484 – c. 577); singular masculine accusative from Brendānus, Brendānī"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="Brendānus: Brendan of Clonfert (c. AD 484 – c. 577), an Irish abbot who sailed the Atlantic"/>
+                <ITEXT CH="Brendānus: St. Brendan of Clonfert (c. AD 484 – c. 577); singular masculine nominative from Brendānus, Brendānī"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="cantāre: to sing;"/>
+                <ITEXT CH="cantāre: to sing; present active infinitive from cantō, cantāre, cantāvī, cantātum"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="cantāvērunt: they sang; 3rd person plural perfect active from cantō, cantāre, cantāvī, cantātus"/>
+                <ITEXT CH="cantāvistis: you sang; 2nd person plural perfect from cantō, cantāre, cantāvī, cantātum"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="celebrābat: you were celebrating; 3rd person singular imperfect active from celebrō, celebrāre, celebrāvī, celebrātus"/>
+                <ITEXT CH="caput: chapter; singular neuter nominative from caput, capitis"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="celebrāre: to celebrate;"/>
+                <ITEXT CH="celebrābat: he was celebrating; 3rd person singular imperfect from celebrō, celebrāre, celebrāvī, celebrātum"/>
+                <para PARENT="Vocab"/>
+                <ITEXT CH="celebrāre: to celebrate; present active infinitive from celebrō, celebrāre, celebrāvī, celebrātum"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="Chrīstus: Christ; singular masculine nominative from Chrīstus, Chrīstī"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="clārum: clear, bright, famous; singular neuter nominative from clārus, clāra -um, clārior -or -us, clārissimus -a -um"/>
+                <ITEXT CH="clārum: clear; singular neuter nominative from clārus, clāra, clārum"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="coepit: he started; 3rd person singular present active from coepio, coepere, coepi, coeptus"/>
+                <ITEXT CH="coepit: he started; 3rd person singular perfect from coepī, coepisse, coepī, coeptum"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="cum: with"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="cūr: why"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="Deī: of God; singular masculine genitive from Deus, Dei"/>
+                <ITEXT CH="deī: of God; singular masculine genitive from deus, deī"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="Deus: God; singular masculine nominative from Deus, Dei"/>
+                <ITEXT CH="deus: god; singular masculine nominative from deus, deī"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="dēvorāvērunt: they devoured; 3rd person plural perfect active from dēvorō, dēvorāre, dēvorāvī, dēvorātus"/>
+                <ITEXT CH="dēvorāvistis: you devoured; 2nd person plural perfect from dēvorō, dēvorāre, dēvorāvī, dēvorātum"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="diē: day; singular common genitive from diēs, diēī"/>
+                <ITEXT CH="diē: day; singular masculine-or-feminine ablative from diēs, diēī"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="dīversa: diverse; singular feminine nominative from dīversus, dīversa, dīversum"/>
+                <ITEXT CH="dīversa: diverse, different; plural neuter accusative from dīversus, dīversa, dīversum"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="dīversās: diverse; plural feminine accusative from dīversus, dīversa, dīversum"/>
+                <ITEXT CH="dīversās: various; plural feminine accusative from dīversus, dīversa, dīversum"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="dīxit: he said; 3rd person singular perfect active from dīcō, dīcere, dīxī, dictus"/>
+                <ITEXT CH="dīxit: he said; 3rd person singular perfect from dīcō, dīcere, dīxī, dictum"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="Dominus: lord, master; singular masculine nominative from dominus, dominī"/>
+                <ITEXT CH="Dominus: Lord; singular masculine nominative from Dominus, Dominī"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="dorsum: back; singular neuter nominative from dorsum, dorsī"/>
+                <ITEXT CH="dorsum: back; singular neuter accusative from dorsum, dorsī"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="eius: his/her/its"/>
+                <ITEXT CH="eius: his; singular masculine genitive from is, ea, id"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="erant: they were; 3rd person plural imperfect active from sum, esse, fuī, futūrus"/>
+                <ITEXT CH="erant: they were; 3rd person plural imperfect from sum, esse, fuī, futūrum"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="erat: he was; 3rd person singular imperfect active from sum, esse, fuī, futūrus"/>
+                <ITEXT CH="erat: it was; 3rd person singular imperfect from sum, esse, fuī, futūrum"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="ergō: therefore"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="est: he is; 3rd person singular present active from sum, esse, fuī, futūrus"/>
+                <ITEXT CH="est: he is; 3rd person singular present from sum, esse, fuī, futūrum"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="et: and"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="faciē: face; singular feminine ablative from faciēs, faciēī"/>
+                <ITEXT CH="faciē: face; singular neuter ablative from faciēs, faciēī"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="fēstīvitātem: feast; singular feminine accusative from fēstīvitās, fēstīvitātis"/>
+                <ITEXT CH="fēstīvitātem: festival; singular feminine accusative from fēstīvitās, fēstīvitātis"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="fīnīvit: he finished, he limited; 3rd person singular perfect active from fīniō, fīnīre, fīnīvī, fīnītus"/>
+                <ITEXT CH="fīnīvit: he finished; 3rd person singular perfect from fīniō, fīnīre, fīnīvī, fīnītum"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="frātrēs: brothers; plural masculine nominative from frāter, frātris"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="fūgērunt: they fled; 3rd person plural perfect active from fugiō, fugere, fūgī, fugitus"/>
+                <ITEXT CH="fūgērunt: they fled; 3rd person plural perfect from fugiō, fugere, fūgī, fugitūrum"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="genera: types; plural neuter accusative from genus, generis"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="gregēs: flocks; plural common nominative from grex, gregis"/>
+                <ITEXT CH="gregēs: flocks; plural masculine nominative from grex, gregis"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="hymnōs: hymns; plural masculine accusative from hymnus, hymnī"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="iacentēs: laying; plural common nominative present participle from iaceō, iacēre, iacuī, iacitūs"/>
+                <ITEXT CH="iacentēs: laying; plural feminine accusative participle from iaceō, iacēre, iacuī, iacitūrum"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="Iascōnium: Jascōnius, a sea beast"/>
+                <ITEXT CH="Iascōnium: Jasconius, a large sea creature; singular masculine accusative from Iascōnius, Iascōniī"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="Iēsūs: Jesus; singular masculine nominative from Iēsūs, Iēsū"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="in: into (with accusative), in (with ablative)"/>
+                <ITEXT CH="in: in, on"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="istās: those; plural feminine accusative from iste, ista, istud"/>
+                <ITEXT CH="istās: those; plural feminine accusative from iste"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="levāvērunt: they raised up; 3rd person plural perfect active from levo, levare, levavi, levatus"/>
+                <ITEXT CH="levāvērunt: they lifted; 3rd person plural perfect from levō, levāre, levāvī, levātum"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="māgnam: large; singular feminine accusative from māgnus, māgna -um, major -or -us, maximus -a -um"/>
+                <ITEXT CH="magnam: big, large, great; singular feminine accusative from magnus, magna, magnum"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="mare: sea; singular neuter nominative from mare, maris"/>
-                <para PARENT="Vocab"/>
-                <ITEXT CH="maris: sea; singular neuter genitive from mare, maris"/>
+                <ITEXT CH="mare: sea; singular neuter ablative or singular neuter nominative from mare, maris"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="missam: Mass; singular feminine accusative from missa, missae"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="natābant: they were swimming; 3rd person plural imperfect active from natō, natāre, natāvī, natātus"/>
+                <ITEXT CH="natābant: they were swimming; 3rd person plural imperfect from natō, natāre, natāvī, natātum"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="nāve: boat; singular feminine ablative from nāvis, nāvis"/>
+                <ITEXT CH="nāve: ship; singular feminine ablative from nāvis, nāvis"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="nāvem: boat; singular feminine accusative from nāvis, nāvis"/>
+                <ITEXT CH="nāvem: ship; singular feminine accusative from nāvis, nāvis"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="nōn: not"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="noster: our; singular masculine nominative from noster, nostra, nostrum"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="ōceanī: ocean; singular masculine genitive from Oceanus, Oceani"/>
+                <ITEXT CH="ōceanī: of the ocean; singular masculine genitive from ōceanus, ōceanī"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="omnium: of all; plural feminine genitive from omnis, omnis, omne"/>
+                <ITEXT CH="omnium: all, every; plural feminine genitive from omnis, omne"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="per: through"/>
+                <ITEXT CH="per: through, during, by means of"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="Petrī: Peter; singular masculine genitive from Petrus, Petrī"/>
+                <ITEXT CH="Petrī: Peter's; singular masculine genitive from Petrus, Petrī"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="potuērunt: they were able; 3rd person plural perfect active from possum, posse, potuī, -"/>
+                <ITEXT CH="potuērunt: they were able; 3rd person plural perfect from possum, posse, potuī"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="prope: near, close"/>
+                <ITEXT CH="prope: near"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="pulsāvērunt: they hit; 3rd person plural perfect active from pulsō, pulsāre, pulsāvī, pulsātus"/>
+                <ITEXT CH="pulsāvērunt: they hit; 3rd person plural perfect from pulsō, pulsāre, pulsāvī, pulsātum"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="quandō: when, because"/>
+                <ITEXT CH="quandō: when"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="quia: because"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="quicquid: whatever"/>
+                <ITEXT CH="quicquid: whatever; singular neuter accusative from quisquis"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="quōdam: certain; ablative from quidam"/>
+                <ITEXT CH="quōdam: a certain one; singular masculine ablative from quīdam"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="sānctī: holy"/>
+                <ITEXT CH="Sānctī: of Saint; singular masculine genitive from sānctus, sānctī"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="sānctus: holy, saint"/>
+                <ITEXT CH="sānctus: saint; singular masculine nominative from sānctus, sānctī"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="sē: himself"/>
+                <ITEXT CH="sē: themselves; plural feminine accusative from sē"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="sed: but"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="sēmitās: footpath; plural feminine accusative from sēmita, sēmitae"/>
+                <ITEXT CH="sēmitās: footpaths; plural feminine accusative from sēmita, sēmitae"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="servōrum: of slaves, of servants; plural masculine genitive from servus, servī"/>
+                <ITEXT CH="servōrum: of the servants; plural masculine genitive from servus, servī"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="sīcut: as, same as, like"/>
+                <ITEXT CH="sīcut: like"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="silentiō: silence; singular neuter ablative from silentium, silentiī"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="sua: her/its; sing. fem. nom. or abl. or neuter nom. or acc. from suus"/>
+                <ITEXT CH="suā: his; singular feminine ablative from suus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="suam: his; singular feminine acc. from suus"/>
+                <ITEXT CH="suam: his; singular feminine accusative from suus"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="sub: below, under"/>
+                <ITEXT CH="sub: under"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="subrīsit: he smiled; 3rd person singular perfect active from subrīdeō, subrīdēre, subrīsī, subrīsus"/>
+                <ITEXT CH="subrīsit: he smiled; 3rd person singular perfect from subrīdeō, subrīdēre, subrīsī, subrīsum"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="super: above, on top of"/>
+                <ITEXT CH="super: above, on"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="terrā: ground (in this case, the seafloor); singular feminine ablative from terra, terrae"/>
+                <ITEXT CH="terrā: ground (seafloor, in this context); singular feminine ablative from terra, terrae"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="timētis: you fear; 2nd person plural present active from timeō, timēre, timuī, -"/>
+                <ITEXT CH="timētis: you fear; 2nd person plural present from timeō, timēre, timuī"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="timuērunt: they feared; 3rd person plural perfect active from timeō, timēre, timuī, -"/>
+                <ITEXT CH="timuērunt: they feared; 3rd person plural perfect from timeō, timēre, timuī"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="timuistis: you feared; 2nd person plural perfect active from timeō, timēre, timuī, -"/>
+                <ITEXT CH="timuistis: you feared; 2nd person plural perfect from timeō, timēre, timuī"/>
                 <para PARENT="Vocab"/>
                 <ITEXT CH="valdē: very"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="vidēre: to see;"/>
+                <ITEXT CH="vidēre: to see; present active infinitive from videō, vidēre, vīdī, vīsum"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="vīdērunt: they saw; 3rd person plural perfect from videō, vidēre, vīdī, vīsus"/>
+                <ITEXT CH="vīdērunt: they saw; 3rd person plural perfect from videō, vidēre, vīdī, vīsum"/>
                 <para PARENT="Vocab"/>
-                <ITEXT CH="voluērunt: they wanted; 3rd person plural perfect active from volō, velle, voluī, -"/>
+                <ITEXT CH="voluērunt: they wanted; 3rd person plural perfect from velle"/>
                 <trail PARENT="Vocab"/>
             </StoryText>
         </PAGEOBJECT>
@@ -33018,7 +33021,7 @@
             <StoryText>
                 <DefaultStyle/>
                 <ITEXT FEATURES="inherit superscript" CH="1"/>
-                <ITEXT FONT="DejaVu Serif Italic" CH="You sang hymns on his (Jasconius's) back and ate the great beast."/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="You sang hymns on his (Jasconius's) back and ate the great monster."/>
                 <ITEXT CH=" For clarity: the "/>
                 <ITEXT FONT="DejaVu Serif Italic" CH="bēluam magnam"/>
                 <ITEXT CH=" Brendan mentions them eating was not Jasconius; it refers to a different sea creature."/>
