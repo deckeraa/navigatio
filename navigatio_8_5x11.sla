@@ -370,14 +370,14 @@
         <PAGE PAGEXPOS="712.0008" PAGEYPOS="108180.4176" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="18" BORDERTOP="36" BORDERBOTTOM="18" NUM="260" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="100.0008" PAGEYPOS="109012.4208" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="18" BORDERTOP="36" BORDERBOTTOM="18" NUM="261" NAM="" MNAM="Latin left" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="712.0008" PAGEYPOS="109012.4208" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="18" BORDERTOP="36" BORDERBOTTOM="18" NUM="262" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
-        <MASTEROBJECT XPOS="118.0008" YPOS="776.0016" OwnPage="2" ItemID="1711225306" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="118.0008" gYpos="1307120709884.92" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="118.0008" YPOS="776.0016" OwnPage="2" ItemID="1711225306" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="118.0008" gYpos="1314407725048.32" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
                 <trail ALIGN="1"/>
             </StoryText>
         </MASTEROBJECT>
-        <MASTEROBJECT XPOS="154.0008" YPOS="776.0016" OwnPage="3" ItemID="1711215834" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="15798113074.0008" gYpos="1307119780540.92" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="154.0008" YPOS="776.0016" OwnPage="3" ItemID="1711215834" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="15879327310.0008" gYpos="1314406795704.32" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
@@ -624,7 +624,7 @@
                 <ITEXT CH="Caput XI"/>
                 <para PARENT="Chapter Heading"/>
                 <para PARENT="Chapter Heading"/>
-                <ITEXT CH="Paradisus Avium"/>
+                <ITEXT CH="Paradīsus Avium"/>
                 <para PARENT="Chapter Heading"/>
                 <para/>
                 <ITEXT CH="[1]     Cum autem nāvigāssent"/>
@@ -923,14 +923,14 @@
         <PAGEOBJECT XPOS="118.0008" YPOS="54136.2096" OwnPage="129" ItemID="1716955146" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" gXpos="118.0008" gYpos="54136.2096" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
-                <ITEXT CH="Caput XI Paradisus Avium (Orīginālis)"/>
+                <ITEXT CH="Caput XI Paradīsus Avium (Orīginālis)"/>
                 <trail ALIGN="1"/>
             </StoryText>
         </PAGEOBJECT>
         <PAGEOBJECT XPOS="118.0008" YPOS="54968.2128" OwnPage="131" ItemID="1720708074" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" gXpos="118.0008" gYpos="54136.2128" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
-                <ITEXT CH="Caput XI Paradisus Avium (Orīginālis)"/>
+                <ITEXT CH="Caput XI Paradīsus Avium (Orīginālis)"/>
                 <trail ALIGN="1"/>
             </StoryText>
         </PAGEOBJECT>
@@ -1225,7 +1225,7 @@
         <PAGEOBJECT XPOS="118.0008" YPOS="55800.216" OwnPage="133" ItemID="1720847162" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" gXpos="118.0008" gYpos="54136.216" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
-                <ITEXT CH="Caput XI Paradisus Avium (Orīginālis)"/>
+                <ITEXT CH="Caput XI Paradīsus Avium (Orīginālis)"/>
                 <trail ALIGN="1"/>
             </StoryText>
         </PAGEOBJECT>
@@ -1511,7 +1511,7 @@
         <PAGEOBJECT XPOS="118.0008" YPOS="56632.2192" OwnPage="135" ItemID="1726322522" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" gXpos="118.0008" gYpos="54136.2192" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
-                <ITEXT CH="Caput XI Paradisus Avium (Orīginālis)"/>
+                <ITEXT CH="Caput XI Paradīsus Avium (Orīginālis)"/>
                 <trail ALIGN="1"/>
             </StoryText>
         </PAGEOBJECT>
@@ -1760,7 +1760,7 @@
         <PAGEOBJECT XPOS="118.0008" YPOS="57464.2224" OwnPage="137" ItemID="1732402314" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" gXpos="118.0008" gYpos="54136.2224" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
-                <ITEXT CH="Caput XI Paradisus Avium (Orīginālis)"/>
+                <ITEXT CH="Caput XI Paradīsus Avium (Orīginālis)"/>
                 <trail ALIGN="1"/>
             </StoryText>
         </PAGEOBJECT>
@@ -2030,7 +2030,7 @@
         <PAGEOBJECT XPOS="118.0008" YPOS="58296.2256" OwnPage="139" ItemID="1736763210" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" gXpos="118.0008" gYpos="54968.2256" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
-                <ITEXT CH="Caput XI Paradisus Avium (Orīginālis)"/>
+                <ITEXT CH="Caput XI Paradīsus Avium (Orīginālis)"/>
                 <trail ALIGN="1"/>
             </StoryText>
         </PAGEOBJECT>
@@ -2329,7 +2329,7 @@
         <PAGEOBJECT XPOS="118.0008" YPOS="59128.2288" OwnPage="141" ItemID="1741322730" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" gXpos="118.0008" gYpos="54968.2288" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
-                <ITEXT CH="Caput XI Paradisus Avium (Orīginālis)"/>
+                <ITEXT CH="Caput XI Paradīsus Avium (Orīginālis)"/>
                 <trail ALIGN="1"/>
             </StoryText>
         </PAGEOBJECT>
@@ -2610,7 +2610,7 @@
         <PAGEOBJECT XPOS="118.0008" YPOS="59960.232" OwnPage="143" ItemID="1746556618" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" gXpos="118.0008" gYpos="54968.232" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
-                <ITEXT CH="Caput XI Paradisus Avium (Orīginālis)"/>
+                <ITEXT CH="Caput XI Paradīsus Avium (Orīginālis)"/>
                 <trail ALIGN="1"/>
             </StoryText>
         </PAGEOBJECT>
@@ -18240,13 +18240,13 @@
                 <ITEXT FEATURES="inherit superscript" CH="3"/>
                 <ITEXT CH=" perterritī."/>
                 <para PARENT="Latin"/>
-                <ITEXT CH="[5]     Manē autem factō, praecepit sacerdōtibus ut singulī"/>
+                <ITEXT CH="[5]     Māne autem factō, praecēpit sacerdōtibus ut singulī"/>
                 <ITEXT FEATURES="inherit superscript" CH="4"/>
                 <ITEXT CH=" missās cantāssent, et ita fēcērunt. [6] Cum sānctus Brendānus et ipse cantāsset in nāvī, coepērunt frātrēs carnēs crūdās portāre forās dē nāvī, ut condīssent"/>
                 <ITEXT FEATURES="inherit superscript" CH="5"/>
-                <ITEXT CH=" sale illās, et etiam piscēs quōs sēcum tulērunt dē aliā īnsulā. [7] Cum haec fēcissent, posuērunt cācabum super ignem. Cum autem ministrābant lignīs ignem et fervere coepisset"/>
+                <ITEXT CH=" sale illās, et etiam piscēs quōs sēcum tulērunt dē aliā īnsulā. [7] Cum haec fēcissent, posuērunt cācabum super īgnem. Cum autem ministrābant lignīs īgnem et fervēre coepisset"/>
                 <ITEXT FEATURES="inherit superscript" CH="6"/>
-                <ITEXT CH=" cacabus, coepit illa īnsula sē movēre sīcut unda."/>
+                <ITEXT CH=" cācabus, coepit illa īnsula sē movēre sīcut unda."/>
                 <para PARENT="Latin"/>
             </StoryText>
             <PageItemAttributes>
@@ -18265,7 +18265,7 @@
                 <ITEXT FEATURES="inherit superscript" CH="3"/>
                 <ITEXT CH=" omnibus quae portābant in illam īnsulam, coepērunt nāvigāre. Porrō illa īnsula ferēbātur in ōceanum; immō"/>
                 <ITEXT FEATURES="inherit superscript" CH="4"/>
-                <ITEXT CH=" poterant vidēre ignem ārdentem super duo mīliāria."/>
+                <ITEXT CH=" poterant vidēre īgnem ārdentem super duo mīliāria."/>
                 <para PARENT="Latin"/>
                 <ITEXT CH="[10]      Sānctus Brendānus nārrāvit frātribus quid hoc esset, dīcēns: “Frātrēs, admīrāminī quod fēcit haec īnsula?” [11] Aiunt: “Admīrāmur valdē, necnōn et ingēns pavor penetrāvit nōs.” [12] Quī dīxit illīs: “Fīliolī, nōlīte expavēscere: Deus enim revēlāvit mihi hāc nocte per vīsiōnem sacrāmentum huius reī. [13] Īnsula nōn est, ubi fuimus, sed piscis, prior"/>
                 <ITEXT FEATURES="inherit superscript" CH="5"/>
@@ -32201,7 +32201,7 @@
                 <tab/>
                 <ITEXT CH="24"/>
                 <para PARENT="TOC"/>
-                <ITEXT CH="Caput XI Paradisus Avium"/>
+                <ITEXT CH="Caput XI Paradīsus Avium"/>
                 <tab/>
                 <ITEXT CH="26"/>
                 <para PARENT="TOC"/>
@@ -32307,7 +32307,7 @@
                 <tab/>
                 <ITEXT CH="126"/>
                 <para PARENT="TOC"/>
-                <ITEXT CH="Caput XI Paradisus Avium"/>
+                <ITEXT CH="Caput XI Paradīsus Avium"/>
                 <tab/>
                 <ITEXT CH="130"/>
                 <para PARENT="TOC"/>
