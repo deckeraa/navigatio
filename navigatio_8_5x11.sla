@@ -370,14 +370,14 @@
         <PAGE PAGEXPOS="712.0008" PAGEYPOS="108180.4176" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="18" BORDERTOP="36" BORDERBOTTOM="18" NUM="260" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="100.0008" PAGEYPOS="109012.4208" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="18" BORDERTOP="36" BORDERBOTTOM="18" NUM="261" NAM="" MNAM="Latin left" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="712.0008" PAGEYPOS="109012.4208" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="54" BORDERRIGHT="18" BORDERTOP="36" BORDERBOTTOM="18" NUM="262" NAM="" MNAM="Vocab right" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
-        <MASTEROBJECT XPOS="118.0008" YPOS="776.0016" OwnPage="2" ItemID="1922368101" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="118.0008" gYpos="1357173080572.94" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="118.0008" YPOS="776.0016" OwnPage="2" ItemID="1922368101" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Latin left" gXpos="118.0008" gYpos="1360913700400.16" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
                 <trail ALIGN="1"/>
             </StoryText>
         </MASTEROBJECT>
-        <MASTEROBJECT XPOS="154.0008" YPOS="776.0016" OwnPage="3" ItemID="1922489685" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="16355949850.0008" gYpos="1357172151228.94" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <MASTEROBJECT XPOS="154.0008" YPOS="776.0016" OwnPage="3" ItemID="1922489685" PTYPE="4" WIDTH="540" HEIGHT="18" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L540 0 L540 18 L0 18 L0 0 Z" copath="M0 0 L540 0 L540 18 L0 18 L0 0 Z" OnMasterPage="Vocab right" gXpos="16397639290.0008" gYpos="1360912771056.16" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <var name="pgno" FONTSIZE="12"/>
@@ -3246,13 +3246,13 @@
                 <ITEXT FEATURES="inherit superscript" CH="4"/>
                 <ITEXT CH=", tenuit manum sānctī patris īdem senex, et ībat cum illō per spatium quasi ūnīus stadiī ad monastērium."/>
                 <para PARENT="Latin"/>
-                <ITEXT CH="[13]     Tunc sānctus Brendānus, cum frātribus suīs, restitit ante portam monastēriī et dīxit senī: [14] “Cuius est istud monastērium? Et quis praeest ibī? Aut unde sunt quī commorantur illīc?” [15] Ita sānctus pater dīversīs sermōnibus"/>
+                <ITEXT CH="[13]     Tunc sānctus Brendānus, cum frātribus suīs, restitit ante portam monastēriī et dīxit senī: [14] “Cuius est istud monastērium? Et quis praeest ibi? Aut unde sunt quī commorantur illīc?” [15] Ita sānctus pater dīversīs sermōnibus"/>
                 <ITEXT FEATURES="inherit superscript" CH="5"/>
                 <ITEXT CH=" senem interrogābat et numquam poterat ab illō ūllum respōnsum accipere, sed tantum, incrēdibilī mānsuētūdine, manū silentium īnsinuābat"/>
                 <ITEXT FEATURES="inherit superscript" CH="6"/>
-                <ITEXT CH=". [16] Statim, ut agnōvit sānctus pater illīus locī dēcrētum"/>
+                <ITEXT CH=". [16] Statim, ut āgnōvit sānctus pater illīus locī dēcrētum"/>
                 <ITEXT FEATURES="inherit superscript" CH="7"/>
-                <ITEXT CH=", frātrēs suōs ammōnēbat, dīcēns: “Cūstōdīte ostia vestra ā locūtiōnibus, nē polluantur istī frātrēs per nostram scurrīlitātem.”"/>
+                <ITEXT CH=", frātrēs suōs ammōnēbat, dīcēns: “Cūstōdīte ōstia vestra ā locūtiōnibus, nē polluantur istī frātrēs per nostram scurrīlitātem.”"/>
                 <trail PARENT="Latin"/>
             </StoryText>
         </PAGEOBJECT>
@@ -3548,7 +3548,7 @@
             <StoryText>
                 <DefaultStyle/>
                 <para/>
-                <ITEXT CH="[17]     Hīs interdictīs verbīs, ecce ūndecim frātrēs occurrērunt obviam cum capsīs et crucibus et hymnīs, dīcentēs istud capitulum: [18] “Surgite, sānctī Deī, dē mānsiōnibus vestrīs et proficīsciminī obviam vēritātī. Locum sānctificāte, plēbem benedīcite, et nōs famulōs vestrōs in pāce cūstōdīre dignēminī"/>
+                <ITEXT CH="[17]     Hīs interdictīs verbīs, ecce ūndecim frātrēs occurrērunt obviam cum capsīs et crucibus et hymnīs, dīcentēs istud capitulum: [18] “Surgite, sānctī Deī, dē mānsiōnibus vestrīs et proficīsciminī obviam vēritātī. Locum sānctificāte, plēbem benedīcite, et nōs famulōs vestrōs in pāce cūstōdīre dīgnēminī"/>
                 <ITEXT FEATURES="inherit superscript" CH="1"/>
                 <ITEXT CH=".” [19] Fīnītō iam versiculō praedictō, pater monastēriī ōsculātus est"/>
                 <ITEXT FEATURES="inherit superscript" CH="2"/>
@@ -3558,7 +3558,7 @@
                 <ITEXT FEATURES="inherit superscript" CH="3"/>
                 <ITEXT CH=", dūxērunt illōs in monastērium, sīcut mōs est in occidentālibus partibus dūcere frātrēs, per ōrātiōnēs. [21] Post haec, abbās monastēriī cum monachīs coepērunt lavāre pedēs hospitum et cantāre: “Mandātum novum"/>
                 <ITEXT FEATURES="inherit superscript" CH="4"/>
-                <ITEXT CH=".” [22] Hīs fīnītīs, cum magnō silentiō excēpit illōs ad refectōrium. Pulsātō signō, lavātisque manibus, fēcit omnēs residēre"/>
+                <ITEXT CH=".” [22] Hīs fīnītīs, cum magnō silentiō excēpit illōs ad refectōrium. Pulsātō signō, lavātīsque manibus, fēcit omnēs residēre"/>
                 <ITEXT FEATURES="inherit superscript" CH="5"/>
                 <ITEXT CH=". [23] Iterum pulsātō secundō signō, surrēxit ūnus ex frātribus patris monastēriī, et coepit ministrāre mēnsam pānibus mīrī candōris et quibusdam rādīcibus incrēdibilis sapōris. [24] Sedēbant autem mixtim frātrēs cum hospitibus in ōrdine; inter duōs frātrēs semper pānis integer pōnēbātur. Īdem minister, pulsātō signō, ministrābat pōtum frātribus."/>
                 <para PARENT="Latin"/>
@@ -3571,7 +3571,13 @@
                 <DefaultStyle/>
                 <ITEXT FEATURES="inherit superscript" CH="1"/>
                 <ITEXT FONT="DejaVu Serif Italic" CH="Having prohibited words to these, behold, eleven brothers ran in the path with book-containers and crosses and hymnals, saying this verse: &quot;Rise up, holy ones of God, from your rooms and set out in the path of truth. Sanctify the place, bless the common men, and deign to guard your companions in peace."/>
-                <ITEXT CH="&quot; This is probably a quotation from a liturgical text; it is not found in the Bible. dignēminī is subjunctive because it is iussive i.e. it is encouraging or commanding someone to do something. Also note that hīs in the beginning of the sentence could be ablative and match verbīs, or it could be dative and be referring to Brendan's monks."/>
+                <ITEXT CH="&quot; This is probably a quotation from a liturgical text; it is not found in the Bible. "/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="dīgnēminī"/>
+                <ITEXT CH=" is subjunctive because it is iussive i.e. it is encouraging or commanding someone to do something. Also note that "/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="hīs"/>
+                <ITEXT CH=" in the beginning of the sentence could be ablative and match "/>
+                <ITEXT FONT="DejaVu Serif Italic" CH="verbīs"/>
+                <ITEXT CH=", or it could be dative and be referring to Brendan's monks."/>
                 <para PARENT="footnotes"/>
                 <ITEXT FEATURES="inherit superscript" CH="2"/>
                 <ITEXT FONT="DejaVu Serif Italic" CH="Having finished the aforesaid verse, the father of the monastery kissed Brendan and his companions in order; and similarly his monks kissed the family of the holy man"/>
